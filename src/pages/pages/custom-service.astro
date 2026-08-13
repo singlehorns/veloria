@@ -1,0 +1,532 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const pageTitle = '尊榮訂製';
+const pageDescription = 'Veloria 提供專屬珠寶與鑽戒訂製體驗，從選石、比例到日常配戴習慣，陪伴每一件作品成形。';
+const banners = [
+  {
+    src: '/assets/custom-service/custom-service-01.jpeg',
+    alt: '尊榮訂製珠寶設計情境'
+  },
+  {
+    src: '/assets/custom-service/custom-service-02.jpeg',
+    alt: '客製鑽戒設計流程'
+  },
+  {
+    src: '/assets/custom-service/custom-service-03.jpeg',
+    alt: '珠寶工藝細節'
+  }
+];
+
+const processSlides = [
+  {
+    ...banners[0],
+    eyebrow: 'PRIVATE CONSULTATION',
+    title: '讓想法成為可以配戴的光',
+    description: '以面對面的溝通整理預算、主鑽等級、戒台線條與材質細節，將抽象靈感逐步轉化為清楚的設計方向。'
+  },
+  {
+    ...banners[1],
+    eyebrow: 'DESIGN BLUEPRINT',
+    title: '將靈感整理成清楚藍圖',
+    description: '依照討論內容建立專屬設計提案，確認尺寸、線條、鑽石配置與配戴比例，讓每一個細節都有依據。'
+  },
+  {
+    ...banners[2],
+    eyebrow: 'FINAL CRAFT',
+    title: '預覽確認後進入製作交付',
+    description: '製作前提供視覺預覽與重點細節確認，待外觀、比例與工藝方向都確認後，再安排後續製作與交付。'
+  }
+];
+
+const serviceIndex = [
+  { href: '#consultation', number: '01', title: '專屬諮詢', label: 'CONSULT' },
+  { href: '#process', number: '02', title: '訂製流程', label: 'PROCESS' },
+  { href: '#film', number: '03', title: '過程影片', label: 'FILM' }
+];
+---
+
+<BaseLayout title={pageTitle} description={pageDescription} canonical="/pages/custom-service/" image={banners[0].src}>
+  <main class="custom-service-page">
+    <div class="custom-shell">
+      <nav class="custom-breadcrumb" aria-label="Breadcrumb">
+        <a href="/">首頁</a>
+        <span aria-hidden="true">/</span>
+        <span>{pageTitle}</span>
+      </nav>
+
+      <section class="custom-index" aria-label="尊榮訂製導覽">
+        {serviceIndex.map((item) => (
+          <a href={item.href} class="custom-index__item">
+            <span>{item.number}</span>
+            <strong>{item.title}</strong>
+            <small>{item.label}</small>
+          </a>
+        ))}
+      </section>
+
+      <div class="custom-categories">
+        <section class="custom-category" id="consultation">
+          <header class="custom-category__heading">
+            <span>01</span>
+            <small>BESPOKE</small>
+            <h1>{pageTitle}</h1>
+            <p>
+              從鑽石選擇、戒台比例到配戴情境，讓每一次訂製都回到佩戴者本身。
+            </p>
+          </header>
+          <div class="custom-intro-panel">
+            <figure>
+              <img src="/assets/custom-service/veloria-hand-ring-mask.jpg" alt="手部配戴鑽戒的尊榮訂製情境" loading="eager" />
+            </figure>
+            <div class="custom-intro-copy">
+              <p class="custom-eyebrow">PRIVATE CONSULTATION</p>
+              <h2>把靈感整理成能長久配戴的作品</h2>
+              <p>
+                我們以面對面的方式整理預算、主鑽條件、戒台線條與材質細節，保留足夠討論時間，讓作品自然貼近日常。
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <section class="custom-category" id="process">
+          <header class="custom-category__heading">
+            <span>02</span>
+            <small>PROCESS</small>
+            <h2>訂製流程</h2>
+            <p>以一張圖片搭配一段說明呈現，每一步都可透過箭頭切換查看。</p>
+          </header>
+          <div class="custom-service-carousel" data-custom-carousel>
+            <button class="carousel-arrow carousel-arrow--prev" type="button" aria-label="上一張" data-carousel-prev>
+              &lt;
+            </button>
+            <div class="custom-service-stack" data-carousel-track>
+              {processSlides.map((slide) => (
+                <article class="custom-process-slide">
+                  <figure class="custom-feature-image">
+                    <img src={slide.src} alt={slide.alt} loading="lazy" />
+                  </figure>
+                  <div class="custom-gallery-copy">
+                    <p class="custom-eyebrow">{slide.eyebrow}</p>
+                    <h3>{slide.title}</h3>
+                    <p>{slide.description}</p>
+                  </div>
+                </article>
+              ))}
+            </div>
+            <button class="carousel-arrow carousel-arrow--next" type="button" aria-label="下一張" data-carousel-next>
+              &gt;
+            </button>
+          </div>
+        </section>
+
+        <section class="custom-category" id="film">
+          <header class="custom-category__heading">
+            <span>03</span>
+            <small>FILM</small>
+            <h2>訂製過程</h2>
+            <p>透過影片快速了解訂製服務的節奏與細節確認方式。</p>
+          </header>
+          <div class="video-section" aria-label="尊榮訂製影片">
+            <iframe
+              src="https://www.youtube.com/embed/JUoqg2UE3Sw"
+              title="尊榮訂製 YouTube Shorts"
+              loading="lazy"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
+        </section>
+      </div>
+    </div>
+  </main>
+</BaseLayout>
+
+<script>
+  document.querySelectorAll('[data-custom-carousel]').forEach((carousel) => {
+    const track = carousel.querySelector<HTMLElement>('[data-carousel-track]');
+    const previous = carousel.querySelector<HTMLButtonElement>('[data-carousel-prev]');
+    const next = carousel.querySelector<HTMLButtonElement>('[data-carousel-next]');
+
+    if (!track || !previous || !next) return;
+
+    const scrollBySlide = (direction: number) => {
+      track.scrollBy({
+        left: direction * track.clientWidth,
+        behavior: 'smooth'
+      });
+    };
+
+    previous.addEventListener('click', () => scrollBySlide(-1));
+    next.addEventListener('click', () => scrollBySlide(1));
+  });
+</script>
+
+<style>
+  .custom-service-page {
+    --custom-blue: #073763;
+    --custom-ink: #2e2b28;
+    --custom-muted: #74706c;
+    --custom-soft: #f7f7f5;
+    --custom-line: rgba(7, 55, 99, 0.14);
+    --custom-gold: #9c7a53;
+    --custom-shell: min(100% - clamp(48px, 12vw, 180px), 1180px);
+    --custom-reader: 900px;
+    background: #ffffff;
+    color: var(--custom-ink);
+    padding: 0 0 96px;
+    font-family: var(--font-body);
+  }
+
+  .custom-shell {
+    width: var(--custom-shell);
+    margin: 0 auto;
+  }
+
+  .custom-breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    width: min(100%, 1120px);
+    margin: clamp(10px, 1.5vw, 18px) auto clamp(6px, 1.4vw, 18px);
+    color: rgba(21, 18, 15, 0.34);
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 0.04em;
+  }
+
+  .custom-breadcrumb a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .custom-index {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    max-width: var(--custom-reader);
+    margin: 0 auto;
+    border: 1px solid var(--custom-line);
+    border-left: 0;
+    border-right: 0;
+  }
+
+  .custom-index__item {
+    display: grid;
+    align-content: center;
+    min-height: 80px;
+    padding: 18px 20px;
+    color: inherit;
+    text-decoration: none;
+    border-left: 1px solid var(--custom-line);
+    transition:
+      color 0.35s ease,
+      background-color 0.35s ease;
+  }
+
+  .custom-index__item:first-child {
+    border-left: 0;
+  }
+
+  .custom-index__item:hover {
+    background: var(--custom-soft);
+    color: var(--custom-blue);
+  }
+
+  .custom-index__item span {
+    color: var(--custom-gold);
+    font-family: 'GFS Didot', 'Times New Roman', serif;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+  }
+
+  .custom-index__item strong {
+    margin-top: 8px;
+    font-family: var(--font-heading);
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.08em;
+  }
+
+  .custom-index__item small,
+  .custom-category__heading small {
+    margin-top: 6px;
+    color: #9b9691;
+    font-family: 'GFS Didot', 'Times New Roman', serif;
+    font-size: 9.5px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+  }
+
+  .custom-categories {
+    display: grid;
+    gap: 64px;
+    max-width: var(--custom-reader);
+    margin: 72px auto 0;
+  }
+
+  .custom-category {
+    display: grid;
+    grid-template-columns: 132px minmax(0, 1fr);
+    gap: 34px;
+    align-items: start;
+  }
+
+  .custom-category__heading {
+    position: sticky;
+    top: 112px;
+  }
+
+  .custom-category__heading span {
+    display: block;
+    color: var(--custom-gold);
+    font-family: 'GFS Didot', 'Times New Roman', serif;
+    font-size: 13px;
+    letter-spacing: 0.06em;
+  }
+
+  .custom-category__heading small {
+    display: block;
+    margin-top: 28px;
+    color: var(--custom-gold);
+  }
+
+  .custom-category__heading h1,
+  .custom-category__heading h2 {
+    margin: 10px 0 0;
+    color: var(--custom-ink);
+    font-family: var(--font-heading);
+    font-size: clamp(19px, 1.7vw, 24px);
+    font-weight: 400;
+    line-height: 1.55;
+    letter-spacing: 0.08em;
+  }
+
+  .custom-category__heading p {
+    margin: 14px 0 0;
+    color: var(--custom-muted);
+    font-size: 12px;
+    line-height: 1.9;
+    letter-spacing: 0.04em;
+  }
+
+  .custom-intro-panel {
+    display: grid;
+    grid-template-columns: minmax(0, 0.9fr) minmax(0, 1fr);
+    border-top: 1px solid var(--custom-line);
+    border-bottom: 1px solid var(--custom-line);
+    background: var(--custom-soft);
+  }
+
+  .custom-intro-panel figure {
+    margin: 0;
+    background: #fff;
+  }
+
+  .custom-intro-panel img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    min-height: 280px;
+    object-fit: cover;
+  }
+
+  .custom-intro-copy {
+    display: grid;
+    align-content: center;
+    gap: 1rem;
+    padding: clamp(24px, 4vw, 42px);
+  }
+
+  .custom-eyebrow {
+    margin: 0;
+    color: var(--custom-gold);
+    font-family: var(--font-sans);
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    line-height: 1.4;
+    text-transform: uppercase;
+  }
+
+  .custom-intro-copy h2,
+  .custom-gallery-copy h3 {
+    margin: 0;
+    color: var(--custom-ink);
+    font-family: var(--font-heading);
+    font-size: clamp(18px, 1.5vw, 22px);
+    font-weight: 400;
+    line-height: 1.55;
+    letter-spacing: 0.06em;
+  }
+
+  .custom-intro-copy p,
+  .custom-gallery-copy p {
+    margin: 0;
+    color: var(--custom-muted);
+    font-size: 12.5px;
+    line-height: 1.95;
+    letter-spacing: 0.04em;
+  }
+
+  .custom-service-carousel {
+    position: relative;
+    border-top: 1px solid var(--custom-line);
+    border-bottom: 1px solid var(--custom-line);
+    background-image: linear-gradient(to bottom, rgba(7, 55, 99, 0.035) 1px, transparent 1px);
+    background-size: 100% 52px;
+  }
+
+  .custom-feature-image {
+    display: grid;
+    place-items: center;
+    aspect-ratio: 4 / 3;
+    margin: 0;
+    overflow: hidden;
+    background: #fff;
+  }
+
+  .custom-feature-image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .custom-gallery-copy {
+    display: grid;
+    align-content: center;
+    gap: 1rem;
+    padding: clamp(22px, 3vw, 34px);
+  }
+
+  .custom-service-stack {
+    display: grid;
+    grid-auto-columns: 100%;
+    grid-auto-flow: column;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+  }
+
+  .custom-service-stack::-webkit-scrollbar {
+    display: none;
+  }
+
+  .custom-process-slide {
+    display: grid;
+    grid-template-columns: minmax(0, 0.95fr) minmax(0, 1fr);
+    gap: 0;
+    align-items: center;
+    scroll-snap-align: start;
+  }
+
+  .carousel-arrow {
+    position: absolute;
+    top: 50%;
+    z-index: 2;
+    display: grid;
+    place-items: center;
+    width: 34px;
+    height: 34px;
+    border: 1px solid var(--custom-line);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.9);
+    color: var(--custom-blue);
+    cursor: pointer;
+    font-family: var(--font-sans);
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1;
+    transform: translateY(-50%);
+    transition:
+      background-color 160ms ease,
+      border-color 160ms ease,
+      color 160ms ease;
+  }
+
+  .carousel-arrow:hover {
+    border-color: rgba(7, 55, 99, 0.34);
+    background: #ffffff;
+  }
+
+  .carousel-arrow--prev {
+    left: -17px;
+  }
+
+  .carousel-arrow--next {
+    right: -17px;
+  }
+
+  .video-section {
+    border-top: 1px solid var(--custom-line);
+    background: var(--custom-soft);
+  }
+
+  .video-section iframe {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border: 0;
+    background: #000000;
+  }
+
+  @media (max-width: 760px) {
+    .custom-service-page {
+      --custom-shell: min(100% - 32px, 100%);
+      padding-bottom: 68px;
+    }
+
+    .custom-category,
+    .custom-intro-panel,
+    .custom-process-slide {
+      grid-template-columns: 1fr;
+    }
+
+    .custom-index {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .custom-index__item {
+      min-height: 68px;
+      padding: 14px 10px;
+      border-left: 1px solid var(--custom-line);
+      border-top: 0;
+    }
+
+    .custom-index__item:first-child {
+      border-left: 0;
+    }
+
+    .custom-index__item strong {
+      font-size: 13px;
+      letter-spacing: 0.05em;
+    }
+
+    .custom-index__item small {
+      font-size: 8.5px;
+      letter-spacing: 0.12em;
+    }
+
+    .custom-categories {
+      gap: 52px;
+      margin-top: 56px;
+    }
+
+    .custom-category__heading {
+      position: static;
+    }
+
+    .carousel-arrow--prev {
+      left: 8px;
+    }
+
+    .carousel-arrow--next {
+      right: 8px;
+    }
+
+    .custom-feature-image {
+      grid-row: auto;
+    }
+  }
+</style>

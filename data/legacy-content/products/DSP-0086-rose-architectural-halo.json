@@ -1,0 +1,71 @@
+{
+  "legacyProductId": "DSP-0086",
+  "legacyCyberbizId": "67111534",
+  "name": "緋曜格序",
+  "englishName": "Rosé Architectural Halo",
+  "originalDisplayName": "緋曜格序｜Rosé Architectural Halo",
+  "slug": "rose-architectural-halo",
+  "legacyUrls": [],
+  "category": "粉鑽 | 女士鑽戒, 求婚戒指, 經典女戒, 粉鑽",
+  "collection": "粉鑽",
+  "collections": [
+    "粉鑽"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "緋曜格序｜Rosé Architectural Halo 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "緋曜格序｜Rosé Architectural Halo",
+  "seoDescription": "緋曜格序｜Rosé Architectural Halo，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 緋曜格序｜Rosé Architectural Halo",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0221",
+    "SRC-0231",
+    "SRC-0381",
+    "SRC-0391"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0221",
+      "text": "緋曜格序｜Rosé Architectural Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0231",
+      "text": "緋曜格序｜Rosé Architectural Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0381",
+      "text": "緋曜格序｜Rosé Architectural Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0391",
+      "text": "緋曜格序｜Rosé Architectural Halo"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

@@ -1,0 +1,183 @@
+{
+  "legacyProductId": "DSP-0060",
+  "legacyCyberbizId": "57339030",
+  "name": "海霧之願",
+  "englishName": "Azuré Wish",
+  "originalDisplayName": "海霧之願｜Azuré Wish",
+  "slug": "azure-wish",
+  "legacyUrls": [],
+  "category": "項鍊 | 藍鑽",
+  "collection": "necklace | 彩色鑽石專區 | 藍鑽",
+  "collections": [
+    "necklace",
+    "彩色鑽石專區",
+    "藍鑽"
+  ],
+  "productType": "necklace",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "六爪鑲嵌天藍色主石，宛如晨曦海面閃耀的光點。清澈溫柔的色調，為穿搭增添一抹沁涼純粹的氣息。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）材質的設計。\n\n 🔹 天然鑽款 ：因彩鑽等級、顏色稀有度與價格差異極大，若有天然彩鑽需求，歡迎洽詢專人，我們將為您提供合適建議與報價。\n\n 🔹 培育鑽款 ：1 克拉 Fancy Vivid Blue 等級\n\n 若需升級等級、變更材質或其他客製需求，歡迎洽詢專人服務。",
+  "description": "六爪鑲嵌天藍色主石，宛如晨曦海面閃耀的光點。清澈溫柔的色調，為穿搭增添一抹沁涼純粹的氣息。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）材質的設計。\n\n 🔹 天然鑽款 ：因彩鑽等級、顏色稀有度與價格差異極大，若有天然彩鑽需求，歡迎洽詢專人，我們將為您提供合適建議與報價。\n\n 🔹 培育鑽款 ：1 克拉 Fancy Vivid Blue 等級\n\n 若需升級等級、變更材質或其他客製需求，歡迎洽詢專人服務。",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0060-azure-wish/localized/DSP-0060-main-01.png",
+      "alt": "海霧之願 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0060-azure-wish/localized/DSP-0060-gallery-02.png",
+      "alt": "海霧之願 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0060-azure-wish/localized/DSP-0060-gallery-03.png",
+      "alt": "海霧之願 3",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "海霧之願｜Azuré Wish",
+  "seoDescription": "六爪鑲嵌天藍色主石，宛如晨曦海面閃耀的光點。清澈溫柔的色調，為穿搭增添一抹沁涼純粹的氣息。          ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。          📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：                                                        💬 客服中心                   💎 訂價基準           此款價格基於鉑金（PT950）材質的設計。              🔹 天然鑽款：因彩鑽等級、顏色稀有度與價格差異極大，若有天然彩鑽需求，歡迎洽詢專人，我們將為您提供合適建議與報價。      🔹 培育鑽款：1 克拉 Fancy Vivid Blue 等級              若需升級等級、變更材質或其他客製需求，歡迎洽詢專人服務。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%A0%85%E9%8D%8A07",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%A0%85%E9%8D%8A07",
+  "inquiryText": "我想諮詢 海霧之願｜Azuré Wish",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery",
+  "mediaStatus": "localized-api-gallery",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0046",
+    "SRC-0056",
+    "SRC-0165",
+    "SRC-0302",
+    "SRC-0307",
+    "SRC-0488",
+    "SRC-0498"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0046",
+      "text": "海霧之願｜Azuré Wish"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0056",
+      "text": "海霧之願｜Azuré Wish"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0165",
+      "text": "海霧之願｜Azuré Wish"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0302",
+      "text": "海霧之願｜Azuré Wish"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0307",
+      "text": "海霧之願｜Azuré Wish"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0488",
+      "text": "海霧之願｜Azuré Wish"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0498",
+      "text": "海霧之願｜Azuré Wish"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "57339030",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%A0%85%E9%8D%8A07",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "57339030",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%A0%85%E9%8D%8A07",
+      "text": "六爪鑲嵌天藍色主石，宛如晨曦海面閃耀的光點。清澈溫柔的色調，為穿搭增添一抹沁涼純粹的氣息。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）材質的設計。\n\n 🔹 天然鑽款 ：因彩鑽等級、顏色稀有度與價格差異極大，若有天然彩鑽需求，歡迎洽詢專人，我們將為您提供合適建議與報價。\n\n 🔹 培育鑽款 ：1 克拉 Fancy Vivid Blue 等級\n\n 若需升級等級、變更材質或其他客製需求，歡迎洽詢專人服務。"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "colored-diamonds",
+  "subcategories": [
+    "necklaces",
+    "blue-diamonds",
+    "other-color-diamonds"
+  ],
+  "audience": "unisex",
+  "diamondType": "colored-diamond",
+  "tags": [
+    "colored-diamonds",
+    "necklaces",
+    "blue-diamonds",
+    "other-color-diamonds",
+    "necklace",
+    "unisex",
+    "colored-diamond"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "necklaces",
+    "colored-diamonds",
+    "blue-diamonds"
+  ],
+  "displayPrice": "NT$38,900",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "70037342",
+      "sku": "DSN0003",
+      "name": "海霧之願｜Azuré Wish",
+      "price": 38900,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 38900,
+  "priceMax": 38900,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "57339030",
+  "pricingStandards": {
+    "source": "description",
+    "materialStatement": "此款價格基於鉑金（PT950）材質的設計。",
+    "naturalDiamond": "天然鑽款：因彩鑽等級、顏色稀有度與價格差異極大，若有天然彩鑽需求，歡迎洽詢專人，我們將為您提供合適建議與報價。",
+    "labDiamond": "培育鑽款：1 克拉 Fancy Vivid Blue 等級",
+    "notes": [
+      "若需升級等級、變更材質或其他客製需求，歡迎洽詢專人服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "<p><strong>材質選定：</strong></p>\n\n<ul>\n\t<li>提供鉑金（PT950）、18K金（白K、黃K、玫瑰金）等材質選擇。</li>\n\t<li>可搭配天然鑽石或實驗室培育鑽石，皆附國際認證證書。</li>\n\t<li>材質經專業檢驗，適合長期配戴與紀念。</li>\n</ul>\n \n\n<p><strong>鍊長調整：</strong></p>\n\n<ul>\n\t<li>項鍊預設鍊長為標準尺寸，亦可依需求調整長度。</li>\n\t<li>部分款式提供延長鍊或客製鍊長服務，詳情請洽客服。</li>\n</ul>"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "<p>為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：</p>\n\n<ul>\n\t<li>\n<strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。</li>\n\t<li>\n<strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。</li>\n</ul>"
+    }
+  ]
+}

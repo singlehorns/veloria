@@ -1,0 +1,168 @@
+{
+  "legacyProductId": "DSF0043",
+  "legacyCyberbizId": "58448190",
+  "name": "金蔓星映",
+  "englishName": "Goldén Vine Radiance",
+  "originalDisplayName": "金蔓星映｜Goldén Vine Radiance",
+  "slug": "golden-vine-radiance",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/zh-TW/products/golden-vine-radiance-designer-diamond-ring"
+  ],
+  "category": "求婚戒指",
+  "collection": "求婚戒指 | 女士鑽戒 | 彩色鑽石專區",
+  "collections": [
+    "求婚戒指",
+    "女士鑽戒",
+    "彩色鑽石專區"
+  ],
+  "productType": "ring",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "主鑽以高挺鑲爪穩固托起，展現清晰而立體的光學結構，戒臂採鏤空交錯設計，如金色藤蔓纏繞延伸，細鑲藍鑽點亮節點，形成層次分明的視覺節奏。金屬曲線與寶石排列相互呼應，在細節中展現精緻工藝，象徵理性與情感交織的穩定承諾。\n\n 此作品由VELORIA 專屬訂製 。\n\n 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。\n\n 為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 此款價格基於 18K黃K金材質 的設計。\n\n 天然鑽款 ：1 克拉 D 色 Si1 等級\n\n 培育鑽款 ：1 克拉 D 色 VVS2 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。\n\n Request an Appointment\n\n LINE 諮詢\n\n 客服中心",
+  "description": "主鑽以高挺鑲爪穩固托起，展現清晰而立體的光學結構，戒臂採鏤空交錯設計，如金色藤蔓纏繞延伸，細鑲藍鑽點亮節點，形成層次分明的視覺節奏。金屬曲線與寶石排列相互呼應，在細節中展現精緻工藝，象徵理性與情感交織的穩定承諾。\n\n 此作品由VELORIA 專屬訂製 。\n\n 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。\n\n 為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 此款價格基於 18K黃K金材質 的設計。\n\n 天然鑽款 ：1 克拉 D 色 Si1 等級\n\n 培育鑽款 ：1 克拉 D 色 VVS2 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。\n\n Request an Appointment\n\n LINE 諮詢\n\n 客服中心",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSF0043-golden-vine-radiance/localized/DSF0043-main-01.png",
+      "alt": "金蔓星映 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSF0043-golden-vine-radiance/localized/DSF0043-gallery-02.png",
+      "alt": "金蔓星映 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSF0043-golden-vine-radiance/localized/DSF0043-gallery-03.png",
+      "alt": "金蔓星映 3",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSF0043-golden-vine-radiance/localized/DSF0043-gallery-04.png",
+      "alt": "金蔓星映 4",
+      "role": "gallery"
+    }
+  ],
+  "displayPrice": "NT$60,000 - NT$185,000",
+  "video": "",
+  "seoTitle": "金蔓星映 Goldén Vine Radiance｜設計款鑽石戒指｜VELORIA DIAMOND SYMPHONY",
+  "seoDescription": "主鑽以高挺鑲爪穩固托起，展現清晰而立體的光學結構，戒臂採鏤空交錯設計，如金色藤蔓纏繞延伸，細鑲藍鑽點亮節點，形成層次分明的視覺節奏。金屬曲線與寶石排列相互呼應，在細節中展現精緻工藝，象徵理性與情感交織的穩定承諾。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/golden-vine-radiance-designer-diamond-ring",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/golden-vine-radiance-designer-diamond-ring",
+  "inquiryText": "我想諮詢 金蔓星映｜Goldén Vine Radiance",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery",
+  "mediaStatus": "localized-api-gallery",
+  "routeStatus": "api-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "cyberbiz-search-products-api",
+      "sourceId": "58448190",
+      "text": "金蔓星映｜Goldén Vine Radiance"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "58448190",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/golden-vine-radiance-designer-diamond-ring",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "58448190",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/golden-vine-radiance-designer-diamond-ring",
+      "text": "主鑽以高挺鑲爪穩固托起，展現清晰而立體的光學結構，戒臂採鏤空交錯設計，如金色藤蔓纏繞延伸，細鑲藍鑽點亮節點，形成層次分明的視覺節奏。金屬曲線與寶石排列相互呼應，在細節中展現精緻工藝，象徵理性與情感交織的穩定承諾。\n\n 此作品由VELORIA 專屬訂製 。\n\n 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。\n\n 為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 此款價格基於 18K黃K金材質 的設計。\n\n 天然鑽款 ：1 克拉 D 色 Si1 等級\n\n 培育鑽款 ：1 克拉 D 色 VVS2 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。\n\n Request an Appointment\n\n LINE 諮詢\n\n 客服中心"
+    }
+  ],
+  "migrationNotes": "Added from current CYBERBIZ search_products.json for 求婚戒指 total_count 29.",
+  "primaryCategory": "womens-diamond-rings",
+  "subcategories": [
+    "engagement-rings",
+    "yellow-diamonds",
+    "other-color-diamonds",
+    "classic-womens-rings"
+  ],
+  "audience": "women",
+  "diamondType": "colored-diamond",
+  "tags": [
+    "colored-diamonds",
+    "engagement-rings",
+    "yellow-diamonds",
+    "other-color-diamonds",
+    "ring",
+    "women",
+    "colored-diamond",
+    "womens-diamond-rings",
+    "classic-womens-rings"
+  ],
+  "legacyCategoryUrls": [
+    "https://www.dsdiamond.com.tw/zh-TW/collections/%E6%B1%82%E5%A9%9A"
+  ],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Confirmed by CYBERBIZ 求婚戒指 search_products.json.",
+  "collectionSlugs": [
+    "engagement-rings",
+    "womens-diamond-rings",
+    "classic-womens-rings"
+  ],
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "70877808",
+      "sku": "DSF0043",
+      "name": "金蔓星映｜Goldén Vine Radiance",
+      "price": 185000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    },
+    {
+      "variantId": "70877809",
+      "sku": "DSF0043",
+      "name": "金蔓星映｜Goldén Vine Radiance",
+      "price": 60000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 60000,
+  "priceMax": 185000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "58448190",
+  "pricingStandards": {
+    "source": "description",
+    "materialStatement": "此款價格基於 18K黃K金材質 的設計。",
+    "naturalDiamond": "天然鑽款：1 克拉 D 色 Si1 等級",
+    "labDiamond": "培育鑽款：1 克拉 D 色 VVS2 等級",
+    "notes": [
+      "配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。",
+      "如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "Materials \n材質選定\n\n<ul>\n\t<li>\n✦  提供 <strong>鉑金（PT950）</strong>、<strong>18K金</strong>（白K、黃K、玫瑰金）等材質選擇。 \n</li>\n\t<li>\n✦  可搭配 <strong>天然鑽石</strong> 或 <strong>實驗室培育鑽石</strong>，皆附國際認證證書。 \n</li>\n\t<li>\n✦  材質經專業檢驗，適合長期配戴與紀念。 \n</li>\n</ul>\n\nMeasurement \n\n戒圍量測\n\n<ul>\n\t<li>\n✦  可至門市協助量測，或提供既有戒指對照參考。 \n</li>\n\t<li>\n✦  下單後將 <strong>免費寄送專業戒圍量測器</strong> 至您指定地址。 \n</li>\n</ul>\n\nPersonalization \n\n刻字服務\n\n<ul>\n\t<li>\n✦  提供 <strong>免費內圈刻字服務</strong>，可刻英文、數字與常見符號（如 ∞、♥）。 \n</li>\n\t<li>\n✦  建議字數不超過 <strong>12 字元</strong>，實際長度視戒指寬度而定。 \n</li>\n\t<li>\n✦  若有特殊刻字需求，請於下單時備註或聯絡客服確認。 \n</li>\n</ul>\n\nCraftsmanship & Service Excellence"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "Delivery\n運送方式\n\n為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：\n\n<ul>\n\n\t<li>\n✦ <strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。\n</li>\n\t\n\t<li>\n✦ <strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。\n</li>\n</ul>\n\nCraftsmanship & Service Excellence"
+    }
+  ]
+}

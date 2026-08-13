@@ -1,0 +1,145 @@
+{
+  "legacyProductId": "DSP-0064",
+  "legacyCyberbizId": "57338474",
+  "name": "御璽之環",
+  "englishName": "Regal Seal",
+  "originalDisplayName": "御璽之環｜Regal Seal",
+  "slug": "regal-seal",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/男戒06"
+  ],
+  "category": "男士鑽戒 | 經典男戒",
+  "collection": "ring-man | 經典男戒",
+  "collections": [
+    "ring-man",
+    "經典男戒"
+  ],
+  "productType": "男戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "御璽之環｜Regal Seal 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0064-regal-seal/source/DSP-0064-main-01.png",
+      "alt": "御璽之環｜Regal Seal 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDc0LzE3NTIwNDIxMzNfNjQ0NTQzNWYxMWI4ZWE0Y2JhZjYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=9018abdb87cf0b27",
+      "sourcePath": "",
+      "sha256": "ed4d9198aef21a3d8b379dbbb169b8a0f395b5c4f62205dfd21088bc9655a57b"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0064-regal-seal/source/DSP-0064-gallery-02.png",
+      "alt": "御璽之環｜Regal Seal 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDc0LzE3NTIwNDIxMzNfOTMyZWU0OGU1ZWE0OTg5ZDg5MzcucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=d606dceeb67ed9a9",
+      "sourcePath": "",
+      "sha256": "5d5f23c5b6927c7d4fd55a8c26118197cf7a296350c8174e5b59b0418db41a3d"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0064-regal-seal/source/DSP-0064-gallery-03.png",
+      "alt": "御璽之環｜Regal Seal 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDc0LzE3NTIwNDIxMzNfMTYxNzQyMDk3ZDE0YWM3NDI0YTkucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=18bb6d00b26a1eee",
+      "sourcePath": "",
+      "sha256": "22b3208902e5be24df56383506795a98f21a2c2432e16cd7f5468e470114ec8f"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0064-regal-seal/source/DSP-0064-gallery-04.png",
+      "alt": "御璽之環｜Regal Seal 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDc0LzE3NTIwNDIxMzNfNGYxMGZhZDllZDAwMGQ1ODA2YWIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=91279c2155ab33b3",
+      "sourcePath": "",
+      "sha256": "9cfdbf5188d972f3846c25541712b22ad07d8f8deecabf39eb134363b71002a8"
+    }
+  ],
+  "video": "",
+  "seoTitle": "御璽之環｜Regal Seal",
+  "seoDescription": "御璽之環｜Regal Seal，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/男戒06",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/男戒06",
+  "inquiryText": "我想諮詢 御璽之環｜Regal Seal",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0115",
+    "SRC-0125",
+    "SRC-0278",
+    "SRC-0288",
+    "SRC-0369",
+    "SRC-0418",
+    "SRC-0447",
+    "SRC-0557",
+    "SRC-0567",
+    "SRC-0637"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0115",
+      "text": "御璽之環｜Regal Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0125",
+      "text": "御璽之環｜Regal Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0278",
+      "text": "御璽之環｜Regal Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0288",
+      "text": "御璽之環｜Regal Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0369",
+      "text": "御璽之環｜Regal Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0418",
+      "text": "御璽之環｜Regal Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0447",
+      "text": "御璽之環｜Regal Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0557",
+      "text": "御璽之環｜Regal Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0567",
+      "text": "御璽之環｜Regal Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0637",
+      "text": "御璽之環｜Regal Seal"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

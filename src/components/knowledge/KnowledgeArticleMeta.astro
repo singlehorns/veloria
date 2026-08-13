@@ -1,0 +1,59 @@
+---
+import { getKnowledgeCategoryName } from '@data/knowledgeCategories';
+
+interface Props {
+  category: string;
+  publishDate: Date;
+  updatedDate?: Date;
+  author: string;
+}
+
+const { category, publishDate, updatedDate, author } = Astro.props;
+const dateFormatter = new Intl.DateTimeFormat('zh-TW', { year: 'numeric', month: '2-digit', day: '2-digit' });
+---
+
+<dl class="article-meta">
+  <div>
+    <dt>分類</dt>
+    <dd>{getKnowledgeCategoryName(category)}</dd>
+  </div>
+  <div>
+    <dt>發布</dt>
+    <dd><time datetime={publishDate.toISOString()}>{dateFormatter.format(publishDate)}</time></dd>
+  </div>
+  {updatedDate && (
+    <div>
+      <dt>更新</dt>
+      <dd><time datetime={updatedDate.toISOString()}>{dateFormatter.format(updatedDate)}</time></dd>
+    </div>
+  )}
+  <div>
+    <dt>作者</dt>
+    <dd>{author}</dd>
+  </div>
+</dl>
+
+<style>
+  .article-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem 1.25rem;
+    margin: 0;
+    color: var(--color-muted);
+    font-size: 0.92rem;
+  }
+
+  .article-meta div {
+    display: flex;
+    gap: 0.35rem;
+  }
+
+  .article-meta dt {
+    color: var(--color-ink);
+    font-weight: 800;
+  }
+
+  .article-meta dd {
+    margin: 0;
+  }
+</style>

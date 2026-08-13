@@ -1,0 +1,24 @@
+{
+  "name": "藍鑽",
+  "slug": "藍鑽",
+  "englishName": "藍鑽",
+  "summary": "藍曜花冕｜Azuré Bloom Halo 星瀾綻放｜Célestial Bloom 海霧之願｜Azuré Wish 湛藍晨曦｜Azuré Aurora",
+  "description": "藍曜花冕｜Azuré Bloom Halo 星瀾綻放｜Célestial Bloom 海霧之願｜Azuré Wish 湛藍晨曦｜Azuré Aurora",
+  "heroImage": {
+    "src": "/assets/migrated/collections/blue-diamond.jpeg",
+    "alt": "藍鑽"
+  },
+  "products": [
+    "azure-bloom-halo",
+    "celestial-bloom",
+    "azure-wish",
+    "azure-aurora"
+  ],
+  "featured": false,
+  "seoTitle": "藍鑽 VELORIA",
+  "seoDescription": "藍曜花冕｜Azuré Bloom Halo 星瀾綻放｜Célestial Bloom 海霧之願｜Azuré Wish 湛藍晨曦｜Azuré Aurora",
+  "originalUrl": "https://www.dsdiamond.com.tw/collections/藍鑽",
+  "originalSource": "../dsdiamond_backup/brand-data/brand-routes.json",
+  "migrationStatus": "部分搬遷",
+  "migrationNotes": "由舊站 brand-routes 自動補回系列頁入口；產品、圖片與完整區塊仍需人工核對。 已連接可追蹤的舊站系列媒體；產品圖仍需逐筆確認。"
+}

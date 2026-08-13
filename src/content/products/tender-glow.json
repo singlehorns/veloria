@@ -1,0 +1,165 @@
+{
+  "legacyProductId": "DSP-0096",
+  "legacyCyberbizId": "61547518",
+  "name": "曖曖之心",
+  "englishName": "Ténder Glow",
+  "originalDisplayName": "曖曖之心｜Ténder Glow",
+  "slug": "tender-glow",
+  "legacyUrls": [],
+  "category": "戒指",
+  "collection": "求婚",
+  "collections": [
+    "求婚"
+  ],
+  "productType": "ring",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "以圓形主鑽為心，三層璀璨細鑽如星冠般綻放，\n層層光暈映照永恆誓約。\n柔粉金的光影在指間流轉，象徵愛的守護與環繞，\n讓每一抹光都訴說妳專屬的浪漫與榮耀\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 聯絡我們\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於18k金的設計。\n\n 🔹 天然鑽款 ：0.5 克拉 D 色 SI1，3EX 等級\n\n 🔹 培育鑽款 ：0.5 克拉 D 色 VVS2，3EX 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "description": "以圓形主鑽為心，三層璀璨細鑽如星冠般綻放，\n層層光暈映照永恆誓約。\n柔粉金的光影在指間流轉，象徵愛的守護與環繞，\n讓每一抹光都訴說妳專屬的浪漫與榮耀\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 聯絡我們\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於18k金的設計。\n\n 🔹 天然鑽款 ：0.5 克拉 D 色 SI1，3EX 等級\n\n 🔹 培育鑽款 ：0.5 克拉 D 色 VVS2，3EX 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0096-tender-glow/localized/DSP-0096-main-01.png",
+      "alt": "曖曖之心 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0096-tender-glow/localized/DSP-0096-gallery-02.png",
+      "alt": "曖曖之心 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0096-tender-glow/localized/DSP-0096-gallery-03.png",
+      "alt": "曖曖之心 3",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0096-tender-glow/localized/DSP-0096-gallery-04.png",
+      "alt": "曖曖之心 4",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "曖曖之心｜Ténder Glow 培育鑽石戒指｜VELORIA DIAMOND SYMPHONY",
+  "seoDescription": "以圓形主鑽為心，三層璀璨細鑽如星冠綻放。柔粉金的點綴象徵愛的守護與環繞，展現培育鑽石的純淨光芒。VELORIA為您打造專屬浪漫與榮耀",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%9B%96%E6%9B%96%E4%B9%8B%E5%BF%83%EF%BD%9Ctender-glow",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%9B%96%E6%9B%96%E4%B9%8B%E5%BF%83%EF%BD%9Ctender-glow",
+  "inquiryText": "我想諮詢 曖曖之心｜Ténder Glow",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery",
+  "mediaStatus": "localized-api-gallery",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0203",
+    "SRC-0611"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0203",
+      "text": "曖曖之心｜Ténder Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0611",
+      "text": "曖曖之心｜Ténder Glow"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "61547518",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%9B%96%E6%9B%96%E4%B9%8B%E5%BF%83%EF%BD%9Ctender-glow",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "61547518",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%9B%96%E6%9B%96%E4%B9%8B%E5%BF%83%EF%BD%9Ctender-glow",
+      "text": "以圓形主鑽為心，三層璀璨細鑽如星冠般綻放，\n層層光暈映照永恆誓約。\n柔粉金的光影在指間流轉，象徵愛的守護與環繞，\n讓每一抹光都訴說妳專屬的浪漫與榮耀\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 聯絡我們\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於18k金的設計。\n\n 🔹 天然鑽款 ：0.5 克拉 D 色 SI1，3EX 等級\n\n 🔹 培育鑽款 ：0.5 克拉 D 色 VVS2，3EX 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "womens-diamond-rings",
+  "subcategories": [
+    "engagement-rings",
+    "classic-womens-rings"
+  ],
+  "audience": "women",
+  "diamondType": "natural-diamond",
+  "tags": [
+    "womens-diamond-rings",
+    "engagement-rings",
+    "ring",
+    "women",
+    "natural-diamond",
+    "classic-womens-rings"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "engagement-rings",
+    "womens-diamond-rings",
+    "classic-womens-rings"
+  ],
+  "displayPrice": "NT$37,500 - NT$75,000",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "74780710",
+      "sku": "",
+      "name": "曖曖之心｜Ténder Glow",
+      "price": 37500,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    },
+    {
+      "variantId": "74780711",
+      "sku": "",
+      "name": "曖曖之心｜Ténder Glow",
+      "price": 75000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    }
+  ],
+  "priceMin": 37500,
+  "priceMax": 75000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "61547518",
+  "pricingStandards": {
+    "source": "description",
+    "materialStatement": "此款價格基於18k金的設計。",
+    "naturalDiamond": "天然鑽款：0.5 克拉 D 色 SI1，3EX 等級",
+    "labDiamond": "培育鑽款：0.5 克拉 D 色 VVS2，3EX 等級",
+    "notes": [
+      "配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。",
+      "如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "<p><strong>材質選定：</strong></p>\n\n<ul>\n\t<li>提供鉑金（PT950）、18K金（白K、黃K、玫瑰金）等材質選擇。</li>\n\t<li>可搭配天然鑽石或實驗室培育鑽石，皆附國際認證證書。</li>\n\t<li>材質經專業檢驗，適合長期配戴與紀念。</li>\n</ul>\n\n<p> </p>\n\n<p><strong>戒圍量測：</strong></p>\n\n<ul>\n\t<li>可至門市協助量測，或提供既有戒指對照參考。</li>\n\t<li>下單後將免費寄送專業戒圍量測器至您指定地址。</li>\n</ul>\n\n<p> </p>\n\n<p><strong>刻字服務：</strong></p>\n\n<ul>\n\t<li>提供免費內圈刻字服務，可刻英文、數字與常見符號（如 ∞、♥）。</li>\n\t<li>建議字數不超過12字元，實際長度視戒指寬度而定。</li>\n\t<li>若有特殊刻字需求，請於下單時備註或聯絡客服確認。</li>\n</ul>"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "<p>為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：</p>\n\n<ul>\n\t<li>\n<strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。</li>\n\t<li>\n<strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。</li>\n</ul>"
+    }
+  ]
+}

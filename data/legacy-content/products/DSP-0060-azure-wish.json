@@ -1,0 +1,91 @@
+{
+  "legacyProductId": "DSP-0060",
+  "legacyCyberbizId": "57339030",
+  "name": "海霧之願",
+  "englishName": "Azure Wish",
+  "originalDisplayName": "海霧之願｜Azure Wish",
+  "slug": "azure-wish",
+  "legacyUrls": [],
+  "category": "項鍊 | 藍鑽",
+  "collection": "necklace | 彩色鑽石專區 | 藍鑽",
+  "collections": [
+    "necklace",
+    "彩色鑽石專區",
+    "藍鑽"
+  ],
+  "productType": "項鍊",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "海霧之願｜Azure Wish 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "海霧之願｜Azure Wish",
+  "seoDescription": "海霧之願｜Azure Wish，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 海霧之願｜Azure Wish",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0046",
+    "SRC-0056",
+    "SRC-0165",
+    "SRC-0302",
+    "SRC-0307",
+    "SRC-0488",
+    "SRC-0498"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0046",
+      "text": "海霧之願｜Azure Wish"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0056",
+      "text": "海霧之願｜Azure Wish"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0165",
+      "text": "海霧之願｜Azure Wish"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0302",
+      "text": "海霧之願｜Azure Wish"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0307",
+      "text": "海霧之願｜Azure Wish"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0488",
+      "text": "海霧之願｜Azure Wish"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0498",
+      "text": "海霧之願｜Azure Wish"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

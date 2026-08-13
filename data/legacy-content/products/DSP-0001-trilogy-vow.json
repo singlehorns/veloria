@@ -1,0 +1,145 @@
+{
+  "legacyProductId": "DSP-0001",
+  "legacyCyberbizId": "57337029",
+  "name": "三生之約",
+  "englishName": "Trilogy Vow",
+  "originalDisplayName": "三生之約｜Trilogy Vow",
+  "slug": "trilogy-vow",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/女戒14"
+  ],
+  "category": "女士鑽戒 | 經典女戒",
+  "collection": "ring-female | 經典女戒",
+  "collections": [
+    "ring-female",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "三生之約｜Trilogy Vow 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0001-trilogy-vow/source/DSP-0001-main-01.png",
+      "alt": "三生之約｜Trilogy Vow 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDI5LzE3NTIwMzQzOTJfZjkxMmFlMzZiNWQ2ZmVmNDUzYTcucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=7136ff4bf0c854da",
+      "sourcePath": "",
+      "sha256": "27cc3d131257f6995d5a05a999276bbc247804df5b13472ce41d7e9595fd32a5"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0001-trilogy-vow/source/DSP-0001-gallery-02.png",
+      "alt": "三生之約｜Trilogy Vow 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDI5LzE3NTIwMzQzOTJfMTg1ZjJjZjc5Yzg2ZjE3NjZkMTQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=9a601a4accb14ec1",
+      "sourcePath": "",
+      "sha256": "1235c43f2bdc34bceac51fa599df72723c24184634eb499aa90e219553a0a433"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0001-trilogy-vow/source/DSP-0001-gallery-03.png",
+      "alt": "三生之約｜Trilogy Vow 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDI5LzE3NTIwMzQzOTJfYTY3ZjA1NWQ1YzAwZTYyMDQxZDIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=cf8eb9dd87417c8d",
+      "sourcePath": "",
+      "sha256": "90e3368a13a516ef96876d5107f73e26a5ff70d5da017bd16315d572c4a31180"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0001-trilogy-vow/source/DSP-0001-gallery-04.png",
+      "alt": "三生之約｜Trilogy Vow 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDI5LzE3NTIwMzQzOTJfZGJjNzQyZWZkMzE5MTIyM2MwYTIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=19a724c43f595c22",
+      "sourcePath": "",
+      "sha256": "d5b9b98281cab1ff151e721e8f87732a70861cf062d693b01b9d68a55d837294"
+    }
+  ],
+  "video": "",
+  "seoTitle": "三生之約｜Trilogy Vow",
+  "seoDescription": "三生之約｜Trilogy Vow，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/女戒14",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/女戒14",
+  "inquiryText": "我想諮詢 三生之約｜Trilogy Vow",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0077",
+    "SRC-0087",
+    "SRC-0240",
+    "SRC-0250",
+    "SRC-0353",
+    "SRC-0402",
+    "SRC-0431",
+    "SRC-0519",
+    "SRC-0529",
+    "SRC-0621"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0077",
+      "text": "三生之約｜Trilogy Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0087",
+      "text": "三生之約｜Trilogy Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0240",
+      "text": "三生之約｜Trilogy Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0250",
+      "text": "三生之約｜Trilogy Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0353",
+      "text": "三生之約｜Trilogy Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0402",
+      "text": "三生之約｜Trilogy Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0431",
+      "text": "三生之約｜Trilogy Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0519",
+      "text": "三生之約｜Trilogy Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0529",
+      "text": "三生之約｜Trilogy Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0621",
+      "text": "三生之約｜Trilogy Vow"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

@@ -1,0 +1,155 @@
+{
+  "legacyProductId": "DSP-0011",
+  "legacyCyberbizId": "58401506",
+  "name": "心鑽綻放",
+  "englishName": "Bloomîng Heart",
+  "originalDisplayName": "心鑽綻放｜Bloomîng Heart",
+  "slug": "blooming-heart",
+  "legacyUrls": [],
+  "category": "項鍊",
+  "collection": "necklace",
+  "collections": [
+    "necklace"
+  ],
+  "productType": "necklace",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "以鑽石環繞勾勒出立體愛心輪廓，閃耀光芒猶如心中悸動綻放。開放式設計讓光線自由流轉，折射出純粹與浪漫的火彩。寓意真摯愛意永恆不滅，將溫柔與堅定同時鎖於心間。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心",
+  "description": "以鑽石環繞勾勒出立體愛心輪廓，閃耀光芒猶如心中悸動綻放。開放式設計讓光線自由流轉，折射出純粹與浪漫的火彩。寓意真摯愛意永恆不滅，將溫柔與堅定同時鎖於心間。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0011-blooming-heart/localized/DSP-0011-main-01.png",
+      "alt": "心鑽綻放 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0011-blooming-heart/localized/DSP-0011-gallery-02.png",
+      "alt": "心鑽綻放 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0011-blooming-heart/localized/DSP-0011-gallery-03.png",
+      "alt": "心鑽綻放 3",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "心鑽綻放｜Bloomîng Heart",
+  "seoDescription": "以鑽石環繞勾勒出立體愛心輪廓，閃耀光芒猶如心中悸動綻放。開放式設計讓光線自由流轉，折射出純粹與浪漫的火彩。寓意真摯愛意永恆不滅，將溫柔與堅定同時鎖於心間。          ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。          📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：                                                        💬 客服中心",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%BF%83%E9%91%BD%E7%B6%BB%E6%94%BE%EF%BD%9Cblooming-heart",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%BF%83%E9%91%BD%E7%B6%BB%E6%94%BE%EF%BD%9Cblooming-heart",
+  "inquiryText": "我想諮詢 心鑽綻放｜Bloomîng Heart",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery",
+  "mediaStatus": "localized-api-gallery",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0042",
+    "SRC-0052",
+    "SRC-0484",
+    "SRC-0494"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0042",
+      "text": "心鑽綻放｜Bloomîng Heart"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0052",
+      "text": "心鑽綻放｜Bloomîng Heart"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0484",
+      "text": "心鑽綻放｜Bloomîng Heart"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0494",
+      "text": "心鑽綻放｜Bloomîng Heart"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "58401506",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%BF%83%E9%91%BD%E7%B6%BB%E6%94%BE%EF%BD%9Cblooming-heart",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "58401506",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%BF%83%E9%91%BD%E7%B6%BB%E6%94%BE%EF%BD%9Cblooming-heart",
+      "text": "以鑽石環繞勾勒出立體愛心輪廓，閃耀光芒猶如心中悸動綻放。開放式設計讓光線自由流轉，折射出純粹與浪漫的火彩。寓意真摯愛意永恆不滅，將溫柔與堅定同時鎖於心間。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "other-jewelry",
+  "subcategories": [
+    "necklaces"
+  ],
+  "audience": "unisex",
+  "diamondType": "natural-diamond",
+  "tags": [
+    "other-jewelry",
+    "necklaces",
+    "necklace",
+    "unisex",
+    "natural-diamond"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "necklaces"
+  ],
+  "displayPrice": "NT$29,800",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "70799997",
+      "sku": "DSN0013",
+      "name": "心鑽綻放｜Bloomîng Heart",
+      "price": 29800,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    }
+  ],
+  "priceMin": 29800,
+  "priceMax": 29800,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "58401506",
+  "pricingStandards": {
+    "source": "product-slogan",
+    "materialStatement": "本商品價格以天然鑽石小鑽為基準，鑲嵌於鉑金 (PT950) 材質上。如需改為培育鑽石或調整鑽石數量、設計等，歡迎洽詢專人服務。",
+    "naturalDiamond": "",
+    "labDiamond": "",
+    "notes": []
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "<p><strong>材質選定：</strong></p>\n\n<ul>\n\t<li>提供鉑金（PT950）、18K金（白K、黃K、玫瑰金）等材質選擇。</li>\n\t<li>材質經專業檢驗，適合長期配戴與紀念。</li>\n</ul>\n \n\n<p><strong>鍊長調整：</strong></p>\n\n<ul>\n\t<li>項鍊預設鍊長為標準尺寸，亦可依需求調整長度。</li>\n\t<li>部分款式提供延長鍊或客製鍊長服務，詳情請洽客服。</li>\n</ul>"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "<p>為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：</p>\n\n<ul>\n\t<li>\n<strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。</li>\n\t<li>\n<strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。</li>\n</ul>"
+    }
+  ]
+}

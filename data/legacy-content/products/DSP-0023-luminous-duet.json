@@ -1,0 +1,59 @@
+{
+  "legacyProductId": "DSP-0023",
+  "legacyCyberbizId": "58259294",
+  "name": "光璨雙影",
+  "englishName": "Luminous Duet",
+  "originalDisplayName": "光璨雙影｜Luminous Duet",
+  "slug": "luminous-duet",
+  "legacyUrls": [],
+  "category": "耳環",
+  "collection": "earring",
+  "collections": [
+    "earring"
+  ],
+  "productType": "耳環",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "光璨雙影｜Luminous Duet 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "光璨雙影｜Luminous Duet",
+  "seoDescription": "光璨雙影｜Luminous Duet，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 光璨雙影｜Luminous Duet",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0023",
+    "SRC-0030"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0023",
+      "text": "光璨雙影｜Luminous Duet"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0030",
+      "text": "光璨雙影｜Luminous Duet"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

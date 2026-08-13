@@ -1,0 +1,131 @@
+{
+  "legacyProductId": "DSL0008",
+  "legacyCyberbizId": "57339631",
+  "name": "裸鑽｜阿斯切鑽",
+  "originalDisplayName": "裸鑽｜阿斯切鑽",
+  "slug": "asscher",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/zh-TW/products/%E8%A3%B8%E9%91%BD-asscher"
+  ],
+  "category": "精選裸鑽",
+  "collection": "精選裸鑽",
+  "collections": [
+    "精選裸鑽"
+  ],
+  "productType": "loose-diamond",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "阿斯切車工以方形階梯切割與八角形輪廓著稱，中心深邃宛如迷宮，綻放獨特的「廳堂光效」。結合復古與藝術感，散發靜謐而高雅的氛圍，是鍾愛古典風格與內斂奢華者的理想之選。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心",
+  "description": "阿斯切車工以方形階梯切割與八角形輪廓著稱，中心深邃宛如迷宮，綻放獨特的「廳堂光效」。結合復古與藝術感，散發靜謐而高雅的氛圍，是鍾愛古典風格與內斂奢華者的理想之選。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "asscher",
+  "shape": "asscher",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/loose-diamonds/diamond-asscher.png",
+      "alt": "裸鑽｜阿斯切鑽",
+      "role": "main"
+    }
+  ],
+  "displayPrice": "NT$7,500 - NT$28,000",
+  "video": "",
+  "seoTitle": "裸鑽｜阿斯切鑽",
+  "seoDescription": "阿斯切車工以方形階梯切割與八角形輪廓著稱，中心深邃宛如迷宮，綻放獨特的「廳堂光效」。結合復古與藝術感，散發靜謐而高雅的氛圍，是鍾愛古典風格與內斂奢華者的理想之選。          ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。          📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：                                                        💬 客服中心",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%A3%B8%E9%91%BD-asscher",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%A3%B8%E9%91%BD-asscher",
+  "inquiryText": "我想諮詢 裸鑽｜阿斯切鑽",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "manual-loose-diamond-replacement",
+  "mediaStatus": "manual-loose-diamond-replacement",
+  "routeStatus": "api-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "cyberbiz-search-products-api",
+      "sourceId": "57339631",
+      "text": "裸鑽｜阿斯切鑽"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "57339631",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%A3%B8%E9%91%BD-asscher",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "57339631",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%A3%B8%E9%91%BD-asscher",
+      "text": "阿斯切車工以方形階梯切割與八角形輪廓著稱，中心深邃宛如迷宮，綻放獨特的「廳堂光效」。結合復古與藝術感，散發靜謐而高雅的氛圍，是鍾愛古典風格與內斂奢華者的理想之選。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心"
+    }
+  ],
+  "migrationNotes": "Added from current CYBERBIZ collection API while synchronizing product categories.",
+  "primaryCategory": "loose-diamonds",
+  "collectionSlugs": [
+    "loose-diamonds"
+  ],
+  "subcategories": [],
+  "audience": "unisex",
+  "diamondType": "diamond",
+  "tags": [
+    "loose-diamonds",
+    "loose-diamond"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Confirmed by CYBERBIZ collection search_products.json.",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "69251388",
+      "sku": "DSL0008",
+      "name": "裸鑽｜阿斯切鑽",
+      "price": 28000,
+      "compareAtPrice": 35000,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    },
+    {
+      "variantId": "69548010",
+      "sku": "DSL0008",
+      "name": "裸鑽｜阿斯切鑽",
+      "price": 7500,
+      "compareAtPrice": 9500,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 7500,
+  "priceMax": 28000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "57339631",
+  "pricingStandards": {
+    "source": "product-slogan",
+    "materialStatement": "以下價格皆以 30分 D色 VVS2 3EX 定價，如需其他規格請聯絡專員。",
+    "naturalDiamond": "",
+    "labDiamond": "",
+    "notes": []
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "<ul>\n\t<li>來源選擇：天然鑽石 / 實驗室培育鑽石</li>\n\t<li>重量範圍：0.3ct ~ 20.0ct（依庫存為準）</li>\n\t<li>淨度等級：VVS-SI（或依實品註明）</li>\n\t<li>顏色等級：IF/FL-H（或依實品註明）</li>\n\t<li>車工等級：Excellent / Very Good</li>\n\t<li>證書：GIA、IGI、台灣證書等（視品項附上）</li>\n</ul>"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "<p>為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：</p>\n\n<ul>\n\t<li>\n<strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。</li>\n\t<li>\n<strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。</li>\n</ul>"
+    }
+  ]
+}

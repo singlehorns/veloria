@@ -1,0 +1,158 @@
+{
+  "legacyProductId": "DSP-0053",
+  "legacyCyberbizId": "58378132",
+  "name": "星環映粹",
+  "englishName": "Célestial Halo Radiance",
+  "originalDisplayName": "星環映粹｜Célestial Halo Radiance",
+  "slug": "celestial-halo-radiance",
+  "legacyUrls": [],
+  "category": "耳環",
+  "collection": "earring",
+  "collections": [
+    "earring"
+  ],
+  "productType": "earring",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "圓形主鑽以爪鑲穩定托起，四周排鑽細緻排列，形成層層映亮的光環效果；側面金屬結構俐落有序，襯出鑽石火光與立體輪廓，象徵細節中的堅定守護\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n Request an Appointment\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n LINE 諮詢\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格(一對)基於鉑金（PT950）材質的設計。\n\n 🔹 (每邊) 天然鑽款 ：1 克拉 D 色 Si1，3EX 等級\n\n 🔹 (每邊) 培育鑽款 ：1 克拉 D 色 VVS2，3EX 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "description": "圓形主鑽以爪鑲穩定托起，四周排鑽細緻排列，形成層層映亮的光環效果；側面金屬結構俐落有序，襯出鑽石火光與立體輪廓，象徵細節中的堅定守護\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n Request an Appointment\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n LINE 諮詢\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格(一對)基於鉑金（PT950）材質的設計。\n\n 🔹 (每邊) 天然鑽款 ：1 克拉 D 色 Si1，3EX 等級\n\n 🔹 (每邊) 培育鑽款 ：1 克拉 D 色 VVS2，3EX 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0053-celestial-halo-radiance/localized/DSP-0053-main-01.png",
+      "alt": "星環映粹｜Célestial Halo Radiance 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0053-celestial-halo-radiance/localized/DSP-0053-gallery-02.png",
+      "alt": "星環映粹｜Célestial Halo Radiance 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0053-celestial-halo-radiance/localized/DSP-0053-gallery-03.png",
+      "alt": "星環映粹｜Célestial Halo Radiance 3",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "星環映粹 Célestial Halo Radiance｜光環鑽石耳環｜VELORIA DIAMOND SYMPHONY",
+  "seoDescription": "圓形主鑽以爪鑲穩定托起，四周排鑽細緻排列，形成層層映亮的光環效果；側面金屬結構俐落有序，襯出鑽石火光與立體輪廓，象徵細節中的堅定守護",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/celestial-halo-radiance-diamond-earrings",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/celestial-halo-radiance-diamond-earrings",
+  "inquiryText": "我想諮詢 星環映粹｜Célestial Halo Radiance",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-html-gallery",
+  "mediaStatus": "localized-html-gallery",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0029",
+    "SRC-0036"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0029",
+      "text": "星環映粹｜Célestial Halo Radiance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0036",
+      "text": "星環映粹｜Célestial Halo Radiance"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "58378132",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/celestial-halo-radiance-diamond-earrings",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "58378132",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/celestial-halo-radiance-diamond-earrings",
+      "text": "圓形主鑽以爪鑲穩定托起，四周排鑽細緻排列，形成層層映亮的光環效果；側面金屬結構俐落有序，襯出鑽石火光與立體輪廓，象徵細節中的堅定守護\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n Request an Appointment\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n LINE 諮詢\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格(一對)基於鉑金（PT950）材質的設計。\n\n 🔹 (每邊) 天然鑽款 ：1 克拉 D 色 Si1，3EX 等級\n\n 🔹 (每邊) 培育鑽款 ：1 克拉 D 色 VVS2，3EX 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "other-jewelry",
+  "subcategories": [
+    "earrings"
+  ],
+  "audience": "unisex",
+  "diamondType": "natural-diamond",
+  "tags": [
+    "other-jewelry",
+    "earrings",
+    "earring",
+    "unisex",
+    "natural-diamond"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "earrings"
+  ],
+  "displayPrice": "NT$58,500 - NT$285,000",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "70746922",
+      "sku": "DSE0004",
+      "name": "星環映粹｜Célestial Halo Radiance",
+      "price": 285000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    },
+    {
+      "variantId": "70746923",
+      "sku": "DSE0004",
+      "name": "星環映粹｜Célestial Halo Radiance",
+      "price": 58500,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 58500,
+  "priceMax": 285000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "58378132",
+  "pricingStandards": {
+    "source": "description",
+    "materialStatement": "此款價格(一對)基於鉑金（PT950）材質的設計。",
+    "naturalDiamond": "天然鑽款：1 克拉 D 色 Si1，3EX 等級",
+    "labDiamond": "培育鑽款：1 克拉 D 色 VVS2，3EX 等級",
+    "notes": [
+      "(每邊)",
+      "(每邊)",
+      "配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。",
+      "如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "Materials\n    材質選定\n  \n\n  \n    <ul>\n      <li>\n        ✦\n        提供 <strong>鉑金（PT950）</strong>、<strong>18K金</strong>（白K、黃K、玫瑰金）等材質選擇。\n      </li>\n      <li>\n        ✦\n        可搭配 <strong>天然鑽石</strong> 或 <strong>實驗室培育鑽石</strong>，皆附國際認證證書。\n      </li>\n      <li>\n        ✦\n        材質經專業檢驗，適合長期配戴與紀念。\n      </li>\n    </ul>\n  \n\n  \n  \n    Comfort & Safety\n    耳針材質與設計\n  \n\n  \n    <ul>\n      <li>\n        ✦\n        耳針採用 <strong>低敏材質設計</strong>，降低配戴不適風險。\n      </li>\n      <li>\n        ✦\n        部分款式提供 <strong>螺旋耳扣</strong>、<strong>矽膠耳堵</strong> 等安全設計選擇。\n      </li>\n      <li>\n        ✦\n        如有過敏體質，建議於下單前聯繫客服確認適用材質。\n      </li>\n    </ul>\n  \n\n  \n    Craftsmanship & Wearing Comfort"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "Delivery\n運送方式\n\n為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：\n\n<ul>\n\n\t<li>\n✦ <strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。\n</li>\n\t\n\t<li>\n✦ <strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。\n</li>\n</ul>\n\nCraftsmanship & Service Excellence"
+    }
+  ]
+}

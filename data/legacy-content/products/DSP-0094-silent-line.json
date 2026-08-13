@@ -1,0 +1,83 @@
+{
+  "legacyProductId": "DSP-0094",
+  "legacyCyberbizId": "66996587",
+  "name": "靜線之約",
+  "englishName": "Silent Line",
+  "originalDisplayName": "靜線之約｜Silent Line",
+  "slug": "silent-line",
+  "legacyUrls": [],
+  "category": "結婚對戒",
+  "collection": "pair-ring",
+  "collections": [
+    "pair-ring"
+  ],
+  "productType": "對戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "靜線之約｜Silent Line 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "靜線之約｜Silent Line",
+  "seoDescription": "靜線之約｜Silent Line，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 靜線之約｜Silent Line",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0068",
+    "SRC-0075",
+    "SRC-0382",
+    "SRC-0392",
+    "SRC-0510",
+    "SRC-0517"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0068",
+      "text": "靜線之約｜Silent Line"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0075",
+      "text": "靜線之約｜Silent Line"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0382",
+      "text": "靜線之約｜Silent Line"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0392",
+      "text": "靜線之約｜Silent Line"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0510",
+      "text": "靜線之約｜Silent Line"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0517",
+      "text": "靜線之約｜Silent Line"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

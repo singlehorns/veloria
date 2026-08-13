@@ -1,0 +1,765 @@
+{
+  "generatedAt": "2026-07-27T15:42:08.822Z",
+  "productFiles": 150,
+  "fetched": 150,
+  "changedProducts": 150,
+  "totalImages": 540,
+  "downloaded": 57,
+  "existing": 483,
+  "fallback": 0,
+  "skipped": [],
+  "failed": [],
+  "failedDownloads": [],
+  "changedProductsDetail": [
+    {
+      "slug": "akatsuki-dance",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%99%A8%E6%9B%A6%E4%B9%8B%E8%88%9E%EF%BD%9Cakatsuki-dance.json"
+    },
+    {
+      "slug": "amber-promise-glow",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/amber-promise-glow-engagement-colored-diamond.json"
+    },
+    {
+      "slug": "amour-de-c-ur",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%A0%85%E9%8D%8A08.json"
+    },
+    {
+      "slug": "arc-contour",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/arc-contour-engagement-ring.json"
+    },
+    {
+      "slug": "arc-diamond-sequence",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/arc-diamond-sequence-designer-diamond-earrings.json"
+    },
+    {
+      "slug": "asscher",
+      "images": 1,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%A3%B8%E9%91%BD-asscher.json"
+    },
+    {
+      "slug": "aurora-cushion-gleam",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/aurora-cushion-gleam-luxury-colored-diamond.json"
+    },
+    {
+      "slug": "aurora-hoops",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%A5%B5%E5%85%89%E4%B9%8B%E7%92%B0%EF%BD%9Caurora-hoops.json"
+    },
+    {
+      "slug": "aurora-path",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%94%B7%E6%88%9213.json"
+    },
+    {
+      "slug": "aurora-serenade-2",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9234.json"
+    },
+    {
+      "slug": "aurora-serenade",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9234.json"
+    },
+    {
+      "slug": "axis-of-steadfast",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%94%B7%E6%88%9202.json"
+    },
+    {
+      "slug": "azure-aurora",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9235.json"
+    },
+    {
+      "slug": "azure-bloom-halo",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/azure-bloom-halo-colored-diamond.json"
+    },
+    {
+      "slug": "azure-wish",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%A0%85%E9%8D%8A07.json"
+    },
+    {
+      "slug": "blooming-grace",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%B5%A2%E9%BA%97%E8%8A%B1%E8%AA%9E%EF%BD%9Cblooming-grace.json"
+    },
+    {
+      "slug": "blooming-heart",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%BF%83%E9%91%BD%E7%B6%BB%E6%94%BE%EF%BD%9Cblooming-heart.json"
+    },
+    {
+      "slug": "blossom-reverie",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/reverie-bloom-halo-colored-diamond.json"
+    },
+    {
+      "slug": "blue-crown-of-love",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/blue-crown-blue-diamond-ring.json"
+    },
+    {
+      "slug": "blush-butterfly-radiance",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/blush-butterfly-radiance-designer-colored-diamond-ring.json"
+    },
+    {
+      "slug": "blush-halo-promise",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/blush-halo-promise-dsdiamond.json"
+    },
+    {
+      "slug": "blush-kiss",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%A0%85%E9%8D%8A10.json"
+    },
+    {
+      "slug": "blush-teardrop",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%A0%85%E9%8D%8A05.json"
+    },
+    {
+      "slug": "bonded-edge",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%B0%8D%E6%88%9202.json"
+    },
+    {
+      "slug": "brilliant-embrace",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9209.json"
+    },
+    {
+      "slug": "brilliant-wish",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%A0%85%E9%8D%8A01.json"
+    },
+    {
+      "slug": "celestial-bloom",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%98%9F%E7%80%BE%E7%B6%BB%E6%94%BE%EF%BD%9Ccelestial-bloom.json"
+    },
+    {
+      "slug": "celestial-halo-radiance",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/celestial-halo-radiance-diamond-earrings.json"
+    },
+    {
+      "slug": "celestial-vow",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9216.json"
+    },
+    {
+      "slug": "circle-of-radiance",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/circle-of-radiance-halo-diamond-necklace.json"
+    },
+    {
+      "slug": "crown-of-argent-radiance",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/crown-of-argent-radiance-diamond-ring.json"
+    },
+    {
+      "slug": "crown-of-majesty",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%94%B7%E6%88%9205.json"
+    },
+    {
+      "slug": "crowned-heart-grace",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/crowned-heart-grace-diamond-ring.json"
+    },
+    {
+      "slug": "crowned-promise",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/crowned-promise-engagement-diamond-ring.json"
+    },
+    {
+      "slug": "crystal-blue-heart",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9229.json"
+    },
+    {
+      "slug": "cushion",
+      "images": 1,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%A3%B8%E9%91%BD-cushion.json"
+    },
+    {
+      "slug": "daylight-promise-2",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%B0%B8%E6%99%9D%E4%B9%8B%E6%84%9B%EF%BD%9Cdaylight-promise.json"
+    },
+    {
+      "slug": "daylight-promise",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%B0%B8%E6%99%9D%E4%B9%8B%E6%84%9B%EF%BD%9Cdaylight-promise.json"
+    },
+    {
+      "slug": "destined-dominion",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9219.json"
+    },
+    {
+      "slug": "dominion-crest",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%94%B7%E6%88%9212.json"
+    },
+    {
+      "slug": "dominion-halo",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%94%B7%E6%88%9211.json"
+    },
+    {
+      "slug": "double-heart-embrace",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/double-heart-embrace-dsdiamond.json"
+    },
+    {
+      "slug": "double-heart-whisper-2",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9237.json"
+    },
+    {
+      "slug": "double-heart-whisper",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9237.json"
+    },
+    {
+      "slug": "echo-of-us",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%B0%8D%E6%88%9201.json"
+    },
+    {
+      "slug": "edge-of-radiance",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%94%B7%E6%88%9204.json"
+    },
+    {
+      "slug": "elise-loop-2",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/elise-loop-dsdiamond.json"
+    },
+    {
+      "slug": "elise-loop",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/elise-loop-dsdiamond.json"
+    },
+    {
+      "slug": "emerald",
+      "images": 1,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%A3%B8%E9%91%BD-emerald.json"
+    },
+    {
+      "slug": "entwined-destiny",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9223.json"
+    },
+    {
+      "slug": "entwined-promise",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9224.json"
+    },
+    {
+      "slug": "eterna-shine",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%94%B7%E6%88%9201.json"
+    },
+    {
+      "slug": "eternal-entwine",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9212.json"
+    },
+    {
+      "slug": "eternal-halo",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%85%89%E8%8F%AF%E6%B0%B8%E6%81%86%EF%BD%9Ceternal-halo.json"
+    },
+    {
+      "slug": "eternal-sparkle",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%81%86%E8%80%80%E4%B9%8B%E9%8F%88%EF%BD%9Ceternal-sparkle.json"
+    },
+    {
+      "slug": "eternal-whisper",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9201.json"
+    },
+    {
+      "slug": "ethereal-heart-petals",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/ethereal-heart-petals-halo-colored-diamond.json"
+    },
+    {
+      "slug": "fine-jewelry-ring",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/fine-jewelry-ring-dsdiamond.json"
+    },
+    {
+      "slug": "floral-constellation",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/floral-constellation-dsdiamond.json"
+    },
+    {
+      "slug": "floral-dawn",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%8A%B1%E8%AA%9E%E6%99%A8%E6%9B%A6%EF%BD%9Cfloral-dawn.json"
+    },
+    {
+      "slug": "gleaming-vow",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9217.json"
+    },
+    {
+      "slug": "golden-bloom",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%87%91%E7%B7%BB%E8%8A%B1%E8%AA%9E%EF%BD%9Cgolden-bloom.json"
+    },
+    {
+      "slug": "golden-halo-radiance",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/golden-halo-radiance-colored-diamond.json"
+    },
+    {
+      "slug": "golden-sonata",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%87%91%E8%80%80%E8%8F%AF%E7%AB%A0%EF%BD%9Cgolden-sonata.json"
+    },
+    {
+      "slug": "golden-vine-radiance",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/golden-vine-radiance-designer-diamond-ring.json"
+    },
+    {
+      "slug": "golden-vow",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%A0%85%E9%8D%8A02.json"
+    },
+    {
+      "slug": "harmonic-loop",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%B0%8D%E6%88%9203.json"
+    },
+    {
+      "slug": "heart-in-bloom-2",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9228.json"
+    },
+    {
+      "slug": "heart-in-bloom",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9228.json"
+    },
+    {
+      "slug": "heart",
+      "images": 1,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%A3%B8%E9%91%BD-heart.json"
+    },
+    {
+      "slug": "hidden-whisper",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9207.json"
+    },
+    {
+      "slug": "imperial-glory",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%94%B7%E6%88%9215.json"
+    },
+    {
+      "slug": "luminous-duet",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%85%89%E7%92%A8%E9%9B%99%E5%BD%B1%EF%BD%9Cluminous-duet.json"
+    },
+    {
+      "slug": "luminous-prelude",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9205.json"
+    },
+    {
+      "slug": "luminous-realm",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9227.json"
+    },
+    {
+      "slug": "lunar-embrace-2",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9215.json"
+    },
+    {
+      "slug": "lunar-embrace",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9215.json"
+    },
+    {
+      "slug": "lunar-radiance-2",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%9A%93%E6%9C%88%E5%85%89%E8%8F%AF%EF%BD%9Clunar-radiance.json"
+    },
+    {
+      "slug": "lunar-radiance",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%9A%93%E6%9C%88%E5%85%89%E8%8F%AF%EF%BD%9Clunar-radiance.json"
+    },
+    {
+      "slug": "lune-drop",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/lune-drop-minimal-diamond-necklace.json"
+    },
+    {
+      "slug": "majestic-regalia",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9225.json"
+    },
+    {
+      "slug": "marquise-gleam",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/marquise-gleam-dsdiamond.json"
+    },
+    {
+      "slug": "marquise",
+      "images": 1,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%A3%B8%E9%91%BD-marquise.json"
+    },
+    {
+      "slug": "minimal-radiance",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9204.json"
+    },
+    {
+      "slug": "monolith-brilliance",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/monolith-brilliance-dsdiamond.json"
+    },
+    {
+      "slug": "morning-glow",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/morning-glow-minimal-colored-diamond.json"
+    },
+    {
+      "slug": "oval",
+      "images": 1,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%A3%B8%E9%91%BD-oval.json"
+    },
+    {
+      "slug": "pear-lumiere-bloom",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/pear-lumiere-bloom-designer-diamond-ring.json"
+    },
+    {
+      "slug": "pear",
+      "images": 1,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%A3%B8%E9%91%BD-pear.json"
+    },
+    {
+      "slug": "pink-crown-of-love",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9232.json"
+    },
+    {
+      "slug": "pink-whisper",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9230.json"
+    },
+    {
+      "slug": "princess",
+      "images": 1,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%A3%B8%E9%91%BD-princess.json"
+    },
+    {
+      "slug": "pure-heart-2",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/pure-heart-dsdiamond.json"
+    },
+    {
+      "slug": "pure-heart-promise",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/pure-heart-promise-dsdiamond.json"
+    },
+    {
+      "slug": "pure-heart",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/pure-heart-dsdiamond.json"
+    },
+    {
+      "slug": "radiant-bloom",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9221.json"
+    },
+    {
+      "slug": "radiant-bond",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%B0%8D%E6%88%9205.json"
+    },
+    {
+      "slug": "radiant-domain-halo",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/radiant-domain-halo-colored-diamond.json"
+    },
+    {
+      "slug": "radiant-grace-2",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9226.json"
+    },
+    {
+      "slug": "radiant-grace",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9226.json"
+    },
+    {
+      "slug": "radiant-horizon-2",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%9B%9C%E6%98%A0%E9%95%B7%E7%A9%BA%EF%BD%9Cradiant-horizon.json"
+    },
+    {
+      "slug": "radiant-horizon",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%9B%9C%E6%98%A0%E9%95%B7%E7%A9%BA%EF%BD%9Cradiant-horizon.json"
+    },
+    {
+      "slug": "radiant-vow-2",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9222.json"
+    },
+    {
+      "slug": "radiant-vow",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9222.json"
+    },
+    {
+      "slug": "radiant",
+      "images": 1,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%A3%B8%E9%91%BD-radiant.json"
+    },
+    {
+      "slug": "regal-frame",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/regalframe-dsdiamond.json"
+    },
+    {
+      "slug": "regal-radiance",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%8E%8F%E5%85%89%E8%8F%AF%E7%B4%8B%EF%BD%9Cregal-radiance.json"
+    },
+    {
+      "slug": "regal-seal",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%94%B7%E6%88%9206.json"
+    },
+    {
+      "slug": "rose-architectural-halo",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/rose-architectural-halo-diamond-ring.json"
+    },
+    {
+      "slug": "rose-dew-radiance",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/rose-dew-radiance-luxury-colored-diamond.json"
+    },
+    {
+      "slug": "rose-embrace",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%A0%85%E9%8D%8A03.json"
+    },
+    {
+      "slug": "rose-heart-whisper",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/rose-heart-whisper-halo-colored-diamond.json"
+    },
+    {
+      "slug": "rose-vow-2",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9220.json"
+    },
+    {
+      "slug": "rose-vow",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9220.json"
+    },
+    {
+      "slug": "rose-whisper",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%A0%85%E9%8D%8A06.json"
+    },
+    {
+      "slug": "round",
+      "images": 1,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%A3%B8%E9%91%BD-oval.json"
+    },
+    {
+      "slug": "scepter-crest",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%94%B7%E6%88%9214.json"
+    },
+    {
+      "slug": "silent-line",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/silent-line-couple-ring.json"
+    },
+    {
+      "slug": "silent-pink-heart",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/silent-pink-heart-dsdiamond.json"
+    },
+    {
+      "slug": "solar-vow",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9203.json"
+    },
+    {
+      "slug": "sovereign-glow",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%94%B7%E6%88%9210.json"
+    },
+    {
+      "slug": "sovereign-realm",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%94%B7%E6%88%9203.json"
+    },
+    {
+      "slug": "sovereign-seal",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%94%B7%E6%88%9212-20250721114449.json"
+    },
+    {
+      "slug": "sparkling-whisper",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9211.json"
+    },
+    {
+      "slug": "starlit-murmurs",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9208.json"
+    },
+    {
+      "slug": "starlit-promise-dsp-0052",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/starlit-promise-engagement-diamond-ring.json"
+    },
+    {
+      "slug": "starlit-promise",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9202.json"
+    },
+    {
+      "slug": "steady-heartlight",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/steady-heartlight-dsdiamond.json"
+    },
+    {
+      "slug": "stellar-dominion",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%94%B7%E6%88%9212-20250726122514.json"
+    },
+    {
+      "slug": "stellar-name",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%A0%85%E9%8D%8A04.json"
+    },
+    {
+      "slug": "stellar-promise-dsp-0049",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9206.json"
+    },
+    {
+      "slug": "stellar-promise",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9213.json"
+    },
+    {
+      "slug": "stellar-studs",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%98%9F%E8%80%80%E7%B6%93%E5%85%B8%EF%BD%9Cstellar-studs.json"
+    },
+    {
+      "slug": "step-cut-grace-2",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/step-cut-grace-dsdiamond.json"
+    },
+    {
+      "slug": "step-cut-grace",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/step-cut-grace-dsdiamond.json"
+    },
+    {
+      "slug": "tear-of-brilliance",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/tear-of-brilliance-luxury-diamond-necklace.json"
+    },
+    {
+      "slug": "tender-glow",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%9B%96%E6%9B%96%E4%B9%8B%E5%BF%83%EF%BD%9Ctender-glow.json"
+    },
+    {
+      "slug": "timeless-prelude",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%B0%8D%E6%88%9204.json"
+    },
+    {
+      "slug": "trilogy-vow",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9214.json"
+    },
+    {
+      "slug": "trinity-eclat",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/trinity-eclat-dsdiamond.json"
+    },
+    {
+      "slug": "union-light",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/union-light-dsdiamond.json"
+    },
+    {
+      "slug": "unity-knot",
+      "images": 3,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%B0%8D%E6%88%9206.json"
+    },
+    {
+      "slug": "whisper-of-dawn",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9210.json"
+    },
+    {
+      "slug": "woven-dream",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%B9%94%E5%A4%A2%E8%8F%AF%E8%AA%9E%EF%BD%9C-woven-dream.json"
+    },
+    {
+      "slug": "鉑金轉運戒-三排",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E7%94%B7%E6%88%9207.json"
+    },
+    {
+      "slug": "鉑金轉運戒-單排",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%89%91%E9%87%91%E8%BD%89%E9%81%8B%E6%88%92%E5%96%AE%E6%8E%92-dsdiamond.json"
+    },
+    {
+      "slug": "鉑金轉運戒-雙排",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%89%91%E9%87%91%E8%BD%89%E9%81%8B%E6%88%92-%E9%9B%99%E6%8E%92-dsdiamoond.json"
+    },
+    {
+      "slug": "黃k金轉運戒-三排",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%BB%83k%E9%87%91%E8%BD%89%E9%81%8B%E6%88%92-%E4%B8%89%E6%8E%92-_dsdiamond.json"
+    },
+    {
+      "slug": "黃k金轉運戒-單排",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/fortune-band-single-row-dsdiamond.json"
+    },
+    {
+      "slug": "黃k金轉運戒-雙排",
+      "images": 4,
+      "apiUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E8%BD%89%E9%81%8B%E6%88%92-%E9%9B%99%E6%8E%92-20251203141210.json"
+    }
+  ]
+}

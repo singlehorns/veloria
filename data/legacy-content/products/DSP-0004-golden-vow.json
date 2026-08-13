@@ -1,0 +1,71 @@
+{
+  "legacyProductId": "DSP-0004",
+  "legacyCyberbizId": "57339025",
+  "name": "心金不渝",
+  "englishName": "Golden Vow",
+  "originalDisplayName": "心金不渝｜Golden Vow",
+  "slug": "golden-vow",
+  "legacyUrls": [],
+  "category": "項鍊",
+  "collection": "necklace",
+  "collections": [
+    "necklace"
+  ],
+  "productType": "項鍊",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "心金不渝｜Golden Vow 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "心金不渝｜Golden Vow",
+  "seoDescription": "心金不渝｜Golden Vow，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 心金不渝｜Golden Vow",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0041",
+    "SRC-0051",
+    "SRC-0483",
+    "SRC-0493"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0041",
+      "text": "心金不渝｜Golden Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0051",
+      "text": "心金不渝｜Golden Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0483",
+      "text": "心金不渝｜Golden Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0493",
+      "text": "心金不渝｜Golden Vow"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

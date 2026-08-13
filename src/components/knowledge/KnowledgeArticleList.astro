@@ -1,0 +1,26 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import KnowledgeArticleCard from './KnowledgeArticleCard.astro';
+import KnowledgeEmptyState from './KnowledgeEmptyState.astro';
+
+interface Props {
+  articles: CollectionEntry<'knowledge'>[];
+  featuredSlug?: string;
+}
+
+const { articles } = Astro.props;
+---
+
+{articles.length > 0 ? (
+  <div class="knowledge-list">
+    {articles.map((article) => <KnowledgeArticleCard article={article} />)}
+  </div>
+) : (
+  <KnowledgeEmptyState />
+)}
+
+<style>
+  .knowledge-list {
+    display: grid;
+  }
+</style>

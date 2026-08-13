@@ -1,0 +1,38 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import ProductCategorySidebar from '@components/products/ProductCategorySidebar.astro';
+import ProductGrid from '@components/products/ProductGrid.astro';
+import taxonomy from '../../../data/migration/product-taxonomy-master.json';
+
+const products = await getCollection('products');
+---
+
+<BaseLayout title="全部商品" description="VELORIA商品分類，包含求婚戒指、結婚對戒、女士鑽戒、男士鑽戒、時尚珠寶、彩色鑽石專區與精選裸鑽。">
+  <section class="section catalog-section">
+    <div class="container product-browse-layout">
+      <ProductCategorySidebar taxonomy={taxonomy} />
+      <ProductGrid products={products} title="全部商品" />
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .catalog-section {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .product-browse-layout {
+    display: grid;
+    width: min(calc(100% - clamp(32px, 7vw, 128px)), 1120px);
+    grid-template-columns: 220px minmax(0, 1fr);
+    gap: var(--space-6);
+    align-items: start;
+  }
+
+  @media (max-width: 900px) {
+    .product-browse-layout {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

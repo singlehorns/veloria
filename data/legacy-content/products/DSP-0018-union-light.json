@@ -1,0 +1,157 @@
+{
+  "legacyProductId": "DSP-0018",
+  "legacyCyberbizId": "64735134",
+  "name": "交會之光",
+  "englishName": "Union Light",
+  "originalDisplayName": "交會之光｜Union Light",
+  "slug": "union-light",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/union-light-dsdiamond"
+  ],
+  "category": "女士鑽戒 | 經典女戒 | 女士鑽戒, 經典女戒",
+  "collection": "ring-female | 經典女戒",
+  "collections": [
+    "ring-female",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "交會之光｜Union Light 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0018-union-light/source/DSP-0018-main-01.jpeg",
+      "alt": "交會之光｜Union Light 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM1MTM0LzE3NjgyMjQ5MzJfMzc5ZGZkNGZlYWEwNzVhOTA3NGQuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=fff6026a0203d3a9",
+      "sourcePath": "",
+      "sha256": "8b453f58c6ee8bc523f67c4aa4b48fa732945a58f401195a8e00d8271069248f"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0018-union-light/source/DSP-0018-gallery-02.jpeg",
+      "alt": "交會之光｜Union Light 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM1MTM0LzE3NjgyMjQ5MzJfYWJmZTgyMzdmNjRkNTIyZDRjNWEuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=fdc3818017bc3635",
+      "sourcePath": "",
+      "sha256": "3087e03dfe9f8aa2b22f42ee4ad8f970ab0ff3817b177ab685e9aa118d37686b"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0018-union-light/source/DSP-0018-gallery-03.jpeg",
+      "alt": "交會之光｜Union Light 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM1MTM0LzE3NjgyMjQ5MzJfNDE2NWQwZGMxMmM2YzQ4ZmExMzEuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=56be95be1f354383",
+      "sourcePath": "",
+      "sha256": "066f7640c9420687dcbd4053eff15317c65e3a7b69e6d62583e21c2c41cb2be2"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0018-union-light/source/DSP-0018-gallery-04.jpeg",
+      "alt": "交會之光｜Union Light 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM1MTM0LzE3NjgyMjQ5MzJfY2U2NzFhYjA3ZTU5YjI4YTZmOTEuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=9bfdfb5f61350654",
+      "sourcePath": "",
+      "sha256": "84d0ec3a282cdfc2fceb577fd9b9d3598254606c5faf4a7a3fd6704a2e46dbac"
+    }
+  ],
+  "video": "",
+  "seoTitle": "交會之光｜Union Light",
+  "seoDescription": "交會之光｜Union Light，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/union-light-dsdiamond",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/union-light-dsdiamond",
+  "inquiryText": "我想諮詢 交會之光｜Union Light",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0078",
+    "SRC-0088",
+    "SRC-0241",
+    "SRC-0251",
+    "SRC-0354",
+    "SRC-0389",
+    "SRC-0399",
+    "SRC-0403",
+    "SRC-0432",
+    "SRC-0520",
+    "SRC-0530",
+    "SRC-0622"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0078",
+      "text": "交會之光｜Union Light"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0088",
+      "text": "交會之光｜Union Light"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0241",
+      "text": "交會之光｜Union Light"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0251",
+      "text": "交會之光｜Union Light"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0354",
+      "text": "交會之光｜Union Light"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0389",
+      "text": "交會之光｜Union Light"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0399",
+      "text": "交會之光｜Union Light"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0403",
+      "text": "交會之光｜Union Light"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0432",
+      "text": "交會之光｜Union Light"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0520",
+      "text": "交會之光｜Union Light"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0530",
+      "text": "交會之光｜Union Light"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0622",
+      "text": "交會之光｜Union Light"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

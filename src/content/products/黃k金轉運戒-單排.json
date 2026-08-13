@@ -1,0 +1,177 @@
+{
+  "legacyProductId": "DSP-0076",
+  "legacyCyberbizId": "62421363",
+  "name": "黃K金轉運戒(單排)",
+  "englishName": "",
+  "originalDisplayName": "黃K金轉運戒(單排)",
+  "slug": "黃k金轉運戒-單排",
+  "legacyUrls": [],
+  "category": "轉運女戒 | 轉運男戒",
+  "collection": "轉運女戒 | 轉運男戒",
+  "collections": [
+    "轉運女戒",
+    "轉運男戒"
+  ],
+  "productType": "ring",
+  "variantType": "材質/排數變體",
+  "parentProductId": "",
+  "shortDescription": "單排鑽石精緻鋪鑲於黃K金戒身，中段可靈活旋轉，象徵掌握命運、馭勢而行。耀眼金光結合流動設計，詮釋低調奢華與無限好運。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心",
+  "description": "單排鑽石精緻鋪鑲於黃K金戒身，中段可靈活旋轉，象徵掌握命運、馭勢而行。耀眼金光結合流動設計，詮釋低調奢華與無限好運。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0076-黃k金轉運戒-單排/localized/DSP-0076-main-01.jpeg",
+      "alt": "黃K金轉運戒(單排) 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0076-黃k金轉運戒-單排/localized/DSP-0076-gallery-02.jpeg",
+      "alt": "黃K金轉運戒(單排) 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0076-黃k金轉運戒-單排/localized/DSP-0076-gallery-03.jpeg",
+      "alt": "黃K金轉運戒(單排) 3",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0076-黃k金轉運戒-單排/localized/DSP-0076-gallery-04.jpeg",
+      "alt": "黃K金轉運戒(單排) 4",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "轉運戒(單排)｜VELORIA台北店",
+  "seoDescription": "【提供實驗室培育鑽石及天然鑽石】以黃K金打造穩重色澤，戒身中央鑲嵌一圈細緻排鑽，象徵能量循環不息。俐落的雙層邊框線條增添沉穩氣度，低調卻不失光芒，是日常守護與好運相隨的經典男士轉運戒",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/fortune-band-single-row-dsdiamond",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/fortune-band-single-row-dsdiamond",
+  "inquiryText": "我想諮詢 黃K金轉運戒(單排)",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery-deduped",
+  "mediaStatus": "localized-api-gallery-deduped",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0315",
+    "SRC-0321",
+    "SRC-0327",
+    "SRC-0333"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0315",
+      "text": "黃K金轉運戒(單排)"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0321",
+      "text": "黃K金轉運戒(單排)"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0327",
+      "text": "黃K金轉運戒(單排)"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0333",
+      "text": "黃K金轉運戒(單排)"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "62421363",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/fortune-band-single-row-dsdiamond",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "62421363",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/fortune-band-single-row-dsdiamond",
+      "text": "單排鑽石精緻鋪鑲於黃K金戒身，中段可靈活旋轉，象徵掌握命運、馭勢而行。耀眼金光結合流動設計，詮釋低調奢華與無限好運。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "mens-diamond-rings",
+  "subcategories": [
+    "fortune-womens-rings",
+    "fortune-mens-rings"
+  ],
+  "audience": "men",
+  "diamondType": "natural-diamond",
+  "tags": [
+    "mens-diamond-rings",
+    "fortune-womens-rings",
+    "fortune-mens-rings",
+    "ring",
+    "men",
+    "natural-diamond"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "fortune-womens-rings",
+    "mens-diamond-rings",
+    "fortune-mens-rings"
+  ],
+  "displayPrice": "NT$48,000 - NT$61,000",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "75844987",
+      "sku": "",
+      "name": "黃K金轉運戒(單排)",
+      "price": 61000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    },
+    {
+      "variantId": "75844988",
+      "sku": "",
+      "name": "黃K金轉運戒(單排)",
+      "price": 48000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 48000,
+  "priceMax": 61000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "62421363",
+  "pricingStandards": {
+    "source": "fallback",
+    "materialStatement": "此款價格基於18K 金材質之設計。",
+    "naturalDiamond": "天然鑽款：請洽專人確認鑽石規格。",
+    "labDiamond": "培育鑽款：請洽專人確認鑽石規格。",
+    "notes": [
+      "如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "<p><strong>材質選定：</strong></p>\n\n<ul>\n\t<li>提供鉑金（PT950）、18K金（白K、黃K、玫瑰金）等材質選擇。</li>\n\t<li>可搭配天然鑽石或實驗室培育鑽石，皆附台大國際寶石鑑定所(TDUGR)之鑽石與貴金屬鑑定證書。</li>\n\t<li>材質經專業檢驗，適合長期配戴與紀念。</li>\n</ul>\n\n<p> </p>\n\n<p><strong>戒圍量測：</strong></p>\n\n<ul>\n\t<li>可至門市協助量測，或提供既有戒指對照參考。</li>\n\t<li>下單後將免費寄送專業戒圍量測器至您指定地址。</li>\n</ul>\n\n<p> </p>\n\n<p><strong>刻字服務：</strong></p>\n\n<ul>\n\t<li>提供免費內圈刻字服務，可刻英文、數字與常見符號（如 ∞、♥）。</li>\n\t<li>建議字數不超過12字元，實際長度視戒指寬度而定。</li>\n\t<li>若有特殊刻字需求，請於下單時備註或聯絡客服確認。</li>\n</ul>"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "<p>為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：</p>\n\n<ul>\n\t<li>\n<strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。</li>\n\t<li>\n<strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。</li>\n</ul>"
+    }
+  ]
+}

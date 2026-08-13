@@ -1,0 +1,91 @@
+{
+  "legacyProductId": "DSP-0013",
+  "legacyCyberbizId": "57337018",
+  "name": "日耀承諾",
+  "englishName": "Solar Vow",
+  "originalDisplayName": "日耀承諾｜Solar Vow",
+  "slug": "solar-vow",
+  "legacyUrls": [],
+  "category": "求婚戒指",
+  "collection": "ring-female | 求婚 | 經典女戒",
+  "collections": [
+    "ring-female",
+    "求婚",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "日耀承諾｜Solar Vow 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "日耀承諾｜Solar Vow",
+  "seoDescription": "日耀承諾｜Solar Vow，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 日耀承諾｜Solar Vow",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0108",
+    "SRC-0186",
+    "SRC-0196",
+    "SRC-0271",
+    "SRC-0550",
+    "SRC-0594",
+    "SRC-0604"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0108",
+      "text": "日耀承諾｜Solar Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0186",
+      "text": "日耀承諾｜Solar Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0196",
+      "text": "日耀承諾｜Solar Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0271",
+      "text": "日耀承諾｜Solar Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0550",
+      "text": "日耀承諾｜Solar Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0594",
+      "text": "日耀承諾｜Solar Vow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0604",
+      "text": "日耀承諾｜Solar Vow"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "女士鑽戒",
+  "slug": "ring-female",
+  "englishName": "女士鑽戒",
+  "summary": "三序映華｜Trinity Éclat 三生之約｜Trîlogy Vow 交會之光｜Unîon Light 交織之約｜Entwinéd Promise",
+  "description": "三序映華｜Trinity Éclat 三生之約｜Trîlogy Vow 交會之光｜Unîon Light 交織之約｜Entwinéd Promise",
+  "heroImage": {
+    "src": "/assets/migrated/collections/womens-ring.jpeg",
+    "alt": "女士鑽戒"
+  },
+  "products": [
+    "trinity-eclat",
+    "trilogy-vow",
+    "union-light",
+    "entwined-promise"
+  ],
+  "featured": false,
+  "seoTitle": "女士鑽戒 VELORIA",
+  "seoDescription": "三序映華｜Trinity Éclat 三生之約｜Trîlogy Vow 交會之光｜Unîon Light 交織之約｜Entwinéd Promise",
+  "originalUrl": "https://www.dsdiamond.com.tw/collections/ring-female",
+  "originalSource": "../dsdiamond_backup/brand-data/brand-routes.json",
+  "migrationStatus": "部分搬遷",
+  "migrationNotes": "由舊站 brand-routes 自動補回系列頁入口；產品、圖片與完整區塊仍需人工核對。 已連接可追蹤的舊站系列媒體；產品圖仍需逐筆確認。"
+}

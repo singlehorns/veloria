@@ -1,0 +1,153 @@
+{
+  "legacyProductId": "DSP-0067",
+  "legacyCyberbizId": "58378153",
+  "name": "晨曦之舞",
+  "englishName": "Akàtsuki Dance",
+  "originalDisplayName": "晨曦之舞｜Akàtsuki Dance",
+  "slug": "akatsuki-dance",
+  "legacyUrls": [],
+  "category": "耳環",
+  "collection": "earring",
+  "collections": [
+    "earring"
+  ],
+  "productType": "earring",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "玫瑰金色澤映襯三顆漸次排列的圓鑽，宛如晨曦中舞動的光影，溫柔且充滿生機。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心",
+  "description": "玫瑰金色澤映襯三顆漸次排列的圓鑽，宛如晨曦中舞動的光影，溫柔且充滿生機。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0067-akatsuki-dance/localized/DSP-0067-main-01.png",
+      "alt": "晨曦之舞｜Akàtsuki Dance 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0067-akatsuki-dance/localized/DSP-0067-gallery-02.png",
+      "alt": "晨曦之舞｜Akàtsuki Dance 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0067-akatsuki-dance/localized/DSP-0067-gallery-03.png",
+      "alt": "晨曦之舞｜Akàtsuki Dance 3",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "晨曦之舞｜Akàtsuki Dance",
+  "seoDescription": "玫瑰金色澤映襯三顆漸次排列的圓鑽，宛如晨曦中舞動的光影，溫柔且充滿生機。          ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。          📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：                                                        💬 客服中心",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%99%A8%E6%9B%A6%E4%B9%8B%E8%88%9E%EF%BD%9Cakatsuki-dance",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%99%A8%E6%9B%A6%E4%B9%8B%E8%88%9E%EF%BD%9Cakatsuki-dance",
+  "inquiryText": "我想諮詢 晨曦之舞｜Akàtsuki Dance",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-html-gallery",
+  "mediaStatus": "localized-html-gallery",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0026",
+    "SRC-0033"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0026",
+      "text": "晨曦之舞｜Akàtsuki Dance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0033",
+      "text": "晨曦之舞｜Akàtsuki Dance"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "58378153",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%99%A8%E6%9B%A6%E4%B9%8B%E8%88%9E%EF%BD%9Cakatsuki-dance",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "58378153",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%99%A8%E6%9B%A6%E4%B9%8B%E8%88%9E%EF%BD%9Cakatsuki-dance",
+      "text": "玫瑰金色澤映襯三顆漸次排列的圓鑽，宛如晨曦中舞動的光影，溫柔且充滿生機。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "other-jewelry",
+  "subcategories": [
+    "earrings"
+  ],
+  "audience": "unisex",
+  "diamondType": "natural-diamond",
+  "tags": [
+    "other-jewelry",
+    "earrings",
+    "earring",
+    "unisex",
+    "natural-diamond"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "earrings"
+  ],
+  "displayPrice": "NT$48,000 - NT$180,000",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "80875019",
+      "sku": "DSE0007",
+      "name": "晨曦之舞｜Akàtsuki Dance",
+      "price": 180000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    },
+    {
+      "variantId": "70747029",
+      "sku": "DSE0006",
+      "name": "晨曦之舞｜Akàtsuki Dance",
+      "price": 48000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 48000,
+  "priceMax": 180000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "58378153",
+  "pricingStandards": {
+    "source": "product-slogan",
+    "materialStatement": "以下價格以18K玫瑰金材質，每對耳環為20分、30分、50分階序設計，如需其他規格請聯絡專員。",
+    "naturalDiamond": "",
+    "labDiamond": "",
+    "notes": []
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "<p><strong>材質選定：</strong></p>\n\n<ul>\n\t<li>提供鉑金（PT950）、18K金（白K、黃K、玫瑰金）等材質選擇。</li>\n\t<li>材質經專業檢驗，適合長期配戴與紀念。</li>\n</ul>\n \n\n<p><strong>耳針材質與設計：</strong></p>\n\n<ul>\n\t<li>耳針部分採用低敏材質設計，降低配戴不適風險。</li>\n\t<li>部分款式可選擇螺旋耳扣、矽膠耳堵或其他安全設計。</li>\n\t<li>如有過敏體質，請於下單前洽詢客服確認適用材質。</li>\n</ul>"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "<p>為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：</p>\n\n<ul>\n\t<li>\n<strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。</li>\n\t<li>\n<strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。</li>\n</ul>"
+    }
+  ]
+}

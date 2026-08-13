@@ -1,0 +1,56 @@
+---
+interface Props {
+  name: string;
+  eyebrow?: string;
+  description: string;
+  image?: string;
+  href: string;
+}
+const { name, eyebrow, description, image, href } = Astro.props;
+---
+
+<article class="jewelry-card">
+  <a href={href} aria-label={`查看 ${name}`}>
+    {image ? <img src={image} alt={name} loading="lazy" /> : <div class="missing-image">圖片待確認</div>}
+    <div>
+      {eyebrow && <p class="eyebrow">{eyebrow}</p>}
+      <h3>{name}</h3>
+      <p>{description}</p>
+    </div>
+  </a>
+</article>
+
+<style>
+  .jewelry-card {
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    background: white;
+  }
+
+  .jewelry-card img,
+  .missing-image {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+  }
+
+  .jewelry-card img {
+    object-fit: cover;
+  }
+
+  .missing-image {
+    display: grid;
+    place-items: center;
+    background: var(--color-surface-soft);
+    color: var(--color-muted);
+    font-size: 0.95rem;
+  }
+
+  .jewelry-card div {
+    padding: var(--space-5);
+  }
+
+  .jewelry-card h3 {
+    margin: 0.35rem 0 0.65rem;
+  }
+</style>

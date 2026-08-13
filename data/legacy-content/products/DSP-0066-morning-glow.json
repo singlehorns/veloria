@@ -1,0 +1,85 @@
+{
+  "legacyProductId": "DSP-0066",
+  "legacyCyberbizId": "58811279",
+  "name": "晨曦之光",
+  "englishName": "Morning Glow",
+  "originalDisplayName": "晨曦之光｜Morning Glow",
+  "slug": "morning-glow",
+  "legacyUrls": [],
+  "category": "彩色鑽石專區 | 黃鑽",
+  "collection": "彩色鑽石專區 | 求婚 | 黃鑽",
+  "collections": [
+    "彩色鑽石專區",
+    "求婚",
+    "黃鑽"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "晨曦之光｜Morning Glow 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "晨曦之光｜Morning Glow",
+  "seoDescription": "晨曦之光｜Morning Glow，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 晨曦之光｜Morning Glow",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0150",
+    "SRC-0160",
+    "SRC-0201",
+    "SRC-0340",
+    "SRC-0349",
+    "SRC-0609"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0150",
+      "text": "晨曦之光｜Morning Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0160",
+      "text": "晨曦之光｜Morning Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0201",
+      "text": "晨曦之光｜Morning Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0340",
+      "text": "晨曦之光｜Morning Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0349",
+      "text": "晨曦之光｜Morning Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0609",
+      "text": "晨曦之光｜Morning Glow"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

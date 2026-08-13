@@ -1,0 +1,187 @@
+{
+  "legacyUrl": "https://www.dsdiamond.com.tw/pages/about-us",
+  "newUrl": "/pages/about-us/",
+  "title": "關於我們",
+  "metaTitle": "關於我們",
+  "metaDescription": "關於我們",
+  "contentBlocks": [
+    {
+      "order": 1,
+      "type": "breadcrumb",
+      "heading": "",
+      "body": "首頁 > 關於我們",
+      "images": [],
+      "video": null,
+      "links": [
+        {
+          "label": "首頁",
+          "href": "https://www.dsdiamond.com.tw/"
+        },
+        {
+          "label": "關於我們",
+          "href": "https://www.dsdiamond.com.tw/pages/about-us"
+        }
+      ],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/about-us.html:1720"
+    },
+    {
+      "order": 2,
+      "type": "intro",
+      "heading": "歡迎來到 鑽之韻",
+      "body": "歡迎來到 鑽之韻 — 專屬於您的鑽石美學空間。",
+      "images": [],
+      "video": null,
+      "links": [],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/about-us.html:1721"
+    },
+    {
+      "order": 3,
+      "type": "paragraph",
+      "heading": "",
+      "body": "鑽之韻的品牌誕生於對永恆之美的熱愛與對匠心工藝的追求。從創立之初，致力於為每位顧客提供不僅是珠寶，更是一份珍貴的情感象徵。每一顆鑽石都承載著愛與承諾，希望透過精湛的設計與卓越的品質，讓每一份珠寶都能成為人生中閃耀的見證。",
+      "images": [],
+      "video": null,
+      "links": [],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/about-us.html:1723"
+    },
+    {
+      "order": 4,
+      "type": "founderInterview",
+      "heading": "品牌創辦人 專訪",
+      "body": "Founder Interview",
+      "images": [
+        {
+          "src": "https://i.ytimg.com/vi/Q6DZdrUYy-8/hqdefault.jpg",
+          "alt": "品牌創辦人 專訪影片縮圖",
+          "source": "CSS background-image"
+        }
+      ],
+      "video": {
+        "type": "youtube",
+        "id": "Q6DZdrUYy-8",
+        "url": "https://www.youtube.com/watch?v=Q6DZdrUYy-8",
+        "embedUrl": "https://www.youtube.com/embed/Q6DZdrUYy-8",
+        "poster": "https://i.ytimg.com/vi/Q6DZdrUYy-8/hqdefault.jpg",
+        "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/about-us.html:1738"
+      },
+      "links": [
+        {
+          "label": "Founder Interview",
+          "href": "https://www.youtube.com/watch?v=Q6DZdrUYy-8"
+        }
+      ],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/about-us.html:1728"
+    },
+    {
+      "order": 5,
+      "type": "paragraph",
+      "heading": "",
+      "body": "鑽之韻對品質的要求近乎苛刻，所有鑽石均經過嚴格篩選，符合國際認證標準，確保每一顆都擁有無與倫比的火彩與純淨度。設計師融合經典與現代美學，打造獨一無二的珠寶作品，讓每一件飾品都兼具藝術價值與個人風格。我們相信，真正的美來自細節，每一次雕琢、每一道工序，皆蘊含我們對完美的追求。\n鑽之韻不僅提供高品質的鑽石與工藝，更希望透過珠ㄕ寶，傳遞愛、承諾與幸福，讓每一位顧客都能擁有屬於自己的閃耀時刻。",
+      "images": [],
+      "video": null,
+      "links": [],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/about-us.html:1745"
+    },
+    {
+      "order": 6,
+      "type": "list",
+      "heading": "我們的商品",
+      "body": "天然鑽石與實驗室培育鑽石首飾\n訂婚戒、婚戒、項鍊、耳環、手鍊等\n客製化設計服務，打造專屬風格",
+      "images": [],
+      "video": null,
+      "links": [],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/about-us.html:1753"
+    },
+    {
+      "order": 7,
+      "type": "contact",
+      "heading": "聯繫我們",
+      "body": "門市資訊\n台北旗艦門市：敦化南路一段160巷11號",
+      "images": [],
+      "video": null,
+      "links": [
+        {
+          "label": "Google Maps",
+          "href": "https://www.google.com/maps/search/?api=1&query=%E6%95%A6%E5%8C%96%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B5160%E5%B7%B711%E8%99%9F"
+        }
+      ],
+      "map": {
+        "type": "googleMapsIframe",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11149.345804295419!2d121.53788112536134!3d25.043297728058793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442abdb29a99197%3A0xaa0f3f63acdbf107!2zMTA25Y-w5YyX5biC5aSn5a6J5Y2A5pWm5YyW5Y2X6Lev5LiA5q61MTYw5be3MTHomZ8!5e0!3m2!1szh-TW!2stw!4v1758004516154!5m2!1szh-TW!2stw",
+        "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/about-us.html:1777"
+      },
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/about-us.html:1763"
+    },
+    {
+      "order": 8,
+      "type": "transportation",
+      "heading": "交通資訊",
+      "body": "捷運轉乘\n台北捷運板南線 忠孝敦化站：8號出口出站後，沿敦化南路一段直行，步行約3分鐘，右轉進入160巷即可抵達\n台北捷運板南線 忠孝復興站：4號出口出站後，沿敦化南路一段往南步行，約5–6分鐘，左轉進入160巷即可抵達\n外縣市及駕車\n市民大道 → 復興南路一段 → 右轉敦化南路一段 → 直行至160巷 → 右轉進入160巷 → 抵達\n附近停車場建議：嘟嘟房敦南站、城市車旅敦南站、忠孝敦化停車場",
+      "images": [],
+      "video": null,
+      "links": [],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/about-us.html:1784"
+    },
+    {
+      "order": 9,
+      "type": "businessHours",
+      "heading": "營業資訊",
+      "body": "營業時間：11:00 - 19:00 ( 店休周日 )\n線上客服不打烊，歡迎隨時聯繫我們",
+      "images": [],
+      "video": null,
+      "links": [],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/about-us.html:1793"
+    },
+    {
+      "order": 10,
+      "type": "contactInformation",
+      "heading": "聯絡資訊",
+      "body": "Email：zuanzhiyun60@gmail.com\n電話：02-27791005\nLINE\n線上諮詢與新品訊息",
+      "images": [],
+      "video": null,
+      "links": [
+        {
+          "label": "LINE",
+          "href": "https://lin.ee/dY9OiEQ"
+        },
+        {
+          "label": "Email",
+          "href": "mailto:zuanzhiyun60@gmail.com"
+        }
+      ],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/about-us.html:1797"
+    },
+    {
+      "order": 11,
+      "type": "closing",
+      "heading": "",
+      "body": "✨ 鑽石，有選擇；閃耀，無侷限 ✨",
+      "images": [],
+      "video": null,
+      "links": [],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/about-us.html:1827"
+    }
+  ],
+  "contactInformation": {
+    "address": "台北旗艦門市：敦化南路一段160巷11號",
+    "transportation": [
+      "台北捷運板南線 忠孝敦化站：8號出口出站後，沿敦化南路一段直行，步行約3分鐘，右轉進入160巷即可抵達",
+      "台北捷運板南線 忠孝復興站：4號出口出站後，沿敦化南路一段往南步行，約5–6分鐘，左轉進入160巷即可抵達",
+      "市民大道 → 復興南路一段 → 右轉敦化南路一段 → 直行至160巷 → 右轉進入160巷 → 抵達",
+      "附近停車場建議：嘟嘟房敦南站、城市車旅敦南站、忠孝敦化停車場"
+    ],
+    "businessHours": "11:00 - 19:00 ( 店休周日 )",
+    "email": "zuanzhiyun60@gmail.com",
+    "phone": "02-27791005",
+    "line": "https://lin.ee/dY9OiEQ"
+  },
+  "seo": {
+    "canonical": "https://www.dsdiamond.com.tw/pages/about-us",
+    "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/about-us.html:12"
+  },
+  "migrationStatus": "ready-for-formal-page-rendering",
+  "migrationNotes": [
+    "Formal page must not display generic AI copy or migration notes.",
+    "Visible typo `珠ㄕ寶` is preserved because it appears in the old source HTML."
+  ]
+}

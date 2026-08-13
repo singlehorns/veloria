@@ -1,0 +1,145 @@
+{
+  "legacyProductId": "DSP-0042",
+  "legacyCyberbizId": "57338473",
+  "name": "帝鑽之冠",
+  "englishName": "Crown of Majesty",
+  "originalDisplayName": "帝鑽之冠｜Crown of Majesty",
+  "slug": "crown-of-majesty",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/男戒05"
+  ],
+  "category": "男士鑽戒 | 經典男戒",
+  "collection": "ring-man | 經典男戒",
+  "collections": [
+    "ring-man",
+    "經典男戒"
+  ],
+  "productType": "男戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "帝鑽之冠｜Crown of Majesty 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0042-crown-of-majesty/source/DSP-0042-main-01.png",
+      "alt": "帝鑽之冠｜Crown of Majesty 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDczLzE3NTIwNDIxMDZfMmMwNTk4YWNlOGQ2OTg0ZDI0MmQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=7693176c353237ad",
+      "sourcePath": "",
+      "sha256": "dba84b59191c0ffed92038aaaf0f0fa287efaa61c688b687a696c3eb81dade91"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0042-crown-of-majesty/source/DSP-0042-gallery-02.png",
+      "alt": "帝鑽之冠｜Crown of Majesty 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDczLzE3NTIwNDIxMDZfMDYwMzAzNzUwZjg0YWZkYTIzOGYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=0d3e26a15dcc89a6",
+      "sourcePath": "",
+      "sha256": "13da0dbe3cd28117c089abc6453110a447b9effefeb745cd944f2023fc69a514"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0042-crown-of-majesty/source/DSP-0042-gallery-03.png",
+      "alt": "帝鑽之冠｜Crown of Majesty 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDczLzE3NTIwNDIxMDZfNjJmMDFhM2U1ZmZkY2Q2ODYzNjIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=20dc3385cbe71030",
+      "sourcePath": "",
+      "sha256": "38e20a9a1e7ae8ee85ea7ded07492491c7900e45231a9a770977895d69dd3bd6"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0042-crown-of-majesty/source/DSP-0042-gallery-04.png",
+      "alt": "帝鑽之冠｜Crown of Majesty 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDczLzE3NTIwNDIxMDZfNzFhYmIxMWFkZGU2MTc5N2E5NzEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=e0960cce6692eab3",
+      "sourcePath": "",
+      "sha256": "4191e6b5a4910447cf31e08b48911cadfcb3b7ea0cd0f9125c687308a938ba8d"
+    }
+  ],
+  "video": "",
+  "seoTitle": "帝鑽之冠｜Crown of Majesty",
+  "seoDescription": "帝鑽之冠｜Crown of Majesty，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/男戒05",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/男戒05",
+  "inquiryText": "我想諮詢 帝鑽之冠｜Crown of Majesty",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0113",
+    "SRC-0123",
+    "SRC-0276",
+    "SRC-0286",
+    "SRC-0367",
+    "SRC-0416",
+    "SRC-0445",
+    "SRC-0555",
+    "SRC-0565",
+    "SRC-0635"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0113",
+      "text": "帝鑽之冠｜Crown of Majesty"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0123",
+      "text": "帝鑽之冠｜Crown of Majesty"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0276",
+      "text": "帝鑽之冠｜Crown of Majesty"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0286",
+      "text": "帝鑽之冠｜Crown of Majesty"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0367",
+      "text": "帝鑽之冠｜Crown of Majesty"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0416",
+      "text": "帝鑽之冠｜Crown of Majesty"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0445",
+      "text": "帝鑽之冠｜Crown of Majesty"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0555",
+      "text": "帝鑽之冠｜Crown of Majesty"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0565",
+      "text": "帝鑽之冠｜Crown of Majesty"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0635",
+      "text": "帝鑽之冠｜Crown of Majesty"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

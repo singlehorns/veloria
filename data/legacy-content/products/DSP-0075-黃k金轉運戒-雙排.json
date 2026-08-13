@@ -1,0 +1,85 @@
+{
+  "legacyProductId": "DSP-0075",
+  "legacyCyberbizId": "62712669",
+  "name": "黃K金轉運戒 ( 雙排 )",
+  "englishName": "",
+  "originalDisplayName": "黃K金轉運戒 ( 雙排 )",
+  "slug": "黃k金轉運戒-雙排",
+  "legacyUrls": [],
+  "category": "轉運女戒 | 轉運男戒",
+  "collection": "ring-man | 轉運女戒 | 轉運男戒",
+  "collections": [
+    "ring-man",
+    "轉運女戒",
+    "轉運男戒"
+  ],
+  "productType": "男戒",
+  "variantType": "材質/排數變體",
+  "parentProductId": "",
+  "shortDescription": "黃K金轉運戒 ( 雙排 ) 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "黃K金轉運戒 ( 雙排 )",
+  "seoDescription": "黃K金轉運戒 ( 雙排 )，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 黃K金轉運戒 ( 雙排 )",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0143",
+    "SRC-0314",
+    "SRC-0320",
+    "SRC-0326",
+    "SRC-0332",
+    "SRC-0585"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0143",
+      "text": "黃K金轉運戒 ( 雙排 )"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0314",
+      "text": "黃K金轉運戒 ( 雙排 )"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0320",
+      "text": "黃K金轉運戒 ( 雙排 )"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0326",
+      "text": "黃K金轉運戒 ( 雙排 )"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0332",
+      "text": "黃K金轉運戒 ( 雙排 )"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0585",
+      "text": "黃K金轉運戒 ( 雙排 )"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

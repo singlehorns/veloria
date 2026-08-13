@@ -1,0 +1,221 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import ProductCategorySidebar from '@components/products/ProductCategorySidebar.astro';
+import ProductCard from '@components/products/ProductCard.astro';
+import taxonomy from '../../data/migration/product-taxonomy-master.json';
+
+const products = await getCollection('products');
+
+const getSearchText = (product: any) => {
+  const data = product.data ?? product;
+  return [
+    data.name,
+    data.englishName,
+    data.originalDisplayName,
+    data.slug,
+    data.category,
+    data.collection,
+    data.productType,
+    data.audience,
+    data.diamondType,
+    ...(data.tags ?? []),
+    ...(data.collections ?? []),
+    ...(data.collectionSlugs ?? [])
+  ]
+    .filter(Boolean)
+    .join(' ')
+    .toLowerCase();
+};
+---
+
+<BaseLayout title="搜尋商品" description="搜尋 VELORIA 商品，依品名、英文名、分類或標籤快速找到戒指與珠寶。">
+  <section class="section search-section">
+    <div class="container search-browse-layout">
+      <ProductCategorySidebar taxonomy={taxonomy} />
+
+      <section class="catalog-panel search-catalog" data-product-search>
+        <header class="catalog-header">
+          <h1>搜尋結果</h1>
+          <div class="catalog-tools" aria-label="搜尋結果資訊">
+            <p data-product-search-summary>搜尋商品</p>
+          </div>
+        </header>
+
+        <div class="product-list is-grid" data-product-search-results>
+          {products.map((product) => (
+            <div data-search-card data-search-text={getSearchText(product)} hidden>
+              <ProductCard product={product} />
+            </div>
+          ))}
+        </div>
+
+        <div class="product-empty" data-product-search-empty hidden>
+          <p>
+            找不到你要的商品
+            <span>請試試其他品名、英文系列名、戒指類型或分類關鍵字。</span>
+          </p>
+        </div>
+      </section>
+    </div>
+  </section>
+
+  <script>
+    const searchSummary = document.querySelector<HTMLElement>('[data-product-search-summary]');
+    const searchEmpty = document.querySelector<HTMLElement>('[data-product-search-empty]');
+    const searchCards = Array.from(document.querySelectorAll<HTMLElement>('[data-search-card]'));
+    const headerSearchInput = document.querySelector<HTMLInputElement>('[data-site-search-input]');
+
+    const normalizeSearch = (value: string) => value.trim().toLowerCase();
+
+    const applyProductSearch = (query: string) => {
+      const normalizedQuery = normalizeSearch(query);
+      const terms = normalizedQuery.split(/\s+/).filter(Boolean);
+      let visibleCount = 0;
+
+      searchCards.forEach((card) => {
+        const haystack = card.dataset.searchText || '';
+        const isMatch = terms.length > 0 && terms.every((term) => haystack.includes(term));
+        card.hidden = !isMatch;
+        if (isMatch) visibleCount += 1;
+      });
+
+      if (searchSummary) {
+        searchSummary.textContent = terms.length
+          ? `找到 ${visibleCount} 件相關商品`
+          : '請輸入關鍵字搜尋商品';
+      }
+
+      if (searchEmpty) {
+        searchEmpty.hidden = terms.length === 0 || visibleCount > 0;
+      }
+    };
+
+    const params = new URLSearchParams(window.location.search);
+    const initialQuery = params.get('q') || '';
+
+    if (headerSearchInput) {
+      headerSearchInput.value = initialQuery;
+      headerSearchInput.closest('[data-site-search]')?.classList.toggle('has-query', Boolean(initialQuery.trim()));
+    }
+
+    applyProductSearch(initialQuery);
+  </script>
+</BaseLayout>
+
+<style>
+  .search-section {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .search-browse-layout {
+    display: grid;
+    width: min(calc(100% - clamp(32px, 7vw, 128px)), 1120px);
+    grid-template-columns: 220px minmax(0, 1fr);
+    gap: var(--space-6);
+    align-items: start;
+  }
+
+  .catalog-panel {
+    display: grid;
+    gap: 1.8rem;
+    width: 100%;
+    margin-inline: auto;
+  }
+
+  .catalog-header {
+    display: grid;
+    gap: 1.4rem;
+  }
+
+  .catalog-header h1 {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    margin: 0;
+    color: var(--color-ink);
+    font-family: var(--font-functional-sans);
+    font-size: 1.5rem;
+    font-weight: 800;
+    line-height: 1.25;
+  }
+
+  .catalog-header h1::before {
+    content: "";
+    display: block;
+    width: 3px;
+    height: 1.7rem;
+    background: var(--color-ink);
+  }
+
+  .catalog-tools {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  .catalog-tools p {
+    color: var(--color-muted);
+    white-space: nowrap;
+  }
+
+  .product-list {
+    display: grid;
+    gap: 2rem;
+  }
+
+  .product-list.is-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .product-list > [hidden] {
+    display: none;
+  }
+
+  .product-empty {
+    display: grid;
+    place-items: center;
+    min-height: 320px;
+    border: 1px solid var(--color-border);
+    color: var(--color-muted);
+    text-align: center;
+  }
+
+  .product-empty[hidden] {
+    display: none;
+  }
+
+  .product-empty p {
+    display: grid;
+    gap: 0.6rem;
+    margin: 0;
+    color: var(--color-ink);
+    font-size: 1.08rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+  }
+
+  .product-empty span {
+    color: var(--color-muted);
+    font-size: 0.92rem;
+    font-weight: 400;
+  }
+
+  @media (max-width: 900px) {
+    .search-browse-layout {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 760px) {
+    .product-list.is-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 520px) {
+    .product-list.is-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

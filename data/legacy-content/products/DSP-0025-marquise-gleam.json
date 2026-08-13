@@ -1,0 +1,145 @@
+{
+  "legacyProductId": "DSP-0025",
+  "legacyCyberbizId": "62421341",
+  "name": "光韻之矢",
+  "englishName": "Marquise Gleam",
+  "originalDisplayName": "光韻之矢｜Marquise Gleam",
+  "slug": "marquise-gleam",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/marquise-gleam-dsdiamond"
+  ],
+  "category": "女士鑽戒 | 經典女戒",
+  "collection": "ring-female | 經典女戒",
+  "collections": [
+    "ring-female",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "光韻之矢｜Marquise Gleam 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0025-marquise-gleam/source/DSP-0025-main-01.jpeg",
+      "alt": "光韻之矢｜Marquise Gleam 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfY2Y2OWE3NWRmNDZmYWUwYmE1NzMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=0372c38f9ea369e0",
+      "sourcePath": "",
+      "sha256": "9552e47f878735e10561125021807fd4d1ce6c1a5f3b0e56bb2d367e284ddbcd"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0025-marquise-gleam/source/DSP-0025-gallery-02.jpeg",
+      "alt": "光韻之矢｜Marquise Gleam 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfYjRmN2MyZTJlNmRhYzZjMGE4N2YuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=ab4159b46757f753",
+      "sourcePath": "",
+      "sha256": "d7d2d9decb1b18faf3e32da2ccd06cd1513a6245c646e3c04637dda418078597"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0025-marquise-gleam/source/DSP-0025-gallery-03.jpeg",
+      "alt": "光韻之矢｜Marquise Gleam 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfMGE1MGMwNzgxZTZmMGZkZWM5MWMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=3506d12375bbdc03",
+      "sourcePath": "",
+      "sha256": "103c68301fd4021233f8cea5f8ea55e2042e48df34ff870308333f91c43d9a61"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0025-marquise-gleam/source/DSP-0025-gallery-04.jpeg",
+      "alt": "光韻之矢｜Marquise Gleam 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfZTc4NmE4NWZkNjY1ZjhiYjVjNjcuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=0a29850acb701554",
+      "sourcePath": "",
+      "sha256": "922992be6dc3f6c8c4bc4b9b80add06ed0b11fa8fa69ff413a3ebe5eb9d40d78"
+    }
+  ],
+  "video": "",
+  "seoTitle": "光韻之矢｜Marquise Gleam",
+  "seoDescription": "光韻之矢｜Marquise Gleam，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/marquise-gleam-dsdiamond",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/marquise-gleam-dsdiamond",
+  "inquiryText": "我想諮詢 光韻之矢｜Marquise Gleam",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0083",
+    "SRC-0093",
+    "SRC-0246",
+    "SRC-0256",
+    "SRC-0359",
+    "SRC-0408",
+    "SRC-0437",
+    "SRC-0525",
+    "SRC-0535",
+    "SRC-0627"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0083",
+      "text": "光韻之矢｜Marquise Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0093",
+      "text": "光韻之矢｜Marquise Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0246",
+      "text": "光韻之矢｜Marquise Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0256",
+      "text": "光韻之矢｜Marquise Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0359",
+      "text": "光韻之矢｜Marquise Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0408",
+      "text": "光韻之矢｜Marquise Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0437",
+      "text": "光韻之矢｜Marquise Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0525",
+      "text": "光韻之矢｜Marquise Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0535",
+      "text": "光韻之矢｜Marquise Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0627",
+      "text": "光韻之矢｜Marquise Gleam"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

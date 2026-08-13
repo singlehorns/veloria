@@ -1,0 +1,127 @@
+{
+  "legacyProductId": "DSP-0107",
+  "legacyCyberbizId": "58093838",
+  "name": "權杖紋章",
+  "englishName": "Scepter Crest",
+  "originalDisplayName": "權杖紋章｜Scepter Crest",
+  "slug": "scepter-crest",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/男戒14"
+  ],
+  "category": "男戒",
+  "collection": "ring-man | 經典男戒",
+  "collections": [
+    "ring-man",
+    "經典男戒"
+  ],
+  "productType": "男戒",
+  "variantType": "材質/排數變體",
+  "parentProductId": "",
+  "shortDescription": "權杖紋章｜Scepter Crest 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0107-scepter-crest/source/DSP-0107-main-01.png",
+      "alt": "權杖紋章｜Scepter Crest 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfNzE2YzE3NjQ2YWFiNmQ5NGZmYzYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=5e8103034a3065af",
+      "sourcePath": "",
+      "sha256": "44f7f2d352ac35dbff5060f5a1138cd0eb83383874b187b3f244abda557b80f8"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0107-scepter-crest/source/DSP-0107-gallery-02.png",
+      "alt": "權杖紋章｜Scepter Crest 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfM2I3MzY5NWI2NmZkYTY1Zjg2NWIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=560363e9de7d04ff",
+      "sourcePath": "",
+      "sha256": "2c778f8dfd84b300b2340c8fdd14541df69a68add5bb9dc4f31563099417ac97"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0107-scepter-crest/source/DSP-0107-gallery-03.png",
+      "alt": "權杖紋章｜Scepter Crest 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfMzE3ZDQ1ZjVkNTY5MDM5MTUxNjEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=4479cad3440ee910",
+      "sourcePath": "",
+      "sha256": "caa7fd11f66310b8e4586a7adf4446a21439a6c83da221c98144a26ef917bd14"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0107-scepter-crest/source/DSP-0107-gallery-04.png",
+      "alt": "權杖紋章｜Scepter Crest 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfMGRlYjRmMmQ4OTFkYWM1NzRkNjEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=0e1082f4a607db72",
+      "sourcePath": "",
+      "sha256": "cbf21cf0d301d19ca5d58eb35157d46507014dfb745760f3fb2d744432accbb7"
+    }
+  ],
+  "video": "",
+  "seoTitle": "權杖紋章｜Scepter Crest",
+  "seoDescription": "權杖紋章｜Scepter Crest，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/男戒14",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/男戒14",
+  "inquiryText": "我想諮詢 權杖紋章｜Scepter Crest",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0133",
+    "SRC-0294",
+    "SRC-0375",
+    "SRC-0424",
+    "SRC-0453",
+    "SRC-0575",
+    "SRC-0643"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0133",
+      "text": "權杖紋章｜Scepter Crest"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0294",
+      "text": "權杖紋章｜Scepter Crest"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0375",
+      "text": "權杖紋章｜Scepter Crest"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0424",
+      "text": "權杖紋章｜Scepter Crest"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0453",
+      "text": "權杖紋章｜Scepter Crest"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0575",
+      "text": "權杖紋章｜Scepter Crest"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0643",
+      "text": "權杖紋章｜Scepter Crest"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

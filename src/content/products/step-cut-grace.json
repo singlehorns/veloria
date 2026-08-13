@@ -1,0 +1,156 @@
+{
+  "legacyProductId": "CYB-63611881",
+  "legacyCyberbizId": "63611881",
+  "name": "星階凝光",
+  "englishName": "Stép-Cut Grace",
+  "originalDisplayName": "星階凝光｜Stép-Cut Grace",
+  "slug": "step-cut-grace",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/zh-TW/products/step-cut-grace-dsdiamond"
+  ],
+  "category": "女士鑽戒 | 經典女戒",
+  "collection": "女士鑽戒 | 經典女戒",
+  "collections": [
+    "女士鑽戒",
+    "經典女戒"
+  ],
+  "productType": "ring",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "以阿斯切切割主鑽為主角，階梯式折射呈現乾淨、克制卻銳利的光芒。戒臂以霧面拉絲鋪陳質感，兩側 V 型密鑲細鑽向上收束，像光線被導引般把視覺聚焦在主鑽輪廓；幾何微高立戒台拉出俐落比例，從正面到側面都保有清爽線條與精緻細節，呈現現代感的優雅氣場。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）材質的設計。\n\n 🔹 天然鑽款 ：3克拉 D 色 SI1\n\n 🔹 培育鑽款 ：3克拉 D 色 VVS2\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "description": "以阿斯切切割主鑽為主角，階梯式折射呈現乾淨、克制卻銳利的光芒。戒臂以霧面拉絲鋪陳質感，兩側 V 型密鑲細鑽向上收束，像光線被導引般把視覺聚焦在主鑽輪廓；幾何微高立戒台拉出俐落比例，從正面到側面都保有清爽線條與精緻細節，呈現現代感的優雅氣場。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）材質的設計。\n\n 🔹 天然鑽款 ：3克拉 D 色 SI1\n\n 🔹 培育鑽款 ：3克拉 D 色 VVS2\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/CYB-63611881-step-cut-grace/localized/CYB-63611881-gallery-02.jpeg",
+      "alt": "星階凝光｜Stép-Cut Grace 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/CYB-63611881-step-cut-grace/localized/CYB-63611881-gallery-03.jpeg",
+      "alt": "星階凝光｜Stép-Cut Grace 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/CYB-63611881-step-cut-grace/localized/CYB-63611881-gallery-04.jpeg",
+      "alt": "星階凝光｜Stép-Cut Grace 3",
+      "role": "gallery"
+    }
+  ],
+  "displayPrice": "NT$185,000 - NT$2,200,000",
+  "video": "",
+  "seoTitle": "星階凝光｜Stép-Cut Grace",
+  "seoDescription": "以阿斯切切割主鑽為主角，階梯式折射呈現乾淨、克制卻銳利的光芒。戒臂以霧面拉絲鋪陳質感，兩側 V 型密鑲細鑽向上收束，像光線被導引般把視覺聚焦在主鑽輪廓；幾何微高立戒台拉出俐落比例，從正面到側面都保有清爽線條與精緻細節，呈現現代感的優雅氣場。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/step-cut-grace-dsdiamond",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/step-cut-grace-dsdiamond",
+  "inquiryText": "我想諮詢 星階凝光｜Stép-Cut Grace",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery",
+  "mediaStatus": "localized-api-gallery",
+  "routeStatus": "api-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "cyberbiz-search-products-api",
+      "sourceId": "63611881",
+      "text": "星階凝光｜Stép-Cut Grace"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "63611881",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/step-cut-grace-dsdiamond",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "63611881",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/step-cut-grace-dsdiamond",
+      "text": "以阿斯切切割主鑽為主角，階梯式折射呈現乾淨、克制卻銳利的光芒。戒臂以霧面拉絲鋪陳質感，兩側 V 型密鑲細鑽向上收束，像光線被導引般把視覺聚焦在主鑽輪廓；幾何微高立戒台拉出俐落比例，從正面到側面都保有清爽線條與精緻細節，呈現現代感的優雅氣場。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）材質的設計。\n\n 🔹 天然鑽款 ：3克拉 D 色 SI1\n\n 🔹 培育鑽款 ：3克拉 D 色 VVS2\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    }
+  ],
+  "migrationNotes": "Added from current CYBERBIZ collection API while synchronizing product categories.",
+  "primaryCategory": "other-jewelry",
+  "collectionSlugs": [
+    "womens-diamond-rings",
+    "classic-womens-rings"
+  ],
+  "subcategories": [
+    "classic-womens-rings"
+  ],
+  "audience": "women",
+  "diamondType": "diamond",
+  "tags": [
+    "other-jewelry",
+    "womens-diamond-rings",
+    "classic-womens-rings",
+    "ring"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Confirmed by CYBERBIZ collection search_products.json.",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "77216830",
+      "sku": "",
+      "name": "星階凝光｜Stép-Cut Grace",
+      "price": 2200000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    },
+    {
+      "variantId": "77216831",
+      "sku": "",
+      "name": "星階凝光｜Stép-Cut Grace",
+      "price": 185000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 185000,
+  "priceMax": 2200000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "63611881",
+  "pricingStandards": {
+    "source": "description",
+    "materialStatement": "此款價格基於鉑金（PT950）材質的設計。",
+    "naturalDiamond": "天然鑽款：3克拉 D 色 SI1",
+    "labDiamond": "培育鑽款：3克拉 D 色 VVS2",
+    "notes": [
+      "配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。",
+      "如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "<p><strong>材質選定：</strong></p>\n\n<ul>\n\t<li>提供鉑金（PT950）、18K金（白K、黃K、玫瑰金）等材質選擇。</li>\n\t<li>材質經專業檢驗，適合長期配戴與紀念。</li>\n</ul>\n \n\n<p><strong>耳針材質與設計：</strong></p>\n\n<ul>\n\t<li>耳針部分採用低敏材質設計，降低配戴不適風險。</li>\n\t<li>部分款式可選擇螺旋耳扣、矽膠耳堵或其他安全設計。</li>\n\t<li>如有過敏體質，請於下單前洽詢客服確認適用材質。</li>\n</ul>"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "<p>為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：</p>\n\n<ul>\n\t<li>\n<strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。</li>\n\t<li>\n<strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。</li>\n</ul>"
+    }
+  ],
+  "productDetailSectionsFallbackSource": {
+    "slug": "akatsuki-dance",
+    "legacyProductId": "DSP-0067",
+    "reason": "Original product API did not include detail sections; filled from same category/type original-site section."
+  }
+}

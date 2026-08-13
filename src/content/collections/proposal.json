@@ -1,0 +1,17 @@
+{
+  "name": "求婚鑽戒",
+  "slug": "proposal",
+  "englishName": "Proposal Rings",
+  "summary": "為承諾挑選一枚能長久配戴、也能承載記憶的鑽戒。",
+  "description": "從主鑽規格、戒台比例、金屬色到刻字與交期，VELORIA協助整理求婚前最需要確認的細節。",
+  "heroImage": {
+    "src": "/assets/jewelry/golden-vow-ring.jpeg",
+    "alt": "求婚鑽戒系列"
+  },
+  "products": [
+    "golden-vow"
+  ],
+  "featured": true,
+  "seoTitle": "求婚鑽戒",
+  "seoDescription": "VELORIA求婚鑽戒系列，提供天然鑽石、戒台與客製諮詢。"
+}

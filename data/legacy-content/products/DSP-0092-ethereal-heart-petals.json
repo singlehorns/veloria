@@ -1,0 +1,66 @@
+{
+  "legacyProductId": "DSP-0092",
+  "legacyCyberbizId": "57337052",
+  "name": "凝光心羽",
+  "englishName": "Ethereal Heart Petals",
+  "originalDisplayName": "凝光心羽｜Ethereal Heart Petals",
+  "slug": "ethereal-heart-petals",
+  "legacyUrls": [],
+  "category": "粉鑽",
+  "collection": "彩色鑽石專區 | 粉鑽",
+  "collections": [
+    "彩色鑽石專區",
+    "粉鑽"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "凝光心羽｜Ethereal Heart Petals 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "凝光心羽｜Ethereal Heart Petals",
+  "seoDescription": "凝光心羽｜Ethereal Heart Petals，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 凝光心羽｜Ethereal Heart Petals",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0166",
+    "SRC-0218",
+    "SRC-0228"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0166",
+      "text": "凝光心羽｜Ethereal Heart Petals"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0218",
+      "text": "凝光心羽｜Ethereal Heart Petals"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0228",
+      "text": "凝光心羽｜Ethereal Heart Petals"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

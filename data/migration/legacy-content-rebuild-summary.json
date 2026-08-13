@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-07-17",
+  "legacyPageCount": 47,
+  "contentBlockCount": 1739,
+  "productCount": 111,
+  "productFrameworkComplete": 111,
+  "outputRoots": {
+    "legacyContent": "C:/Users/U01/Desktop/DS/diamond-symphony-astro/data/legacy-content",
+    "astroProducts": "C:/Users/U01/Desktop/DS/diamond-symphony-astro/src/content/products",
+    "astroPages": "C:/Users/U01/Desktop/DS/diamond-symphony-astro/src/content/pages"
+  }
+}

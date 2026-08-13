@@ -1,0 +1,145 @@
+{
+  "legacyProductId": "DSP-0021",
+  "legacyCyberbizId": "57337037",
+  "name": "光芒綻放",
+  "englishName": "Radiant Bloom",
+  "originalDisplayName": "光芒綻放｜Radiant Bloom",
+  "slug": "radiant-bloom",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/女戒21"
+  ],
+  "category": "女士鑽戒 | 經典女戒",
+  "collection": "ring-female | 經典女戒",
+  "collections": [
+    "ring-female",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "光芒綻放｜Radiant Bloom 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0021-radiant-bloom/source/DSP-0021-main-01.png",
+      "alt": "光芒綻放｜Radiant Bloom 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDM3LzE3NTIwMzQ2OTFfOTM5ODAwMGViNGU2YWJhMzFjMjUucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=e8b06e56cdedd2dc",
+      "sourcePath": "",
+      "sha256": "45d8e049321384cdc17136395b4de9f84763653a0c6236d41a87ff5acda77baa"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0021-radiant-bloom/source/DSP-0021-gallery-02.png",
+      "alt": "光芒綻放｜Radiant Bloom 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDM3LzE3NTIwMzQ2OTFfMGE3OWE1OGU0YjEwZjRmNTMyMDAucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=04d2d8270068b2c2",
+      "sourcePath": "",
+      "sha256": "a4abd285ce7f186d9b911859ef53af97e96b01f18f5240b2a6b0617693af391a"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0021-radiant-bloom/source/DSP-0021-gallery-03.png",
+      "alt": "光芒綻放｜Radiant Bloom 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDM3LzE3NTIwMzQ2OTFfN2YyZTE2MTM4YzdiYjUwZmMwOWIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=3877e8149b946c4c",
+      "sourcePath": "",
+      "sha256": "4ddba9ab65d1313dea211bbf45ad0002db49b9195f57788b6d08913c41d1a48e"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0021-radiant-bloom/source/DSP-0021-gallery-04.png",
+      "alt": "光芒綻放｜Radiant Bloom 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDM3LzE3NTIwMzQ2OTFfYTI5NmJkYWZkMzNjODVmZjZkMjUucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=94cf4bd51b2e23aa",
+      "sourcePath": "",
+      "sha256": "d98f21aa01874cc65da3a6a45b10e3a6b945ef913c3f2399acf39bd18521b24d"
+    }
+  ],
+  "video": "",
+  "seoTitle": "光芒綻放｜Radiant Bloom",
+  "seoDescription": "光芒綻放｜Radiant Bloom，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/女戒21",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/女戒21",
+  "inquiryText": "我想諮詢 光芒綻放｜Radiant Bloom",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0082",
+    "SRC-0092",
+    "SRC-0245",
+    "SRC-0255",
+    "SRC-0358",
+    "SRC-0407",
+    "SRC-0436",
+    "SRC-0524",
+    "SRC-0534",
+    "SRC-0626"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0082",
+      "text": "光芒綻放｜Radiant Bloom"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0092",
+      "text": "光芒綻放｜Radiant Bloom"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0245",
+      "text": "光芒綻放｜Radiant Bloom"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0255",
+      "text": "光芒綻放｜Radiant Bloom"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0358",
+      "text": "光芒綻放｜Radiant Bloom"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0407",
+      "text": "光芒綻放｜Radiant Bloom"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0436",
+      "text": "光芒綻放｜Radiant Bloom"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0524",
+      "text": "光芒綻放｜Radiant Bloom"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0534",
+      "text": "光芒綻放｜Radiant Bloom"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0626",
+      "text": "光芒綻放｜Radiant Bloom"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

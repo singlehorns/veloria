@@ -1,0 +1,66 @@
+{
+  "legacyProductId": "DSP-0104",
+  "legacyCyberbizId": "58811303",
+  "name": "鎏光華紋",
+  "englishName": "Regal Radiance",
+  "originalDisplayName": "鎏光華紋｜Regal Radiance",
+  "slug": "regal-radiance",
+  "legacyUrls": [],
+  "category": "男戒",
+  "collection": "ring-man | 經典男戒",
+  "collections": [
+    "ring-man",
+    "經典男戒"
+  ],
+  "productType": "男戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "鎏光華紋｜Regal Radiance 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "鎏光華紋｜Regal Radiance",
+  "seoDescription": "鎏光華紋｜Regal Radiance，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 鎏光華紋｜Regal Radiance",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0141",
+    "SRC-0299",
+    "SRC-0583"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0141",
+      "text": "鎏光華紋｜Regal Radiance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0299",
+      "text": "鎏光華紋｜Regal Radiance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0583",
+      "text": "鎏光華紋｜Regal Radiance"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

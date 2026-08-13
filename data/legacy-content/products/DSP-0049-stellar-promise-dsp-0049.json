@@ -1,0 +1,59 @@
+{
+  "legacyProductId": "DSP-0049",
+  "legacyCyberbizId": "57337021",
+  "name": "星語心願",
+  "englishName": "Stellar Promise",
+  "originalDisplayName": "星語心願｜Stellar Promise",
+  "slug": "stellar-promise-dsp-0049",
+  "legacyUrls": [],
+  "category": "戒指",
+  "collection": "求婚",
+  "collections": [
+    "求婚"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "星語心願｜Stellar Promise 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "星語心願｜Stellar Promise",
+  "seoDescription": "星語心願｜Stellar Promise，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 星語心願｜Stellar Promise",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0199",
+    "SRC-0607"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0199",
+      "text": "星語心願｜Stellar Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0607",
+      "text": "星語心願｜Stellar Promise"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

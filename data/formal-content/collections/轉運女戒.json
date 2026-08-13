@@ -1,0 +1,202 @@
+{
+  "legacyUrl": "https://www.dsdiamond.com.tw/collections/轉運女戒",
+  "newUrl": "/collections/轉運女戒/",
+  "legacySlug": "轉運女戒",
+  "title": "轉運女戒",
+  "metaTitle": "轉運女戒",
+  "metaDescription": "黃K金轉運戒 ( 三排 ) 鉑金轉運戒 ( 三排 ) 鉑金轉運戒 ( 雙排 ) 鉑金轉運戒 ( 單排 )",
+  "kind": "collection",
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "contentBlocks": [],
+  "images": [],
+  "links": [
+    {
+      "label": "首頁",
+      "href": "https://www.dsdiamond.com.tw/",
+      "type": "internal"
+    },
+    {
+      "label": "求婚戒指",
+      "href": "https://www.dsdiamond.com.tw/collections/求婚",
+      "type": "internal"
+    },
+    {
+      "label": "結婚對戒",
+      "href": "https://www.dsdiamond.com.tw/collections/pair-ring",
+      "type": "internal"
+    },
+    {
+      "label": "女士鑽戒",
+      "href": "https://www.dsdiamond.com.tw/collections/ring-female",
+      "type": "internal"
+    },
+    {
+      "label": "經典女戒",
+      "href": "https://www.dsdiamond.com.tw/collections/經典女戒",
+      "type": "internal"
+    },
+    {
+      "label": "轉運女戒",
+      "href": "https://www.dsdiamond.com.tw/collections/轉運女戒",
+      "type": "internal"
+    },
+    {
+      "label": "男士鑽戒",
+      "href": "https://www.dsdiamond.com.tw/collections/ring-man",
+      "type": "internal"
+    },
+    {
+      "label": "經典男戒",
+      "href": "https://www.dsdiamond.com.tw/collections/經典男戒",
+      "type": "internal"
+    },
+    {
+      "label": "轉運男戒",
+      "href": "https://www.dsdiamond.com.tw/collections/轉運男戒",
+      "type": "internal"
+    },
+    {
+      "label": "項鍊",
+      "href": "https://www.dsdiamond.com.tw/collections/necklace",
+      "type": "internal"
+    },
+    {
+      "label": "耳環",
+      "href": "https://www.dsdiamond.com.tw/collections/earring",
+      "type": "internal"
+    },
+    {
+      "label": "手鍊",
+      "href": "https://www.dsdiamond.com.tw/collections/bracelet",
+      "type": "internal"
+    },
+    {
+      "label": "彩色鑽石專區",
+      "href": "https://www.dsdiamond.com.tw/collections/彩色鑽石專區",
+      "type": "internal"
+    },
+    {
+      "label": "黃鑽",
+      "href": "https://www.dsdiamond.com.tw/collections/黃鑽",
+      "type": "internal"
+    },
+    {
+      "label": "粉鑽",
+      "href": "https://www.dsdiamond.com.tw/collections/粉鑽",
+      "type": "internal"
+    },
+    {
+      "label": "藍鑽",
+      "href": "https://www.dsdiamond.com.tw/collections/藍鑽",
+      "type": "internal"
+    },
+    {
+      "label": "紅鑽",
+      "href": "https://www.dsdiamond.com.tw/collections/紅鑽",
+      "type": "internal"
+    },
+    {
+      "label": "綠鑽",
+      "href": "https://www.dsdiamond.com.tw/collections/綠鑽",
+      "type": "internal"
+    },
+    {
+      "label": "其他彩鑽",
+      "href": "https://www.dsdiamond.com.tw/collections/其他彩鑽",
+      "type": "internal"
+    },
+    {
+      "label": "精選裸鑽",
+      "href": "https://www.dsdiamond.com.tw/collections/diamond",
+      "type": "internal"
+    },
+    {
+      "label": "尊榮定製",
+      "href": "https://www.dsdiamond.com.tw/pages/尊榮定製",
+      "type": "internal"
+    },
+    {
+      "label": "關於我們",
+      "href": "https://www.dsdiamond.com.tw/pages/about-us",
+      "type": "internal"
+    },
+    {
+      "label": "常見問題FAQ",
+      "href": "https://www.dsdiamond.com.tw/pages/qna",
+      "type": "internal"
+    },
+    {
+      "label": "客服中心",
+      "href": "https://www.dsdiamond.com.tw/contact",
+      "type": "internal"
+    },
+    {
+      "label": "加入LINE好友",
+      "href": "https://line.me/R/ti/p/@252flmie?oat_content=url&ts=12101714",
+      "type": "external"
+    },
+    {
+      "label": "知識專欄",
+      "href": "https://www.dsdiamond.com.tw/blogs/diamond-symphony-guide",
+      "type": "internal"
+    },
+    {
+      "label": "${ salesPage.title }",
+      "href": "salesPage.path",
+      "type": "external"
+    },
+    {
+      "label": "${ discount.title }",
+      "href": "discount.url",
+      "type": "external"
+    },
+    {
+      "label": "信箱：zuanzhiyun60@gmail.com",
+      "href": "mailto:zuanzhiyun60@gmail.com",
+      "type": "external"
+    },
+    {
+      "label": "查詢",
+      "href": "https://www.dsdiamond.com.tw/search",
+      "type": "internal"
+    },
+    {
+      "label": "隱私政策",
+      "href": "https://www.dsdiamond.com.tw/pages/privacy",
+      "type": "internal"
+    },
+    {
+      "label": "常見問題",
+      "href": "https://www.dsdiamond.com.tw/pages/qna",
+      "type": "internal"
+    },
+    {
+      "label": "服務條款",
+      "href": "https://www.dsdiamond.com.tw/pages/terms",
+      "type": "internal"
+    },
+    {
+      "label": "鑽之韻",
+      "href": "https://www.dsdiamond.com.tw/",
+      "type": "internal"
+    },
+    {
+      "label": "CYBERBIZ",
+      "href": "https://www.cyberbiz.io?utm_source=poweredbycyberbiz",
+      "type": "external"
+    }
+  ],
+  "videos": [],
+  "sourceFiles": [
+    "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/collections/轉運女戒.html",
+    "C:/Users/U01/Desktop/DS/dsdiamond_backup/migration/content/collections__轉運女戒.md"
+  ],
+  "migrationStatus": "formal-content-ready",
+  "migrationNotes": [
+    "Generated from legacy backup. Do not render notes on the formal site."
+  ]
+}

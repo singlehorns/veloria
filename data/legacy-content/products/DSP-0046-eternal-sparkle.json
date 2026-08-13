@@ -1,0 +1,59 @@
+{
+  "legacyProductId": "DSP-0046",
+  "legacyCyberbizId": "57339319",
+  "name": "恆耀之鏈",
+  "englishName": "Eternal Sparkle",
+  "originalDisplayName": "恆耀之鏈｜Eternal Sparkle",
+  "slug": "eternal-sparkle",
+  "legacyUrls": [],
+  "category": "手鍊",
+  "collection": "bracelet",
+  "collections": [
+    "bracelet"
+  ],
+  "productType": "手鍊",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "恆耀之鏈｜Eternal Sparkle 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "恆耀之鏈｜Eternal Sparkle",
+  "seoDescription": "恆耀之鏈｜Eternal Sparkle，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 恆耀之鏈｜Eternal Sparkle",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0001",
+    "SRC-0002"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0001",
+      "text": "恆耀之鏈｜Eternal Sparkle"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0002",
+      "text": "恆耀之鏈｜Eternal Sparkle"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

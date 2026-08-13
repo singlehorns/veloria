@@ -1,0 +1,24 @@
+{
+  "name": "彩色鑽石專區",
+  "slug": "彩色鑽石專區",
+  "englishName": "彩色鑽石專區",
+  "summary": "藍曜花冕｜Azuré Bloom Halo 夢境花綻｜Blôssom Reverie 帝耀之環｜Sovéreign Glow 心悅之吻｜Blûsh Kiss",
+  "description": "藍曜花冕｜Azuré Bloom Halo 夢境花綻｜Blôssom Reverie 帝耀之環｜Sovéreign Glow 心悅之吻｜Blûsh Kiss",
+  "heroImage": {
+    "src": "/assets/migrated/collections/color-diamond.jpeg",
+    "alt": "彩色鑽石專區"
+  },
+  "products": [
+    "azure-bloom-halo",
+    "blossom-reverie",
+    "sovereign-glow",
+    "blush-kiss"
+  ],
+  "featured": false,
+  "seoTitle": "彩色鑽石專區 VELORIA",
+  "seoDescription": "藍曜花冕｜Azuré Bloom Halo 夢境花綻｜Blôssom Reverie 帝耀之環｜Sovéreign Glow 心悅之吻｜Blûsh Kiss",
+  "originalUrl": "https://www.dsdiamond.com.tw/collections/彩色鑽石專區",
+  "originalSource": "../dsdiamond_backup/brand-data/brand-routes.json",
+  "migrationStatus": "部分搬遷",
+  "migrationNotes": "由舊站 brand-routes 自動補回系列頁入口；產品、圖片與完整區塊仍需人工核對。 已連接可追蹤的舊站系列媒體；產品圖仍需逐筆確認。"
+}

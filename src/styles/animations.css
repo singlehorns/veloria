@@ -1,0 +1,16 @@
+@media (prefers-reduced-motion: no-preference) {
+  :where(body:not(.motion-ready)) .reveal {
+    animation: reveal var(--motion-duration-editorial) var(--motion-ease-standard);
+  }
+
+  @keyframes reveal {
+    from {
+      opacity: 1;
+      transform: translateY(var(--motion-distance-md));
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}

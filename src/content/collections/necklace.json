@@ -1,0 +1,24 @@
+{
+  "name": "項鍊",
+  "slug": "necklace",
+  "englishName": "項鍊",
+  "summary": "光華永恆｜Etérnal Halo 心境如初｜Rosé Embrace 心悅之吻｜Blûsh Kiss 心語之戀｜Amour de Cœur",
+  "description": "光華永恆｜Etérnal Halo 心境如初｜Rosé Embrace 心悅之吻｜Blûsh Kiss 心語之戀｜Amour de Cœur",
+  "heroImage": {
+    "src": "/assets/migrated/collections/necklace.jpeg",
+    "alt": "項鍊"
+  },
+  "products": [
+    "eternal-halo",
+    "rose-embrace",
+    "blush-kiss",
+    "amour-de-cur"
+  ],
+  "featured": false,
+  "seoTitle": "項鍊 VELORIA",
+  "seoDescription": "光華永恆｜Etérnal Halo 心境如初｜Rosé Embrace 心悅之吻｜Blûsh Kiss 心語之戀｜Amour de Cœur",
+  "originalUrl": "https://www.dsdiamond.com.tw/collections/necklace",
+  "originalSource": "../dsdiamond_backup/brand-data/brand-routes.json",
+  "migrationStatus": "部分搬遷",
+  "migrationNotes": "由舊站 brand-routes 自動補回系列頁入口；產品、圖片與完整區塊仍需人工核對。 已連接可追蹤的舊站系列媒體；產品圖仍需逐筆確認。"
+}

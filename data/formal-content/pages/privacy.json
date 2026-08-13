@@ -1,0 +1,287 @@
+{
+  "legacyUrl": "https://www.dsdiamond.com.tw/pages/privacy",
+  "newUrl": "/pages/privacy/",
+  "title": "隱私政策",
+  "metaTitle": "隱私政策",
+  "metaDescription": "隱私政策",
+  "kind": "legal",
+  "headings": {
+    "h1": [
+      "隱私權政策"
+    ],
+    "h2": [
+      "一、個人資料的蒐集方式",
+      "二、資料使用目的",
+      "三、資料保護措施",
+      "四、資料分享與第三方",
+      "五、Cookie 使用說明",
+      "六、使用者權利",
+      "七、政策修改"
+    ],
+    "h3": []
+  },
+  "contentBlocks": [
+    {
+      "order": 1,
+      "heading": "隱私權政策",
+      "body": "鑽之韻（以下簡稱「本網站」）非常重視您的個人資料保護。為了讓您安心使用我們的網站與服務，特此向您說明本網站如何收集、使用及保護您的個人資料。",
+      "type": "paragraph",
+      "images": [],
+      "video": null,
+      "links": [],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/privacy.html"
+    },
+    {
+      "order": 2,
+      "heading": "一、個人資料的蒐集方式",
+      "body": "當您瀏覽本網站、註冊會員、下單購買商品或參與活動時，我們可能會蒐集以下資訊：\n姓名、聯絡電話、電子信箱、地址 付款資訊（例如信用卡授權代碼） 留言內容、客服通訊紀錄 裝置資訊（IP、作業系統、裝置型號等）",
+      "type": "list",
+      "images": [],
+      "video": null,
+      "links": [],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/privacy.html"
+    },
+    {
+      "order": 3,
+      "heading": "二、資料使用目的",
+      "body": "本網站蒐集的資料將用於：\n處理訂單與出貨、客服聯繫 提供行銷活動、促銷資訊（經您同意） 網站內容與服務優化 內部統計分析與市場研究",
+      "type": "list",
+      "images": [],
+      "video": null,
+      "links": [],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/privacy.html"
+    },
+    {
+      "order": 4,
+      "heading": "三、資料保護措施",
+      "body": "本網站使用 SSL 加密傳輸及安全防護機制，並定期更新系統，保護您的個人資料不被未授權存取、洩漏或竄改。",
+      "type": "paragraph",
+      "images": [],
+      "video": null,
+      "links": [],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/privacy.html"
+    },
+    {
+      "order": 5,
+      "heading": "四、資料分享與第三方",
+      "body": "除非依法律規定或為履行服務所必須（如物流、金流合作廠商），否則本網站不會將您的個人資料提供給第三方。",
+      "type": "paragraph",
+      "images": [],
+      "video": null,
+      "links": [],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/privacy.html"
+    },
+    {
+      "order": 6,
+      "heading": "五、Cookie 使用說明",
+      "body": "我們使用 Cookies 改善瀏覽體驗與分析網站流量。您可透過瀏覽器設定管理或停用 Cookies，但部分功能可能因此受限。",
+      "type": "paragraph",
+      "images": [],
+      "video": null,
+      "links": [],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/privacy.html"
+    },
+    {
+      "order": 7,
+      "heading": "六、使用者權利",
+      "body": "依《個人資料保護法》，您有權：\n查詢或閱覽您的資料 請求補充、更正、刪除或停止使用 拒絕接收行銷資訊\n若您欲行使上述權利，請聯繫我們： zuanzhiyun60@gmail.com",
+      "type": "list",
+      "images": [],
+      "video": null,
+      "links": [],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/privacy.html"
+    },
+    {
+      "order": 8,
+      "heading": "七、政策修改",
+      "body": "本網站保留隨時修改本政策之權利，更新後將公告於網站。建議您定期查閱以保障自身權益。\n使用本網站即表示您同意以上隱私權政策內容。",
+      "type": "paragraph",
+      "images": [],
+      "video": null,
+      "links": [],
+      "sourceFile": "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/privacy.html"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "label": "首頁",
+      "href": "https://www.dsdiamond.com.tw/",
+      "type": "internal"
+    },
+    {
+      "label": "求婚戒指",
+      "href": "https://www.dsdiamond.com.tw/collections/求婚",
+      "type": "internal"
+    },
+    {
+      "label": "結婚對戒",
+      "href": "https://www.dsdiamond.com.tw/collections/pair-ring",
+      "type": "internal"
+    },
+    {
+      "label": "女士鑽戒",
+      "href": "https://www.dsdiamond.com.tw/collections/ring-female",
+      "type": "internal"
+    },
+    {
+      "label": "經典女戒",
+      "href": "https://www.dsdiamond.com.tw/collections/經典女戒",
+      "type": "internal"
+    },
+    {
+      "label": "轉運女戒",
+      "href": "https://www.dsdiamond.com.tw/collections/轉運女戒",
+      "type": "internal"
+    },
+    {
+      "label": "男士鑽戒",
+      "href": "https://www.dsdiamond.com.tw/collections/ring-man",
+      "type": "internal"
+    },
+    {
+      "label": "經典男戒",
+      "href": "https://www.dsdiamond.com.tw/collections/經典男戒",
+      "type": "internal"
+    },
+    {
+      "label": "轉運男戒",
+      "href": "https://www.dsdiamond.com.tw/collections/轉運男戒",
+      "type": "internal"
+    },
+    {
+      "label": "項鍊",
+      "href": "https://www.dsdiamond.com.tw/collections/necklace",
+      "type": "internal"
+    },
+    {
+      "label": "耳環",
+      "href": "https://www.dsdiamond.com.tw/collections/earring",
+      "type": "internal"
+    },
+    {
+      "label": "手鍊",
+      "href": "https://www.dsdiamond.com.tw/collections/bracelet",
+      "type": "internal"
+    },
+    {
+      "label": "彩色鑽石專區",
+      "href": "https://www.dsdiamond.com.tw/collections/彩色鑽石專區",
+      "type": "internal"
+    },
+    {
+      "label": "黃鑽",
+      "href": "https://www.dsdiamond.com.tw/collections/黃鑽",
+      "type": "internal"
+    },
+    {
+      "label": "粉鑽",
+      "href": "https://www.dsdiamond.com.tw/collections/粉鑽",
+      "type": "internal"
+    },
+    {
+      "label": "藍鑽",
+      "href": "https://www.dsdiamond.com.tw/collections/藍鑽",
+      "type": "internal"
+    },
+    {
+      "label": "紅鑽",
+      "href": "https://www.dsdiamond.com.tw/collections/紅鑽",
+      "type": "internal"
+    },
+    {
+      "label": "綠鑽",
+      "href": "https://www.dsdiamond.com.tw/collections/綠鑽",
+      "type": "internal"
+    },
+    {
+      "label": "其他彩鑽",
+      "href": "https://www.dsdiamond.com.tw/collections/其他彩鑽",
+      "type": "internal"
+    },
+    {
+      "label": "精選裸鑽",
+      "href": "https://www.dsdiamond.com.tw/collections/diamond",
+      "type": "internal"
+    },
+    {
+      "label": "尊榮定製",
+      "href": "https://www.dsdiamond.com.tw/pages/尊榮定製",
+      "type": "internal"
+    },
+    {
+      "label": "關於我們",
+      "href": "https://www.dsdiamond.com.tw/pages/about-us",
+      "type": "internal"
+    },
+    {
+      "label": "常見問題FAQ",
+      "href": "https://www.dsdiamond.com.tw/pages/qna",
+      "type": "internal"
+    },
+    {
+      "label": "客服中心",
+      "href": "https://www.dsdiamond.com.tw/contact",
+      "type": "internal"
+    },
+    {
+      "label": "加入LINE好友",
+      "href": "https://line.me/R/ti/p/@252flmie?oat_content=url&ts=12101714",
+      "type": "external"
+    },
+    {
+      "label": "知識專欄",
+      "href": "https://www.dsdiamond.com.tw/blogs/diamond-symphony-guide",
+      "type": "internal"
+    },
+    {
+      "label": "隱私政策",
+      "href": "https://www.dsdiamond.com.tw/pages/privacy",
+      "type": "internal"
+    },
+    {
+      "label": "zuanzhiyun60@gmail.com",
+      "href": "mailto:zuanzhiyun60@gmail.com",
+      "type": "external"
+    },
+    {
+      "label": "信箱：zuanzhiyun60@gmail.com",
+      "href": "mailto:zuanzhiyun60@gmail.com",
+      "type": "external"
+    },
+    {
+      "label": "查詢",
+      "href": "https://www.dsdiamond.com.tw/search",
+      "type": "internal"
+    },
+    {
+      "label": "常見問題",
+      "href": "https://www.dsdiamond.com.tw/pages/qna",
+      "type": "internal"
+    },
+    {
+      "label": "服務條款",
+      "href": "https://www.dsdiamond.com.tw/pages/terms",
+      "type": "internal"
+    },
+    {
+      "label": "鑽之韻",
+      "href": "https://www.dsdiamond.com.tw/",
+      "type": "internal"
+    },
+    {
+      "label": "CYBERBIZ",
+      "href": "https://www.cyberbiz.io?utm_source=poweredbycyberbiz",
+      "type": "external"
+    }
+  ],
+  "videos": [],
+  "sourceFiles": [
+    "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/pages/privacy.html",
+    "C:/Users/U01/Desktop/DS/dsdiamond_backup/migration/content/pages__privacy.md"
+  ],
+  "migrationStatus": "formal-content-ready",
+  "migrationNotes": [
+    "Generated from legacy backup. Do not render notes on the formal site."
+  ]
+}

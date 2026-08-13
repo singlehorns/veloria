@@ -1,0 +1,170 @@
+{
+  "legacyProductId": "DSP-0020",
+  "legacyCyberbizId": "57337039",
+  "name": "交織之緣",
+  "englishName": "Entwined Destiny",
+  "originalDisplayName": "交織之緣｜Entwined Destiny",
+  "slug": "entwined-destiny",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/女戒23"
+  ],
+  "category": "女士鑽戒 | 求婚戒指 | 經典女戒",
+  "collection": "ring-female | 求婚 | 經典女戒",
+  "collections": [
+    "ring-female",
+    "求婚",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "交織之緣｜Entwined Destiny 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0020-entwined-destiny/source/DSP-0020-main-01.png",
+      "alt": "交織之緣｜Entwined Destiny 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDM5LzE3NTIwMzQ4MDJfNGE1MjJlYjg1MDIxN2M2M2Y1ZTQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=aafece739912f28b",
+      "sourcePath": "",
+      "sha256": "1fc1e8637a553f8335080a25af63db7c45b241edca17b7ace36fd1657aa2e9a3"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0020-entwined-destiny/source/DSP-0020-gallery-02.png",
+      "alt": "交織之緣｜Entwined Destiny 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDM5LzE3NTIwMzQ4MDJfMzcwMDdhOWNlNTZhN2FkOTg3ZmUucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=a6c3fc87f35e6362",
+      "sourcePath": "",
+      "sha256": "93b341180e829b3c3089ce456085e782d55bdd2af0f7522c9da25324379c226b"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0020-entwined-destiny/source/DSP-0020-gallery-03.png",
+      "alt": "交織之緣｜Entwined Destiny 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDM5LzE3NTIwMzQ4MDJfMTQ0OTc5ZDllN2VmZTk5YjM4NTIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=eac95f130b0405b0",
+      "sourcePath": "",
+      "sha256": "407a15ca0e2af7d4868c8ecc59abbbb908d4eab7076b428e7551ccf96abd2a28"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0020-entwined-destiny/source/DSP-0020-gallery-04.png",
+      "alt": "交織之緣｜Entwined Destiny 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDM5LzE3NTIwMzQ4MDJfYTc4NDI1ZDgyNTM4MGFlYTYzMzYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=ad2405d7f4bf0927",
+      "sourcePath": "",
+      "sha256": "0d1beaed99377206a320481064c7da534bdb7128376caa6f1688815bb77a4aaf"
+    }
+  ],
+  "video": "",
+  "seoTitle": "交織之緣｜Entwined Destiny",
+  "seoDescription": "交織之緣｜Entwined Destiny，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/女戒23",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/女戒23",
+  "inquiryText": "我想諮詢 交織之緣｜Entwined Destiny",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0080",
+    "SRC-0090",
+    "SRC-0179",
+    "SRC-0189",
+    "SRC-0243",
+    "SRC-0253",
+    "SRC-0356",
+    "SRC-0405",
+    "SRC-0434",
+    "SRC-0522",
+    "SRC-0532",
+    "SRC-0587",
+    "SRC-0597",
+    "SRC-0624"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0080",
+      "text": "交織之緣｜Entwined Destiny"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0090",
+      "text": "交織之緣｜Entwined Destiny"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0179",
+      "text": "交織之緣｜Entwined Destiny"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0189",
+      "text": "交織之緣｜Entwined Destiny"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0243",
+      "text": "交織之緣｜Entwined Destiny"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0253",
+      "text": "交織之緣｜Entwined Destiny"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0356",
+      "text": "交織之緣｜Entwined Destiny"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0405",
+      "text": "交織之緣｜Entwined Destiny"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0434",
+      "text": "交織之緣｜Entwined Destiny"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0522",
+      "text": "交織之緣｜Entwined Destiny"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0532",
+      "text": "交織之緣｜Entwined Destiny"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0587",
+      "text": "交織之緣｜Entwined Destiny"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0597",
+      "text": "交織之緣｜Entwined Destiny"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0624",
+      "text": "交織之緣｜Entwined Destiny"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

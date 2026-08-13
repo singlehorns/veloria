@@ -1,0 +1,79 @@
+{
+  "legacyProductId": "DSP-0062",
+  "legacyCyberbizId": "57339028",
+  "name": "粉芒之淚",
+  "englishName": "Blush Teardrop",
+  "originalDisplayName": "粉芒之淚｜Blush Teardrop",
+  "slug": "blush-teardrop",
+  "legacyUrls": [],
+  "category": "粉鑽",
+  "collection": "necklace | 彩色鑽石專區 | 粉鑽",
+  "collections": [
+    "necklace",
+    "彩色鑽石專區",
+    "粉鑽"
+  ],
+  "productType": "項鍊",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "粉芒之淚｜Blush Teardrop 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "粉芒之淚｜Blush Teardrop",
+  "seoDescription": "粉芒之淚｜Blush Teardrop，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 粉芒之淚｜Blush Teardrop",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0058",
+    "SRC-0171",
+    "SRC-0220",
+    "SRC-0230",
+    "SRC-0500"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0058",
+      "text": "粉芒之淚｜Blush Teardrop"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0171",
+      "text": "粉芒之淚｜Blush Teardrop"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0220",
+      "text": "粉芒之淚｜Blush Teardrop"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0230",
+      "text": "粉芒之淚｜Blush Teardrop"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0500",
+      "text": "粉芒之淚｜Blush Teardrop"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

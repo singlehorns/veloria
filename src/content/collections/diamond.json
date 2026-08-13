@@ -1,0 +1,19 @@
+{
+  "name": "裸鑽嚴選",
+  "slug": "diamond",
+  "englishName": "Selected Loose Diamonds",
+  "summary": "用清楚的證書、比例與預算邏輯，挑選真正適合的天然鑽石。",
+  "description": "裸鑽挑選可依 4C、車工、形狀、螢光、證書與鑲嵌用途做整體評估。",
+  "heroImage": {
+    "src": "/assets/migrated/collections/loose-diamond.jpeg",
+    "alt": "裸鑽嚴選"
+  },
+  "products": [
+    "golden-vow",
+    "celestial-bloom"
+  ],
+  "featured": true,
+  "seoTitle": "裸鑽嚴選",
+  "seoDescription": "VELORIA提供天然裸鑽挑選、證書解讀與珠寶客製服務。",
+  "migrationNotes": "已連接可追蹤的舊站系列媒體；產品圖仍需逐筆確認。"
+}

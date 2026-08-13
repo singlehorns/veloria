@@ -1,0 +1,19 @@
+{
+  "name": "經典男戒",
+  "slug": "經典男戒",
+  "englishName": "經典男戒",
+  "summary": "定心之光｜Stéady Heartlight 尊耀之印｜Sovéreign Seal 帝耀之環｜Sovéreign Glow 帝鑽之冠｜Crôwn of Majesty",
+  "description": "定心之光｜Stéady Heartlight 尊耀之印｜Sovéreign Seal 帝耀之環｜Sovéreign Glow 帝鑽之冠｜Crôwn of Majesty",
+  "heroImage": {
+    "src": "/assets/banners/atelier-service-banner.jpeg",
+    "alt": "經典男戒"
+  },
+  "products": [],
+  "featured": false,
+  "seoTitle": "經典男戒 VELORIA",
+  "seoDescription": "定心之光｜Stéady Heartlight 尊耀之印｜Sovéreign Seal 帝耀之環｜Sovéreign Glow 帝鑽之冠｜Crôwn of Majesty",
+  "originalUrl": "https://www.dsdiamond.com.tw/collections/經典男戒",
+  "originalSource": "../dsdiamond_backup/brand-data/brand-routes.json",
+  "migrationStatus": "部分缺失",
+  "migrationNotes": "由舊站 brand-routes 自動補回系列頁入口；產品、圖片與完整區塊仍需人工核對。"
+}

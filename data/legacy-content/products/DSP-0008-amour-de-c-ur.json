@@ -1,0 +1,71 @@
+{
+  "legacyProductId": "DSP-0008",
+  "legacyCyberbizId": "57339038",
+  "name": "心語之戀",
+  "englishName": "Amour de Cœur",
+  "originalDisplayName": "心語之戀｜Amour de Cœur",
+  "slug": "amour-de-c-ur",
+  "legacyUrls": [],
+  "category": "項鍊",
+  "collection": "necklace",
+  "collections": [
+    "necklace"
+  ],
+  "productType": "項鍊",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "心語之戀｜Amour de Cœur 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "心語之戀｜Amour de Cœur",
+  "seoDescription": "心語之戀｜Amour de Cœur，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 心語之戀｜Amour de Cœur",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0040",
+    "SRC-0050",
+    "SRC-0482",
+    "SRC-0492"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0040",
+      "text": "心語之戀｜Amour de Cœur"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0050",
+      "text": "心語之戀｜Amour de Cœur"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0482",
+      "text": "心語之戀｜Amour de Cœur"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0492",
+      "text": "心語之戀｜Amour de Cœur"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

@@ -1,0 +1,53 @@
+{
+  "legacyProductId": "DSP-0105",
+  "legacyCyberbizId": "64733998",
+  "name": "雙心守護",
+  "englishName": "Double Heart Embrace",
+  "originalDisplayName": "雙心守護｜Double Heart Embrace",
+  "slug": "double-heart-embrace",
+  "legacyUrls": [],
+  "category": "戒指",
+  "collection": "粉鑽",
+  "collections": [
+    "粉鑽"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "雙心守護｜Double Heart Embrace 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "雙心守護｜Double Heart Embrace",
+  "seoDescription": "雙心守護｜Double Heart Embrace，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 雙心守護｜Double Heart Embrace",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0237"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0237",
+      "text": "雙心守護｜Double Heart Embrace"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

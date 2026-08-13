@@ -1,0 +1,54 @@
+---
+interface Props {
+  currentPage: number;
+  totalPages: number;
+  basePath: string;
+}
+
+const { currentPage, totalPages, basePath } = Astro.props;
+const normalizedBase = basePath.endsWith('/') ? basePath : `${basePath}/`;
+const pageHref = (page: number) => (page <= 1 ? normalizedBase : `${normalizedBase}page/${page}/`);
+---
+
+{totalPages > 1 && (
+  <nav class="knowledge-pagination" aria-label="知識專欄分頁">
+    <a class:list={{ disabled: currentPage <= 1 }} href={pageHref(currentPage - 1)} aria-disabled={currentPage <= 1}>上一頁</a>
+    <span>{currentPage} / {totalPages}</span>
+    <a class:list={{ disabled: currentPage >= totalPages }} href={pageHref(currentPage + 1)} aria-disabled={currentPage >= totalPages}>下一頁</a>
+  </nav>
+)}
+
+<style>
+  .knowledge-pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-4);
+    padding-top: var(--space-6);
+  }
+
+  .knowledge-pagination a,
+  .knowledge-pagination span {
+    min-width: 86px;
+    border: 1px solid rgba(183, 155, 112, 0.42);
+    padding: 0.7rem 1rem;
+    text-align: center;
+    font-family: "GFS Didot", Didot, "Times New Roman", serif;
+    font-size: 0.88rem;
+    font-weight: 400;
+    letter-spacing: 0.08em;
+  }
+
+  .knowledge-pagination span {
+    color: rgba(47, 43, 40, 0.52);
+  }
+
+  .knowledge-pagination a:not(.disabled) {
+    color: #0a3764;
+  }
+
+  .knowledge-pagination .disabled {
+    color: rgba(47, 43, 40, 0.32);
+    pointer-events: none;
+  }
+</style>

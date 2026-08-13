@@ -1,0 +1,145 @@
+{
+  "legacyProductId": "DSP-0002",
+  "legacyCyberbizId": "62864985",
+  "name": "三序映華",
+  "englishName": "Trinity Éclat",
+  "originalDisplayName": "三序映華｜Trinity Éclat",
+  "slug": "trinity-eclat",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/trinity-eclat-dsdiamond"
+  ],
+  "category": "女士鑽戒 | 經典女戒",
+  "collection": "ring-female | 經典女戒",
+  "collections": [
+    "ring-female",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "三序映華｜Trinity Éclat 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0002-trinity-eclat/source/DSP-0002-main-01.jpeg",
+      "alt": "三序映華｜Trinity Éclat 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyODY0OTg1LzE3NjUwMTE4MDVfOGIxZDVmZGMzMGMxNDcyNGQ5MWMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=5ffa6b1333138ef0",
+      "sourcePath": "",
+      "sha256": "ce4e31adc0f360b86e8bf3f620840d1d0e2b7b3d8c59361db03a54f61d328ad7"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0002-trinity-eclat/source/DSP-0002-gallery-02.jpeg",
+      "alt": "三序映華｜Trinity Éclat 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyODY0OTg1LzE3NjUwMTE4MDVfNjYxY2VlZWViNjk5ZmNlMmVkOTguanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=c0471b3a5f9f2be7",
+      "sourcePath": "",
+      "sha256": "56411068d7fdc58dd157fd3e0b0e5ed34dc6c2217867e3ebdd7be3385aedeebd"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0002-trinity-eclat/source/DSP-0002-gallery-03.jpeg",
+      "alt": "三序映華｜Trinity Éclat 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyODY0OTg1LzE3NjUwMTE4MDVfODUxMmIyODAxYjRmYzM2YzNiMjEuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=9e6b84fd923200a3",
+      "sourcePath": "",
+      "sha256": "b87b0fc457e4d5790cd6d4d3d9a95c1018b7c6a4952eee0013fd005b3736360c"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0002-trinity-eclat/source/DSP-0002-gallery-04.jpeg",
+      "alt": "三序映華｜Trinity Éclat 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyODY0OTg1LzE3NjUwMTE4MDVfMjJmNzhhZDlhYzRlNDUxZWJiZDcuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=7308e99126352b30",
+      "sourcePath": "",
+      "sha256": "eaea218d4b6613f0b8820c8d5735f4c67b57cbb4bd29b963051bc29038ca9c3c"
+    }
+  ],
+  "video": "",
+  "seoTitle": "三序映華｜Trinity Éclat",
+  "seoDescription": "三序映華｜Trinity Éclat，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/trinity-eclat-dsdiamond",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/trinity-eclat-dsdiamond",
+  "inquiryText": "我想諮詢 三序映華｜Trinity Éclat",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0076",
+    "SRC-0086",
+    "SRC-0239",
+    "SRC-0249",
+    "SRC-0352",
+    "SRC-0401",
+    "SRC-0430",
+    "SRC-0518",
+    "SRC-0528",
+    "SRC-0620"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0076",
+      "text": "三序映華｜Trinity Éclat"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0086",
+      "text": "三序映華｜Trinity Éclat"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0239",
+      "text": "三序映華｜Trinity Éclat"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0249",
+      "text": "三序映華｜Trinity Éclat"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0352",
+      "text": "三序映華｜Trinity Éclat"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0401",
+      "text": "三序映華｜Trinity Éclat"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0430",
+      "text": "三序映華｜Trinity Éclat"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0518",
+      "text": "三序映華｜Trinity Éclat"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0528",
+      "text": "三序映華｜Trinity Éclat"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0620",
+      "text": "三序映華｜Trinity Éclat"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

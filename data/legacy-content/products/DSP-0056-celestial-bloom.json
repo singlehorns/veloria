@@ -1,0 +1,72 @@
+{
+  "legacyProductId": "DSP-0056",
+  "legacyCyberbizId": "59068294",
+  "name": "星瀾綻放",
+  "englishName": "Celestial Bloom",
+  "originalDisplayName": "星瀾綻放｜Celestial Bloom",
+  "slug": "celestial-bloom",
+  "legacyUrls": [],
+  "category": "彩色鑽石專區 | 藍鑽",
+  "collection": "彩色鑽石專區 | 藍鑽",
+  "collections": [
+    "彩色鑽石專區",
+    "藍鑽"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "星瀾綻放｜Celestial Bloom 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "星瀾綻放｜Celestial Bloom",
+  "seoDescription": "星瀾綻放｜Celestial Bloom，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 星瀾綻放｜Celestial Bloom",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0149",
+    "SRC-0159",
+    "SRC-0301",
+    "SRC-0306"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0149",
+      "text": "星瀾綻放｜Celestial Bloom"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0159",
+      "text": "星瀾綻放｜Celestial Bloom"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0301",
+      "text": "星瀾綻放｜Celestial Bloom"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0306",
+      "text": "星瀾綻放｜Celestial Bloom"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

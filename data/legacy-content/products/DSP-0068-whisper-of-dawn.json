@@ -1,0 +1,59 @@
+{
+  "legacyProductId": "DSP-0068",
+  "legacyCyberbizId": "57337025",
+  "name": "晨曦心語",
+  "englishName": "Whisper of Dawn",
+  "originalDisplayName": "晨曦心語｜Whisper of Dawn",
+  "slug": "whisper-of-dawn",
+  "legacyUrls": [],
+  "category": "戒指",
+  "collection": "求婚",
+  "collections": [
+    "求婚"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "晨曦心語｜Whisper of Dawn 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "晨曦心語｜Whisper of Dawn",
+  "seoDescription": "晨曦心語｜Whisper of Dawn，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 晨曦心語｜Whisper of Dawn",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0202",
+    "SRC-0610"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0202",
+      "text": "晨曦心語｜Whisper of Dawn"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0610",
+      "text": "晨曦心語｜Whisper of Dawn"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

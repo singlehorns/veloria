@@ -1,0 +1,79 @@
+{
+  "legacyProductId": "DSP-0100",
+  "legacyCyberbizId": "58811257",
+  "name": "曜域光序",
+  "englishName": "Radiant Domain Halo",
+  "originalDisplayName": "曜域光序｜Radiant Domain Halo",
+  "slug": "radiant-domain-halo",
+  "legacyUrls": [],
+  "category": "黃鑽",
+  "collection": "彩色鑽石專區 | 求婚 | 黃鑽",
+  "collections": [
+    "彩色鑽石專區",
+    "求婚",
+    "黃鑽"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "曜域光序｜Radiant Domain Halo 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "曜域光序｜Radiant Domain Halo",
+  "seoDescription": "曜域光序｜Radiant Domain Halo，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 曜域光序｜Radiant Domain Halo",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0169",
+    "SRC-0209",
+    "SRC-0339",
+    "SRC-0348",
+    "SRC-0617"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0169",
+      "text": "曜域光序｜Radiant Domain Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0209",
+      "text": "曜域光序｜Radiant Domain Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0339",
+      "text": "曜域光序｜Radiant Domain Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0348",
+      "text": "曜域光序｜Radiant Domain Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0617",
+      "text": "曜域光序｜Radiant Domain Halo"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

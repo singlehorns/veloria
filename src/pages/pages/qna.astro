@@ -1,0 +1,477 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+type FaqItem = {
+  question: string;
+  answer: string[];
+};
+
+type FaqCategory = {
+  id: string;
+  number: string;
+  label: string;
+  title: string;
+  intro: string;
+  items: FaqItem[];
+};
+
+const faqCategories: FaqCategory[] = [
+  {
+    id: 'diamond',
+    number: '01',
+    label: 'DIAMOND',
+    title: '鑽石基礎',
+    intro: '從 4C、證書到日常配戴，我們以清楚而安靜的方式，協助您理解每一顆鑽石的差異。',
+    items: [
+      {
+        question: '鑽石是如何評估價值的？',
+        answer: [
+          '鑽石通常會以 4C 作為基礎，也就是重量、顏色、淨度與切工。每一項都會影響鑽石的光澤、稀有性與價格。',
+          'Veloria 會依照預算與配戴需求，協助您比較不同條件下的差異，讓選擇不只是看數字，而是回到真正適合您的日常。'
+        ]
+      },
+      {
+        question: '天然鑽石與培育鑽石有什麼不同？',
+        answer: [
+          '天然鑽石形成於自然環境，培育鑽石則是在實驗室中以科技模擬形成條件。兩者在成分上同樣是碳結晶，但來源、稀有性與價格結構不同。',
+          '我們會以透明方式說明來源與證書資訊，協助您依照預算、價值觀與紀念意義做出選擇。'
+        ]
+      },
+      {
+        question: '如何挑選適合自己的鑽石？',
+        answer: [
+          '建議先確認配戴情境、戒台風格與預算，再比較鑽石大小、亮度與整體比例。',
+          '好的鑽石不只是在放大鏡下漂亮，也需要在日常光線中呈現穩定而舒服的光。'
+        ]
+      }
+    ]
+  },
+  {
+    id: 'bespoke',
+    number: '02',
+    label: 'BESPOKE',
+    title: '訂製流程',
+    intro: '從初步諮詢、鑽石挑選到戒台比例，我們保留足夠討論時間，讓作品自然貼近日常。',
+    items: [
+      {
+        question: '訂製戒指需要準備什麼？',
+        answer: [
+          '您可以先準備預算範圍、喜歡的款式方向、配戴者的生活習慣與重要日期。若還沒有明確想法，也可以直接到店討論。',
+          '我們會從鑽石、戒台比例、材質與手型開始整理，逐步收斂成適合您的設計方向。'
+        ]
+      },
+      {
+        question: '訂製流程大約需要多久？',
+        answer: [
+          '實際時間會依照設計複雜度、鑽石挑選與製作排程而不同。一般建議預留充足時間，避免壓縮確認與調整的過程。',
+          '若有求婚、登記或婚禮日期，建議在諮詢時先告知，我們會協助安排較合適的節奏。'
+        ]
+      },
+      {
+        question: '可以使用自己的想法或參考圖片嗎？',
+        answer: [
+          '可以。參考圖片能幫助我們理解您喜歡的線條、比例與氛圍，但最終會依照配戴者手型與日常需求重新整理。',
+          '我們希望作品不是單純複製圖片，而是把靈感轉化成真正能長久配戴的珠寶。'
+        ]
+      }
+    ]
+  },
+  {
+    id: 'care',
+    number: '03',
+    label: 'CARE',
+    title: '售後保養',
+    intro: '珠寶會陪伴日常，也需要適當清潔與檢查。Veloria 重視購買後的安心感與長期信任。',
+    items: [
+      {
+        question: '戒指平常應該如何保養？',
+        answer: [
+          '建議避免配戴珠寶泡溫泉、游泳、搬重物或接觸清潔劑。日常配戴後可用柔軟布料輕拭，減少汗水與油脂殘留。',
+          '若長時間沒有清潔，可帶回門市協助檢查與保養。'
+        ]
+      },
+      {
+        question: '鑽石會不會鬆動？',
+        answer: [
+          '長期配戴、碰撞或金屬自然磨耗，都可能影響鑽石與鑲爪狀態。建議定期檢查鑲爪與戒台結構。',
+          '若發現鑽石晃動、戒台變形或配戴感異常，請先停止配戴並與我們聯繫。'
+        ]
+      },
+      {
+        question: '是否提供修改戒圍？',
+        answer: [
+          '多數款式可依照戒台結構評估修改戒圍，但部分密鑲、特殊造型或材質限制較多，需要實際檢查後確認。',
+          '我們會以不影響作品比例與耐用度為前提，提供合適的調整建議。'
+        ]
+      }
+    ]
+  }
+];
+---
+
+<BaseLayout title="常見問題｜Veloria" description="Veloria 常見問題：鑽石挑選、訂製流程、售後保養與日常配戴說明。">
+  <main class="faq-page">
+    <div class="faq-shell">
+      <nav class="faq-breadcrumb" aria-label="麵包屑">
+        <a href="/">首頁</a>
+        <span>/</span>
+        <span>常見問題 FAQ</span>
+      </nav>
+
+      <section class="faq-index" aria-label="常見問題分類">
+        {
+          faqCategories.map((category) => (
+            <a href={`#${category.id}`} class="faq-index__item">
+              <span>{category.number}</span>
+              <strong>{category.title}</strong>
+              <small>{category.label}</small>
+            </a>
+          ))
+        }
+      </section>
+
+      <div class="faq-categories">
+        {
+          faqCategories.map((category) => (
+            <section class="faq-category" id={category.id}>
+              <header class="faq-category__heading">
+                <span>{category.number}</span>
+                <small>{category.label}</small>
+                <h2>{category.title}</h2>
+                <p>{category.intro}</p>
+              </header>
+
+              <div class="faq-list">
+                {
+                  category.items.map((item) => (
+                    <details class="faq-item">
+                      <summary>
+                        <span>Q</span>
+                        <span>{item.question}</span>
+                        <span class="faq-item__icon" aria-hidden="true"></span>
+                      </summary>
+                      <div class="faq-item__answer">
+                        {item.answer.map((paragraph) => <p>{paragraph}</p>)}
+                      </div>
+                    </details>
+                  ))
+                }
+              </div>
+            </section>
+          ))
+        }
+      </div>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .faq-page {
+    --faq-blue: #073763;
+    --faq-ink: #2e2b28;
+    --faq-muted: #74706c;
+    --faq-soft: #f7f7f5;
+    --faq-line: rgba(7, 55, 99, 0.14);
+    --faq-gold: rgba(176, 137, 88, 0.45);
+    --faq-shell: min(100% - clamp(48px, 12vw, 180px), 1180px);
+    --faq-reader: 900px;
+    background: #fff;
+    color: var(--faq-ink);
+    padding: 0 0 96px;
+    font-family: var(--font-body);
+  }
+
+  .faq-shell {
+    width: var(--faq-shell);
+    margin: 0 auto;
+  }
+
+  .faq-breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    width: min(100%, 1120px);
+    margin: clamp(10px, 1.5vw, 18px) auto clamp(6px, 1.4vw, 18px);
+    color: rgba(21, 18, 15, 0.34);
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 0.04em;
+  }
+
+  .faq-breadcrumb a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .faq-category__heading small,
+  .faq-index__item small {
+    font-family: 'GFS Didot', 'Times New Roman', serif;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+  }
+
+  .faq-index {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    max-width: var(--faq-reader);
+    margin: 0 auto;
+    border: 1px solid var(--faq-line);
+    border-left: 0;
+    border-right: 0;
+  }
+
+  .faq-index__item {
+    display: grid;
+    align-content: center;
+    min-height: 80px;
+    padding: 18px 20px;
+    color: inherit;
+    text-decoration: none;
+    border-left: 1px solid var(--faq-line);
+    transition:
+      color 0.35s ease,
+      background-color 0.35s ease;
+  }
+
+  .faq-index__item:first-child {
+    border-left: 0;
+  }
+
+  .faq-index__item:hover {
+    background: var(--faq-soft);
+    color: var(--faq-blue);
+  }
+
+  .faq-index__item span {
+    color: #9c7a53;
+    font-family: 'GFS Didot', 'Times New Roman', serif;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+  }
+
+  .faq-index__item strong {
+    margin-top: 8px;
+    font-family: var(--font-heading);
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.08em;
+  }
+
+  .faq-index__item small {
+    margin-top: 6px;
+    color: #9b9691;
+    font-size: 9.5px;
+  }
+
+  .faq-categories {
+    display: grid;
+    gap: 64px;
+    max-width: var(--faq-reader);
+    margin: 72px auto 0;
+  }
+
+  .faq-category {
+    display: grid;
+    grid-template-columns: 132px minmax(0, 1fr);
+    gap: 34px;
+    align-items: start;
+  }
+
+  .faq-category__heading {
+    position: sticky;
+    top: 112px;
+  }
+
+  .faq-category__heading span {
+    display: block;
+    color: #9c7a53;
+    font-family: 'GFS Didot', 'Times New Roman', serif;
+    font-size: 13px;
+    letter-spacing: 0.06em;
+  }
+
+  .faq-category__heading small {
+    display: block;
+    margin-top: 28px;
+    color: #9c7a53;
+    font-size: 10px;
+  }
+
+  .faq-category__heading h2 {
+    margin: 10px 0 0;
+    color: var(--faq-ink);
+    font-family: var(--font-heading);
+    font-size: clamp(19px, 1.7vw, 24px);
+    font-weight: 400;
+    line-height: 1.55;
+    letter-spacing: 0.08em;
+  }
+
+  .faq-category__heading p {
+    margin: 14px 0 0;
+    color: var(--faq-muted);
+    font-size: 12px;
+    line-height: 1.9;
+    letter-spacing: 0.04em;
+  }
+
+  .faq-list {
+    border-top: 1px solid var(--faq-line);
+    background-image: linear-gradient(to bottom, rgba(7, 55, 99, 0.035) 1px, transparent 1px);
+    background-size: 100% 52px;
+  }
+
+  .faq-item {
+    border-bottom: 1px solid var(--faq-line);
+  }
+
+  .faq-item summary {
+    display: grid;
+    grid-template-columns: 24px minmax(0, 1fr) 16px;
+    gap: 12px;
+    align-items: center;
+    min-height: 60px;
+    padding: 0 16px;
+    cursor: pointer;
+    list-style: none;
+  }
+
+  .faq-item summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .faq-item summary span:first-child {
+    color: var(--faq-blue);
+    font-family: 'GFS Didot', 'Times New Roman', serif;
+    font-size: 14px;
+  }
+
+  .faq-item summary span:nth-child(2) {
+    color: #252321;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.8;
+    letter-spacing: 0.04em;
+  }
+
+  .faq-item__icon {
+    position: relative;
+    width: 14px;
+    height: 14px;
+  }
+
+  .faq-item__icon::before,
+  .faq-item__icon::after {
+    content: '';
+    position: absolute;
+    inset: 50% auto auto 50%;
+    width: 14px;
+    height: 1px;
+    background: var(--faq-blue);
+    transform: translate(-50%, -50%);
+    transition: transform 0.28s ease;
+  }
+
+  .faq-item__icon::after {
+    transform: translate(-50%, -50%) rotate(90deg);
+  }
+
+  .faq-item[open] .faq-item__icon::after {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+
+  .faq-item__answer {
+    padding: 0 16px 22px 52px;
+    color: var(--faq-muted);
+    font-size: 12.5px;
+    line-height: 1.95;
+    letter-spacing: 0.04em;
+  }
+
+  .faq-item__answer p {
+    margin: 0;
+  }
+
+  .faq-item__answer p + p {
+    margin-top: 8px;
+  }
+
+  @media (max-width: 980px) {
+    .faq-page {
+      --faq-shell: min(100% - 52px, 660px);
+    }
+
+    .faq-category {
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+
+    .faq-category__heading {
+      position: static;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .faq-page {
+      --faq-shell: min(100% - 32px, 100%);
+      padding-top: 0;
+      padding-bottom: 68px;
+    }
+
+    .faq-breadcrumb {
+      margin-bottom: 10px;
+    }
+
+    .faq-index {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .faq-index__item {
+      min-height: 68px;
+      padding: 14px 10px;
+      border-left: 1px solid var(--faq-line);
+      border-top: 0;
+    }
+
+    .faq-index__item:first-child {
+      border-left: 0;
+    }
+
+    .faq-index__item strong {
+      font-size: 13px;
+      letter-spacing: 0.05em;
+    }
+
+    .faq-index__item small {
+      font-size: 8.5px;
+      letter-spacing: 0.12em;
+    }
+
+    .faq-categories {
+      gap: 52px;
+      margin-top: 56px;
+    }
+
+    .faq-category__heading small {
+      margin-top: 20px;
+    }
+
+    .faq-category__heading h2 {
+      font-size: 21px;
+    }
+
+    .faq-item summary {
+      min-height: 58px;
+      padding: 0 14px;
+    }
+
+    .faq-item summary span:nth-child(2) {
+      font-size: 13px;
+    }
+
+    .faq-item__answer {
+      padding: 0 14px 20px 50px;
+      font-size: 12.5px;
+    }
+  }
+</style>

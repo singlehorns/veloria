@@ -1,0 +1,133 @@
+{
+  "legacyProductId": "DSP-0079",
+  "legacyCyberbizId": "58093837",
+  "name": "極光軌跡",
+  "englishName": "Aurora Path",
+  "originalDisplayName": "極光軌跡｜Aurora Path",
+  "slug": "aurora-path",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/男戒13"
+  ],
+  "category": "經典男戒",
+  "collection": "ring-man | 經典男戒",
+  "collections": [
+    "ring-man",
+    "經典男戒"
+  ],
+  "productType": "男戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "本商品價格以18K白K金材質、配鑽可選擇天然鑽石或培育鑽石。此款式依戒圍大小進行報價，戒圍越大所需金屬量與配鑽數量亦相對增加，價格將有所調整，歡迎洽詢專人服務。",
+  "description": "本商品價格以18K白K金材質、配鑽可選擇天然鑽石或培育鑽石。此款式依戒圍大小進行報價，戒圍越大所需金屬量與配鑽數量亦相對增加，價格將有所調整，歡迎洽詢專人服務。",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0079-aurora-path/source/DSP-0079-main-01.png",
+      "alt": "極光軌跡｜Aurora Path 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM3LzE3NTQyOTM5MTdfZmJmZTk0ZmU3OTFmZDRiODY1ZDgucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=fe14be91773ff796",
+      "sourcePath": "",
+      "sha256": "a16f9e1a56ae30ff46931283d50153eaa9bb6ece5c3760d93a0e795da2ef2499"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0079-aurora-path/source/DSP-0079-gallery-02.png",
+      "alt": "極光軌跡｜Aurora Path 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM3LzE3NTQyOTM5MTdfM2JkNjBjMTM3ZTY4NTA1YTk2MWEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=754ccb777243ffd0",
+      "sourcePath": "",
+      "sha256": "87fb1e1049c9357268be188b24befce549afd9cf99415afa57b0516eca25cde8"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0079-aurora-path/source/DSP-0079-gallery-03.png",
+      "alt": "極光軌跡｜Aurora Path 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM3LzE3NTQyOTM5MTdfNDQwM2EzZDBjOGZmZjM0YmQ3ZGEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=3b794895871dad47",
+      "sourcePath": "",
+      "sha256": "3daffb8216456234bde9d3c32df6360c61c2c69399de9412c804772ab9418536"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0079-aurora-path/source/DSP-0079-gallery-04.png",
+      "alt": "極光軌跡｜Aurora Path 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM3LzE3NTQyOTM5MTdfYzgxYTYwNGMwNGZlNTRhZjVjMDkucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=3e15c64f7da91d1a",
+      "sourcePath": "",
+      "sha256": "cb49df7c75a5a1592c17bd85c38d5acf858408b4710ceaeb93bc533c68a62d5c"
+    }
+  ],
+  "video": "",
+  "seoTitle": "極光軌跡｜Aurora Path",
+  "seoDescription": "本商品價格以18K白K金材質、配鑽可選擇天然鑽石或培育鑽石。此款式依戒圍大小進行報價，戒圍越大所需金屬量與配鑽數量亦相對增加，價格將有所調整，歡迎洽詢專人服務。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/男戒13",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/男戒13",
+  "inquiryText": "我想諮詢 極光軌跡｜Aurora Path",
+  "frameworkStatus": "complete",
+  "contentStatus": "partial",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0131",
+    "SRC-0282",
+    "SRC-0292",
+    "SRC-0373",
+    "SRC-0422",
+    "SRC-0451",
+    "SRC-0573",
+    "SRC-0641"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0131",
+      "text": "極光軌跡｜Aurora Path"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0282",
+      "text": "極光軌跡｜Aurora Path"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0292",
+      "text": "極光軌跡｜Aurora Path"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0373",
+      "text": "極光軌跡｜Aurora Path"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0422",
+      "text": "極光軌跡｜Aurora Path"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0451",
+      "text": "極光軌跡｜Aurora Path"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0573",
+      "text": "極光軌跡｜Aurora Path"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0641",
+      "text": "極光軌跡｜Aurora Path"
+    }
+  ],
+  "migrationNotes": "原始商品介紹/規格不足，不得標示為內容完整。"
+}

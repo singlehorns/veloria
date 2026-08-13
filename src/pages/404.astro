@@ -1,0 +1,30 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="找不到頁面" description="找不到你要瀏覽的VELORIA頁面。">
+  <section class="section not-found">
+    <div class="container">
+      <p class="eyebrow">404</p>
+      <h1>這個頁面暫時沒有對應內容。</h1>
+      <p>舊站部分會員、購物車與搜尋路由不會移入品牌型新站，請回首頁或直接聯絡我們。</p>
+      <a class="button" href="/">回到首頁</a>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .not-found {
+    min-height: 62vh;
+    display: grid;
+    align-items: center;
+  }
+
+  .not-found p {
+    max-width: 620px;
+  }
+
+  .not-found .button {
+    margin-top: 1.5rem;
+  }
+</style>

@@ -1,0 +1,85 @@
+{
+  "legacyProductId": "DSP-0025",
+  "productName": "光韻之矢",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/marquise-gleam-dsdiamond"
+  ],
+  "expectedImageCount": 4,
+  "detectedReferences": [
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfY2Y2OWE3NWRmNDZmYWUwYmE1NzMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=0372c38f9ea369e0",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfY2Y2OWE3NWRmNDZmYWUwYmE1NzMuanBlZyJdXQ.jpeg?sha=0372c38f9ea369e0",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/62421341/1763960838_cf69a75df46fae0ba573.jpeg",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    },
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfYjRmN2MyZTJlNmRhYzZjMGE4N2YuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=ab4159b46757f753",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfYjRmN2MyZTJlNmRhYzZjMGE4N2YuanBlZyJdXQ.jpeg?sha=ab4159b46757f753",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/62421341/1763960838_b4f7c2e2e6dac6c0a87f.jpeg",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    },
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfMGE1MGMwNzgxZTZmMGZkZWM5MWMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=3506d12375bbdc03",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfMGE1MGMwNzgxZTZmMGZkZWM5MWMuanBlZyJdXQ.jpeg?sha=3506d12375bbdc03",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/62421341/1763960838_0a50c0781e6f0fdec91c.jpeg",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    },
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfZTc4NmE4NWZkNjY1ZjhiYjVjNjcuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=0a29850acb701554",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfZTc4NmE4NWZkNjY1ZjhiYjVjNjcuanBlZyJdXQ.jpeg?sha=0a29850acb701554",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/62421341/1763960838_e786a85fd665f8bb5c67.jpeg",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    }
+  ],
+  "downloadedFiles": [
+    {
+      "file": "public/assets/migrated/products/DSP-0025-marquise-gleam/source/DSP-0025-main-01.jpeg",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfY2Y2OWE3NWRmNDZmYWUwYmE1NzMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=0372c38f9ea369e0",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfY2Y2OWE3NWRmNDZmYWUwYmE1NzMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=0372c38f9ea369e0",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "9552e47f878735e10561125021807fd4d1ce6c1a5f3b0e56bb2d367e284ddbcd",
+      "sizeBytes": 30465
+    },
+    {
+      "file": "public/assets/migrated/products/DSP-0025-marquise-gleam/source/DSP-0025-gallery-02.jpeg",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfYjRmN2MyZTJlNmRhYzZjMGE4N2YuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=ab4159b46757f753",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfYjRmN2MyZTJlNmRhYzZjMGE4N2YuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=ab4159b46757f753",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "d7d2d9decb1b18faf3e32da2ccd06cd1513a6245c646e3c04637dda418078597",
+      "sizeBytes": 25231
+    },
+    {
+      "file": "public/assets/migrated/products/DSP-0025-marquise-gleam/source/DSP-0025-gallery-03.jpeg",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfMGE1MGMwNzgxZTZmMGZkZWM5MWMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=3506d12375bbdc03",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfMGE1MGMwNzgxZTZmMGZkZWM5MWMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=3506d12375bbdc03",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "103c68301fd4021233f8cea5f8ea55e2042e48df34ff870308333f91c43d9a61",
+      "sizeBytes": 35963
+    },
+    {
+      "file": "public/assets/migrated/products/DSP-0025-marquise-gleam/source/DSP-0025-gallery-04.jpeg",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfZTc4NmE4NWZkNjY1ZjhiYjVjNjcuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=0a29850acb701554",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyNDIxMzQxLzE3NjM5NjA4MzhfZTc4NmE4NWZkNjY1ZjhiYjVjNjcuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=0a29850acb701554",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "922992be6dc3f6c8c4bc4b9b80add06ed0b11fa8fa69ff413a3ebe5eb9d40d78",
+      "sizeBytes": 31683
+    }
+  ],
+  "failedDownloads": [],
+  "duplicateFiles": [],
+  "unclassifiedFiles": [],
+  "status": "完整",
+  "notes": []
+}

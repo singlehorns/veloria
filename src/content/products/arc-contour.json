@@ -1,0 +1,176 @@
+{
+  "legacyProductId": "DSP-0029",
+  "legacyCyberbizId": "64736681",
+  "name": "弧界之心",
+  "englishName": "Àrc Contour",
+  "originalDisplayName": "弧界之心｜Àrc Contour",
+  "slug": "arc-contour",
+  "legacyUrls": [],
+  "category": "女士鑽戒, 經典女戒",
+  "collection": "ring-female | 經典女戒",
+  "collections": [
+    "ring-female",
+    "經典女戒"
+  ],
+  "productType": "ring",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "水滴形主鑽凝聚清澈光芒，流線戒臂自兩側交會成優雅弧界，細緻排鑽沿著弧線鋪展\n ，襯出輕盈而立體的層次感，將真摯心意化為長久守護的承諾。\n\n 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。\n\n 為確保服務品質與產品完整度， 目前暫不開放線上購物車結帳 。\n\n 此款價格基於 18K白K金 材質之設計：\n\n ◆ 天然鑽款 ：2克拉 D 色 SI1 等級\n\n ◆ 培育鑽款 ：2.26 克拉 D 色 VVS2 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。\n\n Request an Appointment\n\n LINE 諮詢\n\n 線上專員服務",
+  "description": "水滴形主鑽凝聚清澈光芒，流線戒臂自兩側交會成優雅弧界，細緻排鑽沿著弧線鋪展\n ，襯出輕盈而立體的層次感，將真摯心意化為長久守護的承諾。\n\n 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。\n\n 為確保服務品質與產品完整度， 目前暫不開放線上購物車結帳 。\n\n 此款價格基於 18K白K金 材質之設計：\n\n ◆ 天然鑽款 ：2克拉 D 色 SI1 等級\n\n ◆ 培育鑽款 ：2.26 克拉 D 色 VVS2 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。\n\n Request an Appointment\n\n LINE 諮詢\n\n 線上專員服務",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0029-arc-contour/localized/DSP-0029-gallery-02.jpeg",
+      "alt": "弧界之心｜Àrc Contour 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0029-arc-contour/localized/DSP-0029-gallery-03.jpeg",
+      "alt": "弧界之心｜Àrc Contour 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0029-arc-contour/localized/DSP-0029-gallery-04.jpeg",
+      "alt": "弧界之心｜Àrc Contour 3",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "弧界之心 Àrc Contour｜求婚鑽戒推薦｜非對稱設計鑽戒｜VELORIA",
+  "seoDescription": "弧界之心 Àrc Contour 鑽石戒指，以非對稱弧線設計呈現獨特光影流動，主鑽嵌於轉折曲線之中，展現優雅與個性兼具的高級珠寶風格。適合求婚與紀念時刻，提供客製化鑽石與材質選擇。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/arc-contour-engagement-ring",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/arc-contour-engagement-ring",
+  "inquiryText": "我想諮詢 弧界之心｜Àrc Contour",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery",
+  "mediaStatus": "localized-api-gallery",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0102",
+    "SRC-0265",
+    "SRC-0386",
+    "SRC-0396",
+    "SRC-0544"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0102",
+      "text": "弧界之心｜Àrc Contour"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0265",
+      "text": "弧界之心｜Àrc Contour"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0386",
+      "text": "弧界之心｜Àrc Contour"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0396",
+      "text": "弧界之心｜Àrc Contour"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0544",
+      "text": "弧界之心｜Àrc Contour"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "64736681",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/arc-contour-engagement-ring",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "64736681",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/arc-contour-engagement-ring",
+      "text": "水滴形主鑽凝聚清澈光芒，流線戒臂自兩側交會成優雅弧界，細緻排鑽沿著弧線鋪展\n ，襯出輕盈而立體的層次感，將真摯心意化為長久守護的承諾。\n\n 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。\n\n 為確保服務品質與產品完整度， 目前暫不開放線上購物車結帳 。\n\n 此款價格基於 18K白K金 材質之設計：\n\n ◆ 天然鑽款 ：2克拉 D 色 SI1 等級\n\n ◆ 培育鑽款 ：2.26 克拉 D 色 VVS2 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。\n\n Request an Appointment\n\n LINE 諮詢\n\n 線上專員服務"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "womens-diamond-rings",
+  "subcategories": [
+    "classic-womens-rings"
+  ],
+  "audience": "women",
+  "diamondType": "natural-diamond",
+  "tags": [
+    "womens-diamond-rings",
+    "classic-womens-rings",
+    "ring",
+    "women",
+    "natural-diamond"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "womens-diamond-rings",
+    "classic-womens-rings"
+  ],
+  "displayPrice": "NT$88,000 - NT$850,000",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "78487395",
+      "sku": "",
+      "name": "弧界之心｜Àrc Contour",
+      "price": 850000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    },
+    {
+      "variantId": "78487396",
+      "sku": "",
+      "name": "弧界之心｜Àrc Contour",
+      "price": 88000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 88000,
+  "priceMax": 850000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "64736681",
+  "pricingStandards": {
+    "source": "description",
+    "materialStatement": "此款價格基於 18K白K金 材質之設計：",
+    "naturalDiamond": "天然鑽款：2克拉 D 色 SI1 等級",
+    "labDiamond": "培育鑽款：2.26 克拉 D 色 VVS2 等級",
+    "notes": [
+      "配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。",
+      "如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "Materials\n        材質選定\n      \n      \n      \n      \n        <ul>\n          <li>\n            ✦\n            提供 <strong>鉑金 (PT950)</strong>、<strong>18K金</strong> (白、黃、玫瑰金) 等材質選擇。\n          </li>\n          <li>\n            ✦\n            可搭配 <strong>天然鑽石</strong> 或 <strong>實驗室培育鑽石</strong>，均附國際權威認證證書。\n          </li>\n          <li>\n            ✦\n            材質均經過專業品質檢驗，觸感細膩莊重，適合長期配戴與紀念。\n          </li>\n        </ul>\n      \n    \n\n    \n    \n      \n        Measurement\n        戒圍量測\n      \n\n      \n        <ul>\n          <li>\n            ✦\n            可至門市由專業顧問協助量測，或提供既有戒指對照參考。\n          </li>\n          <li>\n            ✦\n            下單後將由我們 <strong>免費寄送專業量測器</strong> 至您指定地址，確保精準貼合。\n          </li>\n        </ul>\n      \n    \n\n    \n    \n      \n        Personalization\n        刻字服務\n      \n\n      \n        <ul>\n          <li>\n            ✦\n            提供 <strong>免費內圈刻字服務</strong>，可刻印英文、數字與符號 (∞、♥)。\n          </li>\n          <li>\n            ✦\n            建議字數不超過 12 字元。如有特殊需求，請於下單時備註或聯絡客服。\n          </li>\n        </ul>\n      \n    \n\n  \n\n  \n  \n    Craftsmanship & Service Excellence"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "Delivery\n        運送方式\n      \n      \n      \n      \n        為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：\n      \n\n      \n      \n        <ul>\n          \n          <li>\n            ✦\n            <strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。\n          </li>\n          \n          <li>\n            ✦\n            <strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。\n          </li>\n        </ul>\n      \n    \n\n  \n\n  \n  \n    Craftsmanship & Service Excellence"
+    }
+  ]
+}

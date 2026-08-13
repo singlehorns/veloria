@@ -1,0 +1,1838 @@
+[
+  {
+    "productId": "DSP-0067",
+    "productName": "晨曦之舞｜Akatsuki Dance",
+    "slug": "akatsuki-dance",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "earrings"
+    ],
+    "productType": "earring",
+    "collection": "earring",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0077",
+    "productName": "暖曜心語｜Amber Promise Glow",
+    "slug": "amber-promise-glow",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "engagement-rings",
+      "yellow-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "ring",
+    "collection": "彩色鑽石專區 | 求婚 | 黃鑽",
+    "audience": "women",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0008",
+    "productName": "心語之戀｜Amour de Cœur",
+    "slug": "amour-de-c-ur",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "necklaces"
+    ],
+    "productType": "necklace",
+    "collection": "necklace",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0029",
+    "productName": "弧界之心｜Arc Contour",
+    "slug": "arc-contour",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0030",
+    "productName": "弧鑽序影｜Arc Diamond Sequence",
+    "slug": "arc-diamond-sequence",
+    "originalUrl": "",
+    "primaryCategory": "loose-diamonds",
+    "subcategories": [
+      "earrings",
+      "loose-diamonds"
+    ],
+    "productType": "loose-diamond",
+    "collection": "earring",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "partially-confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0065",
+    "productName": "晨曜方華 Aurora Cushion Gleam",
+    "slug": "aurora-cushion-gleam",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "yellow-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "戒指",
+    "collection": "彩色鑽石專區 | 黃鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0078",
+    "productName": "極光之環｜Aurora Hoops",
+    "slug": "aurora-hoops",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "earrings"
+    ],
+    "productType": "earring",
+    "collection": "earring",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0079",
+    "productName": "極光軌跡｜Aurora Path",
+    "slug": "aurora-path",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/男戒13",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 經典男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0044",
+    "productName": "恆軸之戒｜Axis of Steadfast",
+    "slug": "axis-of-steadfast",
+    "originalUrl": "",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0072",
+    "productName": "湛藍晨曦｜Azure Aurora",
+    "slug": "azure-aurora",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "blue-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "戒指",
+    "collection": "彩色鑽石專區 | 藍鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0102",
+    "productName": "藍曜花冕｜Azure Bloom Halo",
+    "slug": "azure-bloom-halo",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/azure-bloom-halo-colored-diamond",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "classic-womens-rings",
+      "blue-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 彩色鑽石專區 | 經典女戒 | 藍鑽",
+    "audience": "women",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0060",
+    "productName": "海霧之願｜Azure Wish",
+    "slug": "azure-wish",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "necklaces",
+      "blue-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "necklace",
+    "collection": "necklace | 彩色鑽石專區 | 藍鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0073",
+    "productName": "絢麗花語｜Blooming Grace",
+    "slug": "blooming-grace",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "necklaces"
+    ],
+    "productType": "necklace",
+    "collection": "necklace",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0011",
+    "productName": "心鑽綻放｜Blooming Heart",
+    "slug": "blooming-heart",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "necklaces"
+    ],
+    "productType": "necklace",
+    "collection": "necklace",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0085",
+    "productName": "夢境花綻｜Blossom Reverie",
+    "slug": "blossom-reverie",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "classic-womens-rings",
+      "pink-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 彩色鑽石專區 | 粉鑽 | 經典女戒",
+    "audience": "women",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0103",
+    "productName": "藍戀花冠｜Blue Crown of Love",
+    "slug": "blue-crown-of-love",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "blue-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "戒指",
+    "collection": "彩色鑽石專區 | 藍鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0090",
+    "productName": "蝶映粉光｜Blush Butterfly Radiance",
+    "slug": "blush-butterfly-radiance",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "pink-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "戒指",
+    "collection": "彩色鑽石專區 | 粉鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0110",
+    "productName": "戀光之心｜Blush Halo Promise",
+    "slug": "blush-halo-promise",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "classic-womens-rings",
+      "pink-diamonds"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 粉鑽 | 經典女戒",
+    "audience": "women",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0006",
+    "productName": "心悅之吻｜Blush Kiss",
+    "slug": "blush-kiss",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "necklaces",
+      "pink-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "necklace",
+    "collection": "necklace | 彩色鑽石專區 | 粉鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0062",
+    "productName": "粉芒之淚｜Blush Teardrop",
+    "slug": "blush-teardrop",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "necklaces",
+      "pink-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "necklace",
+    "collection": "necklace | 彩色鑽石專區 | 粉鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0059",
+    "productName": "相契之刻｜Bonded Edge",
+    "slug": "bonded-edge",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "pair-rings"
+    ],
+    "productType": "ring",
+    "collection": "pair-ring",
+    "audience": "couple",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0009",
+    "productName": "心耀之環｜Brilliant Embrace",
+    "slug": "brilliant-embrace",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings",
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 求婚 | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0055",
+    "productName": "星願經典｜Brilliant Wish",
+    "slug": "brilliant-wish",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "necklaces"
+    ],
+    "productType": "necklace",
+    "collection": "necklace",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0056",
+    "productName": "星瀾綻放｜Celestial Bloom",
+    "slug": "celestial-bloom",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "blue-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "戒指",
+    "collection": "彩色鑽石專區 | 藍鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0053",
+    "productName": "星環映粹｜Celestial Halo Radiance",
+    "slug": "celestial-halo-radiance",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "earrings"
+    ],
+    "productType": "earring",
+    "collection": "earring",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0051",
+    "productName": "星語誓約｜Celestial Vow",
+    "slug": "celestial-vow",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "求婚",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0037",
+    "productName": "金耀圓華｜Circle of Radiance",
+    "slug": "circle-of-radiance",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "necklaces"
+    ],
+    "productType": "necklace",
+    "collection": "necklace",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0088",
+    "productName": "銀耀之冠 Crown of Argent Radiance",
+    "slug": "crown-of-argent-radiance",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "classic-mens-rings",
+      "yellow-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 彩色鑽石專區 | 經典男戒 | 黃鑽",
+    "audience": "men",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0042",
+    "productName": "帝鑽之冠｜Crown of Majesty",
+    "slug": "crown-of-majesty",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/男戒05",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 經典男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0033",
+    "productName": "花冕之心｜Crowned Heart Grace",
+    "slug": "crowned-heart-grace",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "classic-womens-rings",
+      "pink-diamonds"
+    ],
+    "productType": "ring",
+    "collection": "粉鑽",
+    "audience": "women",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0038",
+    "productName": "冠芒相守｜Crowned Promise",
+    "slug": "crowned-promise",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0026",
+    "productName": "冰心湛藍｜Crystal Blue Heart",
+    "slug": "crystal-blue-heart",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/女戒29",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "classic-womens-rings",
+      "engagement-rings",
+      "blue-diamonds"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 求婚 | 經典女戒",
+    "audience": "women",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0014",
+    "productName": "半壁江山｜Destined Dominion",
+    "slug": "destined-dominion",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0091",
+    "productName": "鋒耀之冠｜Dominion Crest",
+    "slug": "dominion-crest",
+    "originalUrl": "",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 經典男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0109",
+    "productName": "權耀之環｜Dominion Halo",
+    "slug": "dominion-halo",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "classic-mens-rings",
+      "yellow-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 彩色鑽石專區 | 經典男戒 | 黃鑽",
+    "audience": "men",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0105",
+    "productName": "雙心守護｜Double Heart Embrace",
+    "slug": "double-heart-embrace",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "pink-diamonds"
+    ],
+    "productType": "戒指",
+    "collection": "粉鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0003",
+    "productName": "心弦共鳴｜Echo of Us",
+    "slug": "echo-of-us",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "pair-rings"
+    ],
+    "productType": "ring",
+    "collection": "pair-ring",
+    "audience": "couple",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0081",
+    "productName": "稜境之耀｜Edge of Radiance",
+    "slug": "edge-of-radiance",
+    "originalUrl": "",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 經典男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0020",
+    "productName": "交織之緣｜Entwined Destiny",
+    "slug": "entwined-destiny",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/女戒23",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings",
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 求婚 | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0019",
+    "productName": "交織之約｜Entwined Promise",
+    "slug": "entwined-promise",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/女戒24",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings",
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 求婚 | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0045",
+    "productName": "恆穩之光｜Eterna Shine",
+    "slug": "eterna-shine",
+    "originalUrl": "",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0010",
+    "productName": "心鑽交織｜Eternal Entwine",
+    "slug": "eternal-entwine",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings",
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 求婚 | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0022",
+    "productName": "光華永恆｜Eternal Halo",
+    "slug": "eternal-halo",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "necklaces"
+    ],
+    "productType": "necklace",
+    "collection": "necklace",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0046",
+    "productName": "恆耀之鏈｜Eternal Sparkle",
+    "slug": "eternal-sparkle",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "bracelets"
+    ],
+    "productType": "bracelet",
+    "collection": "bracelet",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0015",
+    "productName": "永恆心語｜Eternal Whisper",
+    "slug": "eternal-whisper",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "求婚",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0092",
+    "productName": "凝光心羽｜Ethereal Heart Petals",
+    "slug": "ethereal-heart-petals",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "pink-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "戒指",
+    "collection": "彩色鑽石專區 | 粉鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0106",
+    "productName": "離心誓約｜Fine Jewelry Ring",
+    "slug": "fine-jewelry-ring",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings"
+    ],
+    "productType": "ring",
+    "collection": "",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0032",
+    "productName": "花序微光｜Floral Constellation",
+    "slug": "floral-constellation",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings"
+    ],
+    "productType": "ring",
+    "collection": "",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0058",
+    "productName": "流光心語｜Gleaming Vow",
+    "slug": "gleaming-vow",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "求婚",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0034",
+    "productName": "金緻花語｜Golden Bloom",
+    "slug": "golden-bloom",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "earrings"
+    ],
+    "productType": "earring",
+    "collection": "earring",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0035",
+    "productName": "金曜凝光｜Golden Halo Radiance",
+    "slug": "golden-halo-radiance",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "engagement-rings",
+      "yellow-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "ring",
+    "collection": "彩色鑽石專區 | 求婚 | 黃鑽",
+    "audience": "women",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0036",
+    "productName": "金耀華章｜Golden Sonata",
+    "slug": "golden-sonata",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "yellow-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "戒指",
+    "collection": "彩色鑽石專區 | 黃鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0004",
+    "productName": "心金不渝｜Golden Vow",
+    "slug": "golden-vow",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "necklaces"
+    ],
+    "productType": "necklace",
+    "collection": "necklace",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0039",
+    "productName": "契合之環｜Harmonic Loop",
+    "slug": "harmonic-loop",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "pair-rings"
+    ],
+    "productType": "ring",
+    "collection": "pair-ring",
+    "audience": "couple",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0061",
+    "productName": "秘語心印｜Hidden Whisper",
+    "slug": "hidden-whisper",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "求婚",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0043",
+    "productName": "帝鑽榮耀｜Imperial Glory",
+    "slug": "imperial-glory",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/男戒15",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 經典男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0023",
+    "productName": "光璨雙影｜Luminous Duet",
+    "slug": "luminous-duet",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "earrings"
+    ],
+    "productType": "earring",
+    "collection": "earring",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0093",
+    "productName": "凝光序曲｜Luminous Prelude",
+    "slug": "luminous-prelude",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/女戒05",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings",
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 求婚 | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0024",
+    "productName": "光曜之境｜Luminous Realm",
+    "slug": "luminous-realm",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/女戒27",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0070",
+    "productName": "雫月之心｜Lune Drop",
+    "slug": "lune-drop",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "necklaces"
+    ],
+    "productType": "necklace",
+    "collection": "necklace",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0040",
+    "productName": "帝后之鑽｜Majestic Regalia",
+    "slug": "majestic-regalia",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0025",
+    "productName": "光韻之矢｜Marquise Gleam",
+    "slug": "marquise-gleam",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/marquise-gleam-dsdiamond",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0080",
+    "productName": "極簡星芒｜Minimal Radiance",
+    "slug": "minimal-radiance",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "求婚",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0099",
+    "productName": "曜域方璨｜Monolith Brilliance",
+    "slug": "monolith-brilliance",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/monolith-brilliance-dsdiamond",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 經典男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0066",
+    "productName": "晨曦之光｜Morning Glow",
+    "slug": "morning-glow",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "engagement-rings",
+      "yellow-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "ring",
+    "collection": "彩色鑽石專區 | 求婚 | 黃鑽",
+    "audience": "women",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0063",
+    "productName": "粉愛花冠｜Pink Crown of Love",
+    "slug": "pink-crown-of-love",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "pink-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "戒指",
+    "collection": "彩色鑽石專區 | 粉鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0005",
+    "productName": "心映愛語｜Pink Whisper",
+    "slug": "pink-whisper",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "classic-womens-rings",
+      "engagement-rings",
+      "pink-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 彩色鑽石專區 | 求婚 | 粉鑽 | 經典女戒",
+    "audience": "women",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0027",
+    "productName": "初心之愛｜Pure Heart Promise",
+    "slug": "pure-heart-promise",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/pure-heart-promise-dsdiamond",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "classic-womens-rings",
+      "pink-diamonds"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 粉鑽 | 經典女戒",
+    "audience": "women",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0021",
+    "productName": "光芒綻放｜Radiant Bloom",
+    "slug": "radiant-bloom",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/女戒21",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0098",
+    "productName": "曜映之環｜Radiant Bond",
+    "slug": "radiant-bond",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "pair-rings"
+    ],
+    "productType": "ring",
+    "collection": "pair-ring",
+    "audience": "couple",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0100",
+    "productName": "曜域光序｜Radiant Domain Halo",
+    "slug": "radiant-domain-halo",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "engagement-rings",
+      "yellow-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "ring",
+    "collection": "彩色鑽石專區 | 求婚 | 黃鑽",
+    "audience": "women",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0012",
+    "productName": "方域之璽｜Regal Frame",
+    "slug": "regal-frame",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/regalframe-dsdiamond",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 經典男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0104",
+    "productName": "鎏光華紋｜Regal Radiance",
+    "slug": "regal-radiance",
+    "originalUrl": "",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 經典男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0064",
+    "productName": "御璽之環｜Regal Seal",
+    "slug": "regal-seal",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/男戒06",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 經典男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0086",
+    "productName": "緋曜格序｜Rosé Architectural Halo",
+    "slug": "rose-architectural-halo",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "classic-womens-rings",
+      "engagement-rings",
+      "pink-diamonds"
+    ],
+    "productType": "ring",
+    "collection": "粉鑽",
+    "audience": "women",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0087",
+    "productName": "緋露晨光｜Rosé Dew Radiance",
+    "slug": "rose-dew-radiance",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "pink-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "戒指",
+    "collection": "彩色鑽石專區 | 粉鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0007",
+    "productName": "心境如初｜Rose Embrace",
+    "slug": "rose-embrace",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "necklaces"
+    ],
+    "productType": "necklace",
+    "collection": "necklace",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0031",
+    "productName": "玫光心語｜Rosé Heart Whisper",
+    "slug": "rose-heart-whisper",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "pink-diamonds"
+    ],
+    "productType": "戒指",
+    "collection": "粉鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0069",
+    "productName": "晨曦蜜語｜Rosé Whisper",
+    "slug": "rose-whisper",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "necklaces",
+      "pink-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "necklace",
+    "collection": "necklace | 彩色鑽石專區 | 粉鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0107",
+    "productName": "權杖紋章｜Scepter Crest",
+    "slug": "scepter-crest",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/男戒14",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 經典男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0094",
+    "productName": "靜線之約｜Silent Line",
+    "slug": "silent-line",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "pair-rings"
+    ],
+    "productType": "ring",
+    "collection": "pair-ring",
+    "audience": "couple",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0095",
+    "productName": "靜謐之心｜Silent Pink Heart",
+    "slug": "silent-pink-heart",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "pink-diamonds"
+    ],
+    "productType": "戒指",
+    "collection": "粉鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0013",
+    "productName": "日耀承諾｜Solar Vow",
+    "slug": "solar-vow",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings",
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 求婚 | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0041",
+    "productName": "帝耀之環｜Sovereign Glow",
+    "slug": "sovereign-glow",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/男戒10",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "classic-mens-rings",
+      "yellow-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 彩色鑽石專區 | 經典男戒 | 黃鑽",
+    "audience": "men",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0108",
+    "productName": "權境之環｜Sovereign Realm",
+    "slug": "sovereign-realm",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/男戒03",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 經典男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0071",
+    "productName": "尊耀之印｜Sovereign Seal",
+    "slug": "sovereign-seal",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/男戒12-20250721114449",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 經典男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0089",
+    "productName": "璀璨星語｜Sparkling Whisper",
+    "slug": "sparkling-whisper",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "求婚",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0111",
+    "productName": "戀戀星語｜Starlit Murmurs",
+    "slug": "starlit-murmurs",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings",
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 求婚 | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0052",
+    "productName": "星影之語｜Starlit Promise",
+    "slug": "starlit-promise-dsp-0052",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0048",
+    "productName": "星語之願｜Starlit Promise",
+    "slug": "starlit-promise",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "求婚",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0028",
+    "productName": "定心之光｜Steady Heartlight",
+    "slug": "steady-heartlight",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/steady-heartlight-dsdiamond",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 經典男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0054",
+    "productName": "星曜領主｜Stellar Dominion",
+    "slug": "stellar-dominion",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/男戒12-20250726122514",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "classic-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 經典男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0050",
+    "productName": "星語名鍊｜Stellar Name",
+    "slug": "stellar-name",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "necklaces"
+    ],
+    "productType": "necklace",
+    "collection": "necklace",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0049",
+    "productName": "星語心願｜Stellar Promise",
+    "slug": "stellar-promise-dsp-0049",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "求婚",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0047",
+    "productName": "星芒之約｜Stellar Promise",
+    "slug": "stellar-promise",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "求婚",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0057",
+    "productName": "星耀經典｜Stellar Studs",
+    "slug": "stellar-studs",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "earrings"
+    ],
+    "productType": "earring",
+    "collection": "earring",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0097",
+    "productName": "璨淚光華｜Tear of Brilliance",
+    "slug": "tear-of-brilliance",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "necklaces"
+    ],
+    "productType": "necklace",
+    "collection": "necklace",
+    "audience": "unisex",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0096",
+    "productName": "曖曖之心｜Tender Glow",
+    "slug": "tender-glow",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "求婚",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0016",
+    "productName": "永恆序曲｜Timeless Prelude",
+    "slug": "timeless-prelude",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "pair-rings"
+    ],
+    "productType": "ring",
+    "collection": "pair-ring",
+    "audience": "couple",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0001",
+    "productName": "三生之約｜Trilogy Vow",
+    "slug": "trilogy-vow",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/女戒14",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0002",
+    "productName": "三序映華｜Trinity Éclat",
+    "slug": "trinity-eclat",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/trinity-eclat-dsdiamond",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0018",
+    "productName": "交會之光｜Union Light",
+    "slug": "union-light",
+    "originalUrl": "https://www.dsdiamond.com.tw/products/union-light-dsdiamond",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "classic-womens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-female | 經典女戒",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0017",
+    "productName": "交心之結｜Unity Knot",
+    "slug": "unity-knot",
+    "originalUrl": "",
+    "primaryCategory": "other-jewelry",
+    "subcategories": [
+      "pair-rings"
+    ],
+    "productType": "ring",
+    "collection": "pair-ring",
+    "audience": "couple",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0068",
+    "productName": "晨曦心語｜Whisper of Dawn",
+    "slug": "whisper-of-dawn",
+    "originalUrl": "",
+    "primaryCategory": "womens-diamond-rings",
+    "subcategories": [
+      "engagement-rings"
+    ],
+    "productType": "ring",
+    "collection": "求婚",
+    "audience": "women",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0101",
+    "productName": "織夢華語｜ Woven Dream",
+    "slug": "woven-dream",
+    "originalUrl": "",
+    "primaryCategory": "colored-diamonds",
+    "subcategories": [
+      "pink-diamonds",
+      "other-color-diamonds"
+    ],
+    "productType": "戒指",
+    "collection": "彩色鑽石專區 | 粉鑽",
+    "audience": "unisex",
+    "diamondType": "colored-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0082",
+    "productName": "鉑金轉運戒 ( 三排 )",
+    "slug": "鉑金轉運戒-三排",
+    "originalUrl": "",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "fortune-womens-rings",
+      "fortune-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 轉運女戒 | 轉運男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0083",
+    "productName": "鉑金轉運戒 ( 單排 )",
+    "slug": "鉑金轉運戒-單排",
+    "originalUrl": "",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "fortune-womens-rings",
+      "fortune-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 轉運女戒 | 轉運男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0084",
+    "productName": "鉑金轉運戒 ( 雙排 )",
+    "slug": "鉑金轉運戒-雙排",
+    "originalUrl": "",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "fortune-womens-rings",
+      "fortune-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 轉運女戒 | 轉運男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0074",
+    "productName": "黃K金轉運戒 ( 三排 )",
+    "slug": "黃k金轉運戒-三排",
+    "originalUrl": "",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "fortune-womens-rings",
+      "fortune-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 轉運女戒 | 轉運男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0076",
+    "productName": "黃K金轉運戒(單排)",
+    "slug": "黃k金轉運戒-單排",
+    "originalUrl": "",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "fortune-womens-rings",
+      "fortune-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "轉運女戒 | 轉運男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  },
+  {
+    "productId": "DSP-0075",
+    "productName": "黃K金轉運戒 ( 雙排 )",
+    "slug": "黃k金轉運戒-雙排",
+    "originalUrl": "",
+    "primaryCategory": "mens-diamond-rings",
+    "subcategories": [
+      "fortune-womens-rings",
+      "fortune-mens-rings"
+    ],
+    "productType": "ring",
+    "collection": "ring-man | 轉運女戒 | 轉運男戒",
+    "audience": "men",
+    "diamondType": "natural-diamond",
+    "taxonomyStatus": "confirmed",
+    "notes": "Assigned mechanically from legacy collection/category strings and product route evidence."
+  }
+]

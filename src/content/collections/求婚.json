@@ -1,0 +1,24 @@
+{
+  "name": "求婚戒指",
+  "slug": "求婚",
+  "englishName": "求婚戒指",
+  "summary": "交織之約｜Entwinéd Promise 交織之緣｜Entwinéd Destiny 冰心湛藍｜Crystàl Blue Heart 凝光序曲｜Lumînous Prelude",
+  "description": "交織之約｜Entwinéd Promise 交織之緣｜Entwinéd Destiny 冰心湛藍｜Crystàl Blue Heart 凝光序曲｜Lumînous Prelude",
+  "heroImage": {
+    "src": "/assets/migrated/collections/proposal-ring.jpeg",
+    "alt": "求婚戒指"
+  },
+  "products": [
+    "entwined-promise",
+    "entwined-destiny",
+    "crystal-blue-heart",
+    "luminous-prelude"
+  ],
+  "featured": false,
+  "seoTitle": "求婚戒指 VELORIA",
+  "seoDescription": "交織之約｜Entwinéd Promise 交織之緣｜Entwinéd Destiny 冰心湛藍｜Crystàl Blue Heart 凝光序曲｜Lumînous Prelude",
+  "originalUrl": "https://www.dsdiamond.com.tw/collections/求婚",
+  "originalSource": "../dsdiamond_backup/brand-data/brand-routes.json",
+  "migrationStatus": "部分搬遷",
+  "migrationNotes": "由舊站 brand-routes 自動補回系列頁入口；產品、圖片與完整區塊仍需人工核對。 已連接可追蹤的舊站系列媒體；產品圖仍需逐筆確認。"
+}

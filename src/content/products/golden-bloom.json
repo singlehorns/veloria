@@ -1,0 +1,143 @@
+{
+  "legacyProductId": "DSP-0034",
+  "legacyCyberbizId": "58378176",
+  "name": "金緻花語",
+  "englishName": "Goldén Bloom",
+  "originalDisplayName": "金緻花語｜Goldén Bloom",
+  "slug": "golden-bloom",
+  "legacyUrls": [],
+  "category": "耳環",
+  "collection": "earring",
+  "collections": [
+    "earring"
+  ],
+  "productType": "earring",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "以黃金鑲嵌璀璨圓鑽，綻放如花瓣般的絢麗光芒，象徵優雅與自信綻放的永恆姿態。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心",
+  "description": "以黃金鑲嵌璀璨圓鑽，綻放如花瓣般的絢麗光芒，象徵優雅與自信綻放的永恆姿態。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0034-golden-bloom/localized/DSP-0034-main-01.png",
+      "alt": "金緻花語｜Goldén Bloom 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0034-golden-bloom/localized/DSP-0034-gallery-02.png",
+      "alt": "金緻花語｜Goldén Bloom 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0034-golden-bloom/localized/DSP-0034-gallery-03.png",
+      "alt": "金緻花語｜Goldén Bloom 3",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "金緻花語｜Goldén Bloom",
+  "seoDescription": "以黃金鑲嵌璀璨圓鑽，綻放如花瓣般的絢麗光芒，象徵優雅與自信綻放的永恆姿態。          ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。          📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：                                                        💬 客服中心",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%87%91%E7%B7%BB%E8%8A%B1%E8%AA%9E%EF%BD%9Cgolden-bloom",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%87%91%E7%B7%BB%E8%8A%B1%E8%AA%9E%EF%BD%9Cgolden-bloom",
+  "inquiryText": "我想諮詢 金緻花語｜Goldén Bloom",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-html-gallery",
+  "mediaStatus": "localized-html-gallery",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0025",
+    "SRC-0032"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0025",
+      "text": "金緻花語｜Goldén Bloom"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0032",
+      "text": "金緻花語｜Goldén Bloom"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "58378176",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%87%91%E7%B7%BB%E8%8A%B1%E8%AA%9E%EF%BD%9Cgolden-bloom",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "58378176",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E9%87%91%E7%B7%BB%E8%8A%B1%E8%AA%9E%EF%BD%9Cgolden-bloom",
+      "text": "以黃金鑲嵌璀璨圓鑽，綻放如花瓣般的絢麗光芒，象徵優雅與自信綻放的永恆姿態。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "other-jewelry",
+  "subcategories": [
+    "earrings"
+  ],
+  "audience": "unisex",
+  "diamondType": "natural-diamond",
+  "tags": [
+    "other-jewelry",
+    "earrings",
+    "earring",
+    "unisex",
+    "natural-diamond"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "earrings"
+  ],
+  "displayPrice": "NT$35,800",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "70747089",
+      "sku": "DSE0007",
+      "name": "金緻花語｜Goldén Bloom",
+      "price": 35800,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    }
+  ],
+  "priceMin": 35800,
+  "priceMax": 35800,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "58378176",
+  "pricingStandards": {
+    "source": "product-slogan",
+    "materialStatement": "以下價格以18k黃k金材質，小鑽為天然鑽石定價，如需其他規格請聯絡專員。",
+    "naturalDiamond": "",
+    "labDiamond": "",
+    "notes": []
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "<p><strong>材質選定：</strong></p>\n\n<ul>\n\t<li>提供鉑金（PT950）、18K金（白K、黃K、玫瑰金）等材質選擇。</li>\n\t<li>材質經專業檢驗，適合長期配戴與紀念。</li>\n</ul>\n \n\n<p><strong>耳針材質與設計：</strong></p>\n\n<ul>\n\t<li>耳針部分採用低敏材質設計，降低配戴不適風險。</li>\n\t<li>部分款式可選擇螺旋耳扣、矽膠耳堵或其他安全設計。</li>\n\t<li>如有過敏體質，請於下單前洽詢客服確認適用材質。</li>\n</ul>"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "<p>為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：</p>\n\n<ul>\n\t<li>\n<strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。</li>\n\t<li>\n<strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。</li>\n</ul>"
+    }
+  ]
+}

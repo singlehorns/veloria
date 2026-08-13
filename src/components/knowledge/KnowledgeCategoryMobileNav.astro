@@ -1,0 +1,84 @@
+---
+import { knowledgeCategories } from '@data/knowledgeCategories';
+
+interface Props {
+  activeCategory?: string;
+}
+
+const { activeCategory } = Astro.props;
+---
+
+<details class="knowledge-mobile-nav">
+  <summary>
+    <span>{activeCategory ? knowledgeCategories.find((category) => category.slug === activeCategory)?.name ?? '知識分類' : '全部文章'}</span>
+    <span aria-hidden="true"></span>
+  </summary>
+  <div>
+    <a class:list={{ active: !activeCategory }} href="/blogs/diamond-symphony-guide/">全部文章</a>
+    {knowledgeCategories.map((category) => (
+      <a class:list={{ active: activeCategory === category.slug }} href={`/blogs/diamond-symphony-guide/category/${category.slug}/`}>
+        {category.name}
+      </a>
+    ))}
+  </div>
+</details>
+
+<style>
+  .knowledge-mobile-nav {
+    display: none;
+    border: 1px solid rgba(183, 155, 112, 0.32);
+    background: #ffffff;
+  }
+
+  .knowledge-mobile-nav summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 50px;
+    padding: 0 var(--space-4);
+    color: #2b2927;
+    cursor: pointer;
+    font-family: "Noto Serif TC", var(--font-serif), serif;
+    font-weight: 400;
+    letter-spacing: 0.08em;
+    list-style: none;
+  }
+
+  .knowledge-mobile-nav summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .knowledge-mobile-nav summary span[aria-hidden='true'] {
+    width: 9px;
+    height: 9px;
+    border-right: 1px solid #0a3764;
+    border-bottom: 1px solid #0a3764;
+    transform: rotate(45deg);
+  }
+
+  .knowledge-mobile-nav[open] summary span[aria-hidden='true'] {
+    transform: rotate(225deg);
+  }
+
+  .knowledge-mobile-nav div {
+    display: grid;
+    padding: 0 var(--space-4) var(--space-3);
+  }
+
+  .knowledge-mobile-nav a {
+    padding: 0.8rem 0;
+    border-top: 1px solid rgba(10, 55, 100, 0.1);
+    color: rgba(47, 43, 40, 0.72);
+    font-weight: 400;
+  }
+
+  .knowledge-mobile-nav a.active {
+    color: #0a3764;
+  }
+
+  @media (max-width: 1023px) {
+    .knowledge-mobile-nav {
+      display: block;
+    }
+  }
+</style>

@@ -1,0 +1,171 @@
+{
+  "legacyProductId": "DSP-0041",
+  "legacyCyberbizId": "57338478",
+  "name": "帝耀之環",
+  "englishName": "Sovereign Glow",
+  "originalDisplayName": "帝耀之環｜Sovereign Glow",
+  "slug": "sovereign-glow",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/男戒10"
+  ],
+  "category": "男士鑽戒 | 彩色鑽石專區 | 經典男戒 | 黃鑽",
+  "collection": "ring-man | 彩色鑽石專區 | 經典男戒 | 黃鑽",
+  "collections": [
+    "ring-man",
+    "彩色鑽石專區",
+    "經典男戒",
+    "黃鑽"
+  ],
+  "productType": "男戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "帝耀之環｜Sovereign Glow 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0041-sovereign-glow/source/DSP-0041-main-01.png",
+      "alt": "帝耀之環｜Sovereign Glow 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDc4LzE3NTIwNDIyNDRfZjk4YmIxYjUyMzAzYTIxYTg1MDcucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=36c049674d4d8946",
+      "sourcePath": "",
+      "sha256": "81566d7fb7c3bbd23a4c73fdbe10c365b7f718373301a6553cb4a9a43f61ec89"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0041-sovereign-glow/source/DSP-0041-gallery-02.png",
+      "alt": "帝耀之環｜Sovereign Glow 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDc4LzE3NTIwNDIyNDRfNTExMWM3MWY0MWMwOWY2YmExMTAucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=2d11dc92043b15eb",
+      "sourcePath": "",
+      "sha256": "b2aaf7d1007786b7e3a4b4da7dc291793728b0361c06d8b70f37c8334b976db5"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0041-sovereign-glow/source/DSP-0041-gallery-03.png",
+      "alt": "帝耀之環｜Sovereign Glow 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDc4LzE3NTIwNDIyNDRfYWIzZmNhNjI3ZjVjZjFkOTk4MDcucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=45da143522542d35",
+      "sourcePath": "",
+      "sha256": "67f47c9be751a0220942460e1365952df489bb2f52456a8be07450cbb2a7076e"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0041-sovereign-glow/source/DSP-0041-gallery-04.png",
+      "alt": "帝耀之環｜Sovereign Glow 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDc4LzE3NTIwNDIyNDRfNzRlMWY1ZjA5NWExMTBhYzc5NjYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=a50eebeddf6ea25f",
+      "sourcePath": "",
+      "sha256": "acbfe180dbf3290e044d21d526cae69b094529d62def12faa952ca285cf8e514"
+    }
+  ],
+  "video": "",
+  "seoTitle": "帝耀之環｜Sovereign Glow",
+  "seoDescription": "帝耀之環｜Sovereign Glow，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/男戒10",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/男戒10",
+  "inquiryText": "我想諮詢 帝耀之環｜Sovereign Glow",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0112",
+    "SRC-0122",
+    "SRC-0146",
+    "SRC-0156",
+    "SRC-0275",
+    "SRC-0285",
+    "SRC-0334",
+    "SRC-0343",
+    "SRC-0366",
+    "SRC-0415",
+    "SRC-0444",
+    "SRC-0554",
+    "SRC-0564",
+    "SRC-0634"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0112",
+      "text": "帝耀之環｜Sovereign Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0122",
+      "text": "帝耀之環｜Sovereign Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0146",
+      "text": "帝耀之環｜Sovereign Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0156",
+      "text": "帝耀之環｜Sovereign Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0275",
+      "text": "帝耀之環｜Sovereign Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0285",
+      "text": "帝耀之環｜Sovereign Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0334",
+      "text": "帝耀之環｜Sovereign Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0343",
+      "text": "帝耀之環｜Sovereign Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0366",
+      "text": "帝耀之環｜Sovereign Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0415",
+      "text": "帝耀之環｜Sovereign Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0444",
+      "text": "帝耀之環｜Sovereign Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0554",
+      "text": "帝耀之環｜Sovereign Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0564",
+      "text": "帝耀之環｜Sovereign Glow"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0634",
+      "text": "帝耀之環｜Sovereign Glow"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

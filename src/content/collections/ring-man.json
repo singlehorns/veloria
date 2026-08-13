@@ -1,0 +1,24 @@
+{
+  "name": "男士鑽戒",
+  "slug": "ring-man",
+  "englishName": "男士鑽戒",
+  "summary": "定心之光｜Stéady Heartlight 尊耀之印｜Sovéreign Seal 帝耀之環｜Sovéreign Glow 帝鑽之冠｜Crôwn of Majesty",
+  "description": "定心之光｜Stéady Heartlight 尊耀之印｜Sovéreign Seal 帝耀之環｜Sovéreign Glow 帝鑽之冠｜Crôwn of Majesty",
+  "heroImage": {
+    "src": "/assets/migrated/collections/mens-ring.jpeg",
+    "alt": "男士鑽戒"
+  },
+  "products": [
+    "steady-heartlight",
+    "sovereign-seal",
+    "sovereign-glow",
+    "crown-of-majesty"
+  ],
+  "featured": false,
+  "seoTitle": "男士鑽戒 VELORIA",
+  "seoDescription": "定心之光｜Stéady Heartlight 尊耀之印｜Sovéreign Seal 帝耀之環｜Sovéreign Glow 帝鑽之冠｜Crôwn of Majesty",
+  "originalUrl": "https://www.dsdiamond.com.tw/collections/ring-man",
+  "originalSource": "../dsdiamond_backup/brand-data/brand-routes.json",
+  "migrationStatus": "部分搬遷",
+  "migrationNotes": "由舊站 brand-routes 自動補回系列頁入口；產品、圖片與完整區塊仍需人工核對。 已連接可追蹤的舊站系列媒體；產品圖仍需逐筆確認。"
+}

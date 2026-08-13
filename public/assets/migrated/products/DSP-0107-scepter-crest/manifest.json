@@ -1,0 +1,85 @@
+{
+  "legacyProductId": "DSP-0107",
+  "productName": "權杖紋章",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/男戒14"
+  ],
+  "expectedImageCount": 4,
+  "detectedReferences": [
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfNzE2YzE3NjQ2YWFiNmQ5NGZmYzYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=5e8103034a3065af",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfNzE2YzE3NjQ2YWFiNmQ5NGZmYzYucG5nIl1d.png?sha=5e8103034a3065af",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/58093838/1754197147_716c17646aab6d94ffc6.png",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    },
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfM2I3MzY5NWI2NmZkYTY1Zjg2NWIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=560363e9de7d04ff",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfM2I3MzY5NWI2NmZkYTY1Zjg2NWIucG5nIl1d.png?sha=560363e9de7d04ff",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/58093838/1754197147_3b73695b66fda65f865b.png",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    },
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfMzE3ZDQ1ZjVkNTY5MDM5MTUxNjEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=4479cad3440ee910",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfMzE3ZDQ1ZjVkNTY5MDM5MTUxNjEucG5nIl1d.png?sha=4479cad3440ee910",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/58093838/1754197147_317d45f5d56903915161.png",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    },
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfMGRlYjRmMmQ4OTFkYWM1NzRkNjEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=0e1082f4a607db72",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfMGRlYjRmMmQ4OTFkYWM1NzRkNjEucG5nIl1d.png?sha=0e1082f4a607db72",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/58093838/1754197147_0deb4f2d891dac574d61.png",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    }
+  ],
+  "downloadedFiles": [
+    {
+      "file": "public/assets/migrated/products/DSP-0107-scepter-crest/source/DSP-0107-main-01.png",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfNzE2YzE3NjQ2YWFiNmQ5NGZmYzYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=5e8103034a3065af",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfNzE2YzE3NjQ2YWFiNmQ5NGZmYzYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=5e8103034a3065af",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "44f7f2d352ac35dbff5060f5a1138cd0eb83383874b187b3f244abda557b80f8",
+      "sizeBytes": 129217
+    },
+    {
+      "file": "public/assets/migrated/products/DSP-0107-scepter-crest/source/DSP-0107-gallery-02.png",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfM2I3MzY5NWI2NmZkYTY1Zjg2NWIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=560363e9de7d04ff",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfM2I3MzY5NWI2NmZkYTY1Zjg2NWIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=560363e9de7d04ff",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "2c778f8dfd84b300b2340c8fdd14541df69a68add5bb9dc4f31563099417ac97",
+      "sizeBytes": 81728
+    },
+    {
+      "file": "public/assets/migrated/products/DSP-0107-scepter-crest/source/DSP-0107-gallery-03.png",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfMzE3ZDQ1ZjVkNTY5MDM5MTUxNjEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=4479cad3440ee910",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfMzE3ZDQ1ZjVkNTY5MDM5MTUxNjEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=4479cad3440ee910",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "caa7fd11f66310b8e4586a7adf4446a21439a6c83da221c98144a26ef917bd14",
+      "sizeBytes": 139656
+    },
+    {
+      "file": "public/assets/migrated/products/DSP-0107-scepter-crest/source/DSP-0107-gallery-04.png",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfMGRlYjRmMmQ4OTFkYWM1NzRkNjEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=0e1082f4a607db72",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MDkzODM4LzE3NTQxOTcxNDdfMGRlYjRmMmQ4OTFkYWM1NzRkNjEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=0e1082f4a607db72",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "cbf21cf0d301d19ca5d58eb35157d46507014dfb745760f3fb2d744432accbb7",
+      "sizeBytes": 82355
+    }
+  ],
+  "failedDownloads": [],
+  "duplicateFiles": [],
+  "unclassifiedFiles": [],
+  "status": "完整",
+  "notes": []
+}

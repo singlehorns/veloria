@@ -1,0 +1,133 @@
+{
+  "legacyProductId": "DSP-0099",
+  "legacyCyberbizId": "63611662",
+  "name": "曜域方璨",
+  "englishName": "Monolith Brilliance",
+  "originalDisplayName": "曜域方璨｜Monolith Brilliance",
+  "slug": "monolith-brilliance",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/monolith-brilliance-dsdiamond"
+  ],
+  "category": "經典男戒",
+  "collection": "ring-man | 經典男戒",
+  "collections": [
+    "ring-man",
+    "經典男戒"
+  ],
+  "productType": "男戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "曜域方璨｜Monolith Brilliance 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0099-monolith-brilliance/source/DSP-0099-main-01.jpeg",
+      "alt": "曜域方璨｜Monolith Brilliance 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYzNjExNjYyLzE3NjYwODAyMDJfNTNmNWJiMGY0OTk2MGU1MzdjYzUuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=498fed53c021a5e7",
+      "sourcePath": "",
+      "sha256": "35ba17fea1d7687f32281134f5abac368067163409737f0680d1fda88e252095"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0099-monolith-brilliance/source/DSP-0099-gallery-02.jpeg",
+      "alt": "曜域方璨｜Monolith Brilliance 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYzNjExNjYyLzE3NjYwODAyMDJfZDU0YmFiNDU3ZmFmMGExOTc3ZGYuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=888ee39b92cb374d",
+      "sourcePath": "",
+      "sha256": "701e6614ae8dba4efd9d9d9f682c922c4b8dc80a97fbdfd25ca3d628aab7a6c0"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0099-monolith-brilliance/source/DSP-0099-gallery-03.jpeg",
+      "alt": "曜域方璨｜Monolith Brilliance 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYzNjExNjYyLzE3NjYwODAyMDJfYWZkYWQ4OGVkZGU0NjNjNmRmNjUuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=9e5e0716bd78372f",
+      "sourcePath": "",
+      "sha256": "07fef4c5d404414c062db2b48da0cd95a67dfdc77646ea37cca33a3f5a14609e"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0099-monolith-brilliance/source/DSP-0099-gallery-04.jpeg",
+      "alt": "曜域方璨｜Monolith Brilliance 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYzNjExNjYyLzE3NjYwODAyMDJfZjc1YTA2ZjU0NzNkNDJmOWY3MmUuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=53586e88ead0ec07",
+      "sourcePath": "",
+      "sha256": "af99406553614c44706d2c48a78c28f65135b7592d47d2e28615d4ff336e4819"
+    }
+  ],
+  "video": "",
+  "seoTitle": "曜域方璨｜Monolith Brilliance",
+  "seoDescription": "曜域方璨｜Monolith Brilliance，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/monolith-brilliance-dsdiamond",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/monolith-brilliance-dsdiamond",
+  "inquiryText": "我想諮詢 曜域方璨｜Monolith Brilliance",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0130",
+    "SRC-0281",
+    "SRC-0291",
+    "SRC-0372",
+    "SRC-0421",
+    "SRC-0450",
+    "SRC-0572",
+    "SRC-0640"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0130",
+      "text": "曜域方璨｜Monolith Brilliance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0281",
+      "text": "曜域方璨｜Monolith Brilliance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0291",
+      "text": "曜域方璨｜Monolith Brilliance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0372",
+      "text": "曜域方璨｜Monolith Brilliance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0421",
+      "text": "曜域方璨｜Monolith Brilliance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0450",
+      "text": "曜域方璨｜Monolith Brilliance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0572",
+      "text": "曜域方璨｜Monolith Brilliance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0640",
+      "text": "曜域方璨｜Monolith Brilliance"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

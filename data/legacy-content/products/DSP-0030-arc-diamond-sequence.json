@@ -1,0 +1,59 @@
+{
+  "legacyProductId": "DSP-0030",
+  "legacyCyberbizId": "58378143",
+  "name": "弧鑽序影",
+  "englishName": "Arc Diamond Sequence",
+  "originalDisplayName": "弧鑽序影｜Arc Diamond Sequence",
+  "slug": "arc-diamond-sequence",
+  "legacyUrls": [],
+  "category": "耳環",
+  "collection": "earring",
+  "collections": [
+    "earring"
+  ],
+  "productType": "耳環",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "弧鑽序影｜Arc Diamond Sequence 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "弧鑽序影｜Arc Diamond Sequence",
+  "seoDescription": "弧鑽序影｜Arc Diamond Sequence，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 弧鑽序影｜Arc Diamond Sequence",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0028",
+    "SRC-0035"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0028",
+      "text": "弧鑽序影｜Arc Diamond Sequence"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0035",
+      "text": "弧鑽序影｜Arc Diamond Sequence"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

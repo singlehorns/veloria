@@ -1,0 +1,97 @@
+{
+  "legacyProductId": "DSP-0006",
+  "legacyCyberbizId": "58093836",
+  "name": "心悅之吻",
+  "englishName": "Blush Kiss",
+  "originalDisplayName": "心悅之吻｜Blush Kiss",
+  "slug": "blush-kiss",
+  "legacyUrls": [],
+  "category": "項鍊 | 彩色鑽石專區 | 粉鑽",
+  "collection": "necklace | 彩色鑽石專區 | 粉鑽",
+  "collections": [
+    "necklace",
+    "彩色鑽石專區",
+    "粉鑽"
+  ],
+  "productType": "項鍊",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "心悅之吻｜Blush Kiss 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "心悅之吻｜Blush Kiss",
+  "seoDescription": "心悅之吻｜Blush Kiss，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 心悅之吻｜Blush Kiss",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0039",
+    "SRC-0049",
+    "SRC-0147",
+    "SRC-0157",
+    "SRC-0214",
+    "SRC-0224",
+    "SRC-0481",
+    "SRC-0491"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0039",
+      "text": "心悅之吻｜Blush Kiss"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0049",
+      "text": "心悅之吻｜Blush Kiss"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0147",
+      "text": "心悅之吻｜Blush Kiss"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0157",
+      "text": "心悅之吻｜Blush Kiss"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0214",
+      "text": "心悅之吻｜Blush Kiss"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0224",
+      "text": "心悅之吻｜Blush Kiss"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0481",
+      "text": "心悅之吻｜Blush Kiss"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0491",
+      "text": "心悅之吻｜Blush Kiss"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

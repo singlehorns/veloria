@@ -1,0 +1,85 @@
+{
+  "legacyProductId": "DSP-0027",
+  "productName": "初心之愛",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/pure-heart-promise-dsdiamond"
+  ],
+  "expectedImageCount": 4,
+  "detectedReferences": [
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfZjM2MmFkMDIzM2YzNWE2OTIzNzkuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=21de4720cf247643",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfZjM2MmFkMDIzM2YzNWE2OTIzNzkuanBlZyJdXQ.jpeg?sha=21de4720cf247643",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/64734372/1768224427_f362ad0233f35a692379.jpeg",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    },
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfZTVlNTRjMTQ2YmE5OTFmYWY5YmEuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=2e8f3c956cce6da9",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfZTVlNTRjMTQ2YmE5OTFmYWY5YmEuanBlZyJdXQ.jpeg?sha=2e8f3c956cce6da9",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/64734372/1768224427_e5e54c146ba991faf9ba.jpeg",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    },
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfM2FhMzY2MDkzODBmNjk0Y2FhZWMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=ed177f85faeb5126",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfM2FhMzY2MDkzODBmNjk0Y2FhZWMuanBlZyJdXQ.jpeg?sha=ed177f85faeb5126",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/64734372/1768224427_3aa36609380f694caaec.jpeg",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    },
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfMTg3NmNhYzBjOTgxMDk2MDc0ZmYuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=7f3aedb52f37689e",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfMTg3NmNhYzBjOTgxMDk2MDc0ZmYuanBlZyJdXQ.jpeg?sha=7f3aedb52f37689e",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/64734372/1768224427_1876cac0c981096074ff.jpeg",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    }
+  ],
+  "downloadedFiles": [
+    {
+      "file": "public/assets/migrated/products/DSP-0027-pure-heart-promise/source/DSP-0027-main-01.jpeg",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfZjM2MmFkMDIzM2YzNWE2OTIzNzkuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=21de4720cf247643",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfZjM2MmFkMDIzM2YzNWE2OTIzNzkuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=21de4720cf247643",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "a9754d30579830d90e3a3eea2e6a30e63eff4b0090c652caa4d28e4ff3b10aae",
+      "sizeBytes": 17658
+    },
+    {
+      "file": "public/assets/migrated/products/DSP-0027-pure-heart-promise/source/DSP-0027-gallery-02.jpeg",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfZTVlNTRjMTQ2YmE5OTFmYWY5YmEuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=2e8f3c956cce6da9",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfZTVlNTRjMTQ2YmE5OTFmYWY5YmEuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=2e8f3c956cce6da9",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "3c58f8cfb3653c44a1b70db50ba5f8a0c774ec3ee5ba05d41cdd4381601ae5bf",
+      "sizeBytes": 23410
+    },
+    {
+      "file": "public/assets/migrated/products/DSP-0027-pure-heart-promise/source/DSP-0027-gallery-03.jpeg",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfM2FhMzY2MDkzODBmNjk0Y2FhZWMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=ed177f85faeb5126",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfM2FhMzY2MDkzODBmNjk0Y2FhZWMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=ed177f85faeb5126",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "c338c986ad2a6f5944cc606a7a70ff99d238ae04b415db56999113923e3298ea",
+      "sizeBytes": 21639
+    },
+    {
+      "file": "public/assets/migrated/products/DSP-0027-pure-heart-promise/source/DSP-0027-gallery-04.jpeg",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfMTg3NmNhYzBjOTgxMDk2MDc0ZmYuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=7f3aedb52f37689e",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfMTg3NmNhYzBjOTgxMDk2MDc0ZmYuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=7f3aedb52f37689e",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "718f09bcf6afa71ac80f472d47710bd03c8c2af227546e6ebf49dd36749a5bed",
+      "sizeBytes": 21457
+    }
+  ],
+  "failedDownloads": [],
+  "duplicateFiles": [],
+  "unclassifiedFiles": [],
+  "status": "完整",
+  "notes": []
+}

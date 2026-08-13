@@ -1,0 +1,145 @@
+{
+  "legacyProductId": "DSP-0054",
+  "legacyCyberbizId": "57902803",
+  "name": "星曜領主",
+  "englishName": "Stellar Dominion",
+  "originalDisplayName": "星曜領主｜Stellar Dominion",
+  "slug": "stellar-dominion",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/男戒12-20250726122514"
+  ],
+  "category": "男士鑽戒 | 經典男戒",
+  "collection": "ring-man | 經典男戒",
+  "collections": [
+    "ring-man",
+    "經典男戒"
+  ],
+  "productType": "男戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "星曜領主｜Stellar Dominion 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0054-stellar-dominion/source/DSP-0054-main-01.png",
+      "alt": "星曜領主｜Stellar Dominion 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMTlfZWQxNmJlYTZhMzNmYzc3YTdhOWIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=2f2229d3fe72530e",
+      "sourcePath": "",
+      "sha256": "1e3d69d3343edf0ef9665da03968dee2a27df50b97c0691c9ccb1778d183da8b"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0054-stellar-dominion/source/DSP-0054-gallery-02.png",
+      "alt": "星曜領主｜Stellar Dominion 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMTlfZDI5YWEzMDY5YWM2NjZmYmQ1NzIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=ded28d92b88a4b1a",
+      "sourcePath": "",
+      "sha256": "d39de4d42128ee65024d591f9e4b00e5277bc93a4306a1c3ddcc81f1a8f9e315"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0054-stellar-dominion/source/DSP-0054-gallery-03.png",
+      "alt": "星曜領主｜Stellar Dominion 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMTlfN2VmOTkxOGMxOTA0ODU0MWNkOWYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=9c6f5a8b4851ccdf",
+      "sourcePath": "",
+      "sha256": "f164b063c5d924a3d272976ee904880c7cc315f893d6db7f6febfd069b17b845"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0054-stellar-dominion/source/DSP-0054-gallery-04.png",
+      "alt": "星曜領主｜Stellar Dominion 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMjBfNmZhY2ExNjg3NWNlYzQzMjA1MzQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=10d1a8b8d0f4d5c4",
+      "sourcePath": "",
+      "sha256": "cce6b4eefafa30de4d98f86dbcb4c601650bfda59f0100284187165c847f79b1"
+    }
+  ],
+  "video": "",
+  "seoTitle": "星曜領主｜Stellar Dominion",
+  "seoDescription": "星曜領主｜Stellar Dominion，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/男戒12-20250726122514",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/男戒12-20250726122514",
+  "inquiryText": "我想諮詢 星曜領主｜Stellar Dominion",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0119",
+    "SRC-0129",
+    "SRC-0280",
+    "SRC-0290",
+    "SRC-0371",
+    "SRC-0420",
+    "SRC-0449",
+    "SRC-0561",
+    "SRC-0571",
+    "SRC-0639"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0119",
+      "text": "星曜領主｜Stellar Dominion"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0129",
+      "text": "星曜領主｜Stellar Dominion"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0280",
+      "text": "星曜領主｜Stellar Dominion"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0290",
+      "text": "星曜領主｜Stellar Dominion"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0371",
+      "text": "星曜領主｜Stellar Dominion"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0420",
+      "text": "星曜領主｜Stellar Dominion"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0449",
+      "text": "星曜領主｜Stellar Dominion"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0561",
+      "text": "星曜領主｜Stellar Dominion"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0571",
+      "text": "星曜領主｜Stellar Dominion"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0639",
+      "text": "星曜領主｜Stellar Dominion"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

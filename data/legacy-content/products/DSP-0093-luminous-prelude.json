@@ -1,0 +1,152 @@
+{
+  "legacyProductId": "DSP-0093",
+  "legacyCyberbizId": "57337020",
+  "name": "凝光序曲",
+  "englishName": "Luminous Prelude",
+  "originalDisplayName": "凝光序曲｜Luminous Prelude",
+  "slug": "luminous-prelude",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/女戒05"
+  ],
+  "category": "求婚戒指",
+  "collection": "ring-female | 求婚 | 經典女戒",
+  "collections": [
+    "ring-female",
+    "求婚",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "凝光序曲｜Luminous Prelude 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0093-luminous-prelude/source/DSP-0093-main-01.png",
+      "alt": "凝光序曲｜Luminous Prelude 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDIwLzE3NTIwMzQwMTdfNjg2NmU3YzA2NGVjNjM4ZjZjZmIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=14953a3e79d8695c",
+      "sourcePath": "",
+      "sha256": "3a773da0f0a2541824494b8f32b55b7bfc3477f574f48df022f12387402ccd6b"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0093-luminous-prelude/source/DSP-0093-gallery-02.png",
+      "alt": "凝光序曲｜Luminous Prelude 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDIwLzE3NTIwMzQwMTdfYmMwNzY1N2M5ZDA5NzEyOWExOTEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=8e2b18c04d7f2347",
+      "sourcePath": "",
+      "sha256": "3b2efcd57228324943975e7369bfca73f30b22eaadd57a7a9919591e65f812b0"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0093-luminous-prelude/source/DSP-0093-gallery-03.png",
+      "alt": "凝光序曲｜Luminous Prelude 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDIwLzE3NTIwMzQwMTdfZTFjZTBlYmY2ODY4MjBiYjY1MmYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=ab4884bad5c32ba2",
+      "sourcePath": "",
+      "sha256": "e492d2bfa46e100baa59c6bc0c528df381283e832ecaebd2defaf36c1269cdda"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0093-luminous-prelude/source/DSP-0093-gallery-04.png",
+      "alt": "凝光序曲｜Luminous Prelude 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDIwLzE3NTIwMzQwMTdfMTFiYjg5MmUzNTFhNWM2NmZmMDgucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=e007eecdc5de1dbf",
+      "sourcePath": "",
+      "sha256": "ab40f4b979b9161dfd1067a61dc9c7618c9eed19f2a9f09daabc4ce763a32fbc"
+    }
+  ],
+  "video": "",
+  "seoTitle": "凝光序曲｜Luminous Prelude",
+  "seoDescription": "凝光序曲｜Luminous Prelude，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/女戒05",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/女戒05",
+  "inquiryText": "我想諮詢 凝光序曲｜Luminous Prelude",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0096",
+    "SRC-0181",
+    "SRC-0191",
+    "SRC-0259",
+    "SRC-0362",
+    "SRC-0411",
+    "SRC-0440",
+    "SRC-0538",
+    "SRC-0589",
+    "SRC-0599",
+    "SRC-0630"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0096",
+      "text": "凝光序曲｜Luminous Prelude"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0181",
+      "text": "凝光序曲｜Luminous Prelude"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0191",
+      "text": "凝光序曲｜Luminous Prelude"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0259",
+      "text": "凝光序曲｜Luminous Prelude"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0362",
+      "text": "凝光序曲｜Luminous Prelude"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0411",
+      "text": "凝光序曲｜Luminous Prelude"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0440",
+      "text": "凝光序曲｜Luminous Prelude"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0538",
+      "text": "凝光序曲｜Luminous Prelude"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0589",
+      "text": "凝光序曲｜Luminous Prelude"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0599",
+      "text": "凝光序曲｜Luminous Prelude"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0630",
+      "text": "凝光序曲｜Luminous Prelude"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

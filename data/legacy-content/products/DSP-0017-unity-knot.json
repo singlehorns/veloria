@@ -1,0 +1,71 @@
+{
+  "legacyProductId": "DSP-0017",
+  "legacyCyberbizId": "57339004",
+  "name": "交心之結",
+  "englishName": "Unity Knot",
+  "originalDisplayName": "交心之結｜Unity Knot",
+  "slug": "unity-knot",
+  "legacyUrls": [],
+  "category": "結婚對戒",
+  "collection": "pair-ring",
+  "collections": [
+    "pair-ring"
+  ],
+  "productType": "對戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "交心之結｜Unity Knot 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "交心之結｜Unity Knot",
+  "seoDescription": "交心之結｜Unity Knot，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 交心之結｜Unity Knot",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0062",
+    "SRC-0069",
+    "SRC-0504",
+    "SRC-0511"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0062",
+      "text": "交心之結｜Unity Knot"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0069",
+      "text": "交心之結｜Unity Knot"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0504",
+      "text": "交心之結｜Unity Knot"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0511",
+      "text": "交心之結｜Unity Knot"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

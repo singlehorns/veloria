@@ -1,0 +1,29 @@
+{
+  "legacyProductId": "DSP-0046",
+  "productName": "恆耀之鏈",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/zh-TW/products/%E6%81%86%E8%80%80%E4%B9%8B%E9%8F%88%EF%BD%9Ceternal-sparkle"
+  ],
+  "expectedImageCount": 3,
+  "detectedReferences": [
+    "localized/DSP-0046-main-01.png",
+    "localized/DSP-0046-gallery-02.png",
+    "localized/DSP-0046-gallery-03.png"
+  ],
+  "downloadedFiles": [
+    "localized/DSP-0046-main-01.png",
+    "localized/DSP-0046-gallery-02.png",
+    "localized/DSP-0046-gallery-03.png"
+  ],
+  "failedDownloads": [],
+  "duplicateFiles": [],
+  "unclassifiedFiles": [
+    "localized/DSP-0046-gallery-04.png",
+    "localized/DSP-0046-gallery-05.png",
+    "localized/DSP-0046-gallery-06.png"
+  ],
+  "status": "localized",
+  "notes": [
+    "Gallery restored from existing localized product assets."
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "legacyProductId": "DSP-0027",
+  "legacyCyberbizId": "64734372",
+  "name": "初心之愛",
+  "englishName": "Puré Heart Promise",
+  "originalDisplayName": "初心之愛｜Puré Heart Promise",
+  "slug": "pure-heart-promise",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/pure-heart-promise-dsdiamond"
+  ],
+  "category": "粉鑽",
+  "collection": "ring-female | 粉鑽 | 經典女戒",
+  "collections": [
+    "ring-female",
+    "粉鑽",
+    "經典女戒"
+  ],
+  "productType": "ring",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "柔粉色心形主鑽以極簡姿態靜靜閃耀，玫瑰金戒台溫潤包覆，如初見時那份純粹而真誠的心意。兩側細鑽輕柔點綴，恰如陪伴中的理解與支持，不張揚卻始終存在。將愛回歸本質，為每一段關係留下最真實、最長久的承諾。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於18k玫瑰金材質的設計。\n\n 🔹 天然鑽款 ：1 克拉 FANCY VIVID PINK 等級 (另行詢價)\n\n 🔹 培育鑽款 ：1.11 克拉 FANCY VIVID PINK 等級 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "description": "柔粉色心形主鑽以極簡姿態靜靜閃耀，玫瑰金戒台溫潤包覆，如初見時那份純粹而真誠的心意。兩側細鑽輕柔點綴，恰如陪伴中的理解與支持，不張揚卻始終存在。將愛回歸本質，為每一段關係留下最真實、最長久的承諾。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於18k玫瑰金材質的設計。\n\n 🔹 天然鑽款 ：1 克拉 FANCY VIVID PINK 等級 (另行詢價)\n\n 🔹 培育鑽款 ：1.11 克拉 FANCY VIVID PINK 等級 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0027-pure-heart-promise/localized/DSP-0027-main-01.jpeg",
+      "alt": "初心之愛 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0027-pure-heart-promise/localized/DSP-0027-gallery-02.jpeg",
+      "alt": "初心之愛 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0027-pure-heart-promise/localized/DSP-0027-gallery-03.jpeg",
+      "alt": "初心之愛 3",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0027-pure-heart-promise/localized/DSP-0027-gallery-04.jpeg",
+      "alt": "初心之愛 4",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "初心之愛｜Puré Heart Promise",
+  "seoDescription": "柔粉色心形主鑽以極簡姿態靜靜閃耀，玫瑰金戒台溫潤包覆，如初見時那份純粹而真誠的心意。兩側細鑽輕柔點綴，恰如陪伴中的理解與支持，不張揚卻始終存在。將愛回歸本質，為每一段關係留下最真實、最長久的承諾。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/pure-heart-promise-dsdiamond",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/pure-heart-promise-dsdiamond",
+  "inquiryText": "我想諮詢 初心之愛｜Puré Heart Promise",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery",
+  "mediaStatus": "localized-api-gallery",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0097",
+    "SRC-0212",
+    "SRC-0222",
+    "SRC-0260",
+    "SRC-0363",
+    "SRC-0412",
+    "SRC-0441",
+    "SRC-0539",
+    "SRC-0631"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0097",
+      "text": "初心之愛｜Puré Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0212",
+      "text": "初心之愛｜Puré Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0222",
+      "text": "初心之愛｜Puré Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0260",
+      "text": "初心之愛｜Puré Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0363",
+      "text": "初心之愛｜Puré Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0412",
+      "text": "初心之愛｜Puré Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0441",
+      "text": "初心之愛｜Puré Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0539",
+      "text": "初心之愛｜Puré Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0631",
+      "text": "初心之愛｜Puré Heart Promise"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "64734372",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/pure-heart-promise-dsdiamond",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "64734372",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/pure-heart-promise-dsdiamond",
+      "text": "柔粉色心形主鑽以極簡姿態靜靜閃耀，玫瑰金戒台溫潤包覆，如初見時那份純粹而真誠的心意。兩側細鑽輕柔點綴，恰如陪伴中的理解與支持，不張揚卻始終存在。將愛回歸本質，為每一段關係留下最真實、最長久的承諾。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於18k玫瑰金材質的設計。\n\n 🔹 天然鑽款 ：1 克拉 FANCY VIVID PINK 等級 (另行詢價)\n\n 🔹 培育鑽款 ：1.11 克拉 FANCY VIVID PINK 等級 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "womens-diamond-rings",
+  "subcategories": [
+    "classic-womens-rings",
+    "pink-diamonds"
+  ],
+  "audience": "women",
+  "diamondType": "colored-diamond",
+  "tags": [
+    "colored-diamonds",
+    "classic-womens-rings",
+    "pink-diamonds",
+    "ring",
+    "women",
+    "colored-diamond",
+    "womens-diamond-rings"
+  ],
+  "legacyCategoryUrls": [
+    "/products/pure-heart-promise-dsdiamond"
+  ],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "womens-diamond-rings",
+    "classic-womens-rings",
+    "pink-diamonds"
+  ],
+  "displayPrice": "NT$47,000",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "78485064",
+      "sku": "",
+      "name": "初心之愛｜Puré Heart Promise",
+      "price": 47000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 47000,
+  "priceMax": 47000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "64734372",
+  "pricingStandards": {
+    "source": "description",
+    "materialStatement": "此款價格基於18k玫瑰金材質的設計。",
+    "naturalDiamond": "天然鑽款：1 克拉 FANCY VIVID PINK 等級 (另行詢價)",
+    "labDiamond": "培育鑽款：1.11 克拉 FANCY VIVID PINK 等級 等級",
+    "notes": [
+      "配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。",
+      "如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "<p><strong>材質選定：</strong></p>\n\n<ul>\n\t<li>提供鉑金（PT950）、18K金（白K、黃K、玫瑰金）等材質選擇。</li>\n\t<li>可搭配天然鑽石或實驗室培育鑽石，皆附國際認證證書。</li>\n\t<li>材質經專業檢驗，適合長期配戴與紀念。</li>\n</ul>\n\n<p> </p>\n\n<p><strong>戒圍量測：</strong></p>\n\n<ul>\n\t<li>可至門市協助量測，或提供既有戒指對照參考。</li>\n\t<li>下單後將免費寄送專業戒圍量測器至您指定地址。</li>\n</ul>\n\n<p> </p>\n\n<p><strong>刻字服務：</strong></p>\n\n<ul>\n\t<li>提供免費內圈刻字服務，可刻英文、數字與常見符號（如 ∞、♥）。</li>\n\t<li>建議字數不超過12字元，實際長度視戒指寬度而定。</li>\n\t<li>若有特殊刻字需求，請於下單時備註或聯絡客服確認。</li>\n</ul>"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "<p>為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：</p>\n\n<ul>\n\t<li>\n<strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。</li>\n\t<li>\n<strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。</li>\n</ul>"
+    }
+  ]
+}

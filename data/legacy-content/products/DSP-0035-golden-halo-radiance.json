@@ -1,0 +1,79 @@
+{
+  "legacyProductId": "DSP-0035",
+  "legacyCyberbizId": "58811261",
+  "name": "金曜凝光",
+  "englishName": "Golden Halo Radiance",
+  "originalDisplayName": "金曜凝光｜Golden Halo Radiance",
+  "slug": "golden-halo-radiance",
+  "legacyUrls": [],
+  "category": "黃鑽",
+  "collection": "彩色鑽石專區 | 求婚 | 黃鑽",
+  "collections": [
+    "彩色鑽石專區",
+    "求婚",
+    "黃鑽"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "金曜凝光｜Golden Halo Radiance 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "金曜凝光｜Golden Halo Radiance",
+  "seoDescription": "金曜凝光｜Golden Halo Radiance，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 金曜凝光｜Golden Halo Radiance",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0168",
+    "SRC-0208",
+    "SRC-0338",
+    "SRC-0347",
+    "SRC-0616"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0168",
+      "text": "金曜凝光｜Golden Halo Radiance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0208",
+      "text": "金曜凝光｜Golden Halo Radiance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0338",
+      "text": "金曜凝光｜Golden Halo Radiance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0347",
+      "text": "金曜凝光｜Golden Halo Radiance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0616",
+      "text": "金曜凝光｜Golden Halo Radiance"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

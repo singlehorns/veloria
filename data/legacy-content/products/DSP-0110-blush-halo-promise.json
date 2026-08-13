@@ -1,0 +1,91 @@
+{
+  "legacyProductId": "DSP-0110",
+  "legacyCyberbizId": "66872044",
+  "name": "戀光之心",
+  "englishName": "Blush Halo Promise",
+  "originalDisplayName": "戀光之心｜Blush Halo Promise",
+  "slug": "blush-halo-promise",
+  "legacyUrls": [],
+  "category": "粉鑽 | 女士鑽戒, 經典女戒, 粉鑽",
+  "collection": "ring-female | 粉鑽 | 經典女戒",
+  "collections": [
+    "ring-female",
+    "粉鑽",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "戀光之心｜Blush Halo Promise 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "戀光之心｜Blush Halo Promise",
+  "seoDescription": "戀光之心｜Blush Halo Promise，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 戀光之心｜Blush Halo Promise",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0106",
+    "SRC-0216",
+    "SRC-0226",
+    "SRC-0269",
+    "SRC-0383",
+    "SRC-0393",
+    "SRC-0548"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0106",
+      "text": "戀光之心｜Blush Halo Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0216",
+      "text": "戀光之心｜Blush Halo Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0226",
+      "text": "戀光之心｜Blush Halo Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0269",
+      "text": "戀光之心｜Blush Halo Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0383",
+      "text": "戀光之心｜Blush Halo Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0393",
+      "text": "戀光之心｜Blush Halo Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0548",
+      "text": "戀光之心｜Blush Halo Promise"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

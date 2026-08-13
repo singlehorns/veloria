@@ -1,0 +1,71 @@
+{
+  "legacyProductId": "DSP-0045",
+  "legacyCyberbizId": "57338469",
+  "name": "恆穩之光",
+  "englishName": "Eterna Shine",
+  "originalDisplayName": "恆穩之光｜Eterna Shine",
+  "slug": "eterna-shine",
+  "legacyUrls": [],
+  "category": "男士鑽戒",
+  "collection": "ring-man",
+  "collections": [
+    "ring-man"
+  ],
+  "productType": "男戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "恆穩之光｜Eterna Shine 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "恆穩之光｜Eterna Shine",
+  "seoDescription": "恆穩之光｜Eterna Shine，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 恆穩之光｜Eterna Shine",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0116",
+    "SRC-0126",
+    "SRC-0558",
+    "SRC-0568"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0116",
+      "text": "恆穩之光｜Eterna Shine"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0126",
+      "text": "恆穩之光｜Eterna Shine"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0558",
+      "text": "恆穩之光｜Eterna Shine"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0568",
+      "text": "恆穩之光｜Eterna Shine"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

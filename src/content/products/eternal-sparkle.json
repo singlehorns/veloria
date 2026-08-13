@@ -1,0 +1,155 @@
+{
+  "legacyProductId": "DSP-0046",
+  "legacyCyberbizId": "57339319",
+  "name": "恆耀之鏈",
+  "englishName": "Etérnal Sparkle",
+  "originalDisplayName": "恆耀之鏈｜Etérnal Sparkle",
+  "slug": "eternal-sparkle",
+  "legacyUrls": [],
+  "category": "手鍊",
+  "collection": "bracelet",
+  "collections": [
+    "bracelet"
+  ],
+  "productType": "bracelet",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "全圈鑲嵌圓形美鑽，散發連綿不絕的光芒。優雅線條與穩固扣頭設計，為日夜造型添上一抹永恆閃耀。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）材質手鍊設計，共鑲嵌 40 顆鑽石。\n\n 🔹 天然鑽款 ：每顆 0.3 克拉，D-F 色，VS 等級以上\n\n 🔹 培育鑽款 ：每顆 0.3 克拉，D-F 色，VS 等級以上\n\n 若需升級等級、變更材質或其他客製需求，歡迎洽詢專人服務。",
+  "description": "全圈鑲嵌圓形美鑽，散發連綿不絕的光芒。優雅線條與穩固扣頭設計，為日夜造型添上一抹永恆閃耀。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）材質手鍊設計，共鑲嵌 40 顆鑽石。\n\n 🔹 天然鑽款 ：每顆 0.3 克拉，D-F 色，VS 等級以上\n\n 🔹 培育鑽款 ：每顆 0.3 克拉，D-F 色，VS 等級以上\n\n 若需升級等級、變更材質或其他客製需求，歡迎洽詢專人服務。",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0046-eternal-sparkle/localized/DSP-0046-main-01.png",
+      "alt": "恆耀之鏈｜Etérnal Sparkle 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0046-eternal-sparkle/localized/DSP-0046-gallery-02.png",
+      "alt": "恆耀之鏈｜Etérnal Sparkle 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0046-eternal-sparkle/localized/DSP-0046-gallery-03.png",
+      "alt": "恆耀之鏈｜Etérnal Sparkle 3",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "恆耀之鏈｜Etérnal Sparkle",
+  "seoDescription": "全圈鑲嵌圓形美鑽，散發連綿不絕的光芒。優雅線條與穩固扣頭設計，為日夜造型添上一抹永恆閃耀。          ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。          📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：                                                        💬 客服中心                  💎 訂價基準           此款價格基於鉑金（PT950）材質手鍊設計，共鑲嵌 40 顆鑽石。              🔹 天然鑽款：每顆 0.3 克拉，D-F 色，VS 等級以上      🔹 培育鑽款：每顆 0.3 克拉，D-F 色，VS 等級以上              若需升級等級、變更材質或其他客製需求，歡迎洽詢專人服務。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%81%86%E8%80%80%E4%B9%8B%E9%8F%88%EF%BD%9Ceternal-sparkle",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%81%86%E8%80%80%E4%B9%8B%E9%8F%88%EF%BD%9Ceternal-sparkle",
+  "inquiryText": "我想諮詢 恆耀之鏈｜Etérnal Sparkle",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery",
+  "mediaStatus": "localized-api-gallery",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0001",
+    "SRC-0002"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0001",
+      "text": "恆耀之鏈｜Etérnal Sparkle"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0002",
+      "text": "恆耀之鏈｜Etérnal Sparkle"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "57339319",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%81%86%E8%80%80%E4%B9%8B%E9%8F%88%EF%BD%9Ceternal-sparkle",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "57339319",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E6%81%86%E8%80%80%E4%B9%8B%E9%8F%88%EF%BD%9Ceternal-sparkle",
+      "text": "全圈鑲嵌圓形美鑽，散發連綿不絕的光芒。優雅線條與穩固扣頭設計，為日夜造型添上一抹永恆閃耀。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）材質手鍊設計，共鑲嵌 40 顆鑽石。\n\n 🔹 天然鑽款 ：每顆 0.3 克拉，D-F 色，VS 等級以上\n\n 🔹 培育鑽款 ：每顆 0.3 克拉，D-F 色，VS 等級以上\n\n 若需升級等級、變更材質或其他客製需求，歡迎洽詢專人服務。"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "other-jewelry",
+  "subcategories": [
+    "bracelets"
+  ],
+  "audience": "unisex",
+  "diamondType": "natural-diamond",
+  "tags": [
+    "other-jewelry",
+    "bracelets",
+    "bracelet",
+    "unisex",
+    "natural-diamond"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "bracelets"
+  ],
+  "displayPrice": "NT$180,000 - NT$850,000",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "69250564",
+      "sku": "DSH0001",
+      "name": "恆耀之鏈｜Etérnal Sparkle",
+      "price": 850000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    },
+    {
+      "variantId": "70036549",
+      "sku": "DSH0001",
+      "name": "恆耀之鏈｜Etérnal Sparkle",
+      "price": 180000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 180000,
+  "priceMax": 850000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "57339319",
+  "pricingStandards": {
+    "source": "description",
+    "materialStatement": "此款價格基於鉑金（PT950）材質手鍊設計，共鑲嵌 40 顆鑽石。",
+    "naturalDiamond": "天然鑽款：每顆 0.3 克拉，D-F 色，VS 等級以上",
+    "labDiamond": "培育鑽款：每顆 0.3 克拉，D-F 色，VS 等級以上",
+    "notes": [
+      "若需升級等級、變更材質或其他客製需求，歡迎洽詢專人服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "<p><strong>材質選定：</strong></p>\n\n  <ul>\n    <li>提供鉑金（PT950）、18K金（白K、黃K、玫瑰金）等材質選擇。</li>\n    <li>可搭配天然鑽石或實驗室培育鑽石，皆附國際認證證書。</li>\n    <li>材質經專業檢驗，適合長期配戴與紀念。</li>\n  </ul>\n   \n\n  <p><strong>鍊長調整：</strong></p>\n\n  <ul>\n    <li>手鍊預設鍊長為標準尺寸，如需調整可於下單時備註手圍尺寸。</li>\n    <li>部分款式提供延長鍊或活動環節設計，提升配戴彈性與舒適度。</li>\n    <li>如需精準量測手圍，歡迎洽詢客服提供指引。</li>\n  </ul>"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "<p>為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：</p>\n\n<ul>\n\t<li>\n<strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。</li>\n\t<li>\n<strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。</li>\n</ul>"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "legacyProductId": "DSP-0070",
+  "legacyCyberbizId": "57339039",
+  "name": "雫月之心",
+  "englishName": "Luné Drop",
+  "originalDisplayName": "雫月之心｜Luné Drop",
+  "slug": "lune-drop",
+  "legacyUrls": [],
+  "category": "項鍊",
+  "collection": "necklace",
+  "collections": [
+    "necklace"
+  ],
+  "productType": "necklace",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "以月光映落水滴的意象勾勒純淨輪廓，梨形主鑽在銀白金屬中凝聚清透光彩，垂墜比例輕盈而細緻。整體氣質溫潤優雅，像一份安靜貼近心口的心意，陪伴每個值得珍藏的時刻。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n LINE 諮詢\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）材質的設計。\n\n 🔹 天然鑽款 ：1 克拉 D 色 SI1 等級\n\n 🔹 培育鑽款 ：1 克拉 D 色 VVS2 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "description": "以月光映落水滴的意象勾勒純淨輪廓，梨形主鑽在銀白金屬中凝聚清透光彩，垂墜比例輕盈而細緻。整體氣質溫潤優雅，像一份安靜貼近心口的心意，陪伴每個值得珍藏的時刻。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n LINE 諮詢\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）材質的設計。\n\n 🔹 天然鑽款 ：1 克拉 D 色 SI1 等級\n\n 🔹 培育鑽款 ：1 克拉 D 色 VVS2 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0070-lune-drop/localized/DSP-0070-main-01.png",
+      "alt": "雫月之心 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0070-lune-drop/localized/DSP-0070-gallery-02.png",
+      "alt": "雫月之心 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0070-lune-drop/localized/DSP-0070-gallery-03.png",
+      "alt": "雫月之心 3",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "雫月之心 Luné Drop｜細緻鑽石項鍊｜VELORIA DIAMOND SYMPHONY",
+  "seoDescription": "以月光映落水滴的意象勾勒純淨輪廓，梨形主鑽在銀白金屬中凝聚清透光彩，垂墜比例輕盈而細緻。整體氣質溫潤優雅，像一份安靜貼近心口的心意，陪伴每個值得珍藏的時刻。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/lune-drop-minimal-diamond-necklace",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/lune-drop-minimal-diamond-necklace",
+  "inquiryText": "我想諮詢 雫月之心｜Luné Drop",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery",
+  "mediaStatus": "localized-api-gallery",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0061",
+    "SRC-0503"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0061",
+      "text": "雫月之心｜Luné Drop"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0503",
+      "text": "雫月之心｜Luné Drop"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "57339039",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/lune-drop-minimal-diamond-necklace",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "57339039",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/lune-drop-minimal-diamond-necklace",
+      "text": "以月光映落水滴的意象勾勒純淨輪廓，梨形主鑽在銀白金屬中凝聚清透光彩，垂墜比例輕盈而細緻。整體氣質溫潤優雅，像一份安靜貼近心口的心意，陪伴每個值得珍藏的時刻。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n LINE 諮詢\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）材質的設計。\n\n 🔹 天然鑽款 ：1 克拉 D 色 SI1 等級\n\n 🔹 培育鑽款 ：1 克拉 D 色 VVS2 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "other-jewelry",
+  "subcategories": [
+    "necklaces"
+  ],
+  "audience": "unisex",
+  "diamondType": "natural-diamond",
+  "tags": [
+    "other-jewelry",
+    "necklaces",
+    "necklace",
+    "unisex",
+    "natural-diamond"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "necklaces"
+  ],
+  "displayPrice": "NT$38,000 - NT$165,000",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "69250024",
+      "sku": "DSN0001",
+      "name": "雫月之心｜Luné Drop",
+      "price": 165000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    },
+    {
+      "variantId": "70037306",
+      "sku": "DSN0001",
+      "name": "雫月之心｜Luné Drop",
+      "price": 38000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 38000,
+  "priceMax": 165000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "57339039",
+  "pricingStandards": {
+    "source": "description",
+    "materialStatement": "此款價格基於鉑金（PT950）材質的設計。",
+    "naturalDiamond": "天然鑽款：1 克拉 D 色 SI1 等級",
+    "labDiamond": "培育鑽款：1 克拉 D 色 VVS2 等級",
+    "notes": [
+      "配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。",
+      "如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "Materials \n\n材質選定\n\n<ul>\n\t<li>\n✦  提供 <strong>鉑金（PT950）</strong>、<strong>18K金</strong>（白K、黃K、玫瑰金）等材質選擇。 \n</li>\n\t<li>\n✦  可搭配 <strong>天然鑽石</strong> 或 <strong>實驗室培育鑽石</strong>，皆附國際認證證書。 \n</li>\n\t<li>\n✦  材質經專業檢驗，適合長期配戴與紀念。 \n</li>\n</ul>\n\nChain Length \n\n鍊長調整\n\n<ul>\n\t<li>\n✦  項鍊預設鍊長為 <strong>標準尺寸</strong>，亦可依需求調整長度。 \n</li>\n\t<li>\n✦  部分款式提供 <strong>延長鍊</strong> 或 <strong>客製鍊長服務</strong>，詳情請洽客服。 \n</li>\n</ul>\n\nCraftsmanship & Service Excellence"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "Delivery\n運送方式\n\n為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：\n\n<ul>\n\n\t<li>\n✦ <strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。\n</li>\n\t\n\t<li>\n✦ <strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。\n</li>\n</ul>\n\nCraftsmanship & Service Excellence"
+    }
+  ]
+}

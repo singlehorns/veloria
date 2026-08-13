@@ -1,0 +1,140 @@
+{
+  "legacyProductId": "DSP-0027",
+  "legacyCyberbizId": "64734372",
+  "name": "初心之愛",
+  "englishName": "Pure Heart Promise",
+  "originalDisplayName": "初心之愛｜Pure Heart Promise",
+  "slug": "pure-heart-promise",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/pure-heart-promise-dsdiamond"
+  ],
+  "category": "粉鑽",
+  "collection": "ring-female | 粉鑽 | 經典女戒",
+  "collections": [
+    "ring-female",
+    "粉鑽",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "初心之愛｜Pure Heart Promise 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0027-pure-heart-promise/source/DSP-0027-main-01.jpeg",
+      "alt": "初心之愛｜Pure Heart Promise 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfZjM2MmFkMDIzM2YzNWE2OTIzNzkuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=21de4720cf247643",
+      "sourcePath": "",
+      "sha256": "a9754d30579830d90e3a3eea2e6a30e63eff4b0090c652caa4d28e4ff3b10aae"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0027-pure-heart-promise/source/DSP-0027-gallery-02.jpeg",
+      "alt": "初心之愛｜Pure Heart Promise 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfZTVlNTRjMTQ2YmE5OTFmYWY5YmEuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=2e8f3c956cce6da9",
+      "sourcePath": "",
+      "sha256": "3c58f8cfb3653c44a1b70db50ba5f8a0c774ec3ee5ba05d41cdd4381601ae5bf"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0027-pure-heart-promise/source/DSP-0027-gallery-03.jpeg",
+      "alt": "初心之愛｜Pure Heart Promise 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfM2FhMzY2MDkzODBmNjk0Y2FhZWMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=ed177f85faeb5126",
+      "sourcePath": "",
+      "sha256": "c338c986ad2a6f5944cc606a7a70ff99d238ae04b415db56999113923e3298ea"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0027-pure-heart-promise/source/DSP-0027-gallery-04.jpeg",
+      "alt": "初心之愛｜Pure Heart Promise 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM0MzcyLzE3NjgyMjQ0MjdfMTg3NmNhYzBjOTgxMDk2MDc0ZmYuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=7f3aedb52f37689e",
+      "sourcePath": "",
+      "sha256": "718f09bcf6afa71ac80f472d47710bd03c8c2af227546e6ebf49dd36749a5bed"
+    }
+  ],
+  "video": "",
+  "seoTitle": "初心之愛｜Pure Heart Promise",
+  "seoDescription": "初心之愛｜Pure Heart Promise，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/pure-heart-promise-dsdiamond",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/pure-heart-promise-dsdiamond",
+  "inquiryText": "我想諮詢 初心之愛｜Pure Heart Promise",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0097",
+    "SRC-0212",
+    "SRC-0222",
+    "SRC-0260",
+    "SRC-0363",
+    "SRC-0412",
+    "SRC-0441",
+    "SRC-0539",
+    "SRC-0631"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0097",
+      "text": "初心之愛｜Pure Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0212",
+      "text": "初心之愛｜Pure Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0222",
+      "text": "初心之愛｜Pure Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0260",
+      "text": "初心之愛｜Pure Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0363",
+      "text": "初心之愛｜Pure Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0412",
+      "text": "初心之愛｜Pure Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0441",
+      "text": "初心之愛｜Pure Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0539",
+      "text": "初心之愛｜Pure Heart Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0631",
+      "text": "初心之愛｜Pure Heart Promise"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

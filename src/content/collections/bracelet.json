@@ -1,0 +1,21 @@
+{
+  "name": "手鍊",
+  "slug": "bracelet",
+  "englishName": "手鍊",
+  "summary": "恆耀之鏈｜Etérnal Sparkle",
+  "description": "恆耀之鏈｜Etérnal Sparkle",
+  "heroImage": {
+    "src": "/assets/migrated/collections/bracelet.jpeg",
+    "alt": "手鍊"
+  },
+  "products": [
+    "eternal-sparkle"
+  ],
+  "featured": false,
+  "seoTitle": "手鍊 VELORIA",
+  "seoDescription": "恆耀之鏈｜Etérnal Sparkle",
+  "originalUrl": "https://www.dsdiamond.com.tw/collections/bracelet",
+  "originalSource": "../dsdiamond_backup/brand-data/brand-routes.json",
+  "migrationStatus": "部分搬遷",
+  "migrationNotes": "由舊站 brand-routes 自動補回系列頁入口；產品、圖片與完整區塊仍需人工核對。 已連接可追蹤的舊站系列媒體；產品圖仍需逐筆確認。"
+}

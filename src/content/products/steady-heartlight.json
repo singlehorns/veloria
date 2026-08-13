@@ -1,0 +1,229 @@
+{
+  "legacyProductId": "DSP-0028",
+  "legacyCyberbizId": "64737697",
+  "name": "定心之光",
+  "englishName": "Stéady Heartlight",
+  "originalDisplayName": "定心之光｜Stéady Heartlight",
+  "slug": "steady-heartlight",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/steady-heartlight-dsdiamond"
+  ],
+  "category": "男士鑽戒 | 經典男戒 | 男士鑽戒, 經典男戒",
+  "collection": "ring-man | 經典男戒",
+  "collections": [
+    "ring-man",
+    "經典男戒"
+  ],
+  "productType": "ring",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "中央圓鑽作為視覺核心，戒身以雙色金屬線條交錯延展，呈現清晰而穩定的結構比例。整體設計著重於平衡感與佩戴時的俐落表現，適合重視內在穩定與長久陪伴意義的你\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於18k金材質的設計。\n\n 🔹 天然鑽款 ：0.5克拉 D 色 SI1，3EX 等級 (另行詢價)\n\n 🔹 培育鑽款 ：0.5 克拉 D 色 VVS2，3EX 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "description": "中央圓鑽作為視覺核心，戒身以雙色金屬線條交錯延展，呈現清晰而穩定的結構比例。整體設計著重於平衡感與佩戴時的俐落表現，適合重視內在穩定與長久陪伴意義的你\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於18k金材質的設計。\n\n 🔹 天然鑽款 ：0.5克拉 D 色 SI1，3EX 等級 (另行詢價)\n\n 🔹 培育鑽款 ：0.5 克拉 D 色 VVS2，3EX 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0028-steady-heartlight/localized/DSP-0028-main-01.jpeg",
+      "alt": "定心之光｜Stéady Heartlight 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0028-steady-heartlight/localized/DSP-0028-gallery-02.jpeg",
+      "alt": "定心之光｜Stéady Heartlight 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0028-steady-heartlight/localized/DSP-0028-gallery-03.jpeg",
+      "alt": "定心之光｜Stéady Heartlight 3",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0028-steady-heartlight/localized/DSP-0028-gallery-04.jpeg",
+      "alt": "定心之光｜Stéady Heartlight 4",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "定心之光｜Stéady Heartlight",
+  "seoDescription": "中央圓鑽作為視覺核心，戒身以雙色金屬線條交錯延展，呈現清晰而穩定的結構比例。整體設計著重於平衡感與佩戴時的俐落表現，適合重視內在穩定與長久陪伴意義的你。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/steady-heartlight-dsdiamond",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/steady-heartlight-dsdiamond",
+  "inquiryText": "我想諮詢 定心之光｜Stéady Heartlight",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery-deduped",
+  "mediaStatus": "localized-api-gallery-deduped",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0110",
+    "SRC-0120",
+    "SRC-0273",
+    "SRC-0283",
+    "SRC-0364",
+    "SRC-0384",
+    "SRC-0394",
+    "SRC-0413",
+    "SRC-0442",
+    "SRC-0552",
+    "SRC-0562",
+    "SRC-0632"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0110",
+      "text": "定心之光｜Stéady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0120",
+      "text": "定心之光｜Stéady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0273",
+      "text": "定心之光｜Stéady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0283",
+      "text": "定心之光｜Stéady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0364",
+      "text": "定心之光｜Stéady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0384",
+      "text": "定心之光｜Stéady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0394",
+      "text": "定心之光｜Stéady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0413",
+      "text": "定心之光｜Stéady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0442",
+      "text": "定心之光｜Stéady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0552",
+      "text": "定心之光｜Stéady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0562",
+      "text": "定心之光｜Stéady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0632",
+      "text": "定心之光｜Stéady Heartlight"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "64737697",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/steady-heartlight-dsdiamond",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "64737697",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/steady-heartlight-dsdiamond",
+      "text": "中央圓鑽作為視覺核心，戒身以雙色金屬線條交錯延展，呈現清晰而穩定的結構比例。整體設計著重於平衡感與佩戴時的俐落表現，適合重視內在穩定與長久陪伴意義的你\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於18k金材質的設計。\n\n 🔹 天然鑽款 ：0.5克拉 D 色 SI1，3EX 等級 (另行詢價)\n\n 🔹 培育鑽款 ：0.5 克拉 D 色 VVS2，3EX 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "mens-diamond-rings",
+  "subcategories": [
+    "classic-mens-rings"
+  ],
+  "audience": "men",
+  "diamondType": "natural-diamond",
+  "tags": [
+    "mens-diamond-rings",
+    "classic-mens-rings",
+    "ring",
+    "men",
+    "natural-diamond"
+  ],
+  "legacyCategoryUrls": [
+    "/products/steady-heartlight-dsdiamond"
+  ],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "mens-diamond-rings",
+    "classic-mens-rings"
+  ],
+  "displayPrice": "NT$50,000 - NT$98,000",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "78488446",
+      "sku": "",
+      "name": "定心之光｜Stéady Heartlight",
+      "price": 98000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    },
+    {
+      "variantId": "78488447",
+      "sku": "",
+      "name": "定心之光｜Stéady Heartlight",
+      "price": 50000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 50000,
+  "priceMax": 98000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "64737697",
+  "pricingStandards": {
+    "source": "description",
+    "materialStatement": "此款價格基於18k金材質的設計。",
+    "naturalDiamond": "天然鑽款：0.5克拉 D 色 SI1，3EX 等級 (另行詢價)",
+    "labDiamond": "培育鑽款：0.5 克拉 D 色 VVS2，3EX 等級",
+    "notes": [
+      "配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。",
+      "如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "<p><strong>材質選定：</strong></p>\n\n<ul>\n\t<li>提供鉑金（PT950）、18K金（白K、黃K、玫瑰金）等材質選擇。</li>\n\t<li>可搭配天然鑽石或實驗室培育鑽石，皆附國際認證證書。</li>\n\t<li>材質經專業檢驗，適合長期配戴與紀念。</li>\n</ul>\n\n<p> </p>\n\n<p><strong>戒圍量測：</strong></p>\n\n<ul>\n\t<li>可至門市協助量測，或提供既有戒指對照參考。</li>\n\t<li>下單後將免費寄送專業戒圍量測器至您指定地址。</li>\n</ul>\n\n<p> </p>\n\n<p><strong>刻字服務：</strong></p>\n\n<ul>\n\t<li>提供免費內圈刻字服務，可刻英文、數字與常見符號（如 ∞、♥）。</li>\n\t<li>建議字數不超過12字元，實際長度視戒指寬度而定。</li>\n\t<li>若有特殊刻字需求，請於下單時備註或聯絡客服確認。</li>\n</ul>"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "<p>為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：</p>\n\n<ul>\n\t<li>\n<strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。</li>\n\t<li>\n<strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。</li>\n</ul>"
+    }
+  ]
+}

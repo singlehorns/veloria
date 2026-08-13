@@ -1,0 +1,231 @@
+---
+interface LinkItem {
+  label: string;
+  href: string;
+}
+
+interface ImageItem {
+  src: string;
+  alt?: string;
+}
+
+interface ContentBlock {
+  order: number;
+  type: string;
+  heading?: string;
+  body?: string;
+  items?: Array<{ question: string; answer: string }>;
+  images?: ImageItem[];
+  links?: LinkItem[];
+}
+
+interface FormalPage {
+  legacyUrl: string;
+  newUrl: string;
+  title: string;
+  metaTitle: string;
+  metaDescription: string;
+  kind: string;
+  contentBlocks: ContentBlock[];
+  images?: ImageItem[];
+  videos?: Array<{ src: string; sourceType?: string }>;
+}
+
+interface Props {
+  page: FormalPage;
+}
+
+const { page } = Astro.props;
+const heroImage = page.images?.[0];
+
+function lines(body = '') {
+  return body.split('\n').map((line) => line.trim()).filter(Boolean);
+}
+---
+
+<section class="formal-page section">
+  <div class="container formal-shell">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">首頁</a>
+      <span aria-hidden="true">/</span>
+      <a href={page.newUrl}>{page.title}</a>
+    </nav>
+
+    <header class="formal-header">
+      <p class="eyebrow">{page.kind}</p>
+      <h1>{page.title}</h1>
+      {page.metaDescription && <p>{page.metaDescription}</p>}
+      {heroImage && (
+        <img src={heroImage.src} alt={heroImage.alt || page.title} loading="lazy" />
+      )}
+    </header>
+
+    <div class="formal-content">
+      {page.contentBlocks.map((block) => (
+        <section class:list={['content-block', `content-block--${block.type}`]}>
+          {block.heading && <h2>{block.heading}</h2>}
+
+          {block.type === 'faq' && block.items ? (
+            <div class="faq-list">
+              {block.items.map((item) => (
+                <details>
+                  <summary>{item.question}</summary>
+                  <p>{item.answer}</p>
+                </details>
+              ))}
+            </div>
+          ) : block.type === 'media' && block.images?.length ? (
+            <div class="media-grid">
+              {block.images.map((image) => <img src={image.src} alt={image.alt || page.title} loading="lazy" />)}
+            </div>
+          ) : block.type === 'list' ? (
+            <ul>
+              {lines(block.body).map((line) => <li>{line}</li>)}
+            </ul>
+          ) : (
+            lines(block.body).map((line) => <p>{line}</p>)
+          )}
+        </section>
+      ))}
+      {page.videos?.length ? (
+        <section class="content-block">
+          <h2>影片</h2>
+          <ul>
+            {page.videos.map((video) => (
+              <li><a href={video.src} target="_blank" rel="noopener noreferrer">{video.src}</a></li>
+            ))}
+          </ul>
+        </section>
+      ) : null}
+    </div>
+  </div>
+</section>
+
+<style>
+  .formal-page {
+    background: #fbfaf7;
+  }
+
+  .formal-shell {
+    max-width: 1080px;
+  }
+
+  .breadcrumb {
+    display: flex;
+    gap: 0.5rem;
+    color: var(--color-muted);
+    font-size: 0.92rem;
+    margin-bottom: 2rem;
+  }
+
+  .breadcrumb a {
+    color: inherit;
+  }
+
+  .formal-header {
+    max-width: 860px;
+    margin-bottom: 2.5rem;
+  }
+
+  .formal-header img {
+    display: block;
+    margin-top: 1.5rem;
+    max-height: 520px;
+    object-fit: cover;
+    width: 100%;
+  }
+
+  .eyebrow {
+    color: var(--color-accent);
+    font-family: var(--font-serif);
+    font-size: 0.95rem;
+    letter-spacing: 0;
+    margin: 0 0 0.6rem;
+  }
+
+  h1,
+  h2,
+  p,
+  li,
+  summary {
+    letter-spacing: 0;
+  }
+
+  h1 {
+    font-family: var(--font-serif);
+    font-size: clamp(2.2rem, 5vw, 4rem);
+    line-height: 1.08;
+    margin: 0 0 1rem;
+  }
+
+  h2 {
+    font-family: var(--font-serif);
+    font-size: clamp(1.55rem, 3vw, 2.2rem);
+    margin: 0 0 1rem;
+  }
+
+  p,
+  li {
+    color: var(--color-text);
+    font-size: 1.03rem;
+    line-height: 1.9;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  p + p {
+    margin-top: 0.9rem;
+  }
+
+  .content-block {
+    border-top: 1px solid rgba(38, 33, 30, 0.12);
+    padding: 2.25rem 0;
+  }
+
+  .content-block ul {
+    display: grid;
+    gap: 0.65rem;
+    margin: 0;
+    padding-left: 1.2rem;
+  }
+
+  .faq-list {
+    display: grid;
+    gap: 0;
+  }
+
+  details {
+    border-bottom: 1px solid rgba(38, 33, 30, 0.12);
+    padding: 1.05rem 0;
+  }
+
+  summary {
+    color: var(--color-ink);
+    cursor: pointer;
+    font-weight: 700;
+  }
+
+  details p {
+    margin-top: 0.8rem;
+  }
+
+  .media-grid {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .media-grid img {
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    width: 100%;
+  }
+
+  @media (max-width: 780px) {
+    .media-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

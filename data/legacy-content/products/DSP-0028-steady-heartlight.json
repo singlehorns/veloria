@@ -1,0 +1,157 @@
+{
+  "legacyProductId": "DSP-0028",
+  "legacyCyberbizId": "64737697",
+  "name": "定心之光",
+  "englishName": "Steady Heartlight",
+  "originalDisplayName": "定心之光｜Steady Heartlight",
+  "slug": "steady-heartlight",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/steady-heartlight-dsdiamond"
+  ],
+  "category": "男士鑽戒 | 經典男戒 | 男士鑽戒, 經典男戒",
+  "collection": "ring-man | 經典男戒",
+  "collections": [
+    "ring-man",
+    "經典男戒"
+  ],
+  "productType": "男戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "定心之光｜Steady Heartlight 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0028-steady-heartlight/source/DSP-0028-main-01.jpeg",
+      "alt": "定心之光｜Steady Heartlight 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM3Njk3LzE3NjgyMjY1MDlfNzFhZDkwNmRlODEwZDUxM2FiMTIuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=68d592d766e6e747",
+      "sourcePath": "",
+      "sha256": "5d9a8f026014725da41eca9c913a3fa03ad82ac6fdf279ac9a1f897735645130"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0028-steady-heartlight/source/DSP-0028-gallery-02.jpeg",
+      "alt": "定心之光｜Steady Heartlight 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM3Njk3LzE3NjgyMjY1MDlfNjBiYTJhYTAxZjViMTJiMDAyOWEuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=b5c3df410047f5f2",
+      "sourcePath": "",
+      "sha256": "43b049a91de723e98a68c1cf84ce1a168863b3576b5bd9458882cae04afb6d03"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0028-steady-heartlight/source/DSP-0028-gallery-03.jpeg",
+      "alt": "定心之光｜Steady Heartlight 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM3Njk3LzE3NjgyMjY1MDlfNmNiNWE0ZTRmZWQ0M2U3OGVlMWMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=cd8db9aae0924be9",
+      "sourcePath": "",
+      "sha256": "932557fddc9074210979f633db2ca19912b3c6bafc30a5c4cfd0c52c214bb825"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0028-steady-heartlight/source/DSP-0028-gallery-04.jpeg",
+      "alt": "定心之光｜Steady Heartlight 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzY0NzM3Njk3LzE3NjgyMjY1MDlfMWJhMDg1MGJmNWNjNzAyNjJmYjcuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=65d406666f1968a7",
+      "sourcePath": "",
+      "sha256": "aa5c763f833db417cf1cfa4385d72a9e2d4481de9ef4e3de455289eada835ce3"
+    }
+  ],
+  "video": "",
+  "seoTitle": "定心之光｜Steady Heartlight",
+  "seoDescription": "定心之光｜Steady Heartlight，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/steady-heartlight-dsdiamond",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/steady-heartlight-dsdiamond",
+  "inquiryText": "我想諮詢 定心之光｜Steady Heartlight",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0110",
+    "SRC-0120",
+    "SRC-0273",
+    "SRC-0283",
+    "SRC-0364",
+    "SRC-0384",
+    "SRC-0394",
+    "SRC-0413",
+    "SRC-0442",
+    "SRC-0552",
+    "SRC-0562",
+    "SRC-0632"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0110",
+      "text": "定心之光｜Steady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0120",
+      "text": "定心之光｜Steady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0273",
+      "text": "定心之光｜Steady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0283",
+      "text": "定心之光｜Steady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0364",
+      "text": "定心之光｜Steady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0384",
+      "text": "定心之光｜Steady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0394",
+      "text": "定心之光｜Steady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0413",
+      "text": "定心之光｜Steady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0442",
+      "text": "定心之光｜Steady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0552",
+      "text": "定心之光｜Steady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0562",
+      "text": "定心之光｜Steady Heartlight"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0632",
+      "text": "定心之光｜Steady Heartlight"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

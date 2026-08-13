@@ -1,0 +1,657 @@
+﻿---
+import ProductCard from './ProductCard.astro';
+
+interface Props {
+  products: any[];
+  title?: string;
+  layout?: 'grid' | 'rail';
+  showTools?: boolean;
+}
+
+const { products, title = '商品列表', layout = 'grid', showTools = true } = Astro.props;
+---
+
+<section class:list={['catalog-panel', layout === 'rail' && 'is-rail-panel']} data-product-catalog>
+  <header class="catalog-header">
+    <h1>{title}</h1>
+    {showTools && (
+      <div class="catalog-tools" aria-label="商品排序與篩選工具">
+        <div class="tool-dropdown">
+          <button type="button" class="text-control" data-tool-toggle aria-expanded="false">
+            排序方式 <span aria-hidden="true"></span>
+          </button>
+          <div class="tool-menu" hidden>
+            <button type="button" data-sort="default">預設排序</button>
+            <button type="button" data-sort="price-asc">價格由低到高</button>
+            <button type="button" data-sort="price-desc">價格由高到低</button>
+          </div>
+        </div>
+        <div class="tool-dropdown">
+          <button type="button" class="text-control" data-tool-toggle aria-expanded="false">
+            價格 <span aria-hidden="true"></span>
+          </button>
+          <div class="tool-menu" hidden>
+            <button type="button" data-price-filter="all">全部價格</button>
+            <button type="button" data-price-filter="under-50000">NT$50,000 以下</button>
+            <button type="button" data-price-filter="50000-150000">NT$50,000 - NT$150,000</button>
+            <button type="button" data-price-filter="over-150000">NT$150,000 以上</button>
+          </div>
+        </div>
+        <p data-product-count>共 {products.length} 件商品</p>
+        <div class="view-controls" aria-label="檢視方式">
+          <button type="button" class="icon-button is-active" data-view="grid" aria-label="格狀檢視" aria-pressed="true">
+            <span class="grid-icon" aria-hidden="true"></span>
+          </button>
+          <button type="button" class="icon-button" data-view="list" aria-label="清單檢視" aria-pressed="false">
+            <span class="list-icon" aria-hidden="true"></span>
+          </button>
+        </div>
+      </div>
+    )}
+  </header>
+
+  {products.length > 0 ? (
+    <div class:list={['product-list', layout === 'rail' ? 'is-rail' : 'is-grid']}>
+      {products.map((product, index) => <ProductCard product={product} index={index} />)}
+    </div>
+  ) : (
+    <div class="product-empty">
+      <div class="empty-illustration" aria-hidden="true">
+        <span class="empty-browser">
+          <span class="empty-dots"></span>
+          <span class="empty-title-line"></span>
+          <span class="empty-card"></span>
+          <span class="empty-copy empty-copy-long"></span>
+          <span class="empty-copy"></span>
+        </span>
+        <span class="empty-lens"></span>
+      </div>
+      <p>
+        目前沒有符合條件的商品
+        <span>請調整價格條件，或瀏覽其他商品分類。</span>
+      </p>
+    </div>
+  )}
+</section>
+
+<script is:inline>
+  document.querySelectorAll('[data-product-catalog]').forEach((catalog) => {
+    const list = catalog.querySelector('.product-list');
+    const cards = list ? Array.from(list.querySelectorAll('[data-product-card]')) : [];
+    const count = catalog.querySelector('[data-product-count]');
+    const viewButtons = catalog.querySelectorAll('[data-view]');
+    let priceFilter = 'all';
+    let sortMode = 'default';
+
+    const closeMenus = (except) => {
+      catalog.querySelectorAll('[data-tool-toggle]').forEach((toggle) => {
+        const menu = toggle.nextElementSibling;
+        if (toggle !== except) {
+          toggle.setAttribute('aria-expanded', 'false');
+          if (menu) menu.hidden = true;
+        }
+      });
+    };
+
+    const getPriceRange = (card) => {
+      const min = Number(card.dataset.priceMin || card.dataset.price || 0);
+      const max = Number(card.dataset.priceMax || card.dataset.price || min);
+      return { min, max: max || min };
+    };
+
+    const getSortPrice = (card) => getPriceRange(card).min || 0;
+
+    const overlapsRange = (card, minTarget, maxTarget) => {
+      const { min, max } = getPriceRange(card);
+      if (!min && !max) return true;
+      return min <= maxTarget && max >= minTarget;
+    };
+
+    const matchesPrice = (card) => {
+      if (priceFilter === 'all') return true;
+      if (priceFilter === 'under-50000') return overlapsRange(card, 1, 49999);
+      if (priceFilter === '50000-150000') return overlapsRange(card, 50000, 150000);
+      if (priceFilter === 'over-150000') return getPriceRange(card).max > 150000;
+      return true;
+    };
+
+    const render = () => {
+      if (!list) return;
+      const visibleCards = cards.filter(matchesPrice);
+      const sortedCards = [...visibleCards].sort((a, b) => {
+        if (sortMode === 'price-asc') return getSortPrice(a) - getSortPrice(b);
+        if (sortMode === 'price-desc') return getSortPrice(b) - getSortPrice(a);
+        return Number(a.dataset.index || 0) - Number(b.dataset.index || 0);
+      });
+
+      cards.forEach((card) => {
+        card.hidden = !visibleCards.includes(card);
+      });
+      sortedCards.forEach((card) => list.appendChild(card));
+      if (count) count.textContent = `共 ${visibleCards.length} 件商品`;
+    };
+
+    catalog.querySelectorAll('[data-tool-toggle]').forEach((toggle) => {
+      toggle.addEventListener('click', () => {
+        const menu = toggle.nextElementSibling;
+        const expanded = toggle.getAttribute('aria-expanded') === 'true';
+        closeMenus(toggle);
+        toggle.setAttribute('aria-expanded', String(!expanded));
+        if (menu) menu.hidden = expanded;
+      });
+    });
+
+    catalog.querySelectorAll('[data-sort]').forEach((button) => {
+      button.addEventListener('click', () => {
+        sortMode = button.dataset.sort || 'default';
+        closeMenus();
+        render();
+      });
+    });
+
+    catalog.querySelectorAll('[data-price-filter]').forEach((button) => {
+      button.addEventListener('click', () => {
+        priceFilter = button.dataset.priceFilter || 'all';
+        closeMenus();
+        render();
+      });
+    });
+
+    viewButtons.forEach((button) => {
+      button.addEventListener('click', () => {
+        const view = button.getAttribute('data-view');
+        if (list) {
+          list.classList.toggle('is-grid', view === 'grid');
+          list.classList.toggle('is-list', view === 'list');
+        }
+        viewButtons.forEach((item) => {
+          const active = item === button;
+          item.classList.toggle('is-active', active);
+          item.setAttribute('aria-pressed', String(active));
+        });
+        closeMenus();
+      });
+    });
+
+    document.addEventListener('click', (event) => {
+      if (!catalog.contains(event.target)) closeMenus();
+    });
+  });
+</script>
+
+<style>
+  .catalog-panel {
+    display: grid;
+    gap: 1.8rem;
+    width: 100%;
+    margin-inline: auto;
+  }
+
+  .catalog-panel.is-rail-panel {
+    gap: 1.55rem;
+    width: 100%;
+  }
+
+  .catalog-header {
+    display: grid;
+    gap: 1.4rem;
+  }
+
+  .catalog-header h1 {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    margin: 0;
+    color: var(--color-ink);
+    font-family: var(--font-functional-sans);
+    font-size: 1.5rem;
+    font-weight: 800;
+    line-height: 1.25;
+  }
+
+  .catalog-header h1::before {
+    content: "";
+    display: block;
+    width: 3px;
+    height: 1.7rem;
+    background: var(--color-ink);
+  }
+
+  .is-rail-panel .catalog-header h1 {
+    display: block;
+    color: #050505;
+    font-family: var(--font-sans);
+    font-size: 2.25rem;
+    font-weight: 400;
+    line-height: 1.1;
+    letter-spacing: 0;
+  }
+
+  .is-rail-panel .catalog-header h1::before {
+    display: none;
+  }
+
+  .catalog-tools {
+    display: grid;
+    grid-template-columns: repeat(2, auto) minmax(0, 1fr) auto;
+    gap: 1.2rem;
+    align-items: center;
+  }
+
+  .tool-dropdown {
+    position: relative;
+  }
+
+  .text-control {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    border: 0;
+    background: transparent;
+    color: var(--color-ink);
+    padding: 0;
+    cursor: pointer;
+    font-weight: 500;
+    min-height: 2rem;
+  }
+
+  .text-control span {
+    width: 8px;
+    height: 8px;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    transform: translateY(-2px) rotate(45deg);
+    transition: transform 160ms ease;
+  }
+
+  .text-control[aria-expanded="true"] span {
+    transform: translateY(2px) rotate(225deg);
+  }
+
+  .tool-menu {
+    position: absolute;
+    left: 0;
+    top: calc(100% + 0.45rem);
+    z-index: 8;
+    display: grid;
+    min-width: 180px;
+    padding: 0.45rem;
+    border: 1px solid rgba(7, 55, 99, 0.14);
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 14px 36px rgba(14, 33, 54, 0.12);
+  }
+
+  .tool-menu[hidden] {
+    display: none;
+  }
+
+  .tool-menu button {
+    border: 0;
+    border-radius: 7px;
+    background: transparent;
+    color: var(--color-ink);
+    padding: 0.6rem 0.7rem;
+    text-align: left;
+    cursor: pointer;
+    font: inherit;
+    white-space: nowrap;
+  }
+
+  .tool-menu button:hover,
+  .tool-menu button:focus-visible {
+    background: rgba(7, 55, 99, 0.08);
+    color: var(--color-deep-blue);
+    outline: none;
+  }
+
+  .catalog-tools p {
+    color: var(--color-muted);
+    white-space: nowrap;
+    margin: 0;
+  }
+
+  .view-controls {
+    display: inline-flex;
+    gap: 0.55rem;
+  }
+
+  .icon-button {
+    display: grid;
+    place-items: center;
+    width: 24px;
+    height: 24px;
+    border: 0;
+    background: transparent;
+    color: var(--color-muted);
+    cursor: pointer;
+    padding: 0;
+  }
+
+  .icon-button.is-active {
+    color: var(--color-ink);
+  }
+
+  .grid-icon {
+    width: 16px;
+    height: 16px;
+    background:
+      linear-gradient(currentColor 0 0) 0 0 / 6px 6px,
+      linear-gradient(currentColor 0 0) 10px 0 / 6px 6px,
+      linear-gradient(currentColor 0 0) 0 10px / 6px 6px,
+      linear-gradient(currentColor 0 0) 10px 10px / 6px 6px;
+    background-repeat: no-repeat;
+  }
+
+  .list-icon {
+    width: 18px;
+    height: 14px;
+    background:
+      linear-gradient(currentColor 0 0) 0 0 / 18px 2px,
+      linear-gradient(currentColor 0 0) 0 6px / 18px 2px,
+      linear-gradient(currentColor 0 0) 0 12px / 18px 2px;
+    background-repeat: no-repeat;
+  }
+
+  .product-list {
+    display: grid;
+    gap: 2rem;
+  }
+
+  .product-list.is-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .product-list.is-list {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  .product-list.is-rail {
+    display: flex;
+    gap: 1.25rem;
+    overflow-x: auto;
+    padding-bottom: 0.35rem;
+    scroll-snap-type: x proximity;
+  }
+
+  :global(.product-list.is-rail .product-card) {
+    flex: 0 0 calc((100% - 4.5rem) / 4);
+    min-width: 260px;
+    scroll-snap-align: start;
+  }
+
+  .product-empty {
+    display: grid;
+    justify-items: center;
+    gap: 1.7rem;
+    min-height: 330px;
+    padding: 2.4rem 1rem 3rem;
+    color: #9aa0a6;
+    text-align: center;
+  }
+
+  .empty-illustration {
+    position: relative;
+    width: 174px;
+    height: 128px;
+    color: #9aa0a6;
+  }
+
+  .empty-browser {
+    position: absolute;
+    left: 4px;
+    top: 0;
+    width: 144px;
+    height: 104px;
+    border: 3px solid currentColor;
+    border-radius: 7px;
+  }
+
+  .empty-browser::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 25px;
+    border-top: 3px solid currentColor;
+  }
+
+  .empty-dots,
+  .empty-dots::before,
+  .empty-dots::after {
+    position: absolute;
+    top: 12px;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: currentColor;
+  }
+
+  .empty-dots {
+    left: 12px;
+  }
+
+  .empty-dots::before,
+  .empty-dots::after {
+    content: "";
+    top: 0;
+  }
+
+  .empty-dots::before {
+    left: 12px;
+  }
+
+  .empty-dots::after {
+    left: 24px;
+  }
+
+  .empty-title-line {
+    position: absolute;
+    top: 13px;
+    right: 13px;
+    width: 86px;
+    height: 3px;
+    background: currentColor;
+  }
+
+  .empty-card {
+    position: absolute;
+    left: 21px;
+    top: 47px;
+    width: 44px;
+    height: 31px;
+    border: 3px solid currentColor;
+  }
+
+  .empty-copy {
+    position: absolute;
+    left: 20px;
+    top: 94px;
+    width: 32px;
+    height: 3px;
+    background: currentColor;
+  }
+
+  .empty-copy-long {
+    top: 84px;
+    width: 47px;
+  }
+
+  .empty-lens {
+    position: absolute;
+    right: 20px;
+    bottom: 21px;
+    width: 48px;
+    height: 48px;
+    border: 3px solid currentColor;
+    border-radius: 50%;
+    background: var(--color-background, #fff);
+  }
+
+  .empty-lens::before {
+    content: "";
+    position: absolute;
+    inset: 8px;
+    border: 3px solid currentColor;
+    border-radius: 50%;
+  }
+
+  .empty-lens::after {
+    content: "";
+    position: absolute;
+    right: -20px;
+    bottom: -13px;
+    width: 31px;
+    height: 11px;
+    border: 3px solid currentColor;
+    border-left: 0;
+    border-radius: 0 6px 6px 0;
+    transform: rotate(45deg);
+    transform-origin: left center;
+    background: var(--color-background, #fff);
+  }
+
+  .product-empty p {
+    margin: 0;
+    color: #9aa0a6;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.55;
+  }
+
+  .product-empty p span {
+    display: block;
+  }
+
+  @media (max-width: 980px) {
+    .catalog-tools {
+      grid-template-columns: repeat(2, minmax(0, auto));
+      justify-content: space-between;
+      gap: 0.75rem 1rem;
+    }
+
+    .catalog-tools p,
+    .view-controls {
+      justify-self: end;
+    }
+
+    .product-list.is-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    :global(.product-list.is-rail .product-card) {
+      flex-basis: min(44vw, 320px);
+    }
+  }
+
+  @media (max-width: 620px) {
+    .catalog-panel {
+      gap: 1rem;
+    }
+
+    .catalog-header {
+      gap: 0.75rem;
+    }
+
+    .catalog-header h1 {
+      align-items: center;
+      gap: 0.55rem;
+      font-size: 1.12rem;
+    }
+
+    .catalog-header h1::before {
+      width: 3px;
+      height: 1.22rem;
+    }
+
+    .catalog-tools {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.45rem;
+      padding-block: 0;
+      align-items: center;
+    }
+
+    .tool-dropdown {
+      justify-self: stretch;
+      min-width: 0;
+    }
+
+    .text-control {
+      justify-content: space-between;
+      width: 100%;
+      min-height: 2.15rem;
+      padding: 0.48rem 0.62rem;
+      border: 1px solid rgba(7, 55, 99, 0.14);
+      border-radius: 999px;
+      background: #fff;
+      color: var(--color-ink);
+      font-size: 0.82rem;
+      line-height: 1;
+      white-space: nowrap;
+    }
+
+    .text-control span {
+      width: 6px;
+      height: 6px;
+      border-width: 1.5px;
+    }
+
+    .tool-menu {
+      left: 0;
+      right: auto;
+      min-width: min(74vw, 220px);
+    }
+
+    .tool-menu button {
+      padding: 0.55rem 0.62rem;
+      font-size: 0.82rem;
+    }
+
+    .catalog-tools p {
+      grid-column: 1 / 2;
+      align-self: center;
+      justify-self: start;
+      color: var(--color-muted);
+      font-size: 0.78rem;
+    }
+
+    .view-controls {
+      grid-column: 2;
+      justify-self: end;
+      justify-content: flex-end;
+      gap: 0.35rem;
+    }
+
+    .icon-button {
+      width: 28px;
+      height: 28px;
+      border: 1px solid rgba(7, 55, 99, 0.12);
+      border-radius: 50%;
+    }
+
+    .icon-button.is-active {
+      border-color: var(--color-deep-blue);
+      background: var(--color-deep-blue);
+      color: #fff;
+    }
+
+    .grid-icon,
+    .list-icon {
+      transform: scale(0.82);
+    }
+
+    .product-list.is-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 1.15rem 0.72rem;
+    }
+
+    .is-rail-panel .catalog-header h1 {
+      font-size: 2rem;
+    }
+
+    :global(.product-list.is-rail .product-card) {
+      flex-basis: 72vw;
+    }
+  }
+</style>

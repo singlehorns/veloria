@@ -1,0 +1,145 @@
+{
+  "legacyProductId": "DSP-0043",
+  "legacyCyberbizId": "58323357",
+  "name": "帝鑽榮耀",
+  "englishName": "Imperial Glory",
+  "originalDisplayName": "帝鑽榮耀｜Imperial Glory",
+  "slug": "imperial-glory",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/男戒15"
+  ],
+  "category": "男士鑽戒 | 經典男戒",
+  "collection": "ring-man | 經典男戒",
+  "collections": [
+    "ring-man",
+    "經典男戒"
+  ],
+  "productType": "男戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "帝鑽榮耀｜Imperial Glory 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0043-imperial-glory/source/DSP-0043-main-01.png",
+      "alt": "帝鑽榮耀｜Imperial Glory 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzU3LzE3NTUxNTU1MTdfNmYzMDVmYTcwMWI0ZDk5ODQ2ZTIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=fc0d92959e86e6d3",
+      "sourcePath": "",
+      "sha256": "5443d761be419811ec63be06e3cf472823b719587c1141ff83585d9e850bcbab"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0043-imperial-glory/source/DSP-0043-gallery-02.png",
+      "alt": "帝鑽榮耀｜Imperial Glory 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzU3LzE3NTUxNTU1MTdfMmUyNzQ0ODlmZDUyOGZmNDE1NmQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=afa5e3f3e3a9df6a",
+      "sourcePath": "",
+      "sha256": "5441799b4db8b78f033dd31dffd78e08bda6629e30753f83f69ab5120085eddb"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0043-imperial-glory/source/DSP-0043-gallery-03.png",
+      "alt": "帝鑽榮耀｜Imperial Glory 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzU3LzE3NTUxNTU1MTdfYTJkOWYxYjNlOTcwYmQ2MjVjMzcucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=88ef04515092677a",
+      "sourcePath": "",
+      "sha256": "dd6001bc23317f9c3618bbc828f6b2dfb9cfe6f60877c379b0cff822f4f1a8de"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0043-imperial-glory/source/DSP-0043-gallery-04.png",
+      "alt": "帝鑽榮耀｜Imperial Glory 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzU3LzE3NTUxNTU1MThfMjIzYzZkNTU0Y2JmMTI1MDY4ZDMucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=3da2cd7b09716b65",
+      "sourcePath": "",
+      "sha256": "4b3807fb7e7a69e799ed10148a220b1b453d1142e910d8fe49c89f051ae2375a"
+    }
+  ],
+  "video": "",
+  "seoTitle": "帝鑽榮耀｜Imperial Glory",
+  "seoDescription": "帝鑽榮耀｜Imperial Glory，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/男戒15",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/男戒15",
+  "inquiryText": "我想諮詢 帝鑽榮耀｜Imperial Glory",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0114",
+    "SRC-0124",
+    "SRC-0277",
+    "SRC-0287",
+    "SRC-0368",
+    "SRC-0417",
+    "SRC-0446",
+    "SRC-0556",
+    "SRC-0566",
+    "SRC-0636"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0114",
+      "text": "帝鑽榮耀｜Imperial Glory"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0124",
+      "text": "帝鑽榮耀｜Imperial Glory"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0277",
+      "text": "帝鑽榮耀｜Imperial Glory"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0287",
+      "text": "帝鑽榮耀｜Imperial Glory"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0368",
+      "text": "帝鑽榮耀｜Imperial Glory"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0417",
+      "text": "帝鑽榮耀｜Imperial Glory"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0446",
+      "text": "帝鑽榮耀｜Imperial Glory"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0556",
+      "text": "帝鑽榮耀｜Imperial Glory"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0566",
+      "text": "帝鑽榮耀｜Imperial Glory"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0636",
+      "text": "帝鑽榮耀｜Imperial Glory"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

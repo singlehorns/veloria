@@ -1,0 +1,168 @@
+{
+  "legacyProductId": "DSP-0087",
+  "legacyCyberbizId": "59069346",
+  "name": "緋露晨光",
+  "englishName": "Rosé Dew Radiance",
+  "originalDisplayName": "緋露晨光｜Rosé Dew Radiance",
+  "slug": "rose-dew-radiance",
+  "legacyUrls": [],
+  "category": "戒指",
+  "collection": "彩色鑽石專區 | 粉鑽",
+  "collections": [
+    "彩色鑽石專區",
+    "粉鑽"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "以 粉色梨形主石 凝住清晨露光， 玫瑰金托座 勾勒柔潤輪廓，兩側 白鑽 沿銀白戒臂漸次延展，映出細緻而明亮的層次。整體氣質輕盈優雅，像一份被珍藏的心意，在日常相伴中溫柔發光。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。\n\n 為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n Request an Appointment\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n LINE 諮詢\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於 18k金(白k+玫瑰金)的設計。\n\n 🔹 天然鑽款 ：AGL 0.56 克拉 Fancy Pink VS 等級。\n\n 🔹 培育鑽款 ：0.56 克拉 Fancy Pink 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "description": "以 粉色梨形主石 凝住清晨露光， 玫瑰金托座 勾勒柔潤輪廓，兩側 白鑽 沿銀白戒臂漸次延展，映出細緻而明亮的層次。整體氣質輕盈優雅，像一份被珍藏的心意，在日常相伴中溫柔發光。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。\n\n 為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n Request an Appointment\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n LINE 諮詢\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於 18k金(白k+玫瑰金)的設計。\n\n 🔹 天然鑽款 ：AGL 0.56 克拉 Fancy Pink VS 等級。\n\n 🔹 培育鑽款 ：0.56 克拉 Fancy Pink 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0087-rose-dew-radiance/localized/DSP-0087-main-01.png",
+      "alt": "緋露晨光 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0087-rose-dew-radiance/localized/DSP-0087-gallery-02.png",
+      "alt": "緋露晨光 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0087-rose-dew-radiance/localized/DSP-0087-gallery-03.png",
+      "alt": "緋露晨光 3",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0087-rose-dew-radiance/localized/DSP-0087-gallery-04.png",
+      "alt": "緋露晨光 4",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "緋露晨光 Rosé Dew Radiance｜粉鑽戒指 彩鑽戒指｜VELORIA DIAMOND SYMPHONY",
+  "seoDescription": "以粉色梨形主石凝住清晨露光，玫瑰金托座勾勒柔潤輪廓，兩側白鑽沿銀白戒臂漸次延展，映出細緻而明亮的層次。整體氣質輕盈優雅，像一份被珍藏的心意，在日常相伴中溫柔發光",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/rose-dew-radiance-luxury-colored-diamond",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/rose-dew-radiance-luxury-colored-diamond",
+  "inquiryText": "我想諮詢 緋露晨光｜Rosé Dew Radiance",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery",
+  "mediaStatus": "localized-api-gallery",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0172",
+    "SRC-0232"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0172",
+      "text": "緋露晨光｜Rosé Dew Radiance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0232",
+      "text": "緋露晨光｜Rosé Dew Radiance"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "59069346",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/rose-dew-radiance-luxury-colored-diamond",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "59069346",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/rose-dew-radiance-luxury-colored-diamond",
+      "text": "以 粉色梨形主石 凝住清晨露光， 玫瑰金托座 勾勒柔潤輪廓，兩側 白鑽 沿銀白戒臂漸次延展，映出細緻而明亮的層次。整體氣質輕盈優雅，像一份被珍藏的心意，在日常相伴中溫柔發光。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。\n\n 為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n Request an Appointment\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n LINE 諮詢\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於 18k金(白k+玫瑰金)的設計。\n\n 🔹 天然鑽款 ：AGL 0.56 克拉 Fancy Pink VS 等級。\n\n 🔹 培育鑽款 ：0.56 克拉 Fancy Pink 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "colored-diamonds",
+  "subcategories": [
+    "pink-diamonds",
+    "other-color-diamonds",
+    "classic-womens-rings"
+  ],
+  "audience": "unisex",
+  "diamondType": "colored-diamond",
+  "tags": [
+    "colored-diamonds",
+    "pink-diamonds",
+    "other-color-diamonds",
+    "戒指",
+    "unisex",
+    "colored-diamond",
+    "classic-womens-rings"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "classic-womens-rings",
+    "colored-diamonds",
+    "pink-diamonds"
+  ],
+  "displayPrice": "NT$48,500 - NT$83,000",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "71728418",
+      "sku": "DSF0049",
+      "name": "緋露晨光｜Rosé Dew Radiance",
+      "price": 48500,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    },
+    {
+      "variantId": "76724278",
+      "sku": "",
+      "name": "緋露晨光｜Rosé Dew Radiance",
+      "price": 83000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    }
+  ],
+  "priceMin": 48500,
+  "priceMax": 83000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "59069346",
+  "pricingStandards": {
+    "source": "description",
+    "materialStatement": "此款價格基於 18k金(白k+玫瑰金)的設計。",
+    "naturalDiamond": "天然鑽款：AGL 0.56 克拉 Fancy Pink VS 等級。",
+    "labDiamond": "培育鑽款：0.56 克拉 Fancy Pink 等級",
+    "notes": [
+      "配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。",
+      "如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "Materials \n材質選定\n\n<ul>\n\t<li>\n✦  提供 <strong>鉑金（PT950）</strong>、<strong>18K金</strong>（白K、黃K、玫瑰金）等材質選擇。 \n</li>\n\t<li>\n✦  可搭配 <strong>天然鑽石</strong> 或 <strong>實驗室培育鑽石</strong>，皆附國際認證證書。 \n</li>\n\t<li>\n✦  材質經專業檢驗，適合長期配戴與紀念。 \n</li>\n</ul>\n\nMeasurement \n\n戒圍量測\n\n<ul>\n\t<li>\n✦  可至門市協助量測，或提供既有戒指對照參考。 \n</li>\n\t<li>\n✦  下單後將 <strong>免費寄送專業戒圍量測器</strong> 至您指定地址。 \n</li>\n</ul>\n\nPersonalization \n\n刻字服務\n\n<ul>\n\t<li>\n✦  提供 <strong>免費內圈刻字服務</strong>，可刻英文、數字與常見符號（如 ∞、♥）。 \n</li>\n\t<li>\n✦  建議字數不超過 <strong>12 字元</strong>，實際長度視戒指寬度而定。 \n</li>\n\t<li>\n✦  若有特殊刻字需求，請於下單時備註或聯絡客服確認。 \n</li>\n</ul>\n\nCraftsmanship & Service Excellence"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "Delivery\n運送方式\n\n為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：\n\n<ul>\n\n\t<li>\n✦ <strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。\n</li>\n\t\n\t<li>\n✦ <strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。\n</li>\n</ul>\n\nCraftsmanship & Service Excellence"
+    }
+  ]
+}

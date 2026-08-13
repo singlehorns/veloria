@@ -1,0 +1,26 @@
+{
+  "executionDate": "2026-07-17",
+  "backupRoot": "C:\\Users\\U01\\Desktop\\DS\\dsdiamond_backup",
+  "projectRoot": "C:\\Users\\U01\\Desktop\\DS\\diamond-symphony-astro",
+  "previousReportedSourceOccurrences": 53,
+  "previousResolutionRows": 53,
+  "rescannedSourceOccurrences": 648,
+  "finalProductCount": 111,
+  "variantCount": 7,
+  "categorySourceCount": 60,
+  "duplicateSourceCount": 334,
+  "waitingSourceCount": 0,
+  "productImageReferenceCount": 96,
+  "uniqueProductMediaUrls": 96,
+  "downloadedProductImages": 96,
+  "failedDownloads": 0,
+  "duplicateImages": 0,
+  "completeImageProducts": 24,
+  "partialImageProducts": 0,
+  "missingImageProducts": 87,
+  "sourceTypeCounts": {
+    "window.c12t": 198,
+    "productImpressions": 334,
+    "products-json": 116
+  }
+}

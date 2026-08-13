@@ -1,0 +1,134 @@
+---
+import SiteHeader from '@components/navigation/SiteHeader.astro';
+import SiteFooter from '@components/navigation/SiteFooter.astro';
+import '@styles/global.css';
+import { site } from '@data/site';
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  canonical?: string;
+}
+
+const {
+  title = site.name,
+  description = site.description,
+  image = '/assets/banners/brand-hero-diamond-symphony.jpeg',
+  canonical = Astro.url.pathname
+} = Astro.props;
+const pageTitle = title === site.name ? title : `${title} | ${site.name}`;
+const canonicalUrl = new URL(canonical, site.url).toString();
+const imageUrl = image.startsWith(site.url) ? image.replace(site.url, '') : image;
+---
+
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="canonical" href={canonicalUrl} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=GFS+Didot&display=swap" rel="stylesheet" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={site.name} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={imageUrl} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <slot name="head" />
+  </head>
+  <body>
+    <SiteHeader />
+    <div class="page-zoom-surface">
+      <main>
+        <slot />
+      </main>
+      <SiteFooter />
+    </div>
+    <button class="back-to-top" type="button" aria-label="回到頂端" data-back-to-top>
+      <span aria-hidden="true">↑</span>
+    </button>
+    <script>
+      const backToTopButton = document.querySelector('[data-back-to-top]');
+      const reducedMotionQuery = window.matchMedia('(prefers-reduced-motion: reduce)');
+
+      if (backToTopButton instanceof HTMLButtonElement) {
+        const updateBackToTop = () => {
+          backToTopButton.classList.toggle('is-visible', window.scrollY > 520);
+        };
+
+        backToTopButton.addEventListener('click', () => {
+          window.scrollTo({
+            top: 0,
+            behavior: reducedMotionQuery.matches ? 'auto' : 'smooth'
+          });
+        });
+
+        updateBackToTop();
+        window.addEventListener('scroll', updateBackToTop, { passive: true });
+      }
+
+      document.querySelectorAll('details').forEach((details) => {
+        const summary = details.querySelector(':scope > summary');
+        if (!(details instanceof HTMLDetailsElement) || !(summary instanceof HTMLElement)) return;
+
+        summary.addEventListener('click', (event) => {
+          if (event.target instanceof Element && event.target.closest('a')) return;
+          if (details.dataset.smoothAnimating === 'true') return;
+
+          event.preventDefault();
+
+          if (reducedMotionQuery.matches) {
+            details.open = !details.open;
+            return;
+          }
+
+          const isClosing = details.open;
+          const startHeight = `${details.offsetHeight}px`;
+
+          if (!isClosing) {
+            details.open = true;
+          }
+
+          const endHeight = isClosing ? `${summary.offsetHeight}px` : `${details.scrollHeight}px`;
+
+          details.dataset.smoothAnimating = 'true';
+          details.dataset.smoothState = isClosing ? 'closing' : 'opening-start';
+          details.style.overflow = 'hidden';
+          details.style.height = startHeight;
+          details.style.transition = 'height 420ms cubic-bezier(0.22, 1, 0.36, 1)';
+
+          details.offsetHeight;
+          if (!isClosing) {
+            details.dataset.smoothState = 'opening';
+          }
+          details.style.height = endHeight;
+
+          const finishAnimation = (transitionEvent: TransitionEvent) => {
+            if (transitionEvent.propertyName !== 'height') return;
+
+            details.removeEventListener('transitionend', finishAnimation);
+            if (isClosing) {
+              details.open = false;
+            }
+
+            details.style.height = '';
+            details.style.overflow = '';
+            details.style.transition = '';
+            delete details.dataset.smoothAnimating;
+            delete details.dataset.smoothState;
+          };
+
+          details.addEventListener('transitionend', finishAnimation);
+        });
+      });
+    </script>
+  </body>
+</html>

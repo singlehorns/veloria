@@ -1,0 +1,171 @@
+{
+  "legacyProductId": "DSP-0102",
+  "legacyCyberbizId": "58323371",
+  "name": "藍曜花冕",
+  "englishName": "Azure Bloom Halo",
+  "originalDisplayName": "藍曜花冕｜Azure Bloom Halo",
+  "slug": "azure-bloom-halo",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/azure-bloom-halo-colored-diamond"
+  ],
+  "category": "女士鑽戒 | 彩色鑽石專區 | 經典女戒 | 藍鑽",
+  "collection": "ring-female | 彩色鑽石專區 | 經典女戒 | 藍鑽",
+  "collections": [
+    "ring-female",
+    "彩色鑽石專區",
+    "經典女戒",
+    "藍鑽"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "藍曜花冕｜Azure Bloom Halo 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0102-azure-bloom-halo/source/DSP-0102-main-01.png",
+      "alt": "藍曜花冕｜Azure Bloom Halo 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfZWVkY2Q4OTBlOGYwMWY3Y2ZkZTQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=1b0c45c7562caab8",
+      "sourcePath": "",
+      "sha256": "70f5c8f6c08062e167d23f322c19fd41522b2952f7af649288d0bb2b8ba5c815"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0102-azure-bloom-halo/source/DSP-0102-gallery-02.png",
+      "alt": "藍曜花冕｜Azure Bloom Halo 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfYWEyNzBkOWNmOWRlNDM0N2UwMDEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=fed2ff93defae2ab",
+      "sourcePath": "",
+      "sha256": "c523232c9a534f4d584ffe3017ef14e851ab3f1b736b56a8d9b03de96cb33e94"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0102-azure-bloom-halo/source/DSP-0102-gallery-03.png",
+      "alt": "藍曜花冕｜Azure Bloom Halo 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfNTVkM2YwYTM0OTEwMTQxZDY0ZTMucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=791d95fc31884f3c",
+      "sourcePath": "",
+      "sha256": "408538d94373ef5a8a94e688764e6ae77bd1da721b89cc8ca5df2235afacdc70"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0102-azure-bloom-halo/source/DSP-0102-gallery-04.png",
+      "alt": "藍曜花冕｜Azure Bloom Halo 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfYjE5NTliMDhlNDMzNmVlYTc2MjQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=56df367340f49e53",
+      "sourcePath": "",
+      "sha256": "acfb71129ab2db1addbdbc95cf4c0fa8641da899148687d051bcb60f2af863a4"
+    }
+  ],
+  "video": "",
+  "seoTitle": "藍曜花冕｜Azure Bloom Halo",
+  "seoDescription": "藍曜花冕｜Azure Bloom Halo，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/azure-bloom-halo-colored-diamond",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/azure-bloom-halo-colored-diamond",
+  "inquiryText": "我想諮詢 藍曜花冕｜Azure Bloom Halo",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0085",
+    "SRC-0095",
+    "SRC-0144",
+    "SRC-0154",
+    "SRC-0248",
+    "SRC-0258",
+    "SRC-0300",
+    "SRC-0305",
+    "SRC-0361",
+    "SRC-0410",
+    "SRC-0439",
+    "SRC-0527",
+    "SRC-0537",
+    "SRC-0629"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0085",
+      "text": "藍曜花冕｜Azure Bloom Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0095",
+      "text": "藍曜花冕｜Azure Bloom Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0144",
+      "text": "藍曜花冕｜Azure Bloom Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0154",
+      "text": "藍曜花冕｜Azure Bloom Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0248",
+      "text": "藍曜花冕｜Azure Bloom Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0258",
+      "text": "藍曜花冕｜Azure Bloom Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0300",
+      "text": "藍曜花冕｜Azure Bloom Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0305",
+      "text": "藍曜花冕｜Azure Bloom Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0361",
+      "text": "藍曜花冕｜Azure Bloom Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0410",
+      "text": "藍曜花冕｜Azure Bloom Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0439",
+      "text": "藍曜花冕｜Azure Bloom Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0527",
+      "text": "藍曜花冕｜Azure Bloom Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0537",
+      "text": "藍曜花冕｜Azure Bloom Halo"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0629",
+      "text": "藍曜花冕｜Azure Bloom Halo"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

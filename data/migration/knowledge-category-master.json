@@ -1,0 +1,92 @@
+[
+  {
+    "categoryId": "KCAT-001",
+    "name": "Proposal Guide",
+    "slug": "proposal-guide",
+    "description": "原站求婚選鑽文章，包含求婚戒、克拉、戒台、戒圍與訂製流程。",
+    "seoTitle": "Proposal Guide｜鑽之韻知識學堂",
+    "seoDescription": "鑽之韻求婚選鑽指南，整理求婚戒、克拉、戒台、戒圍與訂製流程。",
+    "displayOrder": 1,
+    "articleCount": 6,
+    "legacyUrls": [
+      "/blogs/diamond-symphony-guide"
+    ],
+    "source": "Live original site article migration",
+    "status": "active"
+  },
+  {
+    "categoryId": "KCAT-002",
+    "name": "Style Guide",
+    "slug": "style-guide",
+    "description": "原站風格挑選文章，包含黃鑽搭配、手型比例與預算風格選擇。",
+    "seoTitle": "Style Guide｜鑽之韻知識學堂",
+    "seoDescription": "鑽之韻風格指南，整理黃鑽搭配、手型比例與鑽戒款式選擇。",
+    "displayOrder": 2,
+    "articleCount": 3,
+    "legacyUrls": [
+      "/blogs/diamond-symphony-guide"
+    ],
+    "source": "Live original site article migration",
+    "status": "active"
+  },
+  {
+    "categoryId": "KCAT-003",
+    "name": "Diamond Knowledge",
+    "slug": "diamond-knowledge",
+    "description": "原站鑽石知識文章，包含彩色鑽石、圓鑽、水滴型鑽石與切工火光。",
+    "seoTitle": "Diamond Knowledge｜鑽之韻知識學堂",
+    "seoDescription": "鑽之韻鑽石知識，整理彩鑽、圓鑽、水滴型鑽石、切工與火光。",
+    "displayOrder": 3,
+    "articleCount": 3,
+    "legacyUrls": [
+      "/blogs/diamond-symphony-guide"
+    ],
+    "source": "Live original site article migration",
+    "status": "active"
+  },
+  {
+    "categoryId": "KCAT-004",
+    "name": "Diamond Guide",
+    "slug": "diamond-guide",
+    "description": "原站鑽石挑選指南，包含切工、彩鑽與天然鑽石、培育鑽石比較。",
+    "seoTitle": "Diamond Guide｜鑽之韻知識學堂",
+    "seoDescription": "鑽之韻鑽石挑選指南，整理切工、彩鑽、天然鑽石與培育鑽石。",
+    "displayOrder": 4,
+    "articleCount": 3,
+    "legacyUrls": [
+      "/blogs/diamond-symphony-guide"
+    ],
+    "source": "Live original site article migration",
+    "status": "active"
+  },
+  {
+    "categoryId": "KCAT-005",
+    "name": "Jewelry Care",
+    "slug": "jewelry-care",
+    "description": "原站珠寶日常配戴與保養文章，包含水滴型鑽戒配戴注意事項。",
+    "seoTitle": "Jewelry Care｜鑽之韻知識學堂",
+    "seoDescription": "鑽之韻珠寶保養指南，整理鑽戒日常配戴、清潔與維護注意事項。",
+    "displayOrder": 5,
+    "articleCount": 1,
+    "legacyUrls": [
+      "/blogs/diamond-symphony-guide"
+    ],
+    "source": "Live original site article migration",
+    "status": "active"
+  },
+  {
+    "categoryId": "KCAT-006",
+    "name": "Diamond Care Guide",
+    "slug": "diamond-care-guide",
+    "description": "原站鑽戒清潔與保養文章，包含居家清潔、日常維護與回店檢查。",
+    "seoTitle": "Diamond Care Guide｜鑽之韻知識學堂",
+    "seoDescription": "鑽之韻鑽戒保養指南，整理鑽戒清潔、日常保養與檢修建議。",
+    "displayOrder": 6,
+    "articleCount": 1,
+    "legacyUrls": [
+      "/blogs/diamond-symphony-guide"
+    ],
+    "source": "Live original site article migration",
+    "status": "active"
+  }
+]

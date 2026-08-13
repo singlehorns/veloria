@@ -1,0 +1,677 @@
+---
+import { knowledgeLandingPath, site } from '@data/site';
+
+const phoneHref = `tel:${site.phone.replace(/\D/g, '')}`;
+
+const featuredProductLinks = [
+  { label: '求婚戒指', href: '/categories/womens-diamond-rings/engagement-rings/' },
+  { label: '結婚對戒', href: '/categories/other-jewelry/pair-rings/' },
+  { label: '男士鑽戒', href: '/categories/mens-diamond-rings/' },
+  { label: '女士鑽戒', href: '/categories/womens-diamond-rings/' },
+  { label: '時尚珠寶', href: '/categories/other-jewelry/' }
+];
+
+const socialLinks = [
+  { label: 'Facebook', href: site.facebookUrl, icon: 'facebook' },
+  { label: 'Instagram', href: site.instagramUrl, icon: 'instagram' },
+  { label: 'LINE 專人諮詢', href: site.lineUrl, icon: 'line' }
+];
+
+const productGroups = [
+  {
+    title: '商品分類',
+    links: [
+      { label: '經典女戒', href: '/categories/womens-diamond-rings/classic-womens-rings/' },
+      { label: '轉運女戒', href: '/categories/womens-diamond-rings/fortune-womens-rings/' },
+      { label: '經典男戒', href: '/categories/mens-diamond-rings/classic-mens-rings/' },
+      { label: '轉運男戒', href: '/categories/mens-diamond-rings/fortune-mens-rings/' },
+      { label: '項鍊', href: '/categories/other-jewelry/necklaces/' },
+      { label: '耳環', href: '/categories/other-jewelry/earrings/' },
+      { label: '手鍊', href: '/categories/other-jewelry/bracelets/' }
+    ]
+  },
+  {
+    title: '裸鑽切型',
+    links: [
+      { label: '公主方鑽', href: '/products/princess/' },
+      { label: '圓鑽', href: '/products/round/' },
+      { label: '心形鑽', href: '/products/heart/' },
+      { label: '墊形鑽', href: '/products/cushion/' },
+      { label: '梨形鑽', href: '/products/pear/' },
+      { label: '橢圓鑽', href: '/products/oval/' },
+      { label: '祖母綠形鑽', href: '/products/emerald/' },
+      { label: '阿斯切鑽', href: '/products/asscher/' },
+      { label: '雷迪恩鑽', href: '/products/radiant/' },
+      { label: '馬眼鑽', href: '/products/marquise/' }
+    ]
+  },
+  {
+    title: '彩鑽',
+    links: [
+      { label: '黃鑽', href: '/categories/colored-diamonds/yellow-diamonds/' },
+      { label: '藍鑽', href: '/categories/colored-diamonds/blue-diamonds/' },
+      { label: '粉鑽', href: '/categories/colored-diamonds/pink-diamonds/' }
+    ]
+  },
+  {
+    title: '服務',
+    links: [
+      { label: '關於我們', href: '/pages/about-us/' },
+      { label: '尊榮定製', href: '/pages/custom-service/' },
+      { label: '知識專欄', href: knowledgeLandingPath },
+      { label: '常見問題 FAQ', href: '/pages/qna/' }
+    ]
+  }
+];
+---
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <section class="footer-brand" aria-label="Veloria">
+      <a class="footer-logo-link" href="/" aria-label="Veloria 首頁">
+        <img class="footer-logo" src="/assets/brand/veloria-wordmark.svg" alt="Veloria" loading="lazy" />
+      </a>
+
+      <a class="footer-reserve" href={site.reservationUrl} target="_blank" rel="noopener noreferrer">
+        <span>預約諮詢</span>
+      </a>
+
+      <div class="footer-brand-links">
+        <h2 class="footer-group-title">熱門商品</h2>
+        <div class="footer-featured-links">
+          {featuredProductLinks.map((item) => (
+            <a href={item.href}>{item.label}</a>
+          ))}
+        </div>
+      </div>
+
+      <div class="footer-service-notes" aria-label="Veloria 服務細節">
+        <span class="footer-service-eyebrow">SERVICE DETAILS</span>
+        <dl>
+          <div>
+            <dt>DIAMOND</dt>
+            <dd>GIA 天然鑽石與 IGI 培育鑽石</dd>
+          </div>
+          <div>
+            <dt>METAL</dt>
+            <dd>14K、18K、鉑金與雙色金材質</dd>
+          </div>
+          <div>
+            <dt>BESPOKE</dt>
+            <dd>求婚戒指、對戒、耳環、項鍊與裸鑽訂製</dd>
+          </div>
+        </dl>
+        <p>歡迎預約來店或透過 LINE 諮詢，讓我們依照預算、配戴習慣與紀念需求，協助整理合適的鑽石與戒台方向。</p>
+      </div>
+    </section>
+
+    <nav class="footer-directory" aria-label="網站導覽">
+      {productGroups.map((group, groupIndex) => (
+        <section class:list={[
+          'footer-link-group',
+          {
+            'footer-link-group--plain': !group.title,
+            'footer-link-group--product': groupIndex < 3
+          }
+        ]}>
+          {group.title && (
+            <h2 class="footer-group-title">{group.title}</h2>
+          )}
+          <div class="footer-link-list">
+            {group.links.map((item) => (
+              <a href={item.href}>{item.label}</a>
+            ))}
+          </div>
+        </section>
+      ))}
+    </nav>
+
+    <address class="footer-contact" aria-label="聯絡資訊">
+      <h2>聯絡資訊</h2>
+      <p><span>電話</span><a href={phoneHref}>{site.phone}</a></p>
+      <p><span>營業時間</span>{site.hours}</p>
+      <p><span>Email</span><a href={`mailto:${site.email}`}>{site.email}</a></p>
+      <p><span>地址</span>{site.address}</p>
+      <p><span>統一編號</span>{site.taxId}</p>
+      <div class="footer-social" aria-label="追蹤 Veloria">
+        <span>FOLLOW US ON</span>
+        <div class="footer-social-links">
+            {socialLinks.map((item) => (
+              <a href={item.href} target={item.href.startsWith('http') ? '_blank' : undefined} rel={item.href.startsWith('http') ? 'noreferrer' : undefined}>
+                <span class="footer-social-icon" aria-hidden="true">
+                  {item.icon === 'facebook' && (
+                    <svg viewBox="0 0 24 24" focusable="false">
+                      <path d="M14.2 8.1V6.6c0-.7.3-1.1 1.2-1.1h1.7V2.6c-.8-.1-1.6-.2-2.4-.2-2.4 0-4 1.5-4 4v1.7H8v3.3h2.7v10.2h3.5V11.4h2.7l.4-3.3h-3.1Z" />
+                    </svg>
+                  )}
+                  {item.icon === 'instagram' && (
+                    <svg viewBox="0 0 24 24" focusable="false">
+                      <path d="M7.8 2.8h8.4c3 0 5 2 5 5v8.4c0 3-2 5-5 5H7.8c-3 0-5-2-5-5V7.8c0-3 2-5 5-5Zm0 3.1c-1.3 0-1.9.6-1.9 1.9v8.4c0 1.3.6 1.9 1.9 1.9h8.4c1.3 0 1.9-.6 1.9-1.9V7.8c0-1.3-.6-1.9-1.9-1.9H7.8Zm4.2 2.2a3.9 3.9 0 1 1 0 7.8 3.9 3.9 0 0 1 0-7.8Zm0 2.7a1.2 1.2 0 1 0 0 2.4 1.2 1.2 0 0 0 0-2.4Zm4.3-3.2a1.1 1.1 0 1 1 0 2.2 1.1 1.1 0 0 1 0-2.2Z" />
+                    </svg>
+                  )}
+                  {item.icon === 'line' && (
+                    <svg viewBox="0 0 24 24" focusable="false">
+                      <path d="M12 3.2c5.1 0 9.2 3.1 9.2 7 0 3.5-3.2 6.4-7.5 6.9l-3.8 3.1c-.5.4-1.2 0-1.1-.6l.5-2.8C5.5 15.9 2.8 13.3 2.8 10.2c0-3.9 4.1-7 9.2-7Zm-5.4 5v4.2h2.7v-1H7.7V8.2H6.6Zm3.4 0v4.2h1.1V8.2H10Zm2 0v4.2h1.1v-2.3l1.8 2.3h1V8.2h-1.1v2.3L13 8.2h-1Zm4.7 0v4.2h3v-1h-1.9v-.6h1.7v-.9h-1.7v-.7h1.9v-1h-3Z" />
+                    </svg>
+                  )}
+                </span>
+                <span>{item.label}</span>
+              </a>
+            ))}
+        </div>
+      </div>
+    </address>
+  </div>
+
+  <div class="footer-bottom">
+    <span>Copyright © {new Date().getFullYear()} Veloria. All Rights Reserved.</span>
+  </div>
+</footer>
+<style>
+  .site-footer {
+    background: #0a3764;
+    color: rgba(255, 255, 255, 0.78);
+  }
+
+  .footer-inner {
+    display: grid;
+    grid-template-columns: minmax(260px, 0.78fr) minmax(680px, 1.65fr) minmax(300px, 0.88fr);
+    gap: clamp(2.6rem, 4.5vw, 5.8rem);
+    width: min(100% - clamp(32px, 5.5vw, 96px), 1480px);
+    margin-inline: auto;
+    padding: clamp(3.2rem, 5.6vw, 5.8rem) 0 clamp(2.4rem, 4vw, 4.2rem);
+  }
+
+  .footer-brand,
+  .footer-brand-links,
+  .footer-link-group,
+  .footer-link-list,
+  .footer-contact {
+    display: grid;
+  }
+
+  .footer-brand {
+    align-content: start;
+    gap: 1.32rem;
+  }
+
+  .footer-logo-link {
+    display: inline-flex;
+    width: min(230px, 78vw);
+  }
+
+  .footer-logo {
+    width: 100%;
+    height: auto;
+    filter: brightness(0) invert(1);
+  }
+
+  .footer-reserve {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: min(230px, 100%);
+    min-height: 44px;
+    border: 1px solid rgba(255, 255, 255, 0.72);
+    border-radius: 999px;
+    overflow: hidden;
+    background: transparent;
+    color: #fff;
+    font-size: 0.92rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-decoration: none;
+    isolation: isolate;
+    transition: border-color 180ms ease, box-shadow 180ms ease;
+  }
+
+  .footer-reserve span {
+    position: relative;
+    z-index: 1;
+    display: inline-flex;
+    align-items: center;
+    color: #fff;
+    transition: color 220ms ease;
+  }
+
+  .footer-reserve::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background: #fff;
+    transform: scaleX(0);
+    transform-origin: left center;
+    transition: transform 280ms ease;
+  }
+
+  .footer-reserve:hover,
+  .footer-reserve:focus-visible {
+    border-color: #fff;
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.28);
+  }
+
+  .footer-reserve:hover span,
+  .footer-reserve:focus-visible span {
+    color: #0a3764;
+  }
+
+  .footer-reserve:hover::before,
+  .footer-reserve:focus-visible::before {
+    transform: scaleX(1);
+  }
+
+  .footer-brand-links {
+    gap: 1.05rem;
+    margin-top: 0.35rem;
+  }
+
+  .footer-heading,
+  .footer-group-title,
+  .footer-contact h2 {
+    margin: 0;
+    color: #fff;
+    font-family: var(--font-sans);
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    line-height: 1.45;
+    text-transform: uppercase;
+  }
+
+  .footer-heading {
+    font-size: 0.82rem;
+  }
+
+  .footer-heading-link,
+  .footer-group-title {
+    width: fit-content;
+    text-decoration: none;
+  }
+
+  .footer-featured-links {
+    display: grid;
+    grid-template-columns: repeat(3, max-content);
+    gap: 0.68rem 1.4rem;
+  }
+
+  .footer-service-notes {
+    display: grid;
+    gap: 0.86rem;
+    margin-top: clamp(1.4rem, 2vw, 2rem);
+    padding-block: clamp(1.05rem, 1.5vw, 1.35rem) 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.18);
+  }
+
+  .footer-service-eyebrow {
+    color: rgba(255, 255, 255, 0.54);
+    font-family: var(--font-sans);
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.24em;
+    line-height: 1;
+  }
+
+  .footer-service-notes dl {
+    display: grid;
+    margin: 0;
+    border-block: 1px solid rgba(255, 255, 255, 0.11);
+  }
+
+  .footer-service-notes div {
+    display: grid;
+    grid-template-columns: 5.7rem minmax(0, 1fr);
+    gap: 0.9rem;
+    align-items: baseline;
+    padding: 0.62rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.09);
+  }
+
+  .footer-service-notes div:last-child {
+    border-bottom: 0;
+  }
+
+  .footer-service-notes dt {
+    color: rgba(255, 255, 255, 0.48);
+    font-family: var(--font-sans);
+    font-size: 0.56rem;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    line-height: 1.4;
+  }
+
+  .footer-service-notes dd {
+    margin: 0;
+    color: rgba(255, 255, 255, 0.88);
+    font-size: 0.74rem;
+    letter-spacing: 0.05em;
+    line-height: 1.55;
+  }
+
+  .footer-service-notes p {
+    margin: 0;
+    color: rgba(255, 255, 255, 0.58);
+    font-size: 0.68rem;
+    letter-spacing: 0.045em;
+    line-height: 1.75;
+  }
+
+  .footer-directory {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: clamp(1.6rem, 3vw, 3rem);
+    padding-top: clamp(5.6rem, 6vw, 6.35rem);
+  }
+
+  .footer-link-group {
+    align-content: start;
+    gap: 1.05rem;
+  }
+
+  .footer-link-list {
+    gap: 0.76rem;
+  }
+
+  .site-footer a {
+    color: inherit;
+  }
+
+  .footer-featured-links a,
+  .footer-link-list a {
+    width: fit-content;
+    font-size: 0.88rem;
+    letter-spacing: 0.08em;
+    line-height: 1.65;
+    text-decoration: none;
+  }
+
+  .footer-featured-links a:hover,
+  .footer-featured-links a:focus-visible,
+  .footer-link-list a:hover,
+  .footer-link-list a:focus-visible,
+  .footer-heading-link:hover,
+  .footer-heading-link:focus-visible,
+  .footer-contact a:hover,
+  .footer-contact a:focus-visible {
+    color: #fff;
+    text-decoration: underline;
+    text-underline-offset: 0.25em;
+  }
+
+  .footer-contact {
+    align-content: start;
+    gap: 0.78rem;
+    padding-top: clamp(5.6rem, 6vw, 6.35rem);
+    font-style: normal;
+  }
+
+  .footer-social {
+    display: grid;
+    gap: 0.68rem;
+    width: min(100%, 265px);
+    margin-top: 0.68rem;
+    padding-top: 0.92rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+  }
+
+  .footer-social > span {
+    color: rgba(255, 255, 255, 0.56);
+    font-family: var(--font-sans);
+    font-size: 0.54rem;
+    font-weight: 700;
+    letter-spacing: 0.24em;
+    line-height: 1;
+    white-space: nowrap;
+  }
+
+  .footer-social-links {
+    display: grid;
+    gap: 0;
+    border-block: 1px solid rgba(255, 255, 255, 0.12);
+  }
+
+  .footer-social-links a {
+    display: grid;
+    grid-template-columns: 1.42rem minmax(0, 1fr);
+    align-items: center;
+    gap: 0.62rem;
+    min-height: 2.35rem;
+    padding: 0.42rem 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.78);
+    font-size: 0.66rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    line-height: 1.4;
+    text-decoration: none;
+    transition: color 220ms ease, transform 220ms ease;
+  }
+
+  .footer-social-links a:first-child {
+    border-top: 0;
+  }
+
+  .footer-social-links a:hover,
+  .footer-social-links a:focus-visible {
+    color: #fff;
+    transform: translateX(5px);
+  }
+
+  .footer-social-icon {
+    display: inline-grid;
+    place-items: center;
+    width: 1.42rem;
+    height: 1.42rem;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 999px;
+    color: #fff;
+    line-height: 1;
+    transition: border-color 220ms ease, background-color 220ms ease;
+  }
+
+  .footer-social-icon svg {
+    display: block;
+    width: 0.72rem;
+    height: 0.72rem;
+    fill: currentColor;
+  }
+
+  .footer-social-links a:hover .footer-social-icon,
+  .footer-social-links a:focus-visible .footer-social-icon {
+    border-color: #fff;
+    background: rgba(255, 255, 255, 0.1);
+  }
+
+  .footer-contact p {
+    display: flex;
+    align-items: baseline;
+    gap: 0.8rem;
+    margin: 0;
+    font-size: 0.88rem;
+    letter-spacing: 0.045em;
+    line-height: 1.72;
+    white-space: nowrap;
+  }
+
+  .footer-contact span {
+    flex: 0 0 auto;
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 0.73rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+  }
+
+  .footer-contact a {
+    text-decoration: none;
+  }
+
+  .footer-bottom {
+    width: min(100% - clamp(32px, 5.5vw, 96px), 1480px);
+    margin-inline: auto;
+    padding: 1rem 0 1.35rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.18);
+    color: rgba(255, 255, 255, 0.58);
+    font-size: 0.74rem;
+    letter-spacing: 0.06em;
+  }
+
+  @media (max-width: 1180px) {
+    .footer-inner {
+      grid-template-columns: minmax(270px, 0.85fr) minmax(0, 1.4fr);
+    }
+
+    .footer-directory {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      padding-top: 0;
+    }
+
+    .footer-contact {
+      grid-column: 1 / -1;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.85rem 2rem;
+      padding-top: 0;
+    }
+
+    .footer-social {
+      max-width: 100%;
+      grid-column: 1 / -1;
+    }
+
+    .footer-contact h2 {
+      grid-column: 1 / -1;
+    }
+  }
+
+  @media (max-width: 820px) {
+    .footer-inner {
+      grid-template-columns: 1fr;
+    }
+
+    .footer-directory {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .footer-contact {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .footer-brand {
+      grid-template-columns: minmax(0, 1fr) minmax(8.5rem, 0.82fr);
+      gap: 1.1rem 1rem;
+      align-items: start;
+    }
+
+    .footer-logo-link,
+    .footer-reserve {
+      grid-column: 1;
+      width: min(190px, 100%);
+    }
+
+    .footer-brand-links {
+      grid-column: 2;
+      grid-row: 1 / span 2;
+      gap: 0.82rem;
+      margin-top: 0.15rem;
+    }
+
+    .footer-featured-links {
+      grid-template-columns: repeat(2, minmax(0, max-content));
+      justify-content: start;
+      gap: 0.58rem 1rem;
+    }
+
+    .footer-featured-links a:nth-child(5) {
+      grid-column: 2;
+      justify-self: start;
+    }
+
+    .footer-service-notes {
+      grid-column: 1 / -1;
+      margin-top: 0.3rem;
+    }
+
+    .footer-contact {
+      grid-template-columns: minmax(0, 1fr) minmax(7.2rem, 0.72fr);
+      gap: 0.62rem 1rem;
+      align-items: start;
+    }
+
+    .footer-contact h2 {
+      grid-column: 1 / -1;
+    }
+
+    .footer-contact p {
+      grid-column: 1;
+      white-space: normal;
+    }
+
+    .footer-social {
+      grid-column: 2;
+      grid-row: 2 / span 5;
+      width: 100%;
+      margin-top: 0;
+      padding-top: 0;
+      border-top: 0;
+    }
+
+    .footer-social-links a {
+      grid-template-columns: 1.24rem minmax(0, 1fr);
+      gap: 0.44rem;
+      min-height: 2.1rem;
+      font-size: 0.62rem;
+      letter-spacing: 0.08em;
+    }
+
+    .footer-social-icon {
+      width: 1.24rem;
+      height: 1.24rem;
+    }
+  }
+
+  @media (max-width: 520px) {
+    .footer-featured-links {
+      grid-template-columns: repeat(2, max-content);
+      justify-content: start;
+      column-gap: 1.35rem;
+    }
+
+    .footer-featured-links a:nth-child(5) {
+      grid-column: 2;
+      justify-self: start;
+    }
+
+    .footer-directory {
+      grid-template-columns: 1fr;
+      gap: 1.8rem;
+    }
+
+    .footer-link-group--product {
+      gap: 0.85rem;
+    }
+
+    .footer-link-group--product .footer-link-list {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 0.58rem 0.72rem;
+    }
+
+    .footer-link-group--product .footer-link-list a {
+      width: auto;
+      font-size: clamp(0.76rem, 3.35vw, 0.9rem);
+      line-height: 1.45;
+      letter-spacing: 0.04em;
+      word-break: keep-all;
+    }
+
+    .footer-logo-link,
+    .footer-reserve {
+      width: min(180px, 100%);
+    }
+  }
+</style>
+
+

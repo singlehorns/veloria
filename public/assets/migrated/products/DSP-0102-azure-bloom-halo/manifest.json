@@ -1,0 +1,85 @@
+{
+  "legacyProductId": "DSP-0102",
+  "productName": "藍曜花冕",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/azure-bloom-halo-colored-diamond"
+  ],
+  "expectedImageCount": 4,
+  "detectedReferences": [
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfZWVkY2Q4OTBlOGYwMWY3Y2ZkZTQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=1b0c45c7562caab8",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfZWVkY2Q4OTBlOGYwMWY3Y2ZkZTQucG5nIl1d.png?sha=1b0c45c7562caab8",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/58323371/1755155799_eedcd890e8f01f7cfde4.png",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    },
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfYWEyNzBkOWNmOWRlNDM0N2UwMDEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=fed2ff93defae2ab",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfYWEyNzBkOWNmOWRlNDM0N2UwMDEucG5nIl1d.png?sha=fed2ff93defae2ab",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/58323371/1755155799_aa270d9cf9de4347e001.png",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    },
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfNTVkM2YwYTM0OTEwMTQxZDY0ZTMucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=791d95fc31884f3c",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfNTVkM2YwYTM0OTEwMTQxZDY0ZTMucG5nIl1d.png?sha=791d95fc31884f3c",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/58323371/1755155799_55d3f0a34910141d64e3.png",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    },
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfYjE5NTliMDhlNDMzNmVlYTc2MjQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=56df367340f49e53",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfYjE5NTliMDhlNDMzNmVlYTc2MjQucG5nIl1d.png?sha=56df367340f49e53",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/58323371/1755155799_b1959b08e4336eea7624.png",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    }
+  ],
+  "downloadedFiles": [
+    {
+      "file": "public/assets/migrated/products/DSP-0102-azure-bloom-halo/source/DSP-0102-main-01.png",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfZWVkY2Q4OTBlOGYwMWY3Y2ZkZTQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=1b0c45c7562caab8",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfZWVkY2Q4OTBlOGYwMWY3Y2ZkZTQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=1b0c45c7562caab8",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "70f5c8f6c08062e167d23f322c19fd41522b2952f7af649288d0bb2b8ba5c815",
+      "sizeBytes": 101455
+    },
+    {
+      "file": "public/assets/migrated/products/DSP-0102-azure-bloom-halo/source/DSP-0102-gallery-02.png",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfYWEyNzBkOWNmOWRlNDM0N2UwMDEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=fed2ff93defae2ab",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfYWEyNzBkOWNmOWRlNDM0N2UwMDEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=fed2ff93defae2ab",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "c523232c9a534f4d584ffe3017ef14e851ab3f1b736b56a8d9b03de96cb33e94",
+      "sizeBytes": 90035
+    },
+    {
+      "file": "public/assets/migrated/products/DSP-0102-azure-bloom-halo/source/DSP-0102-gallery-03.png",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfNTVkM2YwYTM0OTEwMTQxZDY0ZTMucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=791d95fc31884f3c",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfNTVkM2YwYTM0OTEwMTQxZDY0ZTMucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=791d95fc31884f3c",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "408538d94373ef5a8a94e688764e6ae77bd1da721b89cc8ca5df2235afacdc70",
+      "sizeBytes": 105942
+    },
+    {
+      "file": "public/assets/migrated/products/DSP-0102-azure-bloom-halo/source/DSP-0102-gallery-04.png",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfYjE5NTliMDhlNDMzNmVlYTc2MjQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=56df367340f49e53",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU4MzIzMzcxLzE3NTUxNTU3OTlfYjE5NTliMDhlNDMzNmVlYTc2MjQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=56df367340f49e53",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "acfb71129ab2db1addbdbc95cf4c0fa8641da899148687d051bcb60f2af863a4",
+      "sizeBytes": 74043
+    }
+  ],
+  "failedDownloads": [],
+  "duplicateFiles": [],
+  "unclassifiedFiles": [],
+  "status": "完整",
+  "notes": []
+}

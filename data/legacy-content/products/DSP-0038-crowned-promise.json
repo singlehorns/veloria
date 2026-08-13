@@ -1,0 +1,78 @@
+{
+  "legacyProductId": "DSP-0038",
+  "legacyCyberbizId": "64736389",
+  "name": "冠芒相守",
+  "englishName": "Crowned Promise",
+  "originalDisplayName": "冠芒相守｜Crowned Promise",
+  "slug": "crowned-promise",
+  "legacyUrls": [],
+  "category": "女士鑽戒, 經典女戒",
+  "collection": "ring-female | 經典女戒",
+  "collections": [
+    "ring-female",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "冠芒相守｜Crowned Promise 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "冠芒相守｜Crowned Promise",
+  "seoDescription": "冠芒相守｜Crowned Promise，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 冠芒相守｜Crowned Promise",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0099",
+    "SRC-0262",
+    "SRC-0387",
+    "SRC-0397",
+    "SRC-0541"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0099",
+      "text": "冠芒相守｜Crowned Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0262",
+      "text": "冠芒相守｜Crowned Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0387",
+      "text": "冠芒相守｜Crowned Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0397",
+      "text": "冠芒相守｜Crowned Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0541",
+      "text": "冠芒相守｜Crowned Promise"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

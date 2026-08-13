@@ -1,0 +1,59 @@
+{
+  "legacyProductId": "DSP-0070",
+  "legacyCyberbizId": "57339039",
+  "name": "雫月之心",
+  "englishName": "Lune Drop",
+  "originalDisplayName": "雫月之心｜Lune Drop",
+  "slug": "lune-drop",
+  "legacyUrls": [],
+  "category": "項鍊",
+  "collection": "necklace",
+  "collections": [
+    "necklace"
+  ],
+  "productType": "項鍊",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "雫月之心｜Lune Drop 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "雫月之心｜Lune Drop",
+  "seoDescription": "雫月之心｜Lune Drop，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 雫月之心｜Lune Drop",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0061",
+    "SRC-0503"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0061",
+      "text": "雫月之心｜Lune Drop"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0503",
+      "text": "雫月之心｜Lune Drop"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

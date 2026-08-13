@@ -1,0 +1,24 @@
+{
+  "name": "結婚對戒",
+  "slug": "pair-ring",
+  "englishName": "結婚對戒",
+  "summary": "交心之結｜Unîty Knot 契合之環｜Hàrmonic Loop 心弦共鳴｜Écho of Us 曜映之環｜Ràdiant Bond",
+  "description": "交心之結｜Unîty Knot 契合之環｜Hàrmonic Loop 心弦共鳴｜Écho of Us 曜映之環｜Ràdiant Bond",
+  "heroImage": {
+    "src": "/assets/migrated/collections/wedding-ring.jpeg",
+    "alt": "結婚對戒"
+  },
+  "products": [
+    "unity-knot",
+    "harmonic-loop",
+    "echo-of-us",
+    "radiant-bond"
+  ],
+  "featured": false,
+  "seoTitle": "結婚對戒 VELORIA",
+  "seoDescription": "交心之結｜Unîty Knot 契合之環｜Hàrmonic Loop 心弦共鳴｜Écho of Us 曜映之環｜Ràdiant Bond",
+  "originalUrl": "https://www.dsdiamond.com.tw/collections/pair-ring",
+  "originalSource": "../dsdiamond_backup/brand-data/brand-routes.json",
+  "migrationStatus": "部分搬遷",
+  "migrationNotes": "由舊站 brand-routes 自動補回系列頁入口；產品、圖片與完整區塊仍需人工核對。 已連接可追蹤的舊站系列媒體；產品圖仍需逐筆確認。"
+}

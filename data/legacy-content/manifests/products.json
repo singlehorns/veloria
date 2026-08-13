@@ -1,0 +1,609 @@
+{
+  "total": 111,
+  "generatedAt": "2026-07-17",
+  "products": [
+    {
+      "legacyProductId": "DSP-0001",
+      "slug": "trilogy-vow",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/女戒14"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0002",
+      "slug": "trinity-eclat",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/trinity-eclat-dsdiamond"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0003",
+      "slug": "echo-of-us",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0004",
+      "slug": "golden-vow",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0005",
+      "slug": "pink-whisper",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0006",
+      "slug": "blush-kiss",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0007",
+      "slug": "rose-embrace",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0008",
+      "slug": "amour-de-c-ur",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0009",
+      "slug": "brilliant-embrace",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0010",
+      "slug": "eternal-entwine",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0011",
+      "slug": "blooming-heart",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0012",
+      "slug": "regal-frame",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/regalframe-dsdiamond"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0013",
+      "slug": "solar-vow",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0014",
+      "slug": "destined-dominion",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0015",
+      "slug": "eternal-whisper",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0016",
+      "slug": "timeless-prelude",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0017",
+      "slug": "unity-knot",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0018",
+      "slug": "union-light",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/union-light-dsdiamond"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0019",
+      "slug": "entwined-promise",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/女戒24"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0020",
+      "slug": "entwined-destiny",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/女戒23"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0021",
+      "slug": "radiant-bloom",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/女戒21"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0022",
+      "slug": "eternal-halo",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0023",
+      "slug": "luminous-duet",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0024",
+      "slug": "luminous-realm",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/女戒27"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0025",
+      "slug": "marquise-gleam",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/marquise-gleam-dsdiamond"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0026",
+      "slug": "crystal-blue-heart",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/女戒29"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0027",
+      "slug": "pure-heart-promise",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/pure-heart-promise-dsdiamond"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0028",
+      "slug": "steady-heartlight",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/steady-heartlight-dsdiamond"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0029",
+      "slug": "arc-contour",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0030",
+      "slug": "arc-diamond-sequence",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0031",
+      "slug": "rose-heart-whisper",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0032",
+      "slug": "floral-constellation",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0033",
+      "slug": "crowned-heart-grace",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0034",
+      "slug": "golden-bloom",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0035",
+      "slug": "golden-halo-radiance",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0036",
+      "slug": "golden-sonata",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0037",
+      "slug": "circle-of-radiance",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0038",
+      "slug": "crowned-promise",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0039",
+      "slug": "harmonic-loop",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0040",
+      "slug": "majestic-regalia",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0041",
+      "slug": "sovereign-glow",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/男戒10"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0042",
+      "slug": "crown-of-majesty",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/男戒05"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0043",
+      "slug": "imperial-glory",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/男戒15"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0044",
+      "slug": "axis-of-steadfast",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0045",
+      "slug": "eterna-shine",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0046",
+      "slug": "eternal-sparkle",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0047",
+      "slug": "stellar-promise",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0048",
+      "slug": "starlit-promise",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0049",
+      "slug": "stellar-promise",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0050",
+      "slug": "stellar-name",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0051",
+      "slug": "celestial-vow",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0052",
+      "slug": "starlit-promise",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0053",
+      "slug": "celestial-halo-radiance",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0054",
+      "slug": "stellar-dominion",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/男戒12-20250726122514"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0055",
+      "slug": "brilliant-wish",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0056",
+      "slug": "celestial-bloom",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0057",
+      "slug": "stellar-studs",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0058",
+      "slug": "gleaming-vow",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0059",
+      "slug": "bonded-edge",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0060",
+      "slug": "azure-wish",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0061",
+      "slug": "hidden-whisper",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0062",
+      "slug": "blush-teardrop",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0063",
+      "slug": "pink-crown-of-love",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0064",
+      "slug": "regal-seal",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/男戒06"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0065",
+      "slug": "aurora-cushion-gleam",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0066",
+      "slug": "morning-glow",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0067",
+      "slug": "akatsuki-dance",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0068",
+      "slug": "whisper-of-dawn",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0069",
+      "slug": "rose-whisper",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0070",
+      "slug": "lune-drop",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0071",
+      "slug": "sovereign-seal",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/男戒12-20250721114449"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0072",
+      "slug": "azure-aurora",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0073",
+      "slug": "blooming-grace",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0074",
+      "slug": "黃k金轉運戒-三排",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0075",
+      "slug": "黃k金轉運戒-雙排",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0076",
+      "slug": "黃k金轉運戒-單排",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0077",
+      "slug": "amber-promise-glow",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0078",
+      "slug": "aurora-hoops",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0079",
+      "slug": "aurora-path",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/男戒13"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0080",
+      "slug": "minimal-radiance",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0081",
+      "slug": "edge-of-radiance",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0082",
+      "slug": "鉑金轉運戒-三排",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0083",
+      "slug": "鉑金轉運戒-單排",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0084",
+      "slug": "鉑金轉運戒-雙排",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0085",
+      "slug": "blossom-reverie",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0086",
+      "slug": "rose-architectural-halo",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0087",
+      "slug": "rose-dew-radiance",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0088",
+      "slug": "crown-of-argent-radiance",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0089",
+      "slug": "sparkling-whisper",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0090",
+      "slug": "blush-butterfly-radiance",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0091",
+      "slug": "dominion-crest",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0092",
+      "slug": "ethereal-heart-petals",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0093",
+      "slug": "luminous-prelude",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/女戒05"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0094",
+      "slug": "silent-line",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0095",
+      "slug": "silent-pink-heart",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0096",
+      "slug": "tender-glow",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0097",
+      "slug": "tear-of-brilliance",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0098",
+      "slug": "radiant-bond",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0099",
+      "slug": "monolith-brilliance",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/monolith-brilliance-dsdiamond"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0100",
+      "slug": "radiant-domain-halo",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0101",
+      "slug": "woven-dream",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0102",
+      "slug": "azure-bloom-halo",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/azure-bloom-halo-colored-diamond"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0103",
+      "slug": "blue-crown-of-love",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0104",
+      "slug": "regal-radiance",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0105",
+      "slug": "double-heart-embrace",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0106",
+      "slug": "fine-jewelry-ring",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0107",
+      "slug": "scepter-crest",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/男戒14"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0108",
+      "slug": "sovereign-realm",
+      "legacyUrls": [
+        "https://www.dsdiamond.com.tw/products/男戒03"
+      ]
+    },
+    {
+      "legacyProductId": "DSP-0109",
+      "slug": "dominion-halo",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0110",
+      "slug": "blush-halo-promise",
+      "legacyUrls": []
+    },
+    {
+      "legacyProductId": "DSP-0111",
+      "slug": "starlit-murmurs",
+      "legacyUrls": []
+    }
+  ]
+}

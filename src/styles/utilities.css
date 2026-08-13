@@ -1,0 +1,63 @@
+.container {
+  width: min(100% - clamp(28px, 5vw, 64px), var(--container));
+  margin-inline: auto;
+}
+
+.section {
+  padding: var(--space-8) 0;
+}
+
+.eyebrow {
+  color: var(--color-champagne);
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  padding: 0.85rem 1.25rem;
+  border: 1px solid var(--color-ink);
+  border-radius: var(--radius-sm);
+  background: var(--color-ink);
+  color: white;
+  font-weight: 700;
+}
+
+.button.secondary {
+  background: transparent;
+  color: var(--color-ink);
+}
+
+.grid {
+  display: grid;
+  gap: var(--space-5);
+}
+
+.muted {
+  color: var(--color-muted);
+}
+
+.surface-soft {
+  background: var(--color-surface-soft);
+}
+
+@media (max-width: 760px) {
+  .container {
+    width: min(100% - 28px, var(--container));
+  }
+
+  .section {
+    padding: 3.25rem 0;
+  }
+
+  .button {
+    width: 100%;
+    min-height: 48px;
+    padding-inline: 1rem;
+    text-align: center;
+  }
+}

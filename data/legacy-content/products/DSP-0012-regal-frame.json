@@ -1,0 +1,145 @@
+{
+  "legacyProductId": "DSP-0012",
+  "legacyCyberbizId": "62305643",
+  "name": "方域之璽",
+  "englishName": "Regal Frame",
+  "originalDisplayName": "方域之璽｜Regal Frame",
+  "slug": "regal-frame",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/regalframe-dsdiamond"
+  ],
+  "category": "男士鑽戒 | 經典男戒",
+  "collection": "ring-man | 經典男戒",
+  "collections": [
+    "ring-man",
+    "經典男戒"
+  ],
+  "productType": "男戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "方域之璽｜Regal Frame 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0012-regal-frame/source/DSP-0012-main-01.jpeg",
+      "alt": "方域之璽｜Regal Frame 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyMzA1NjQzLzE3NjM3MzE3MjBfMGNlN2YyMjViMjY4ZTg0MjQ5ZDUuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=058eb59b04319bd1",
+      "sourcePath": "",
+      "sha256": "5ebc9b797d4333a5d8aa36c339a391a26fa14eb9b661cc75b13efb42f138fa80"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0012-regal-frame/source/DSP-0012-gallery-02.jpeg",
+      "alt": "方域之璽｜Regal Frame 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyMzA1NjQzLzE3NjM3MzE3MjBfYTc3NTk4OGM4MTcyMDBhOTJiYzQuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=511e2cacc41761f6",
+      "sourcePath": "",
+      "sha256": "c2b76a25201bf2acee5b695820608bd97ccbf3f22d245cb2e624fcad22277b0e"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0012-regal-frame/source/DSP-0012-gallery-03.jpeg",
+      "alt": "方域之璽｜Regal Frame 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyMzA1NjQzLzE3NjM3MzE3MjBfNWNiYjNmNDdkMGFiOTE0NjQyNDguanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=33986a5fd24d493f",
+      "sourcePath": "",
+      "sha256": "8f783cfeb25676a01c56cc626bef59250e094d201537d595f954d4d726ee33c6"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0012-regal-frame/source/DSP-0012-gallery-04.jpeg",
+      "alt": "方域之璽｜Regal Frame 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzYyMzA1NjQzLzE3NjM3MzE3MjBfMzdhZTM4MDFjMDIzN2UyNjZlYjYuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=6cf9ceda660ebeb1",
+      "sourcePath": "",
+      "sha256": "333e4cbdf31d8119390d154d72570784d381cd267da7e0d94833f771022de77d"
+    }
+  ],
+  "video": "",
+  "seoTitle": "方域之璽｜Regal Frame",
+  "seoDescription": "方域之璽｜Regal Frame，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/regalframe-dsdiamond",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/regalframe-dsdiamond",
+  "inquiryText": "我想諮詢 方域之璽｜Regal Frame",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0118",
+    "SRC-0128",
+    "SRC-0279",
+    "SRC-0289",
+    "SRC-0370",
+    "SRC-0419",
+    "SRC-0448",
+    "SRC-0560",
+    "SRC-0570",
+    "SRC-0638"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0118",
+      "text": "方域之璽｜Regal Frame"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0128",
+      "text": "方域之璽｜Regal Frame"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0279",
+      "text": "方域之璽｜Regal Frame"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0289",
+      "text": "方域之璽｜Regal Frame"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0370",
+      "text": "方域之璽｜Regal Frame"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0419",
+      "text": "方域之璽｜Regal Frame"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0448",
+      "text": "方域之璽｜Regal Frame"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0560",
+      "text": "方域之璽｜Regal Frame"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0570",
+      "text": "方域之璽｜Regal Frame"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0638",
+      "text": "方域之璽｜Regal Frame"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

@@ -1,0 +1,66 @@
+{
+  "legacyProductId": "DSP-0052",
+  "legacyCyberbizId": "57337033",
+  "name": "星影之語",
+  "englishName": "Starlit Promise",
+  "originalDisplayName": "星影之語｜Starlit Promise",
+  "slug": "starlit-promise",
+  "legacyUrls": [],
+  "category": "戒指",
+  "collection": "ring-female | 經典女戒",
+  "collections": [
+    "ring-female",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "星影之語｜Starlit Promise 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "星影之語｜Starlit Promise",
+  "seoDescription": "星影之語｜Starlit Promise，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 星影之語｜Starlit Promise",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0109",
+    "SRC-0272",
+    "SRC-0551"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0109",
+      "text": "星影之語｜Starlit Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0272",
+      "text": "星影之語｜Starlit Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0551",
+      "text": "星影之語｜Starlit Promise"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

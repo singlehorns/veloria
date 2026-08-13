@@ -1,0 +1,19 @@
+{
+  "name": "經典女戒",
+  "slug": "經典女戒",
+  "englishName": "經典女戒",
+  "summary": "三序映華｜Trinity Éclat 三生之約｜Trîlogy Vow 交會之光｜Unîon Light 交織之約｜Entwinéd Promise",
+  "description": "三序映華｜Trinity Éclat 三生之約｜Trîlogy Vow 交會之光｜Unîon Light 交織之約｜Entwinéd Promise",
+  "heroImage": {
+    "src": "/assets/banners/atelier-service-banner.jpeg",
+    "alt": "經典女戒"
+  },
+  "products": [],
+  "featured": false,
+  "seoTitle": "經典女戒 VELORIA",
+  "seoDescription": "三序映華｜Trinity Éclat 三生之約｜Trîlogy Vow 交會之光｜Unîon Light 交織之約｜Entwinéd Promise",
+  "originalUrl": "https://www.dsdiamond.com.tw/collections/經典女戒",
+  "originalSource": "../dsdiamond_backup/brand-data/brand-routes.json",
+  "migrationStatus": "部分缺失",
+  "migrationNotes": "由舊站 brand-routes 自動補回系列頁入口；產品、圖片與完整區塊仍需人工核對。"
+}

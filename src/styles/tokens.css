@@ -1,0 +1,126 @@
+:root {
+  --color-ink: #111111;
+  --color-ink-soft: #373c41;
+  --color-text: #646464;
+  --color-muted: #8a8f94;
+  --color-surface: #ffffff;
+  --color-surface-soft: #f7f5f1;
+  --color-surface-warm: #f4eee2;
+  --color-border: #e2e2e2;
+  --color-border-strong: #c7cbd4;
+  --color-champagne: #c39d6f;
+  --color-brand-pink: #0a3764;
+  --color-brand-pink-deep: #0a3764;
+  --color-gold-muted: #cbba39;
+  --color-accent: var(--color-champagne);
+  --color-deep-blue: #0a3764;
+  --shadow-soft: 0 18px 50px rgba(17, 17, 17, 0.08);
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --container: 1600px;
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4.5rem;
+  --font-wailea-display: "GFS Didot", "Didot", "Times New Roman", serif;
+  --font-wailea-sans: "Montserrat", "Noto Sans TC", "Microsoft JhengHei", system-ui, sans-serif;
+  --font-sans: var(--font-wailea-sans);
+  --font-serif: "Noto Serif TC", "PMingLiU", serif;
+  --font-functional-sans: var(--font-sans);
+  --font-editorial-serif: var(--font-serif);
+  --font-latin-display: var(--font-wailea-display);
+  --type-brand-display-size: clamp(2.35rem, 4vw, 3.5rem);
+  --type-page-title-size: clamp(2.125rem, 3.4vw, 3.5rem);
+  --type-section-title-size: clamp(1.625rem, 2.35vw, 2.5rem);
+  --type-section-heading-primary-size: clamp(1.25rem, 1.55vw, 1.75rem);
+  --type-section-heading-secondary-size: clamp(1.125rem, 1.25vw, 1.5rem);
+  --type-editorial-section-title-size: clamp(1.625rem, 2.25vw, 2.375rem);
+  --type-editorial-statement-size: clamp(1.375rem, 1.75vw, 1.75rem);
+  --type-quote-title-size: clamp(1.125rem, 1.25vw, 1.375rem);
+  --type-group-title-size: clamp(1.05rem, 1.15vw, 1.2rem);
+  --type-card-title-size: clamp(1.0625rem, 1.05vw, 1.3125rem);
+  --type-card-subtitle-size: 0.95rem;
+  --type-lead-size: clamp(1rem, 0.75vw, 1.1875rem);
+  --type-body-size: clamp(0.96875rem, 0.35vw + 0.9rem, 1.0625rem);
+  --type-body-secondary-size: clamp(0.875rem, 0.45vw + 0.78rem, 1rem);
+  --type-caption-size: clamp(0.75rem, 0.25vw + 0.7rem, 0.8125rem);
+  --type-label-size: clamp(0.6875rem, 0.28vw + 0.64rem, 0.8125rem);
+  --type-navigation-size: clamp(0.8125rem, 0.28vw + 0.75rem, 0.9375rem);
+  --type-button-size: clamp(0.8125rem, 0.28vw + 0.75rem, 0.9375rem);
+  --type-line-tight: 1.2;
+  --type-line-title: 1.32;
+  --type-line-heading: 1.42;
+  --type-line-body: 1.86;
+  --type-line-compact: 1.5;
+  --type-weight-light: 300;
+  --type-weight-regular: 400;
+  --type-weight-medium: 500;
+  --type-weight-semibold: 600;
+  --type-weight-bold: 700;
+  --type-weight-heavy: 800;
+  --type-track-normal: 0;
+  --type-track-serif: 0.03em;
+  --type-track-body: 0.01em;
+  --type-track-label: 0.12em;
+  --type-track-wide: 0.16em;
+  --motion-duration-fast: 180ms;
+  --motion-duration-standard: 360ms;
+  --motion-duration-editorial: 720ms;
+  --motion-duration-slow: 1200ms;
+  --motion-ease-standard: cubic-bezier(0.22, 1, 0.36, 1);
+  --motion-ease-editorial: cubic-bezier(0.16, 1, 0.3, 1);
+  --motion-ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --motion-delay-1: 80ms;
+  --motion-delay-2: 160ms;
+  --motion-delay-3: 240ms;
+  --motion-stagger: 90ms;
+  --motion-distance-sm: 8px;
+  --motion-distance-md: 18px;
+  --motion-distance-lg: 28px;
+  --motion-scale-soft: 1.025;
+  --motion-scale-editorial: 1.055;
+}
+
+@media (max-width: 1023px) {
+  :root {
+    --type-brand-display-size: clamp(2.2rem, 5.6vw, 2.875rem);
+    --type-page-title-size: clamp(2.5rem, 5.4vw, 2.875rem);
+    --type-section-title-size: clamp(1.875rem, 4vw, 2.125rem);
+    --type-section-heading-primary-size: clamp(1.375rem, 2.9vw, 1.5625rem);
+    --type-section-heading-secondary-size: clamp(1.1875rem, 2.45vw, 1.375rem);
+    --type-editorial-section-title-size: clamp(1.75rem, 3.8vw, 2.075rem);
+    --type-editorial-statement-size: clamp(1.25rem, 3vw, 1.5rem);
+    --type-card-title-size: clamp(1.0625rem, 2.2vw, 1.25rem);
+    --type-lead-size: clamp(1rem, 1.8vw, 1.125rem);
+    --type-body-size: 1rem;
+    --type-body-secondary-size: clamp(0.875rem, 1.45vw, 0.9375rem);
+    --type-label-size: clamp(0.6875rem, 1.15vw, 0.75rem);
+    --type-navigation-size: clamp(0.8125rem, 1.3vw, 0.875rem);
+    --type-button-size: clamp(0.8125rem, 1.3vw, 0.875rem);
+  }
+}
+
+@media (max-width: 620px) {
+  :root {
+    --type-brand-display-size: clamp(2.05rem, 9.6vw, 2.5rem);
+    --type-page-title-size: clamp(2.125rem, 9.4vw, 2.5rem);
+    --type-section-title-size: clamp(1.625rem, 7vw, 1.875rem);
+    --type-section-heading-primary-size: clamp(1.25rem, 5.5vw, 1.4375rem);
+    --type-section-heading-secondary-size: clamp(1.125rem, 4.8vw, 1.25rem);
+    --type-editorial-section-title-size: clamp(1.5625rem, 6.8vw, 1.85rem);
+    --type-editorial-statement-size: clamp(1.1875rem, 5.2vw, 1.375rem);
+    --type-quote-title-size: 1.12rem;
+    --type-card-title-size: clamp(1.0625rem, 4.8vw, 1.1875rem);
+    --type-lead-size: clamp(1rem, 4.2vw, 1.0625rem);
+    --type-body-size: clamp(0.96875rem, 4vw, 1.03125rem);
+    --type-body-secondary-size: clamp(0.875rem, 3.7vw, 0.9375rem);
+    --type-caption-size: 0.75rem;
+    --type-label-size: clamp(0.6875rem, 3.2vw, 0.75rem);
+    --type-navigation-size: clamp(0.8125rem, 3.4vw, 0.875rem);
+    --type-button-size: clamp(0.8125rem, 3.4vw, 0.875rem);
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "粉鑽",
+  "slug": "粉鑽",
+  "englishName": "粉鑽",
+  "summary": "初心之愛｜Puré Heart Promise 夢境花綻｜Blôssom Reverie 心悅之吻｜Blûsh Kiss 心映愛語｜Pînk Whisper",
+  "description": "初心之愛｜Puré Heart Promise 夢境花綻｜Blôssom Reverie 心悅之吻｜Blûsh Kiss 心映愛語｜Pînk Whisper",
+  "heroImage": {
+    "src": "/assets/migrated/collections/pink-diamond.jpeg",
+    "alt": "粉鑽"
+  },
+  "products": [
+    "pure-heart-promise",
+    "blossom-reverie",
+    "blush-kiss",
+    "pink-whisper"
+  ],
+  "featured": false,
+  "seoTitle": "粉鑽 VELORIA",
+  "seoDescription": "初心之愛｜Puré Heart Promise 夢境花綻｜Blôssom Reverie 心悅之吻｜Blûsh Kiss 心映愛語｜Pînk Whisper",
+  "originalUrl": "https://www.dsdiamond.com.tw/collections/粉鑽",
+  "originalSource": "../dsdiamond_backup/brand-data/brand-routes.json",
+  "migrationStatus": "部分搬遷",
+  "migrationNotes": "由舊站 brand-routes 自動補回系列頁入口；產品、圖片與完整區塊仍需人工核對。 已連接可追蹤的舊站系列媒體；產品圖仍需逐筆確認。"
+}

@@ -1,0 +1,71 @@
+{
+  "legacyProductId": "DSP-0039",
+  "legacyCyberbizId": "57339001",
+  "name": "契合之環",
+  "englishName": "Harmonic Loop",
+  "originalDisplayName": "契合之環｜Harmonic Loop",
+  "slug": "harmonic-loop",
+  "legacyUrls": [],
+  "category": "結婚對戒",
+  "collection": "pair-ring",
+  "collections": [
+    "pair-ring"
+  ],
+  "productType": "對戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "契合之環｜Harmonic Loop 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "契合之環｜Harmonic Loop",
+  "seoDescription": "契合之環｜Harmonic Loop，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 契合之環｜Harmonic Loop",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0063",
+    "SRC-0070",
+    "SRC-0505",
+    "SRC-0512"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0063",
+      "text": "契合之環｜Harmonic Loop"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0070",
+      "text": "契合之環｜Harmonic Loop"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0505",
+      "text": "契合之環｜Harmonic Loop"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0512",
+      "text": "契合之環｜Harmonic Loop"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

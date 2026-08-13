@@ -1,0 +1,66 @@
+{
+  "legacyProductId": "DSP-0014",
+  "legacyCyberbizId": "57337034",
+  "name": "半壁江山",
+  "englishName": "Destined Dominion",
+  "originalDisplayName": "半壁江山｜Destined Dominion",
+  "slug": "destined-dominion",
+  "legacyUrls": [],
+  "category": "戒指",
+  "collection": "ring-female | 經典女戒",
+  "collections": [
+    "ring-female",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "半壁江山｜Destined Dominion 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "半壁江山｜Destined Dominion",
+  "seoDescription": "半壁江山｜Destined Dominion，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 半壁江山｜Destined Dominion",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0098",
+    "SRC-0261",
+    "SRC-0540"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0098",
+      "text": "半壁江山｜Destined Dominion"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0261",
+      "text": "半壁江山｜Destined Dominion"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0540",
+      "text": "半壁江山｜Destined Dominion"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

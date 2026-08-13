@@ -1,0 +1,127 @@
+{
+  "legacyProductId": "DSP-0108",
+  "legacyCyberbizId": "57338471",
+  "name": "權境之環",
+  "englishName": "Sovereign Realm",
+  "originalDisplayName": "權境之環｜Sovereign Realm",
+  "slug": "sovereign-realm",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/男戒03"
+  ],
+  "category": "男戒",
+  "collection": "ring-man | 經典男戒",
+  "collections": [
+    "ring-man",
+    "經典男戒"
+  ],
+  "productType": "男戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "權境之環｜Sovereign Realm 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0108-sovereign-realm/source/DSP-0108-main-01.png",
+      "alt": "權境之環｜Sovereign Realm 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDcxLzE3NTIwNDIwNDlfMDA3YjYxN2E1MjM2ZjQ0NjM2YjUucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=bbeeb800af7b316a",
+      "sourcePath": "",
+      "sha256": "03ed9bc5072c020252706009ff55a334d859999d91d5345d765416278e9657fa"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0108-sovereign-realm/source/DSP-0108-gallery-02.png",
+      "alt": "權境之環｜Sovereign Realm 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDcxLzE3NTIwNDIwNDlfOWJmY2E0ODY2N2U3OTkyYTBmNTUucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=3041a42e0b285f63",
+      "sourcePath": "",
+      "sha256": "12eb308b77a2182afc959f1c0ecd5b893f643ae8ed65dc35f1e21de00ea0cd38"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0108-sovereign-realm/source/DSP-0108-gallery-03.png",
+      "alt": "權境之環｜Sovereign Realm 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDcxLzE3NTIwNDIwNDlfODA0ZDFlZDMxMTAyNTk3ODJhZTgucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=c3f3192cf75c6fa4",
+      "sourcePath": "",
+      "sha256": "25baa6746d7e065334d3bdeea833ada30f7a8fcf5eb099e9322c5a3aee3bbdb0"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0108-sovereign-realm/source/DSP-0108-gallery-04.png",
+      "alt": "權境之環｜Sovereign Realm 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM4NDcxLzE3NTIwNDIwNDlfNWY3MThlZDM1MjU4Njk0YjE1OTQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=ae064bf4e9f0f9e4",
+      "sourcePath": "",
+      "sha256": "efa1b0d101f2254d69a5735f5ebe76ee9b97799cf72ce758d407af2b1549262b"
+    }
+  ],
+  "video": "",
+  "seoTitle": "權境之環｜Sovereign Realm",
+  "seoDescription": "權境之環｜Sovereign Realm，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/男戒03",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/男戒03",
+  "inquiryText": "我想諮詢 權境之環｜Sovereign Realm",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0132",
+    "SRC-0293",
+    "SRC-0374",
+    "SRC-0423",
+    "SRC-0452",
+    "SRC-0574",
+    "SRC-0642"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0132",
+      "text": "權境之環｜Sovereign Realm"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0293",
+      "text": "權境之環｜Sovereign Realm"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0374",
+      "text": "權境之環｜Sovereign Realm"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0423",
+      "text": "權境之環｜Sovereign Realm"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0452",
+      "text": "權境之環｜Sovereign Realm"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0574",
+      "text": "權境之環｜Sovereign Realm"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0642",
+      "text": "權境之環｜Sovereign Realm"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

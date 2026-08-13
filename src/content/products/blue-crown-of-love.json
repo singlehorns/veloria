@@ -1,0 +1,167 @@
+{
+  "legacyProductId": "DSP-0103",
+  "legacyCyberbizId": "57337047",
+  "name": "藍戀花冠",
+  "englishName": "Blué Crown of Love",
+  "originalDisplayName": "藍戀花冠｜Blué Crown of Love",
+  "slug": "blue-crown-of-love",
+  "legacyUrls": [],
+  "category": "藍鑽",
+  "collection": "彩色鑽石專區 | 藍鑽",
+  "collections": [
+    "彩色鑽石專區",
+    "藍鑽"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "藍色心形主石如澄澈心願，環繞著閃耀粉鑽與水滴鑽，凝聚純粹與深情的優雅光芒。\n\n 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。\n\n 為確保服務品質與產品完整度， 目前暫不開放線上購物車結帳 。\n\n 此款價格基於 鉑金（PT950）＋18K玫瑰金 材質之設計，主鑽為 1 克拉 ：\n\n ◆ 培育藍鑽款 ：1.10 克拉 Fancy Vivid Blue\n\n ◆ 切工型式 ：心形改良明亮式（Heart Modified Brilliant）\n\n 配鑽將依主鑽色澤與整體設計精緻搭配，呈現層次分明的光影效果。\n\n 如有調整克拉數、顏色等級或戒台材質，歡迎洽詢專屬訂製服務。\n\n Request an Appointment\n\n LINE 諮詢\n\n 線上專員服務",
+  "description": "藍色心形主石如澄澈心願，環繞著閃耀粉鑽與水滴鑽，凝聚純粹與深情的優雅光芒。\n\n 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。\n\n 為確保服務品質與產品完整度， 目前暫不開放線上購物車結帳 。\n\n 此款價格基於 鉑金（PT950）＋18K玫瑰金 材質之設計，主鑽為 1 克拉 ：\n\n ◆ 培育藍鑽款 ：1.10 克拉 Fancy Vivid Blue\n\n ◆ 切工型式 ：心形改良明亮式（Heart Modified Brilliant）\n\n 配鑽將依主鑽色澤與整體設計精緻搭配，呈現層次分明的光影效果。\n\n 如有調整克拉數、顏色等級或戒台材質，歡迎洽詢專屬訂製服務。\n\n Request an Appointment\n\n LINE 諮詢\n\n 線上專員服務",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0103-blue-crown-of-love/localized/DSP-0103-main-01.png",
+      "alt": "藍戀花冠 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0103-blue-crown-of-love/localized/DSP-0103-gallery-02.png",
+      "alt": "藍戀花冠 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0103-blue-crown-of-love/localized/DSP-0103-gallery-03.png",
+      "alt": "藍戀花冠 3",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0103-blue-crown-of-love/localized/DSP-0103-gallery-04.png",
+      "alt": "藍戀花冠 4",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "藍戀花冠 Blué Crown of Love｜藍鑽戒指推薦｜培育鑽石｜VELORIA DIAMOND SYMPHONY",
+  "seoDescription": "藍戀花冠 Blué Crown of Love，以心形藍鑽為主石，搭配閃耀粉鑽與水滴鑽設計，展現浪漫與層次交織的高級珠寶美感。適合求婚與紀念時刻，提供培育鑽石與客製化戒台服務。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/blue-crown-blue-diamond-ring",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/blue-crown-blue-diamond-ring",
+  "inquiryText": "我想諮詢 藍戀花冠｜Blué Crown of Love",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery",
+  "mediaStatus": "localized-api-gallery",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0174",
+    "SRC-0304",
+    "SRC-0309"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0174",
+      "text": "藍戀花冠｜Blué Crown of Love"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0304",
+      "text": "藍戀花冠｜Blué Crown of Love"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0309",
+      "text": "藍戀花冠｜Blué Crown of Love"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "57337047",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/blue-crown-blue-diamond-ring",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "57337047",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/blue-crown-blue-diamond-ring",
+      "text": "藍色心形主石如澄澈心願，環繞著閃耀粉鑽與水滴鑽，凝聚純粹與深情的優雅光芒。\n\n 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。\n\n 為確保服務品質與產品完整度， 目前暫不開放線上購物車結帳 。\n\n 此款價格基於 鉑金（PT950）＋18K玫瑰金 材質之設計，主鑽為 1 克拉 ：\n\n ◆ 培育藍鑽款 ：1.10 克拉 Fancy Vivid Blue\n\n ◆ 切工型式 ：心形改良明亮式（Heart Modified Brilliant）\n\n 配鑽將依主鑽色澤與整體設計精緻搭配，呈現層次分明的光影效果。\n\n 如有調整克拉數、顏色等級或戒台材質，歡迎洽詢專屬訂製服務。\n\n Request an Appointment\n\n LINE 諮詢\n\n 線上專員服務"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "colored-diamonds",
+  "subcategories": [
+    "blue-diamonds",
+    "other-color-diamonds",
+    "classic-womens-rings"
+  ],
+  "audience": "unisex",
+  "diamondType": "colored-diamond",
+  "tags": [
+    "colored-diamonds",
+    "blue-diamonds",
+    "other-color-diamonds",
+    "戒指",
+    "unisex",
+    "colored-diamond",
+    "womens-diamond-rings",
+    "classic-womens-rings"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "womens-diamond-rings",
+    "classic-womens-rings",
+    "colored-diamonds",
+    "blue-diamonds"
+  ],
+  "displayPrice": "NT$79,500",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "70035216",
+      "sku": "DSF0031",
+      "name": "藍戀花冠｜Blué Crown of Love",
+      "price": 79500,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 79500,
+  "priceMax": 79500,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "57337047",
+  "pricingStandards": {
+    "source": "description",
+    "materialStatement": "此款價格基於 鉑金（PT950）＋18K玫瑰金 材質之設計，主鑽為 1 克拉：",
+    "naturalDiamond": "",
+    "labDiamond": "培育藍鑽款：1.10 克拉 Fancy Vivid Blue",
+    "notes": [
+      "切工型式：心形改良明亮式（Heart Modified Brilliant）",
+      "配鑽將依主鑽色澤與整體設計精緻搭配，呈現層次分明的光影效果。",
+      "如有調整克拉數、顏色等級或戒台材質，歡迎洽詢專屬訂製服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "Materials\n        材質選定\n      \n      \n      \n      \n        <ul>\n          <li>\n            ✦\n            提供鉑金（PT950）、18K金（白K、黃K、玫瑰金）等材質選擇。\n          </li>\n          <li>\n            ✦\n            可搭配天然鑽石或實驗室培育鑽石，皆附國際認證證書。\n          </li>\n          <li>\n            ✦\n            材質經專業檢驗，適合長期配戴與紀念。\n          </li>\n        </ul>\n      \n    \n\n    \n    \n      \n        Measurement\n        戒圍量測\n      \n\n      \n        <ul>\n          <li>\n            ✦\n            可至門市協助量測，或提供既有戒指對照參考。\n          </li>\n          <li>\n            ✦\n            下單後將免費寄送專業戒圍量測器至您指定地址。\n          </li>\n        </ul>\n      \n    \n\n    \n    \n      \n        Personalization\n        刻字服務\n      \n\n      \n        <ul>\n          <li>\n            ✦\n            提供免費內圈刻字服務，可刻英文、數字與常見符號（如 ∞、♥）。\n          </li>\n          <li>\n            ✦\n            建議字數不超過12字元，實際長度視戒指寬度而定。\n          </li>\n          <li>\n            ✦\n            若有特殊刻字需求，請於下單時備註或聯絡客服確認。\n          </li>\n        </ul>\n      \n    \n\n  \n\n  \n  \n    Craftsmanship & Service Excellence"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "Delivery\n        運送方式\n      \n      \n      \n      \n        為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：\n      \n\n      \n      \n        <ul>\n          \n          <li>\n            ✦\n            <strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。\n          </li>\n          \n          <li>\n            ✦\n            <strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。\n          </li>\n        </ul>\n      \n    \n\n  \n\n  \n  \n    Craftsmanship & Service Excellence"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "legacyProductId": "DSP-0081",
+  "legacyCyberbizId": "57338472",
+  "name": "稜境之耀",
+  "englishName": "Edge of Radiance",
+  "originalDisplayName": "稜境之耀｜Edge of Radiance",
+  "slug": "edge-of-radiance",
+  "legacyUrls": [],
+  "category": "男戒",
+  "collection": "ring-man | 經典男戒",
+  "collections": [
+    "ring-man",
+    "經典男戒"
+  ],
+  "productType": "男戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "稜境之耀｜Edge of Radiance 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "稜境之耀｜Edge of Radiance",
+  "seoDescription": "稜境之耀｜Edge of Radiance，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 稜境之耀｜Edge of Radiance",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0135",
+    "SRC-0296",
+    "SRC-0577"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0135",
+      "text": "稜境之耀｜Edge of Radiance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0296",
+      "text": "稜境之耀｜Edge of Radiance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0577",
+      "text": "稜境之耀｜Edge of Radiance"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

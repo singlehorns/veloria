@@ -1,0 +1,24 @@
+{
+  "name": "耳環",
+  "slug": "earring",
+  "englishName": "耳環",
+  "summary": "光璨雙影｜Lumînous Duet 星耀經典｜Stéllar Studs 金緻花語｜Goldén Bloom 晨曦之舞｜Akàtsuki Dance",
+  "description": "光璨雙影｜Lumînous Duet 星耀經典｜Stéllar Studs 金緻花語｜Goldén Bloom 晨曦之舞｜Akàtsuki Dance",
+  "heroImage": {
+    "src": "/assets/migrated/collections/earring.jpeg",
+    "alt": "耳環"
+  },
+  "products": [
+    "luminous-duet",
+    "stellar-studs",
+    "golden-bloom",
+    "akatsuki-dance"
+  ],
+  "featured": false,
+  "seoTitle": "耳環 VELORIA",
+  "seoDescription": "光璨雙影｜Lumînous Duet 星耀經典｜Stéllar Studs 金緻花語｜Goldén Bloom 晨曦之舞｜Akàtsuki Dance",
+  "originalUrl": "https://www.dsdiamond.com.tw/collections/earring",
+  "originalSource": "../dsdiamond_backup/brand-data/brand-routes.json",
+  "migrationStatus": "部分搬遷",
+  "migrationNotes": "由舊站 brand-routes 自動補回系列頁入口；產品、圖片與完整區塊仍需人工核對。 已連接可追蹤的舊站系列媒體；產品圖仍需逐筆確認。"
+}

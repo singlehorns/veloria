@@ -1,0 +1,145 @@
+{
+  "legacyProductId": "DSP-0071",
+  "legacyCyberbizId": "57597640",
+  "name": "尊耀之印",
+  "englishName": "Sovereign Seal",
+  "originalDisplayName": "尊耀之印｜Sovereign Seal",
+  "slug": "sovereign-seal",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/男戒12-20250721114449"
+  ],
+  "category": "男士鑽戒 | 經典男戒",
+  "collection": "ring-man | 經典男戒",
+  "collections": [
+    "ring-man",
+    "經典男戒"
+  ],
+  "productType": "男戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "尊耀之印｜Sovereign Seal 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0071-sovereign-seal/source/DSP-0071-main-01.png",
+      "alt": "尊耀之印｜Sovereign Seal 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3NTk3NjQwLzE3NTMwNjk2MDhfMDNiOTM4MTkzZjFlYWY3YTY5MjcucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=f02294d1802596b3",
+      "sourcePath": "",
+      "sha256": "d157da99e07f9d2fc3effa8246be0296b0ebc855b0ebecfd8faa1004c12534e6"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0071-sovereign-seal/source/DSP-0071-gallery-02.png",
+      "alt": "尊耀之印｜Sovereign Seal 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3NTk3NjQwLzE3NTMwNjk2MDhfOGNmZTdjZDAzOTYwYWIwMDQ2OTUucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=d50acf11483ae4d9",
+      "sourcePath": "",
+      "sha256": "7599dd6aebadfdb7dfcd74568cef49d57295011dcc212a39c0d56f84c71f4b33"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0071-sovereign-seal/source/DSP-0071-gallery-03.png",
+      "alt": "尊耀之印｜Sovereign Seal 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3NTk3NjQwLzE3NTMwNjk2MDhfNTFkNGZiZDRlZTc2OTE5ZTE4ZTYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=315cba4fb3047a0a",
+      "sourcePath": "",
+      "sha256": "d802ab503bace5285979459fde31d4260a81154bf06371152d505695b802b9fa"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0071-sovereign-seal/source/DSP-0071-gallery-04.png",
+      "alt": "尊耀之印｜Sovereign Seal 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3NTk3NjQwLzE3NTMwNjk2MDhfZmRjNDY4ZWU3NDMwMDAyZDgyMzQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=92a27cdbb9456db4",
+      "sourcePath": "",
+      "sha256": "01667270ddfd613304633700daade986ad7d181906d8070431000dafa8fdbf98"
+    }
+  ],
+  "video": "",
+  "seoTitle": "尊耀之印｜Sovereign Seal",
+  "seoDescription": "尊耀之印｜Sovereign Seal，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/男戒12-20250721114449",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/男戒12-20250721114449",
+  "inquiryText": "我想諮詢 尊耀之印｜Sovereign Seal",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0111",
+    "SRC-0121",
+    "SRC-0274",
+    "SRC-0284",
+    "SRC-0365",
+    "SRC-0414",
+    "SRC-0443",
+    "SRC-0553",
+    "SRC-0563",
+    "SRC-0633"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0111",
+      "text": "尊耀之印｜Sovereign Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0121",
+      "text": "尊耀之印｜Sovereign Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0274",
+      "text": "尊耀之印｜Sovereign Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0284",
+      "text": "尊耀之印｜Sovereign Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0365",
+      "text": "尊耀之印｜Sovereign Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0414",
+      "text": "尊耀之印｜Sovereign Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0443",
+      "text": "尊耀之印｜Sovereign Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0553",
+      "text": "尊耀之印｜Sovereign Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0563",
+      "text": "尊耀之印｜Sovereign Seal"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0633",
+      "text": "尊耀之印｜Sovereign Seal"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

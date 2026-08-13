@@ -1,0 +1,1135 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import ProductBreadcrumbs from '@components/products/ProductBreadcrumbs.astro';
+import ProductCategorySidebar from '@components/products/ProductCategorySidebar.astro';
+import ProductGrid from '@components/products/ProductGrid.astro';
+import { site } from '@data/site';
+import { getCategoryLabel, primaryCategoryLabels } from '@data/productCategories';
+import { productCollectionOrder } from '@data/productCollectionOrder';
+import taxonomy from '../../../data/migration/product-taxonomy-master.json';
+
+type ProductEntry = Awaited<ReturnType<typeof getCollection<'products'>>>[number];
+
+interface Props {
+  entry?: ProductEntry;
+  category?: any;
+  redirectTo?: string;
+  view: 'product' | 'category' | 'redirect';
+}
+
+export async function getStaticPaths() {
+  const products = await getCollection('products');
+  const productPaths = products.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry, view: 'product' }
+  }));
+
+  const categoryPaths = taxonomy
+    .filter((item: any) => item.categoryType === 'primary-category')
+    .map((category: any) => ({
+      params: { slug: category.slug },
+      props: { category, view: 'category' }
+    }));
+
+  const legacyRedirects = products.flatMap((entry) =>
+    (entry.data.legacyUrls ?? [])
+      .map((legacyUrl) => {
+        try {
+          const parsed = new URL(legacyUrl);
+          const parts = parsed.pathname.split('/').filter(Boolean);
+          if (parts[0] !== 'products' || !parts[1] || parts[1] === entry.data.slug) return null;
+          return {
+            params: { slug: decodeURIComponent(parts[1]) },
+            props: { redirectTo: `/products/${entry.data.slug}/`, entry, view: 'redirect' }
+          };
+        } catch {
+          return null;
+        }
+      })
+      .filter(Boolean)
+  );
+
+  return [...categoryPaths, ...productPaths, ...legacyRedirects];
+}
+
+const { entry, category, redirectTo, view } = Astro.props as Props;
+const products = await getCollection('products');
+const categoryOrder = category ? productCollectionOrder[category.slug as keyof typeof productCollectionOrder] ?? [] : [];
+const categoryOrderIndex = new Map<string, number>(categoryOrder.map((slug, index) => [slug, index]));
+const hasSyncedCategoryCollection = Boolean(category && category.slug in productCollectionOrder);
+const categoryProducts = category
+  ? products
+      .filter((product) =>
+        hasSyncedCategoryCollection
+          ? categoryOrderIndex.has(product.data.slug)
+          : product.data.primaryCategory === category.slug
+      )
+      .sort((a, b) => (categoryOrderIndex.get(a.data.slug) ?? 9999) - (categoryOrderIndex.get(b.data.slug) ?? 9999))
+  : [];
+const product = entry?.data;
+const heroImage = product?.images?.[0]?.src;
+
+const categoryTitle = category ? primaryCategoryLabels[category.slug] ?? category.name : '';
+const productTitle = product?.englishName && product?.name && product.name !== product.englishName
+  ? `${product.name}｜${product.englishName}`
+  : product?.englishName || product?.name || '商品';
+const subcategoryText = product?.subcategories?.map((slug) => getCategoryLabel(slug)).join('、') || '待確認';
+const descriptionParagraphs = product?.description
+  ? product.description.split(/\n{2,}/).map((paragraph) => paragraph.trim()).filter(Boolean)
+  : [];
+const variantRows = product?.variants?.filter((variant) => variant.price || variant.sku) ?? [];
+const introParagraphs = descriptionParagraphs
+  .filter((paragraph) => !paragraph.includes('購買須知') && !paragraph.includes('訂價基準'))
+  .slice(0, 2);
+const pricingStartIndex = descriptionParagraphs.findIndex((paragraph) => paragraph.includes('訂價基準'));
+const extractedPricingBasisParagraphs = pricingStartIndex >= 0
+  ? descriptionParagraphs
+      .slice(pricingStartIndex + 1)
+      .filter((paragraph) => !paragraph.includes('購買與諮詢') && !paragraph.includes('客服中心') && !paragraph.includes('LINE 諮詢'))
+  : [];
+const pricingBasisParagraphs = product?.pricingStandards
+  ? [
+      product.pricingStandards.materialStatement,
+      product.pricingStandards.naturalDiamond,
+      product.pricingStandards.labDiamond,
+      ...(product.pricingStandards.notes ?? [])
+    ].filter(Boolean)
+  : extractedPricingBasisParagraphs;
+const galleryImages = product?.images?.length ? product.images : [];
+const productDetailSections = product?.productDetailSections?.filter((section) => section.html?.trim()) ?? [];
+const relatedProducts = product
+  ? products
+      .filter((item) =>
+        item.data.slug !== product.slug &&
+        (
+          item.data.primaryCategory === product.primaryCategory ||
+          item.data.category === product.category ||
+          item.data.collection === product.collection
+        )
+      )
+      .slice(0, 4)
+  : [];
+const relatedProductTitle = (item: ProductEntry) => {
+  const related = item.data;
+  return related.englishName && related.name && related.name !== related.englishName
+    ? `${related.name} | ${related.englishName}`
+    : related.name;
+};
+const cleanPricingBasisParagraph = (paragraph: string) => paragraph.replace(/^🔹\s*/, '');
+const highlightPricingLine = (paragraph: string) => {
+  const cleaned = cleanPricingBasisParagraph(paragraph);
+  const [label, ...rest] = cleaned.split('：');
+  return { label, detail: rest.join('：'), hasLabel: rest.length > 0 && /天然鑽款|培育鑽款/.test(label) };
+};
+---
+
+<BaseLayout
+  title={categoryTitle || product?.seoTitle || productTitle}
+  description={category?.seoDescription ?? product?.seoDescription ?? product?.shortDescription ?? site.description}
+  image={category?.heroImage || heroImage}
+  canonical={redirectTo ?? (category ? `/products/${category.slug}/` : `/products/${product?.slug}/`)}
+>
+  {view === 'redirect' && redirectTo ? (
+    <section class="section">
+      <div class="container redirect-panel">
+        <p class="eyebrow">Legacy Product Route</p>
+        <h1>商品頁已搬遷</h1>
+        <p>舊 CYBERBIZ 商品網址已對應到新的 Astro 商品頁。</p>
+        <a class="button" href={redirectTo}>前往商品頁</a>
+      </div>
+    </section>
+  ) : view === 'category' && category ? (
+    <section class="section catalog-section">
+      <div class="container product-browse-layout">
+        <ProductCategorySidebar taxonomy={taxonomy} activeCategory={category.slug} />
+        <ProductGrid products={categoryProducts} title={categoryTitle} />
+      </div>
+    </section>
+  ) : product ? (
+    <>
+      <section class="product-page">
+        <div class="product-media-stack" data-product-gallery>
+          {galleryImages.length ? (
+            <>
+              <figure class="product-media-frame is-primary">
+                <img
+                  src={galleryImages[0].src}
+                  alt={galleryImages[0].alt || productTitle}
+                  loading="eager"
+                  data-gallery-main
+                />
+              </figure>
+
+              {galleryImages.length > 1 && (
+                <div class="product-gallery-controls">
+                  <button class="gallery-nav gallery-nav-prev" type="button" aria-label="上一張商品圖片" data-gallery-prev>
+                    <span aria-hidden="true"></span>
+                  </button>
+                  <div class="product-thumbnails" aria-label="商品圖片縮圖">
+                    {galleryImages.map((image, index) => (
+                      <button
+                        class:list={['product-thumbnail', index === 0 && 'is-active']}
+                        type="button"
+                        aria-label={`查看商品圖片 ${index + 1}`}
+                        aria-pressed={index === 0 ? 'true' : 'false'}
+                        data-gallery-thumb
+                        data-gallery-index={index}
+                      >
+                        <img src={image.src} alt={image.alt || productTitle} loading={index === 0 ? 'eager' : 'lazy'} />
+                      </button>
+                    ))}
+                  </div>
+                  <button class="gallery-nav gallery-nav-next" type="button" aria-label="下一張商品圖片" data-gallery-next>
+                    <span aria-hidden="true"></span>
+                  </button>
+                </div>
+              )}
+              <script type="application/json" data-gallery-images set:html={JSON.stringify(galleryImages)} />
+            </>
+          ) : (
+            <div class="missing-media">商品圖片準備中</div>
+          )}
+        </div>
+
+        <aside class="product-purchase-panel">
+          <ProductBreadcrumbs items={[
+            { label: '首頁', href: '/' },
+            { label: '全部商品', href: '/products/' },
+            { label: getCategoryLabel(product.primaryCategory), href: `/categories/${product.primaryCategory}/` },
+            { label: productTitle }
+          ]} />
+
+          <p class="eyebrow">{product.legacyProductId}</p>
+          <h1>{productTitle}</h1>
+          {product.displayPrice && <p class="product-price">{product.displayPrice}</p>}
+
+          <div class="product-summary">
+            {introParagraphs.length ? (
+              introParagraphs.map((paragraph) => <p>{paragraph}</p>)
+            ) : (
+              <p>{product.shortDescription || '商品介紹內容整理中，歡迎聯繫專人確認細節。'}</p>
+            )}
+          </div>
+
+          {pricingBasisParagraphs.length > 0 && (
+            <section class="pricing-basis-card" aria-labelledby="pricing-basis-title">
+              <h2 id="pricing-basis-title"><span>PRICING STANDARDS</span></h2>
+              <div>
+                {pricingBasisParagraphs.map((paragraph) => {
+                  const pricingLine = highlightPricingLine(paragraph);
+                  return (
+                    <p class:list={[pricingLine.hasLabel && 'is-diamond-line']}>
+                      {pricingLine.hasLabel ? (
+                        <>
+                          <strong>{pricingLine.label}</strong>
+                          {`：${pricingLine.detail}`}
+                        </>
+                      ) : (
+                        cleanPricingBasisParagraph(paragraph)
+                      )}
+                    </p>
+                  );
+                })}
+              </div>
+            </section>
+          )}
+
+          <div class="product-accordion">
+            {variantRows.length > 0 && (
+              <details class="variant-options-details">
+                <summary>款式價格</summary>
+                <div class="variant-table">
+                  {variantRows.map((variant) => (
+                    <div>
+                      <span>{variant.optionName || variant.name || variant.sku || variant.variantId || product.legacyProductId}</span>
+                      <strong>{variant.price ? `NT$${variant.price.toLocaleString('en-US', { maximumFractionDigits: 0 })}` : '請洽專人確認'}</strong>
+                    </div>
+                  ))}
+                </div>
+              </details>
+            )}
+
+            {productDetailSections.map((section) => (
+              <details class="legacy-detail-details">
+                <summary>{section.title}</summary>
+                <div class="legacy-detail-section" set:html={section.html} />
+              </details>
+            ))}
+
+            <details>
+              <summary>購買與訂製說明</summary>
+              <div class="detail-copy">
+                <p>需依據您的需求確認鑽石規格、戒圍尺寸與貴金屬材質等細節， 請LINE預約告知</p>
+              </div>
+            </details>
+
+            <details>
+              <summary>諮詢服務</summary>
+              <p>此商品可依鑽石規格、戒圍尺寸與貴金屬材質調整，歡迎預約專人確認細節。</p>
+            </details>
+
+            {false && galleryImages.length > 1 && (
+              <details class="mobile-gallery-details">
+                <summary>商品圖片</summary>
+                <div class="mobile-gallery">
+                  {galleryImages.slice(1).map((image) => (
+                    <img src={image.src} alt={image.alt || productTitle} loading="lazy" />
+                  ))}
+                </div>
+              </details>
+            )}
+          </div>
+
+          <div class="product-actions">
+            <a class="button" href={site.reservationUrl} target="_blank" rel="noopener noreferrer">預約諮詢</a>
+          </div>
+        </aside>
+      </section>
+
+      {relatedProducts.length > 0 && (
+        <section class="related-products-section" aria-labelledby="related-products-title">
+          <div class="related-products-heading">
+            <span aria-hidden="true"></span>
+            <h2 id="related-products-title">其他推薦商品</h2>
+          </div>
+          <div class="related-products-rail" aria-label="其他推薦商品">
+            {relatedProducts.map((item) => {
+              const related = item.data;
+              const title = relatedProductTitle(item);
+              const image = related.images?.[0];
+
+              return (
+                <a class="related-product-card" href={`/products/${related.slug}/`} aria-label={`查看 ${title}`} data-related-card>
+                  <figure>
+                    {image ? (
+                      <img src={image.src} alt={image.alt || title} loading="lazy" draggable="false" />
+                    ) : (
+                      <span>暫無圖片</span>
+                    )}
+                  </figure>
+                  <div>
+                    <small>Recommend</small>
+                    <h3>{title}</h3>
+                    {related.displayPrice && <p>{related.displayPrice}</p>}
+                  </div>
+                </a>
+              );
+            })}
+          </div>
+        </section>
+      )}
+    </>
+  ) : null}
+</BaseLayout>
+
+<script>
+  document.querySelectorAll('[data-product-gallery]').forEach((gallery) => {
+    const mainImage = gallery.querySelector('[data-gallery-main]');
+    const imageData = gallery.querySelector('[data-gallery-images]');
+    const thumbnails = [...gallery.querySelectorAll('[data-gallery-thumb]')];
+    const previousButton = gallery.querySelector('[data-gallery-prev]');
+    const nextButton = gallery.querySelector('[data-gallery-next]');
+    const images = imageData?.textContent ? JSON.parse(imageData.textContent) : [];
+    let activeIndex = 0;
+
+    const setActiveImage = (nextIndex: number) => {
+      if (!mainImage || !images.length) return;
+      activeIndex = (nextIndex + images.length) % images.length;
+      const image = images[activeIndex];
+      mainImage.setAttribute('src', image.src);
+      mainImage.setAttribute('alt', image.alt || '');
+      thumbnails.forEach((thumbnail, index) => {
+        const isActive = index === activeIndex;
+        thumbnail.classList.toggle('is-active', isActive);
+        thumbnail.setAttribute('aria-pressed', String(isActive));
+      });
+    };
+
+    thumbnails.forEach((thumbnail) => {
+      thumbnail.addEventListener('click', () => {
+        setActiveImage(Number(thumbnail.getAttribute('data-gallery-index') || 0));
+      });
+    });
+
+    previousButton?.addEventListener('click', () => setActiveImage(activeIndex - 1));
+    nextButton?.addEventListener('click', () => setActiveImage(activeIndex + 1));
+  });
+
+  document.querySelectorAll<HTMLElement>('.related-products-rail').forEach((rail) => {
+    let isDragging = false;
+    let didDrag = false;
+    let startX = 0;
+    let startScrollLeft = 0;
+
+    rail.querySelectorAll('a, img').forEach((element) => {
+      element.addEventListener('dragstart', (event) => event.preventDefault());
+    });
+
+    rail.addEventListener('pointerdown', (event) => {
+      if (event.pointerType === 'mouse' && event.button !== 0) return;
+      isDragging = true;
+      didDrag = false;
+      startX = event.clientX;
+      startScrollLeft = rail.scrollLeft;
+      rail.classList.add('is-dragging');
+    });
+
+    rail.addEventListener('pointermove', (event) => {
+      if (!isDragging) return;
+      const deltaX = event.clientX - startX;
+      if (Math.abs(deltaX) > 4) {
+        didDrag = true;
+        event.preventDefault();
+      }
+      rail.scrollLeft = startScrollLeft - deltaX;
+    });
+
+    const stopDragging = () => {
+      if (!isDragging) return;
+      isDragging = false;
+      rail.classList.remove('is-dragging');
+    };
+
+    rail.addEventListener('pointerup', stopDragging);
+    rail.addEventListener('pointercancel', stopDragging);
+    rail.addEventListener('pointerleave', stopDragging);
+    rail.addEventListener('click', (event) => {
+      if (!didDrag) return;
+      event.preventDefault();
+      event.stopPropagation();
+      didDrag = false;
+    }, true);
+  });
+</script>
+
+<style>
+  .catalog-section {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .product-browse-layout {
+    display: grid;
+    width: min(calc(100% - clamp(32px, 7vw, 128px)), 1120px);
+    grid-template-columns: 220px minmax(0, 1fr);
+    gap: var(--space-6);
+    align-items: start;
+  }
+
+  .product-page {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(360px, 46vw);
+    align-items: start;
+    min-height: calc(100vh - 88px);
+    border-top: 1px solid #ece9e4;
+    background: #fff;
+  }
+
+  .product-media-stack {
+    display: grid;
+    grid-template-columns: minmax(5rem, auto) minmax(0, 1fr);
+    grid-template-rows: minmax(0, 1fr);
+    gap: 0;
+    position: sticky;
+    top: 88px;
+    min-height: calc(100vh - 88px);
+    background: #fff;
+  }
+
+  .product-media-frame {
+    grid-column: 2;
+    grid-row: 1;
+    display: grid;
+    place-items: center;
+    min-height: 0;
+    margin: 0;
+    background: #fff;
+  }
+
+  .product-media-frame img,
+  .missing-media {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding: clamp(2rem, 7vw, 6rem);
+  }
+
+  .product-media-frame img {
+    mix-blend-mode: multiply;
+    filter: brightness(1.02) contrast(1.015) saturate(0.95);
+  }
+
+  .missing-media {
+    display: grid;
+    place-items: center;
+    color: var(--color-muted);
+  }
+
+  .product-media-stack:not(:has(.product-gallery-controls)) .product-media-frame,
+  .product-media-stack:not(:has(.product-gallery-controls)) .missing-media {
+    grid-column: 1 / -1;
+  }
+
+  .product-gallery-controls {
+    grid-column: 1;
+    grid-row: 1;
+    align-self: center;
+    display: grid;
+    grid-template-rows: 3rem minmax(0, auto) 3rem;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    gap: 0.65rem;
+    min-width: 6.5rem;
+    max-height: calc(100vh - 88px);
+    padding: clamp(1.25rem, 4vw, 3rem) 0;
+  }
+
+  .gallery-nav {
+    display: grid;
+    place-items: center;
+    width: 3rem;
+    height: 3rem;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    color: #9b9b9b;
+    cursor: pointer;
+  }
+
+  .gallery-nav span {
+    width: 1.2rem;
+    height: 1.2rem;
+    border-top: 3px solid currentColor;
+    border-left: 3px solid currentColor;
+  }
+
+  .gallery-nav-prev span {
+    transform: rotate(45deg);
+  }
+
+  .gallery-nav-next span {
+    transform: rotate(225deg);
+  }
+
+  .product-thumbnails {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.75rem;
+    max-width: 100%;
+    max-height: min(28rem, calc(100vh - 18rem));
+    overflow-y: auto;
+    scrollbar-width: thin;
+  }
+
+  .product-thumbnail {
+    flex: 0 0 5rem;
+    display: grid;
+    place-items: center;
+    width: 5rem;
+    aspect-ratio: 1 / 1;
+    padding: 0.45rem;
+    border: 1px solid #dedede;
+    background: #fff;
+    cursor: pointer;
+  }
+
+  .product-thumbnail.is-active {
+    border-color: #b18b55;
+    box-shadow: inset 0 0 0 1px #b18b55;
+  }
+
+  .product-thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    mix-blend-mode: multiply;
+  }
+
+  .product-purchase-panel {
+    position: sticky;
+    top: 88px;
+    display: grid;
+    align-content: start;
+    gap: 1.35rem;
+    min-height: calc(100vh - 88px);
+    max-height: calc(100vh - 88px);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    padding: clamp(2rem, 4vw, 4.5rem) clamp(1.5rem, 4vw, 4rem);
+    padding-bottom: clamp(3rem, 6vw, 6rem);
+    border-left: 0;
+    background: #fff;
+    scrollbar-gutter: stable;
+  }
+
+  .product-purchase-panel h1 {
+    margin: 0;
+    font-size: clamp(1.45rem, 2.6vw, 2.2rem);
+    line-height: 1.25;
+    letter-spacing: 0;
+  }
+
+  .product-price {
+    margin: -0.35rem 0 0;
+    color: var(--color-ink);
+    font-size: 1.05rem;
+    font-weight: 700;
+  }
+
+  .product-summary {
+    display: grid;
+    gap: 0.85rem;
+    color: var(--color-muted);
+    font-size: 0.98rem;
+    line-height: 1.9;
+  }
+
+  .product-summary p,
+  .detail-copy p,
+  .product-accordion p {
+    margin: 0;
+    white-space: pre-line;
+  }
+
+  .pricing-basis-card {
+    display: grid;
+    gap: 1.15rem;
+    padding: 1.2rem 0 1.45rem;
+    border-top: 2px solid #dedede;
+    border-bottom: 1px dashed #d6d6d6;
+    background: #fff;
+    color: var(--color-ink);
+  }
+
+  .pricing-basis-card h2 {
+    display: grid;
+    grid-template-columns: minmax(2rem, 1fr) auto minmax(2rem, 1fr);
+    align-items: center;
+    gap: 1.25rem;
+    margin: 0;
+    color: #b18b55;
+    font-size: 0.78rem;
+    font-family: var(--font-serif);
+    font-weight: 500;
+    line-height: 1.3;
+    letter-spacing: 0.42em;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .pricing-basis-card h2::before,
+  .pricing-basis-card h2::after {
+    content: "";
+    height: 1px;
+    background: #dedede;
+  }
+
+  .pricing-basis-card h2 span {
+    display: block;
+    padding-left: 0.42em;
+  }
+
+  .pricing-basis-card div {
+    display: grid;
+    gap: 0.72rem;
+  }
+
+  .pricing-basis-card p {
+    margin: 0;
+    color: var(--color-ink);
+    font-family: var(--font-serif);
+    font-size: 1rem;
+    line-height: 1.9;
+  }
+
+  .pricing-basis-card .is-diamond-line {
+    padding-left: 0;
+    font-size: 1.02rem;
+  }
+
+  .pricing-basis-card .is-diamond-line strong {
+    color: #b18b55;
+    font-weight: 700;
+  }
+
+  .pricing-basis-card .is-diamond-line::before {
+    content: none;
+  }
+
+  .product-accordion {
+    display: grid;
+    border-top: 2px solid var(--color-ink);
+  }
+
+  .product-accordion details {
+    border-bottom: 1.5px solid var(--color-ink);
+  }
+
+  .product-accordion summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    min-height: 3rem;
+    color: var(--color-ink);
+    cursor: pointer;
+    font-size: 0.92rem;
+    font-weight: 500;
+    list-style: none;
+  }
+
+  .product-accordion summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .product-accordion summary::after {
+    content: '+';
+    color: var(--color-ink);
+    font-size: 1.05rem;
+    font-weight: 400;
+  }
+
+  .product-accordion details[open] summary::after {
+    content: '-';
+  }
+
+  .product-accordion details > :not(summary) {
+    padding: 0.35rem 0 1.35rem;
+  }
+
+  .variant-table {
+    display: grid;
+    border: 1.5px solid var(--color-ink);
+    background: #fff;
+  }
+
+  .variant-table div {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: var(--space-4);
+    align-items: center;
+    min-height: 3.75rem;
+    padding: 0 1.25rem;
+  }
+
+  .variant-table div + div {
+    border-top: 1px solid #d6d6d6;
+  }
+
+  .variant-table span {
+    min-width: 0;
+    overflow-wrap: anywhere;
+    color: var(--color-ink);
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  .variant-table strong {
+    color: var(--color-ink);
+    font-size: 1rem;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .detail-copy {
+    display: grid;
+    gap: 0.85rem;
+    color: var(--color-muted);
+    font-size: 0.92rem;
+    line-height: 1.8;
+  }
+
+  .legacy-detail-section {
+    display: grid;
+    gap: 0.95rem;
+    color: #303744;
+    font-size: 0.98rem;
+    line-height: 1.9;
+    letter-spacing: 0.02em;
+  }
+
+  .legacy-detail-section :global(p) {
+    margin: 0;
+  }
+
+  .legacy-detail-section :global(p strong) {
+    display: inline-block;
+    color: var(--color-ink);
+    font-size: 1.02rem;
+    font-weight: 700;
+  }
+
+  .legacy-detail-section :global(ul),
+  .legacy-detail-section :global(ol) {
+    display: grid;
+    gap: 0.42rem;
+    margin: -0.15rem 0 0;
+    padding-left: 1.35rem;
+  }
+
+  .legacy-detail-section :global(li) {
+    padding-left: 0.15rem;
+  }
+
+  .legacy-detail-section :global(li strong) {
+    color: var(--color-ink);
+    font-weight: 700;
+  }
+
+  .mobile-gallery-details {
+    display: none;
+  }
+
+  .mobile-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1px;
+    background: var(--color-border);
+  }
+
+  .mobile-gallery img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: contain;
+    background: #fff;
+    padding: var(--space-4);
+    mix-blend-mode: multiply;
+  }
+
+  .product-actions {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.85rem;
+    margin-top: 0.25rem;
+  }
+
+  .product-actions .button {
+    width: 100%;
+    justify-content: center;
+    border-radius: 0;
+  }
+
+  .product-actions .button-secondary {
+    border: 1px solid var(--color-ink);
+    background: #fff;
+    color: var(--color-ink);
+  }
+
+  .related-products-section {
+    display: grid;
+    gap: 1.65rem;
+    width: min(calc(100% - clamp(48px, 10vw, 180px)), 1180px);
+    margin: clamp(3.5rem, 7vw, 6.5rem) auto clamp(4rem, 8vw, 7rem);
+    padding-top: 1.3rem;
+    border-top: 1px solid #d8dee5;
+  }
+
+  .related-products-heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .related-products-heading span {
+    display: block;
+    width: 0.58rem;
+    height: 0.58rem;
+    border-radius: 50%;
+    background: var(--color-brand-blue);
+    box-shadow: 0 0 0 0.24rem rgba(13, 64, 109, 0.12);
+  }
+
+  .related-products-heading h2 {
+    margin: 0 auto 0 0;
+    color: var(--color-ink);
+    font-family: var(--font-functional-sans);
+    font-size: clamp(1.25rem, 2vw, 1.65rem);
+    font-weight: 600;
+    line-height: 1.25;
+    letter-spacing: 0.04em;
+  }
+
+  .related-products-rail {
+    display: flex;
+    gap: clamp(0.85rem, 1.35vw, 1.1rem);
+    justify-content: center;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+    padding: 0 0 0.9rem;
+    scrollbar-width: thin;
+    touch-action: pan-x pinch-zoom;
+    cursor: grab;
+    user-select: none;
+  }
+
+  .related-product-card {
+    display: grid;
+    flex: 0 0 min(240px, 23vw);
+    gap: 1rem;
+    min-width: 0;
+    max-width: 240px;
+    scroll-snap-align: start;
+  }
+
+  .related-products-rail.is-dragging {
+    cursor: grabbing;
+    scroll-snap-type: none;
+  }
+
+  .related-product-card figure {
+    display: grid;
+    place-items: center;
+    width: 100%;
+    aspect-ratio: 1 / 0.82;
+    margin: 0;
+    background: #fbfaf8;
+    overflow: hidden;
+  }
+
+  .related-product-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding: 15%;
+    mix-blend-mode: multiply;
+    filter: brightness(1.025) contrast(1.02) saturate(0.92);
+    transition: transform 0.35s ease;
+  }
+
+  .related-product-card:hover img {
+    transform: scale(1.035);
+  }
+
+  .related-product-card figure span {
+    color: var(--color-muted);
+  }
+
+  .related-product-card div {
+    display: grid;
+    gap: 0.45rem;
+  }
+
+  .related-product-card small {
+    color: #b18b55;
+    font-family: var(--font-serif);
+    font-size: 0.73rem;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+  }
+
+  .related-product-card h3 {
+    margin: 0;
+    color: var(--color-ink);
+    font-family: var(--font-functional-sans);
+    font-size: 0.98rem;
+    font-weight: 600;
+    line-height: 1.45;
+    overflow-wrap: anywhere;
+  }
+
+  .related-product-card p {
+    margin: 0;
+    color: var(--color-ink-soft);
+    font-size: 0.92rem;
+  }
+
+  .redirect-panel {
+    max-width: 720px;
+  }
+
+  @media (max-width: 980px) {
+    .product-browse-layout,
+    .product-page {
+      grid-template-columns: 1fr;
+    }
+
+    .product-browse-layout {
+      width: min(100% - 32px, 760px);
+      gap: var(--space-5);
+    }
+
+    .product-media-stack {
+      position: relative;
+      top: auto;
+      min-height: auto;
+      grid-template-columns: minmax(4.25rem, auto) minmax(0, 1fr);
+      grid-template-rows: auto;
+    }
+
+    .product-media-frame {
+      aspect-ratio: 1 / 1;
+    }
+
+    .product-purchase-panel {
+      position: static;
+      min-height: auto;
+      max-height: none;
+      overflow: visible;
+      border-left: 0;
+      border-top: 1px solid #ece9e4;
+    }
+
+    .product-gallery-controls {
+      grid-template-rows: 2.5rem minmax(0, auto) 2.5rem;
+      min-width: 4.75rem;
+      max-height: none;
+      padding: var(--space-4) 0;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .product-page {
+      border-top: 0;
+    }
+
+    .product-browse-layout {
+      width: min(100% - 28px, 100%);
+    }
+
+    .product-media-stack {
+      grid-template-columns: 1fr;
+    }
+
+    .product-media-stack:not(:has(.product-gallery-controls)) .product-media-frame,
+    .product-media-stack:not(:has(.product-gallery-controls)) .missing-media,
+    .product-media-frame {
+      grid-column: 1;
+    }
+
+    .product-media-frame {
+      aspect-ratio: 1 / 1;
+      min-height: 0;
+    }
+
+    .product-purchase-panel {
+      padding: var(--space-5) var(--space-4);
+    }
+
+    .product-media-frame img,
+    .missing-media {
+      padding: var(--space-5);
+    }
+
+    .gallery-nav {
+      width: 2.75rem;
+      height: 2.75rem;
+    }
+
+    .gallery-nav span {
+      width: 1rem;
+      height: 1rem;
+    }
+
+    .product-thumbnails {
+      flex-direction: row;
+      justify-content: start;
+      max-height: none;
+      max-width: 100%;
+      overflow-x: auto;
+      overflow-y: hidden;
+      padding-inline: var(--space-4);
+    }
+
+    .product-thumbnail {
+      flex: 0 0 3.75rem;
+      width: 3.75rem;
+    }
+
+    .product-gallery-controls {
+      grid-column: 1;
+      grid-row: auto;
+      grid-template-columns: 2.75rem minmax(0, 1fr) 2.75rem;
+      grid-template-rows: auto;
+      justify-content: stretch;
+      width: 100%;
+      min-width: 0;
+      padding: 0 0 var(--space-4);
+    }
+
+    .gallery-nav-prev span {
+      transform: rotate(-45deg);
+    }
+
+    .gallery-nav-next span {
+      transform: rotate(135deg);
+    }
+
+    .pricing-basis-card h2 {
+      grid-template-columns: 1fr;
+      gap: 0.5rem;
+      letter-spacing: 0.24em;
+    }
+
+    .pricing-basis-card h2::before,
+    .pricing-basis-card h2::after {
+      display: none;
+    }
+
+    .variant-table div {
+      grid-template-columns: 1fr;
+    }
+
+    .variant-table div {
+      align-items: start;
+      gap: 0.35rem;
+      padding: 0.9rem 1rem;
+    }
+
+    .product-actions {
+      grid-template-columns: 1fr;
+    }
+
+    .related-products-section {
+      width: min(100% - 28px, 100%);
+      margin-block: 2.8rem 4.5rem;
+      gap: 1.2rem;
+      padding-top: 1rem;
+      overflow: hidden;
+    }
+
+    .related-products-heading h2 {
+      font-size: 1.16rem;
+      letter-spacing: 0.02em;
+    }
+
+    .related-products-rail {
+      width: 100%;
+      max-width: 100%;
+      gap: 0.85rem;
+      justify-content: start;
+      margin-inline: 0;
+      padding-inline: 0 14px;
+      padding-bottom: 0.75rem;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .related-product-card {
+      flex: 0 0 72vw;
+      gap: 0.72rem;
+      max-width: none;
+    }
+
+    .related-product-card img {
+      padding: 13%;
+    }
+
+    .related-product-card small {
+      font-size: 0.62rem;
+      letter-spacing: 0.24em;
+    }
+
+    .related-product-card h3 {
+      font-size: 0.84rem;
+      line-height: 1.35;
+    }
+
+    .related-product-card p {
+      font-size: 0.78rem;
+    }
+  }
+</style>

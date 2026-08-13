@@ -1,0 +1,144 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import KnowledgeArticleList from '@components/knowledge/KnowledgeArticleList.astro';
+import KnowledgeBreadcrumbs from '@components/knowledge/KnowledgeBreadcrumbs.astro';
+import KnowledgeCategoryMobileNav from '@components/knowledge/KnowledgeCategoryMobileNav.astro';
+import KnowledgeCategorySidebar from '@components/knowledge/KnowledgeCategorySidebar.astro';
+import KnowledgePagination from '@components/knowledge/KnowledgePagination.astro';
+import { knowledgeCategories, knowledgeHome } from '@data/knowledgeCategories';
+
+const PAGE_SIZE = 6;
+
+export async function getStaticPaths() {
+  const articles = (await getCollection('knowledge')).filter((article) => !article.data.draft);
+  const totalPages = Math.ceil(articles.length / 6);
+
+  return Array.from({ length: Math.max(0, totalPages - 1) }, (_, index) => {
+    const page = index + 2;
+    return { params: { page: String(page) }, props: { currentPage: page } };
+  });
+}
+
+const { currentPage } = Astro.props;
+const allArticles = (await getCollection('knowledge'))
+  .filter((article) => !article.data.draft)
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+const totalPages = Math.max(1, Math.ceil(allArticles.length / PAGE_SIZE));
+const pagedArticles = allArticles.slice((currentPage - 1) * PAGE_SIZE, currentPage * PAGE_SIZE);
+const counts = Object.fromEntries(
+  knowledgeCategories.map((category) => [
+    category.slug,
+    allArticles.filter((article) => article.data.category === category.slug).length
+  ])
+);
+---
+
+<BaseLayout title={`${knowledgeHome.title} 第 ${currentPage} 頁`} description={knowledgeHome.seoDescription} canonical={`/blogs/diamond-symphony-guide/page/${currentPage}/`}>
+  <div class="breadcrumb-strip">
+    <div class="container">
+      <KnowledgeBreadcrumbs items={[{ label: '首頁', href: '/' }, { label: '知識專欄', href: '/blogs/diamond-symphony-guide/' }, { label: `第 ${currentPage} 頁` }]} />
+    </div>
+  </div>
+
+  <section class="knowledge-hero">
+    <div class="knowledge-hero-inner">
+      <p>JEWELRY JOURNAL</p>
+      <h1>知識專欄</h1>
+      <span>以鑽石、戒台、保養與訂製流程整理選購前值得理解的細節。</span>
+    </div>
+  </section>
+
+  <section class="knowledge-archive">
+    <div class="knowledge-layout">
+      <div class="knowledge-main">
+        <KnowledgeCategoryMobileNav />
+        <KnowledgeArticleList articles={pagedArticles} />
+        <KnowledgePagination currentPage={currentPage} totalPages={totalPages} basePath="/blogs/diamond-symphony-guide/" />
+      </div>
+      <div class="desktop-sidebar">
+        <KnowledgeCategorySidebar articles={allArticles} counts={counts} />
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .breadcrumb-strip {
+    background: #ffffff;
+    padding: 0;
+  }
+
+  .breadcrumb-strip .container {
+    width: min(100% - clamp(32px, 7vw, 128px), 1120px);
+    margin-inline: auto;
+  }
+
+  .knowledge-hero {
+    background: #ffffff;
+    padding: clamp(64px, 9vw, 118px) 0 clamp(24px, 4vw, 46px);
+  }
+
+  .knowledge-hero-inner {
+    width: min(100% - clamp(32px, 7vw, 128px), 1120px);
+    margin-inline: auto;
+    padding-bottom: clamp(26px, 4vw, 44px);
+    border-bottom: 1px solid rgba(183, 155, 112, 0.34);
+  }
+
+  .knowledge-hero p {
+    margin: 0 0 1.35rem;
+    color: #0a3764;
+    font-family: var(--font-heading);
+    font-size: 0.82rem;
+    letter-spacing: 0.26em;
+    text-transform: uppercase;
+  }
+
+  .knowledge-hero h1 {
+    margin: 0;
+    color: #2f2b28;
+    font-family: var(--font-heading);
+    font-size: clamp(2.8rem, 6vw, 5.4rem);
+    font-weight: 400;
+    line-height: 1.08;
+    letter-spacing: 0.03em;
+  }
+
+  .knowledge-hero span {
+    display: block;
+    margin-top: 1.6rem;
+    max-width: 620px;
+    color: rgba(47, 43, 40, 0.66);
+    font-size: clamp(1rem, 1.3vw, 1.12rem);
+    line-height: 1.9;
+  }
+
+  .knowledge-archive {
+    background: #ffffff;
+    padding: clamp(28px, 5vw, 60px) 0 clamp(74px, 10vw, 128px);
+  }
+
+  .knowledge-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 260px;
+    gap: clamp(3rem, 7vw, 6.5rem);
+    width: min(100% - clamp(32px, 7vw, 128px), 1120px);
+    margin-inline: auto;
+    align-items: start;
+  }
+
+  .knowledge-main {
+    min-width: 0;
+  }
+
+  @media (max-width: 980px) {
+    .knowledge-layout {
+      grid-template-columns: 1fr;
+    }
+
+    .desktop-sidebar {
+      display: none;
+    }
+  }
+</style>

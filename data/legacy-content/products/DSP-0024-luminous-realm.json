@@ -1,0 +1,145 @@
+{
+  "legacyProductId": "DSP-0024",
+  "legacyCyberbizId": "57337043",
+  "name": "光曜之境",
+  "englishName": "Luminous Realm",
+  "originalDisplayName": "光曜之境｜Luminous Realm",
+  "slug": "luminous-realm",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/女戒27"
+  ],
+  "category": "女士鑽戒 | 經典女戒",
+  "collection": "ring-female | 經典女戒",
+  "collections": [
+    "ring-female",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "光曜之境｜Luminous Realm 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0024-luminous-realm/source/DSP-0024-main-01.png",
+      "alt": "光曜之境｜Luminous Realm 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDQzLzE3NTIwMzQ5NzVfYjRiY2EwOWI5NzdlODU1ZWVmZjEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=b6bd0fa34cc26c58",
+      "sourcePath": "",
+      "sha256": "21ac158d74cba8b6720afc7040083722918fcdbd05e00984b682dafdcb425c33"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0024-luminous-realm/source/DSP-0024-gallery-02.png",
+      "alt": "光曜之境｜Luminous Realm 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDQzLzE3NTIwMzQ5NzVfZTkwNjdiOTA4MWFlZTdiNmU4ZmQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=934e5cc6391f0444",
+      "sourcePath": "",
+      "sha256": "07d0fe5d0bc02dc08debb49e0a87c45a4e7b89cf0d46c9cd0afa52bb9b118411"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0024-luminous-realm/source/DSP-0024-gallery-03.png",
+      "alt": "光曜之境｜Luminous Realm 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDQzLzE3NTIwMzQ5NzVfNmIxN2RmMDkzMTczNWRlMWVmMjMucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=08f47badea9cd92c",
+      "sourcePath": "",
+      "sha256": "fa966ac915be1e724c6a78c497c25ea919cd01840ef044e6fe9e28bf70feabc8"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0024-luminous-realm/source/DSP-0024-gallery-04.png",
+      "alt": "光曜之境｜Luminous Realm 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDQzLzE3NTIwMzQ5NzVfZTgwMzM5ZmE1MTVjNzRkZDA5NTAucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=ac062cea4691bcf7",
+      "sourcePath": "",
+      "sha256": "3fab8bbcf8bd49c3688df2c2286efdb78d49dca27f3822ea0b819ddd187d5236"
+    }
+  ],
+  "video": "",
+  "seoTitle": "光曜之境｜Luminous Realm",
+  "seoDescription": "光曜之境｜Luminous Realm，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/女戒27",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/女戒27",
+  "inquiryText": "我想諮詢 光曜之境｜Luminous Realm",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0081",
+    "SRC-0091",
+    "SRC-0244",
+    "SRC-0254",
+    "SRC-0357",
+    "SRC-0406",
+    "SRC-0435",
+    "SRC-0523",
+    "SRC-0533",
+    "SRC-0625"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0081",
+      "text": "光曜之境｜Luminous Realm"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0091",
+      "text": "光曜之境｜Luminous Realm"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0244",
+      "text": "光曜之境｜Luminous Realm"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0254",
+      "text": "光曜之境｜Luminous Realm"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0357",
+      "text": "光曜之境｜Luminous Realm"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0406",
+      "text": "光曜之境｜Luminous Realm"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0435",
+      "text": "光曜之境｜Luminous Realm"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0523",
+      "text": "光曜之境｜Luminous Realm"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0533",
+      "text": "光曜之境｜Luminous Realm"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0625",
+      "text": "光曜之境｜Luminous Realm"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

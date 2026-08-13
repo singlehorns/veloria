@@ -1,0 +1,783 @@
+[
+  {
+    "taxonomyId": "primary-womens-diamond-rings",
+    "name": "女士鑽戒",
+    "englishName": "Womens Diamond Rings",
+    "slug": "womens-diamond-rings",
+    "legacyUrls": [
+      "/collections/ring-female",
+      "/collections/經典女戒",
+      "/collections/轉運女戒"
+    ],
+    "level": 1,
+    "parentTaxonomyId": "",
+    "categoryType": "primary-category",
+    "displayOrder": 10,
+    "description": "為女性配戴情境整理的求婚、經典與轉運戒款。",
+    "heroImage": "/assets/migrated/collections/womens-ring.jpeg",
+    "seoTitle": "女士鑽戒 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "為女性配戴情境整理的求婚、經典與轉運戒款。",
+    "productCount": 31,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "primary-mens-diamond-rings",
+    "name": "男士鑽戒",
+    "englishName": "Mens Diamond Rings",
+    "slug": "mens-diamond-rings",
+    "legacyUrls": [
+      "/collections/ring-man",
+      "/collections/經典男戒",
+      "/collections/轉運男戒"
+    ],
+    "level": 1,
+    "parentTaxonomyId": "",
+    "categoryType": "primary-category",
+    "displayOrder": 20,
+    "description": "以俐落比例、戒寬與日常佩戴穩定度為主的男士戒款。",
+    "heroImage": "/assets/migrated/collections/mens-ring.jpeg",
+    "seoTitle": "男士鑽戒 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "以俐落比例、戒寬與日常佩戴穩定度為主的男士戒款。",
+    "productCount": 22,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "primary-colored-diamonds",
+    "name": "彩鑽",
+    "englishName": "Colored Diamonds",
+    "slug": "colored-diamonds",
+    "legacyUrls": [
+      "/collections/彩色鑽石專區",
+      "/collections/黃鑽",
+      "/collections/粉鑽",
+      "/collections/紅鑽",
+      "/collections/藍鑽",
+      "/collections/綠鑽",
+      "/collections/其他彩鑽"
+    ],
+    "level": 1,
+    "parentTaxonomyId": "",
+    "categoryType": "primary-category",
+    "displayOrder": 30,
+    "description": "依彩鑽色系與稀有度整理黃鑽、粉鑽、紅鑽、藍鑽、綠鑽與其他彩鑽。",
+    "heroImage": "/assets/jewelry/celestial-bloom-ring.jpeg",
+    "seoTitle": "彩鑽 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "依彩鑽色系與稀有度整理黃鑽、粉鑽、紅鑽、藍鑽、綠鑽與其他彩鑽。",
+    "productCount": 32,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "primary-loose-diamonds",
+    "name": "裸鑽",
+    "englishName": "Loose Diamonds",
+    "slug": "loose-diamonds",
+    "legacyUrls": [
+      "/collections/diamond"
+    ],
+    "level": 1,
+    "parentTaxonomyId": "",
+    "categoryType": "primary-category",
+    "displayOrder": 40,
+    "description": "以 4C、證書、形狀與用途整理的裸鑽挑選入口。",
+    "heroImage": "/assets/migrated/collections/loose-diamond.jpeg",
+    "seoTitle": "裸鑽 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "以 4C、證書、形狀與用途整理的裸鑽挑選入口。",
+    "productCount": 2,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "primary-other-jewelry",
+    "name": "其他珠寶分類",
+    "englishName": "Other Jewelry",
+    "slug": "other-jewelry",
+    "legacyUrls": [
+      "/collections/necklace",
+      "/collections/earring",
+      "/collections/bracelet",
+      "/collections/pair-ring"
+    ],
+    "level": 1,
+    "parentTaxonomyId": "",
+    "categoryType": "primary-category",
+    "displayOrder": 50,
+    "description": "戒指以外的項鍊、耳環、手鍊、對戒與特殊珠寶分類。",
+    "heroImage": "/assets/migrated/collections/necklace.jpeg",
+    "seoTitle": "其他珠寶分類 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "戒指以外的項鍊、耳環、手鍊、對戒與特殊珠寶分類。",
+    "productCount": 25,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "sub-engagement-rings",
+    "name": "求婚鑽戒",
+    "englishName": "Engagement Rings",
+    "slug": "engagement-rings",
+    "legacyUrls": [
+      "/collections/求婚"
+    ],
+    "level": 2,
+    "parentTaxonomyId": "primary-womens-diamond-rings",
+    "categoryType": "subcategory",
+    "displayOrder": 11,
+    "description": "求婚、訂婚與承諾情境使用的鑽戒。",
+    "heroImage": "/assets/migrated/collections/proposal-ring.jpeg",
+    "seoTitle": "求婚鑽戒 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "求婚、訂婚與承諾情境使用的鑽戒。",
+    "productCount": 25,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "sub-classic-womens-rings",
+    "name": "經典女戒",
+    "englishName": "Classic Womens Rings",
+    "slug": "classic-womens-rings",
+    "legacyUrls": [
+      "/collections/經典女戒",
+      "/collections/ring-female"
+    ],
+    "level": 2,
+    "parentTaxonomyId": "primary-womens-diamond-rings",
+    "categoryType": "subcategory",
+    "displayOrder": 12,
+    "description": "經典比例與日常配戴取向的女戒。",
+    "heroImage": "/assets/migrated/collections/womens-ring.jpeg",
+    "seoTitle": "經典女戒 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "經典比例與日常配戴取向的女戒。",
+    "productCount": 28,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "sub-fortune-womens-rings",
+    "name": "轉運女戒",
+    "englishName": "Fortune Womens Rings",
+    "slug": "fortune-womens-rings",
+    "legacyUrls": [
+      "/collections/轉運女戒"
+    ],
+    "level": 2,
+    "parentTaxonomyId": "primary-womens-diamond-rings",
+    "categoryType": "subcategory",
+    "displayOrder": 13,
+    "description": "以轉運、護身與象徵寓意為主的女戒。",
+    "heroImage": "/assets/migrated/collections/womens-ring.jpeg",
+    "seoTitle": "轉運女戒 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "以轉運、護身與象徵寓意為主的女戒。",
+    "productCount": 6,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "sub-classic-mens-rings",
+    "name": "經典男戒",
+    "englishName": "Classic Mens Rings",
+    "slug": "classic-mens-rings",
+    "legacyUrls": [
+      "/collections/經典男戒",
+      "/collections/ring-man"
+    ],
+    "level": 2,
+    "parentTaxonomyId": "primary-mens-diamond-rings",
+    "categoryType": "subcategory",
+    "displayOrder": 21,
+    "description": "經典比例與日常配戴取向的男戒。",
+    "heroImage": "/assets/migrated/collections/mens-ring.jpeg",
+    "seoTitle": "經典男戒 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "經典比例與日常配戴取向的男戒。",
+    "productCount": 19,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "sub-fortune-mens-rings",
+    "name": "轉運男戒",
+    "englishName": "Fortune Mens Rings",
+    "slug": "fortune-mens-rings",
+    "legacyUrls": [
+      "/collections/轉運男戒"
+    ],
+    "level": 2,
+    "parentTaxonomyId": "primary-mens-diamond-rings",
+    "categoryType": "subcategory",
+    "displayOrder": 22,
+    "description": "以轉運、護身與象徵寓意為主的男戒。",
+    "heroImage": "/assets/migrated/collections/mens-ring.jpeg",
+    "seoTitle": "轉運男戒 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "以轉運、護身與象徵寓意為主的男戒。",
+    "productCount": 6,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "sub-yellow-diamonds",
+    "name": "黃鑽",
+    "englishName": "Yellow Diamonds",
+    "slug": "yellow-diamonds",
+    "legacyUrls": [
+      "/collections/黃鑽"
+    ],
+    "level": 2,
+    "parentTaxonomyId": "primary-colored-diamonds",
+    "categoryType": "subcategory",
+    "displayOrder": 31,
+    "description": "黃色系彩鑽與相關珠寶。",
+    "heroImage": "/assets/jewelry/celestial-bloom-ring.jpeg",
+    "seoTitle": "黃鑽 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "黃色系彩鑽與相關珠寶。",
+    "productCount": 9,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "sub-pink-diamonds",
+    "name": "粉鑽",
+    "englishName": "Pink Diamonds",
+    "slug": "pink-diamonds",
+    "legacyUrls": [
+      "/collections/粉鑽"
+    ],
+    "level": 2,
+    "parentTaxonomyId": "primary-colored-diamonds",
+    "categoryType": "subcategory",
+    "displayOrder": 32,
+    "description": "粉色系彩鑽與相關珠寶。",
+    "heroImage": "/assets/jewelry/celestial-bloom-ring.jpeg",
+    "seoTitle": "粉鑽 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "粉色系彩鑽與相關珠寶。",
+    "productCount": 17,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "sub-red-diamonds",
+    "name": "紅鑽",
+    "englishName": "Red Diamonds",
+    "slug": "red-diamonds",
+    "legacyUrls": [
+      "/collections/紅鑽"
+    ],
+    "level": 2,
+    "parentTaxonomyId": "primary-colored-diamonds",
+    "categoryType": "subcategory",
+    "displayOrder": 33,
+    "description": "紅色系彩鑽與相關珠寶。",
+    "heroImage": "/assets/jewelry/celestial-bloom-ring.jpeg",
+    "seoTitle": "紅鑽 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "紅色系彩鑽與相關珠寶。",
+    "productCount": 0,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "sub-blue-diamonds",
+    "name": "藍鑽",
+    "englishName": "Blue Diamonds",
+    "slug": "blue-diamonds",
+    "legacyUrls": [
+      "/collections/藍鑽"
+    ],
+    "level": 2,
+    "parentTaxonomyId": "primary-colored-diamonds",
+    "categoryType": "subcategory",
+    "displayOrder": 34,
+    "description": "藍色系彩鑽與相關珠寶。",
+    "heroImage": "/assets/jewelry/celestial-bloom-ring.jpeg",
+    "seoTitle": "藍鑽 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "藍色系彩鑽與相關珠寶。",
+    "productCount": 6,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "sub-green-diamonds",
+    "name": "綠鑽",
+    "englishName": "Green Diamonds",
+    "slug": "green-diamonds",
+    "legacyUrls": [
+      "/collections/綠鑽"
+    ],
+    "level": 2,
+    "parentTaxonomyId": "primary-colored-diamonds",
+    "categoryType": "subcategory",
+    "displayOrder": 35,
+    "description": "綠色系彩鑽與相關珠寶。",
+    "heroImage": "/assets/jewelry/celestial-bloom-ring.jpeg",
+    "seoTitle": "綠鑽 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "綠色系彩鑽與相關珠寶。",
+    "productCount": 0,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "sub-other-color-diamonds",
+    "name": "其他彩鑽",
+    "englishName": "Other Color Diamonds",
+    "slug": "other-color-diamonds",
+    "legacyUrls": [
+      "/collections/其他彩鑽"
+    ],
+    "level": 2,
+    "parentTaxonomyId": "primary-colored-diamonds",
+    "categoryType": "subcategory",
+    "displayOrder": 36,
+    "description": "其他色系或需人工確認色彩分類的彩鑽。",
+    "heroImage": "/assets/jewelry/celestial-bloom-ring.jpeg",
+    "seoTitle": "其他彩鑽 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "其他色系或需人工確認色彩分類的彩鑽。",
+    "productCount": 24,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "sub-necklaces",
+    "name": "項鍊",
+    "englishName": "Necklaces",
+    "slug": "necklaces",
+    "legacyUrls": [
+      "/collections/necklace"
+    ],
+    "level": 2,
+    "parentTaxonomyId": "primary-other-jewelry",
+    "categoryType": "subcategory",
+    "displayOrder": 51,
+    "description": "項鍊與墜飾類珠寶。",
+    "heroImage": "/assets/migrated/collections/necklace.jpeg",
+    "seoTitle": "項鍊 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "項鍊與墜飾類珠寶。",
+    "productCount": 15,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "sub-earrings",
+    "name": "耳環",
+    "englishName": "Earrings",
+    "slug": "earrings",
+    "legacyUrls": [
+      "/collections/earring"
+    ],
+    "level": 2,
+    "parentTaxonomyId": "primary-other-jewelry",
+    "categoryType": "subcategory",
+    "displayOrder": 52,
+    "description": "耳環、耳釘與成對配戴珠寶。",
+    "heroImage": "/assets/migrated/collections/wedding-ring.jpeg",
+    "seoTitle": "耳環 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "耳環、耳釘與成對配戴珠寶。",
+    "productCount": 7,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "sub-bracelets",
+    "name": "手鍊",
+    "englishName": "Bracelets",
+    "slug": "bracelets",
+    "legacyUrls": [
+      "/collections/bracelet"
+    ],
+    "level": 2,
+    "parentTaxonomyId": "primary-other-jewelry",
+    "categoryType": "subcategory",
+    "displayOrder": 53,
+    "description": "手鍊與手部配戴珠寶。",
+    "heroImage": "/assets/migrated/collections/wedding-ring.jpeg",
+    "seoTitle": "手鍊 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "手鍊與手部配戴珠寶。",
+    "productCount": 1,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "sub-pair-rings",
+    "name": "對戒",
+    "englishName": "Pair Rings",
+    "slug": "pair-rings",
+    "legacyUrls": [
+      "/collections/pair-ring"
+    ],
+    "level": 2,
+    "parentTaxonomyId": "primary-other-jewelry",
+    "categoryType": "subcategory",
+    "displayOrder": 54,
+    "description": "伴侶對戒與雙人配戴系列。",
+    "heroImage": "/assets/migrated/collections/wedding-ring.jpeg",
+    "seoTitle": "對戒 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "伴侶對戒與雙人配戴系列。",
+    "productCount": 7,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "type-ring",
+    "name": "戒指",
+    "englishName": "Ring",
+    "slug": "ring",
+    "legacyUrls": [],
+    "level": 3,
+    "parentTaxonomyId": "",
+    "categoryType": "product-type",
+    "displayOrder": 101,
+    "description": "戒指型商品。",
+    "heroImage": "/assets/migrated/collections/womens-ring.jpeg",
+    "seoTitle": "戒指 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "戒指型商品。",
+    "productCount": 75,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "type-necklace",
+    "name": "項鍊",
+    "englishName": "Necklace",
+    "slug": "necklace",
+    "legacyUrls": [],
+    "level": 3,
+    "parentTaxonomyId": "",
+    "categoryType": "product-type",
+    "displayOrder": 102,
+    "description": "項鍊型商品。",
+    "heroImage": "/assets/migrated/collections/necklace.jpeg",
+    "seoTitle": "項鍊 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "項鍊型商品。",
+    "productCount": 15,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "type-earring",
+    "name": "耳環",
+    "englishName": "Earring",
+    "slug": "earring",
+    "legacyUrls": [],
+    "level": 3,
+    "parentTaxonomyId": "",
+    "categoryType": "product-type",
+    "displayOrder": 103,
+    "description": "耳環型商品。",
+    "heroImage": "/assets/migrated/collections/wedding-ring.jpeg",
+    "seoTitle": "耳環 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "耳環型商品。",
+    "productCount": 6,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "type-bracelet",
+    "name": "手鍊",
+    "englishName": "Bracelet",
+    "slug": "bracelet",
+    "legacyUrls": [],
+    "level": 3,
+    "parentTaxonomyId": "",
+    "categoryType": "product-type",
+    "displayOrder": 104,
+    "description": "手鍊型商品。",
+    "heroImage": "/assets/migrated/collections/wedding-ring.jpeg",
+    "seoTitle": "手鍊 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "手鍊型商品。",
+    "productCount": 1,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "type-loose-diamond",
+    "name": "裸鑽",
+    "englishName": "Loose Diamond",
+    "slug": "loose-diamond",
+    "legacyUrls": [],
+    "level": 3,
+    "parentTaxonomyId": "",
+    "categoryType": "product-type",
+    "displayOrder": 105,
+    "description": "裸鑽型商品。",
+    "heroImage": "/assets/migrated/collections/loose-diamond.jpeg",
+    "seoTitle": "裸鑽 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "裸鑽型商品。",
+    "productCount": 1,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "audience-women",
+    "name": "女性",
+    "englishName": "Women",
+    "slug": "women",
+    "legacyUrls": [],
+    "level": 3,
+    "parentTaxonomyId": "",
+    "categoryType": "audience",
+    "displayOrder": 201,
+    "description": "主要面向女性配戴者。",
+    "heroImage": "",
+    "seoTitle": "女性 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "主要面向女性配戴者。",
+    "productCount": 43,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "audience-men",
+    "name": "男性",
+    "englishName": "Men",
+    "slug": "men",
+    "legacyUrls": [],
+    "level": 3,
+    "parentTaxonomyId": "",
+    "categoryType": "audience",
+    "displayOrder": 202,
+    "description": "主要面向男性配戴者。",
+    "heroImage": "",
+    "seoTitle": "男性 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "主要面向男性配戴者。",
+    "productCount": 25,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "audience-couple",
+    "name": "伴侶",
+    "englishName": "Couple",
+    "slug": "couple",
+    "legacyUrls": [],
+    "level": 3,
+    "parentTaxonomyId": "",
+    "categoryType": "audience",
+    "displayOrder": 203,
+    "description": "伴侶、對戒或雙人配戴情境。",
+    "heroImage": "",
+    "seoTitle": "伴侶 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "伴侶、對戒或雙人配戴情境。",
+    "productCount": 7,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "audience-unisex",
+    "name": "不限性別",
+    "englishName": "Unisex",
+    "slug": "unisex",
+    "legacyUrls": [],
+    "level": 3,
+    "parentTaxonomyId": "",
+    "categoryType": "audience",
+    "displayOrder": 204,
+    "description": "不限性別或需人工確認的配戴情境。",
+    "heroImage": "",
+    "seoTitle": "不限性別 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "不限性別或需人工確認的配戴情境。",
+    "productCount": 36,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "diamond-natural",
+    "name": "天然鑽石",
+    "englishName": "Natural Diamond",
+    "slug": "natural-diamond",
+    "legacyUrls": [],
+    "level": 3,
+    "parentTaxonomyId": "",
+    "categoryType": "diamond-type",
+    "displayOrder": 301,
+    "description": "天然鑽石。",
+    "heroImage": "",
+    "seoTitle": "天然鑽石 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "天然鑽石。",
+    "productCount": 79,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "diamond-colored",
+    "name": "彩色鑽石",
+    "englishName": "Colored Diamond",
+    "slug": "colored-diamond",
+    "legacyUrls": [],
+    "level": 3,
+    "parentTaxonomyId": "",
+    "categoryType": "diamond-type",
+    "displayOrder": 302,
+    "description": "彩色鑽石。",
+    "heroImage": "",
+    "seoTitle": "彩色鑽石 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "彩色鑽石。",
+    "productCount": 32,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "shape-round",
+    "name": "圓形",
+    "englishName": "Round",
+    "slug": "round",
+    "legacyUrls": [],
+    "level": 3,
+    "parentTaxonomyId": "",
+    "categoryType": "stone-shape",
+    "displayOrder": 401,
+    "description": "圓形明亮式切工或需以圓形歸類的資料。",
+    "heroImage": "",
+    "seoTitle": "圓形 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "圓形明亮式切工或需以圓形歸類的資料。",
+    "productCount": 0,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  },
+  {
+    "taxonomyId": "legacy-unresolved",
+    "name": "待人工確認",
+    "englishName": "Needs Review",
+    "slug": "unresolved",
+    "legacyUrls": [],
+    "level": 3,
+    "parentTaxonomyId": "",
+    "categoryType": "legacy-only",
+    "displayOrder": 999,
+    "description": "舊資料不足或編碼損壞，需要後續人工確認。",
+    "heroImage": "",
+    "seoTitle": "待人工確認 | 鑽之韻 DIAMOND SYMPHONY",
+    "seoDescription": "舊資料不足或編碼損壞，需要後續人工確認。",
+    "productCount": 0,
+    "sourceFiles": [
+      "dsdiamond_backup/migration/routes.json",
+      "diamond-symphony-astro/data/migration/product-master.json"
+    ],
+    "migrationStatus": "created-from-legacy-taxonomy",
+    "notes": ""
+  }
+]

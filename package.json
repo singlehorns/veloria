@@ -1,0 +1,20 @@
+{
+  "name": "diamond-symphony-astro",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "serve:dist": "node scripts/serve-dist.mjs",
+    "audit:product-taxonomy": "node scripts/audit-product-taxonomy.mjs",
+    "audit:knowledge-layout": "node scripts/audit-knowledge-layout.mjs"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.4",
+    "astro": "^4.16.18",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {}
+}

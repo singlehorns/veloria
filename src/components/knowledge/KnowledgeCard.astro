@@ -1,0 +1,57 @@
+---
+interface Props {
+  title: string;
+  category: string;
+  description: string;
+  image: string;
+  href: string;
+}
+const { title, category, description, image, href } = Astro.props;
+---
+
+<article class="knowledge-card">
+  <a href={href}>
+    <img src={image} alt={title} loading="lazy" />
+    <div>
+      <p class="eyebrow">{category}</p>
+      <h3>{title}</h3>
+      <p>{description}</p>
+    </div>
+  </a>
+</article>
+
+<style>
+  .knowledge-card {
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .knowledge-card a {
+    display: grid;
+    grid-template-columns: 160px 1fr;
+    gap: var(--space-5);
+    align-items: center;
+    padding: var(--space-5) 0;
+  }
+
+  .knowledge-card img {
+    width: 160px;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: var(--radius-md);
+  }
+
+  .knowledge-card h3 {
+    margin: 0.3rem 0 0.5rem;
+  }
+
+  @media (max-width: 640px) {
+    .knowledge-card a {
+      grid-template-columns: 1fr;
+    }
+
+    .knowledge-card img {
+      width: 100%;
+      aspect-ratio: 16 / 10;
+    }
+  }
+</style>

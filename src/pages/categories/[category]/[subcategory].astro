@@ -1,0 +1,72 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import ProductCategorySidebar from '@components/products/ProductCategorySidebar.astro';
+import ProductGrid from '@components/products/ProductGrid.astro';
+import { subcategoryLabels } from '@data/productCategories';
+import { productCollectionOrder } from '@data/productCollectionOrder';
+import taxonomy from '../../../../data/migration/product-taxonomy-master.json';
+
+export async function getStaticPaths() {
+  const hiddenSubcategories = new Set(['red-diamonds', 'green-diamonds', 'other-color-diamonds']);
+  const primary = taxonomy.filter((item: any) => item.categoryType === 'primary-category');
+  const children = taxonomy.filter((item: any) => item.categoryType === 'subcategory' && !hiddenSubcategories.has(item.slug));
+  return children.flatMap((subcategory: any) => {
+    const parent = primary.find((item: any) => item.taxonomyId === subcategory.parentTaxonomyId);
+    if (!parent) return [];
+    return {
+      params: { category: parent.slug, subcategory: subcategory.slug },
+      props: { category: parent, subcategory }
+    };
+  });
+}
+
+const { category, subcategory } = Astro.props;
+const products = await getCollection('products');
+const order = productCollectionOrder[subcategory.slug as keyof typeof productCollectionOrder] ?? [];
+const orderIndex = new Map<string, number>(order.map((slug, index) => [slug, index]));
+const hasSyncedCollection = subcategory.slug in productCollectionOrder;
+const filtered = products
+  .filter((product) =>
+    hasSyncedCollection
+      ? orderIndex.has(product.data.slug)
+      : product.data.subcategories?.includes(subcategory.slug)
+  )
+  .sort((a, b) => (orderIndex.get(a.data.slug) ?? 9999) - (orderIndex.get(b.data.slug) ?? 9999));
+const title = subcategoryLabels[subcategory.slug] ?? subcategory.name;
+---
+
+<BaseLayout title={title} description={subcategory.seoDescription} image={subcategory.heroImage || category.heroImage} canonical={`/categories/${category.slug}/${subcategory.slug}/`}>
+  <section class="section catalog-section">
+    <div class="container category-layout">
+      <ProductCategorySidebar taxonomy={taxonomy} activeCategory={category.slug} activeSubcategory={subcategory.slug} />
+      <ProductGrid products={filtered} title={title} />
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .catalog-section {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .category-layout {
+    display: grid;
+    width: min(calc(100% - clamp(32px, 7vw, 128px)), 1120px);
+    grid-template-columns: 220px minmax(0, 1fr);
+    gap: var(--space-6);
+    align-items: start;
+  }
+
+  @media (max-width: 900px) {
+    .catalog-section {
+      padding-block: 1rem 2.6rem;
+    }
+
+    .category-layout {
+      width: min(calc(100% - 28px), 1120px);
+      grid-template-columns: 1fr;
+      gap: 1.05rem;
+    }
+  }
+</style>

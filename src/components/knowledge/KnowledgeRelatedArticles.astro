@@ -1,0 +1,35 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import KnowledgeArticleCard from './KnowledgeArticleCard.astro';
+
+interface Props {
+  articles: CollectionEntry<'knowledge'>[];
+}
+
+const { articles } = Astro.props;
+---
+
+{articles.length > 0 && (
+  <section class="related-articles">
+    <div class="related-heading">
+      <p class="eyebrow">Related Articles</p>
+      <h2>延伸閱讀</h2>
+    </div>
+    <div>
+      {articles.map((article) => <KnowledgeArticleCard article={article} />)}
+    </div>
+  </section>
+)}
+
+<style>
+  .related-articles {
+    display: grid;
+    gap: var(--space-4);
+    border-top: 1px solid var(--color-border);
+    padding-top: var(--space-6);
+  }
+
+  .related-heading h2 {
+    margin: 0.35rem 0 0;
+  }
+</style>

@@ -1,0 +1,63 @@
+---
+interface Props {
+  title: string;
+  englishName?: string;
+  description: string;
+  image?: string;
+  count?: number;
+}
+
+const { title, englishName, description, image, count } = Astro.props;
+---
+
+<section class="category-hero">
+  <div class="container category-hero-grid">
+    <div>
+      {englishName && <p class="eyebrow">{englishName}</p>}
+      <h1>{title}</h1>
+      <p>{description}</p>
+      {typeof count === 'number' && <span>{count} 件商品</span>}
+    </div>
+    {image && <img src={image} alt={title} />}
+  </div>
+</section>
+
+<style>
+  .category-hero {
+    padding: var(--space-7) 0;
+    background: var(--color-surface-soft);
+  }
+
+  .category-hero-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(260px, 420px);
+    gap: var(--space-7);
+    align-items: center;
+  }
+
+  h1 {
+    margin: 0.35rem 0 1rem;
+  }
+
+  span {
+    display: inline-flex;
+    margin-top: var(--space-4);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    padding: 0.35rem 0.65rem;
+    color: var(--color-muted);
+  }
+
+  img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: var(--radius-md);
+  }
+
+  @media (max-width: 760px) {
+    .category-hero-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

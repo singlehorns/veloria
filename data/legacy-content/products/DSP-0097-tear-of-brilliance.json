@@ -1,0 +1,59 @@
+{
+  "legacyProductId": "DSP-0097",
+  "legacyCyberbizId": "58401379",
+  "name": "璨淚光華",
+  "englishName": "Tear of Brilliance",
+  "originalDisplayName": "璨淚光華｜Tear of Brilliance",
+  "slug": "tear-of-brilliance",
+  "legacyUrls": [],
+  "category": "項鍊",
+  "collection": "necklace",
+  "collections": [
+    "necklace"
+  ],
+  "productType": "項鍊",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "璨淚光華｜Tear of Brilliance 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "璨淚光華｜Tear of Brilliance",
+  "seoDescription": "璨淚光華｜Tear of Brilliance，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 璨淚光華｜Tear of Brilliance",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0057",
+    "SRC-0499"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0057",
+      "text": "璨淚光華｜Tear of Brilliance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0499",
+      "text": "璨淚光華｜Tear of Brilliance"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

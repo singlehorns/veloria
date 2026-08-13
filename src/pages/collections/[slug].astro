@@ -1,0 +1,65 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import FormalContentPage from '@components/legacy/FormalContentPage.astro';
+import ProductGrid from '@components/products/ProductGrid.astro';
+import { legacyCollectionRoutes } from '@data/productCategories';
+
+const formalCollections = import.meta.glob('../../../data/formal-content/collections/*.json', { eager: true, import: 'default' }) as Record<string, any>;
+
+export async function getStaticPaths() {
+  const collections = await getCollection('collections');
+  return collections.map((entry) => ({ params: { slug: entry.data.slug }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const products = await getCollection('products');
+const redirectTo = legacyCollectionRoutes[entry.data.slug];
+const related = products.filter((product) => entry.data.products.includes(product.data.slug));
+const formalPage =
+  formalCollections[`../../../data/formal-content/collections/${entry.data.slug}.json`] ??
+  {
+    legacyUrl: '',
+    newUrl: `/collections/${entry.data.slug}/`,
+    title: entry.data.name,
+    metaTitle: entry.data.seoTitle ?? entry.data.name,
+    metaDescription: entry.data.seoDescription ?? entry.data.summary,
+    kind: 'collection',
+    contentBlocks: [],
+    images: []
+  };
+---
+
+{redirectTo ? (
+  <BaseLayout title="分類頁已搬遷" description="舊商品分類已對應到新版商品分類頁。" canonical={redirectTo}>
+    <Fragment slot="head">
+      <meta http-equiv="refresh" content={`0; url=${redirectTo}`} />
+    </Fragment>
+    <section class="section">
+      <div class="container redirect-page">
+        <h1>分類頁已搬遷</h1>
+        <p>舊商品分類已整理到新版商品分類頁。</p>
+        <a class="button" href={redirectTo}>前往新版分類</a>
+      </div>
+    </section>
+  </BaseLayout>
+) : (
+  <BaseLayout title={formalPage.metaTitle} description={formalPage.metaDescription} canonical={formalPage.newUrl} image={formalPage.images?.[0]?.src ?? entry.data.heroImage.src}>
+    <FormalContentPage page={formalPage} />
+
+    {related.length > 0 && (
+      <section class="section">
+        <div class="container">
+          <ProductGrid products={related} title="相關商品" />
+        </div>
+      </section>
+    )}
+  </BaseLayout>
+)}
+
+<style>
+  .redirect-page {
+    max-width: 760px;
+    text-align: center;
+  }
+</style>

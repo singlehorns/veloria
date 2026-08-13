@@ -1,0 +1,140 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages');
+  return pages.map((entry) => ({
+    params: { slug: entry.data.slug },
+    props: { entry }
+  }));
+}
+
+const { entry } = Astro.props;
+const page = entry.data;
+const textBlocks = page.contentBlocks.filter((block) => block.text || block.imageSource);
+---
+
+<BaseLayout title={page.title} description={page.metaDescription || `VELORIA舊站內容備份：${page.title}`}>
+  <section class="section archive-hero">
+    <div class="container">
+      <p class="eyebrow">{page.pageId} · {page.pageType}</p>
+      <h1>{page.title || page.legacyUrl}</h1>
+      <p>{page.metaDescription || page.migrationStatus}</p>
+      <dl class="source-list">
+        <dt>舊網址</dt><dd>{page.legacyUrl}</dd>
+        <dt>Canonical</dt><dd>{page.canonical || '原始資料未提供'}</dd>
+        <dt>搬遷狀態</dt><dd>{page.migrationStatus}</dd>
+      </dl>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container archive-layout">
+      <article class="block-list">
+        <h2>原始內容區塊</h2>
+        {textBlocks.length ? (
+          textBlocks.map((block) => (
+            <section class="content-block">
+              <p class="eyebrow">#{block.blockOrder} · {block.blockType}</p>
+              {block.title && <h3>{block.title}</h3>}
+              {block.text && <p>{block.text}</p>}
+              {block.imageSource && (
+                <figure>
+                  <img src={block.imageSource} alt={block.title || page.title} loading="lazy" />
+                  <figcaption>{block.imageSource}</figcaption>
+                </figure>
+              )}
+            </section>
+          ))
+        ) : (
+          <p>此頁已保存 HTML 與來源資訊，但沒有擷取到可讀文字區塊。</p>
+        )}
+      </article>
+
+      <aside class="archive-side">
+        <section>
+          <h2>圖片引用</h2>
+          <p>{page.images.length} 個圖片引用已保存。</p>
+          <ul>
+            {page.images.slice(0, 20).map((image) => <li>{image.alt || image.sourceType || 'image'}：{image.src}</li>)}
+          </ul>
+        </section>
+
+        <section>
+          <h2>連結</h2>
+          <p>{page.links.length} 個連結已保存。</p>
+          <ul>
+            {page.links.slice(0, 20).map((link) => <li>{link.text || link.type}：{link.href}</li>)}
+          </ul>
+        </section>
+      </aside>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .archive-hero {
+    background: var(--color-surface-soft);
+  }
+
+  .source-list {
+    display: grid;
+    grid-template-columns: 8rem 1fr;
+    gap: 0.65rem 1rem;
+    margin-top: var(--space-5);
+  }
+
+  .source-list dt {
+    font-weight: 700;
+  }
+
+  .source-list dd {
+    margin: 0;
+    word-break: break-word;
+  }
+
+  .archive-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
+    gap: var(--space-7);
+    align-items: start;
+  }
+
+  .block-list,
+  .archive-side {
+    display: grid;
+    gap: var(--space-5);
+  }
+
+  .content-block,
+  .archive-side section {
+    border-top: 1px solid var(--color-border);
+    padding-top: var(--space-4);
+  }
+
+  figure {
+    margin: 1rem 0 0;
+  }
+
+  figure img {
+    border: 1px solid var(--color-border);
+  }
+
+  figcaption,
+  .archive-side li {
+    color: var(--color-muted);
+    font-size: 0.88rem;
+    word-break: break-all;
+  }
+
+  .archive-side ul {
+    padding-left: 1.1rem;
+  }
+
+  @media (max-width: 860px) {
+    .archive-layout {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

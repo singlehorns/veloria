@@ -1,0 +1,717 @@
+{
+  "pageId": "PAGE-0038",
+  "title": "帳戶登入 VELORIA",
+  "slug": "zh-tw/account/tracking-items",
+  "legacyUrl": "https://www.dsdiamond.com.tw/zh-TW/account/tracking_items",
+  "pageType": "CYBERBIZ 功能頁",
+  "metaDescription": "",
+  "canonical": "https://www.dsdiamond.com.tw/zh-TW/account/login",
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": []
+  },
+  "contentBlocks": [
+    {
+      "blockOrder": 1,
+      "blockType": "Paragraph",
+      "title": "",
+      "text": "您好！",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 2,
+      "blockType": "Paragraph",
+      "title": "",
+      "text": "目前的購物車是空的！",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 3,
+      "blockType": "Paragraph",
+      "title": "",
+      "text": "會員登入",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 4,
+      "blockType": "Paragraph",
+      "title": "",
+      "text": "忘記密碼 註冊新會員",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 5,
+      "blockType": "Paragraph",
+      "title": "",
+      "text": "註冊表示同意 商店服務條款 與 會員責任規範及個資聲明",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 6,
+      "blockType": "Paragraph",
+      "title": "",
+      "text": "聯絡資訊",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 7,
+      "blockType": "Paragraph",
+      "title": "",
+      "text": "關於我們",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 8,
+      "blockType": "Paragraph",
+      "title": "",
+      "text": "其他資訊",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 9,
+      "blockType": "List",
+      "title": "",
+      "text": "您好！",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 10,
+      "blockType": "List",
+      "title": "",
+      "text": "會員登入 註冊新會員",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 11,
+      "blockType": "List",
+      "title": "",
+      "text": "我的帳戶 訂單查詢 專屬優惠券 收藏清單 會員登出",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 12,
+      "blockType": "List",
+      "title": "",
+      "text": "立即購買 前往收藏清單",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 13,
+      "blockType": "List",
+      "title": "",
+      "text": "搜尋",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 14,
+      "blockType": "List",
+      "title": "",
+      "text": "主選單 首頁 求婚戒指 結婚對戒 女士鑽戒 經典女戒 轉運女戒",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 15,
+      "blockType": "List",
+      "title": "",
+      "text": "經典男戒 轉運男戒",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 16,
+      "blockType": "List",
+      "title": "",
+      "text": "項鍊 耳環 手鍊",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 17,
+      "blockType": "List",
+      "title": "",
+      "text": "黃鑽 粉鑽 藍鑽 紅鑽 綠鑽 其他彩鑽",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 18,
+      "blockType": "List",
+      "title": "",
+      "text": "首頁 會員登入",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 19,
+      "blockType": "List",
+      "title": "",
+      "text": "客服專線：02-27791005 客服時間：11:00 ~ 19:00 ( 店休週日 ) 信箱：zuanzhiyun60@gmail.com 地址：｜◆台北旗艦門市-敦化南路一段 160 巷 11 號｜ 統一編號：00243191",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 20,
+      "blockType": "List",
+      "title": "",
+      "text": "查詢 關於我們 我的帳戶 隱私政策 常見問題 服務條款",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 21,
+      "blockType": "List",
+      "title": "",
+      "text": "首頁 求婚戒指 結婚對戒 女士鑽戒 男士鑽戒 時尚珠寶 彩色鑽石專區 精選裸鑽 尊榮定製 關於我們 常見問題FAQ 客服中心 加入LINE好友 知識專欄",
+      "imageSource": "",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 22,
+      "blockType": "Image",
+      "title": "VELORIA",
+      "text": "",
+      "imageSource": "/assets/brand/brand-logo-primary.png",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 23,
+      "blockType": "Image",
+      "title": "popup button",
+      "text": "",
+      "imageSource": "block.settings.dict_icon_image_url",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 24,
+      "blockType": "Image",
+      "title": "popup picture",
+      "text": "",
+      "imageSource": "block.settings.dict_image_url",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 25,
+      "blockType": "Image",
+      "title": "game minified icon",
+      "text": "",
+      "imageSource": "/assets/migrated/offline-cdn/d17aaa29197a8bff2b63ea48.png",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 26,
+      "blockType": "Image",
+      "title": "",
+      "text": "",
+      "imageSource": "block.settings.dict_mobile_image_url",
+      "status": "已備份"
+    },
+    {
+      "blockOrder": 27,
+      "blockType": "Image",
+      "title": "",
+      "text": "",
+      "imageSource": "block.settings.dict_tablet_image_url",
+      "status": "已備份"
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/brand/brand-logo-primary.png",
+      "alt": "VELORIA",
+      "title": "",
+      "sourceType": "img"
+    },
+    {
+      "src": "block.settings.dict_icon_image_url",
+      "alt": "popup button",
+      "title": "",
+      "sourceType": "img"
+    },
+    {
+      "src": "block.settings.dict_image_url",
+      "alt": "popup picture",
+      "title": "",
+      "sourceType": "img"
+    },
+    {
+      "src": "/assets/migrated/offline-cdn/d17aaa29197a8bff2b63ea48.png",
+      "alt": "game minified icon",
+      "title": "",
+      "sourceType": "img"
+    },
+    {
+      "src": "block.settings.dict_mobile_image_url",
+      "alt": "",
+      "title": "",
+      "sourceType": "source-srcset"
+    },
+    {
+      "src": "block.settings.dict_tablet_image_url",
+      "alt": "",
+      "title": "",
+      "sourceType": "source-srcset"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.dsdiamond.com.tw/",
+      "text": "",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/login",
+      "text": "會員登入",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/signup",
+      "text": "註冊新會員",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/index",
+      "text": "我的帳戶",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/orders",
+      "text": "訂單查詢",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/coupons",
+      "text": "專屬優惠券",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/tracking_items",
+      "text": "收藏清單",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/logout",
+      "text": "會員登出",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/cart",
+      "text": "立即購買",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/tracking_items",
+      "text": "前往收藏清單",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/",
+      "text": "",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/",
+      "text": "",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/",
+      "text": "",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/",
+      "text": "首頁",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/求婚",
+      "text": "求婚戒指",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/pair-ring",
+      "text": "結婚對戒",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/ring-female",
+      "text": "女士鑽戒",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/經典女戒",
+      "text": "經典女戒",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/轉運女戒",
+      "text": "轉運女戒",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/ring-man",
+      "text": "男士鑽戒",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/經典男戒",
+      "text": "經典男戒",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/轉運男戒",
+      "text": "轉運男戒",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/necklace",
+      "text": "項鍊",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/earring",
+      "text": "耳環",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/bracelet",
+      "text": "手鍊",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/彩色鑽石專區",
+      "text": "彩色鑽石專區",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/黃鑽",
+      "text": "黃鑽",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/粉鑽",
+      "text": "粉鑽",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/藍鑽",
+      "text": "藍鑽",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/紅鑽",
+      "text": "紅鑽",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/綠鑽",
+      "text": "綠鑽",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/其他彩鑽",
+      "text": "其他彩鑽",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/diamond",
+      "text": "精選裸鑽",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/pages/尊榮定製",
+      "text": "尊榮定製",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/pages/about-us",
+      "text": "關於我們",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/pages/qna",
+      "text": "常見問題FAQ",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/contact",
+      "text": "客服中心",
+      "type": "internal"
+    },
+    {
+      "href": "https://line.me/R/ti/p/@252flmie?oat_content=url&ts=12101714",
+      "text": "加入LINE好友",
+      "type": "external"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/blogs/diamond-symphony-guide",
+      "text": "知識專欄",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/index",
+      "text": "我的帳戶",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/orders",
+      "text": "訂單查詢",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/logout",
+      "text": "會員登出",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/login",
+      "text": "會員登入",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/signup",
+      "text": "註冊新會員",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/",
+      "text": "",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/tracking_items",
+      "text": "",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/cart",
+      "text": "0",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/login",
+      "text": "",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/",
+      "text": "",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/",
+      "text": "首頁",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/login",
+      "text": "會員登入",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/forgot_password",
+      "text": "忘記密碼",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/zh-TW/account/signup",
+      "text": "註冊新會員",
+      "type": "internal"
+    },
+    {
+      "href": "mailto:zuanzhiyun60@gmail.com",
+      "text": "信箱：zuanzhiyun60@gmail.com",
+      "type": "external"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/search",
+      "text": "查詢",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/pages/about-us",
+      "text": "關於我們",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/account/index",
+      "text": "我的帳戶",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/pages/privacy",
+      "text": "隱私政策",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/pages/qna",
+      "text": "常見問題",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/pages/terms",
+      "text": "服務條款",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/",
+      "text": "首頁",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/求婚",
+      "text": "求婚戒指",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/pair-ring",
+      "text": "結婚對戒",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/ring-female",
+      "text": "女士鑽戒",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/ring-man",
+      "text": "男士鑽戒",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/彩色鑽石專區",
+      "text": "彩色鑽石專區",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/collections/diamond",
+      "text": "精選裸鑽",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/pages/尊榮定製",
+      "text": "尊榮定製",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/pages/about-us",
+      "text": "關於我們",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/pages/qna",
+      "text": "常見問題FAQ",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/contact",
+      "text": "客服中心",
+      "type": "internal"
+    },
+    {
+      "href": "https://line.me/R/ti/p/@252flmie?oat_content=url&ts=12101714",
+      "text": "加入LINE好友",
+      "type": "external"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/blogs/diamond-symphony-guide",
+      "text": "知識專欄",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.facebook.com/448080758381546",
+      "text": "",
+      "type": "external"
+    },
+    {
+      "href": "https://www.facebook.com/profile.php?id=61565776509572",
+      "text": "",
+      "type": "external"
+    },
+    {
+      "href": "https://www.instagram.com/zuanzhiyun/",
+      "text": "",
+      "type": "external"
+    },
+    {
+      "href": "https://line.me/R/ti/p/@252flmie?oat_content=url&ts=12101714",
+      "text": "",
+      "type": "external"
+    },
+    {
+      "href": "https://www.youtube.com/@%E9%91%BD%E4%B9%8B%E9%9F%BBDIAMONDSYMPHONY/shorts",
+      "text": "",
+      "type": "external"
+    },
+    {
+      "href": "https://www.dsdiamond.com.tw/",
+      "text": "VELORIA",
+      "type": "internal"
+    },
+    {
+      "href": "https://www.cyberbiz.io?utm_source=poweredbycyberbiz",
+      "text": "CYBERBIZ",
+      "type": "external"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "",
+      "type": "external"
+    },
+    {
+      "href": "block.settings.dict_link",
+      "text": "",
+      "type": "external"
+    }
+  ],
+  "videos": [
+    {
+      "src": "youtube.com/@%E9%91%BD%E4%B9%8B%E9%9F%BBDIAMONDSYMPHONY/shorts",
+      "sourceType": "embedded-or-linked"
+    },
+    {
+      "src": "youtube.com/watch?v=Jy6Kxf_hQi8",
+      "sourceType": "embedded-or-linked"
+    },
+    {
+      "src": "youtube.com/embed/884I5tDI-bs",
+      "sourceType": "embedded-or-linked"
+    },
+    {
+      "src": "v.cyberbiz.tw/s/33338/ab9f310c8b1429a59353e3445ef3b965.mp4?t=1752386460",
+      "sourceType": "embedded-or-linked"
+    },
+    {
+      "src": "v.cyberbiz.tw/s/33338/a7de6f19acb5dcd539003101082eafb6.mp4?t=1758098654",
+      "sourceType": "embedded-or-linked"
+    },
+    {
+      "src": "youtube.com/watch?v=3bI4IUIVjCk",
+      "sourceType": "embedded-or-linked"
+    }
+  ],
+  "schema": [],
+  "sourceFiles": [
+    "C:/Users/U01/Desktop/DS/dsdiamond_backup/site/www.dsdiamond.com.tw/zh-TW/account/tracking_items.html",
+    "C:/Users/U01/Desktop/DS/dsdiamond_backup/migration/content/zh-TW__account__tracking_items.md"
+  ],
+  "migrationStatus": "功能頁不重建，內容已備份並導向",
+  "notes": [
+    "購物/會員功能不在本次重建範圍；若頁面含政策文字，已保留於原始備份。"
+  ]
+}

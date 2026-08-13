@@ -1,0 +1,63 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import { legacyCollectionRoutes } from '@data/productCategories';
+
+type LegacyRedirect = {
+  from: string;
+  to: string;
+  reason: string;
+};
+
+export function getStaticPaths() {
+  const redirects: LegacyRedirect[] = [
+    { from: 'zh-TW/pages/about-us', to: '/pages/about-us/', reason: '關於我們頁面已移至新網址' },
+    { from: 'pages/尊榮定製', to: '/pages/custom-service/', reason: '尊榮定製頁面已更新為新版版型。' },
+    { from: 'zh-TW/pages/尊榮定製', to: '/pages/custom-service/', reason: '尊榮定製頁面已更新為新版版型。' },
+    { from: 'pages/尊榮定製', to: '/pages/custom-service/', reason: '舊頁面已對應到新的尊榮定製頁面' },
+    { from: 'zh-TW/contact', to: '/contact/', reason: '舊聯絡頁已對應到新的客服中心' },
+    { from: 'account/index', to: '/', reason: '會員功能未納入新版靜態網站' },
+    { from: 'account/login', to: '/', reason: '會員功能未納入新版靜態網站' },
+    { from: 'zh-TW/account/coupons', to: '/', reason: '會員功能未納入新版靜態網站' },
+    { from: 'zh-TW/account/forgot_password', to: '/', reason: '會員功能未納入新版靜態網站' },
+    { from: 'zh-TW/account/index', to: '/', reason: '會員功能未納入新版靜態網站' },
+    { from: 'zh-TW/account/login', to: '/', reason: '會員功能未納入新版靜態網站' },
+    { from: 'zh-TW/account/logout', to: '/', reason: '會員功能未納入新版靜態網站' },
+    { from: 'zh-TW/account/orders', to: '/', reason: '會員功能未納入新版靜態網站' },
+    { from: 'zh-TW/account/signup', to: '/', reason: '會員功能未納入新版靜態網站' },
+    { from: 'zh-TW/account/tracking_items', to: '/', reason: '會員功能未納入新版靜態網站' },
+    { from: 'zh-TW/cart', to: '/', reason: '購物車功能未納入新版靜態網站' },
+    ...Object.entries(legacyCollectionRoutes).map(([slug, to]) => ({
+      from: `zh-TW/collections/${slug}`,
+      to,
+      reason: '舊 CYBERBIZ 商品分類已對應到新版分類頁'
+    }))
+  ];
+
+  return redirects.map((redirect) => ({
+    params: { legacy: redirect.from },
+    props: { redirect }
+  }));
+}
+
+const { redirect } = Astro.props as { redirect: LegacyRedirect };
+---
+
+<BaseLayout title="頁面已搬遷" description="舊網站頁面已對應到新版網站頁面。">
+  <Fragment slot="head">
+    <meta http-equiv="refresh" content={`0; url=${redirect.to}`} />
+  </Fragment>
+  <section class="section">
+    <div class="container redirect-page">
+      <h1>頁面已搬遷</h1>
+      <p>{redirect.reason}，即將自動前往新頁面。</p>
+      <a class="button" href={redirect.to}>前往新頁面</a>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .redirect-page {
+    max-width: 760px;
+    text-align: center;
+  }
+</style>

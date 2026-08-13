@@ -1,0 +1,66 @@
+{
+  "legacyProductId": "DSP-0072",
+  "legacyCyberbizId": "57337051",
+  "name": "湛藍晨曦",
+  "englishName": "Azure Aurora",
+  "originalDisplayName": "湛藍晨曦｜Azure Aurora",
+  "slug": "azure-aurora",
+  "legacyUrls": [],
+  "category": "藍鑽",
+  "collection": "彩色鑽石專區 | 藍鑽",
+  "collections": [
+    "彩色鑽石專區",
+    "藍鑽"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "湛藍晨曦｜Azure Aurora 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "湛藍晨曦｜Azure Aurora",
+  "seoDescription": "湛藍晨曦｜Azure Aurora，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 湛藍晨曦｜Azure Aurora",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0167",
+    "SRC-0303",
+    "SRC-0308"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0167",
+      "text": "湛藍晨曦｜Azure Aurora"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0303",
+      "text": "湛藍晨曦｜Azure Aurora"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0308",
+      "text": "湛藍晨曦｜Azure Aurora"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

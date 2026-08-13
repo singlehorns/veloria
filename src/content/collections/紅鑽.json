@@ -1,0 +1,19 @@
+{
+  "name": "紅鑽",
+  "slug": "紅鑽",
+  "englishName": "紅鑽",
+  "summary": "紅鑽舊站系列資料，已先建立對應入口，待後續補齊完整產品。",
+  "description": "紅鑽為舊 CYBERBIZ 網站中的品牌系列頁。此資料已從備份建立新站對應頁，內容狀態仍需逐項核對產品與圖片。",
+  "heroImage": {
+    "src": "/assets/banners/atelier-service-banner.jpeg",
+    "alt": "紅鑽"
+  },
+  "products": [],
+  "featured": false,
+  "seoTitle": "紅鑽 VELORIA",
+  "seoDescription": "",
+  "originalUrl": "https://www.dsdiamond.com.tw/collections/紅鑽",
+  "originalSource": "../dsdiamond_backup/brand-data/brand-routes.json",
+  "migrationStatus": "部分缺失",
+  "migrationNotes": "由舊站 brand-routes 自動補回系列頁入口；產品、圖片與完整區塊仍需人工核對。"
+}

@@ -1,0 +1,59 @@
+{
+  "legacyProductId": "DSP-0061",
+  "legacyCyberbizId": "57337022",
+  "name": "秘語心印",
+  "englishName": "Hidden Whisper",
+  "originalDisplayName": "秘語心印｜Hidden Whisper",
+  "slug": "hidden-whisper",
+  "legacyUrls": [],
+  "category": "戒指",
+  "collection": "求婚",
+  "collections": [
+    "求婚"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "秘語心印｜Hidden Whisper 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "秘語心印｜Hidden Whisper",
+  "seoDescription": "秘語心印｜Hidden Whisper，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 秘語心印｜Hidden Whisper",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0211",
+    "SRC-0619"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0211",
+      "text": "秘語心印｜Hidden Whisper"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0619",
+      "text": "秘語心印｜Hidden Whisper"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

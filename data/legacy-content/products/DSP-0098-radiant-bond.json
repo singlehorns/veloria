@@ -1,0 +1,71 @@
+{
+  "legacyProductId": "DSP-0098",
+  "legacyCyberbizId": "57339003",
+  "name": "曜映之環",
+  "englishName": "Radiant Bond",
+  "originalDisplayName": "曜映之環｜Radiant Bond",
+  "slug": "radiant-bond",
+  "legacyUrls": [],
+  "category": "結婚對戒",
+  "collection": "pair-ring",
+  "collections": [
+    "pair-ring"
+  ],
+  "productType": "對戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "曜映之環｜Radiant Bond 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "曜映之環｜Radiant Bond",
+  "seoDescription": "曜映之環｜Radiant Bond，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 曜映之環｜Radiant Bond",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0065",
+    "SRC-0072",
+    "SRC-0507",
+    "SRC-0514"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0065",
+      "text": "曜映之環｜Radiant Bond"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0072",
+      "text": "曜映之環｜Radiant Bond"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0507",
+      "text": "曜映之環｜Radiant Bond"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0514",
+      "text": "曜映之環｜Radiant Bond"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

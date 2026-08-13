@@ -1,0 +1,198 @@
+{
+  "legacyProductId": "DSP-0110",
+  "legacyCyberbizId": "66872044",
+  "name": "戀光之心",
+  "englishName": "Blûsh Halo Promise",
+  "originalDisplayName": "戀光之心｜Blûsh Halo Promise",
+  "slug": "blush-halo-promise",
+  "legacyUrls": [],
+  "category": "粉鑽 | 女士鑽戒, 經典女戒, 粉鑽",
+  "collection": "ring-female | 粉鑽 | 經典女戒",
+  "collections": [
+    "ring-female",
+    "粉鑽",
+    "經典女戒"
+  ],
+  "productType": "ring",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "以柔和綻放的粉色光芒為靈感，主鑽如心意般純粹動人，細緻排鑽環繞成柔光光暈，勾勒出溫潤而堅定的情感輪廓。雙色金屬交織出層次與深度，宛如愛在時光中緩緩沉澱，愈發清晰而珍貴。整體設計細膩優雅，如同將一份真摯心意化為永恆光芒，溫柔守護，歷久彌新。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於18k金白金材質的設計。\n\n 🔹 天然鑽款 ：1.03克拉 Faint Pink Si1等級\n\n 🔹 培育鑽款 ：1克拉 Fancy Vivid Pink\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "description": "以柔和綻放的粉色光芒為靈感，主鑽如心意般純粹動人，細緻排鑽環繞成柔光光暈，勾勒出溫潤而堅定的情感輪廓。雙色金屬交織出層次與深度，宛如愛在時光中緩緩沉澱，愈發清晰而珍貴。整體設計細膩優雅，如同將一份真摯心意化為永恆光芒，溫柔守護，歷久彌新。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於18k金白金材質的設計。\n\n 🔹 天然鑽款 ：1.03克拉 Faint Pink Si1等級\n\n 🔹 培育鑽款 ：1克拉 Fancy Vivid Pink\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0110-blush-halo-promise/localized/DSP-0110-main-01.jpeg",
+      "alt": "戀光之心 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0110-blush-halo-promise/localized/DSP-0110-gallery-02.jpeg",
+      "alt": "戀光之心 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0110-blush-halo-promise/localized/DSP-0110-gallery-03.jpeg",
+      "alt": "戀光之心 3",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0110-blush-halo-promise/localized/DSP-0110-gallery-04.jpeg",
+      "alt": "戀光之心 4",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "戀光之心｜Blûsh Halo Promise",
+  "seoDescription": "以柔和綻放的粉色光芒為靈感，主鑽如心意般純粹動人，細緻排鑽環繞成柔光光暈，勾勒出溫潤而堅定的情感輪廓。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/blush-halo-promise-dsdiamond",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/blush-halo-promise-dsdiamond",
+  "inquiryText": "我想諮詢 戀光之心｜Blûsh Halo Promise",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery",
+  "mediaStatus": "localized-api-gallery",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0106",
+    "SRC-0216",
+    "SRC-0226",
+    "SRC-0269",
+    "SRC-0383",
+    "SRC-0393",
+    "SRC-0548"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0106",
+      "text": "戀光之心｜Blûsh Halo Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0216",
+      "text": "戀光之心｜Blûsh Halo Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0226",
+      "text": "戀光之心｜Blûsh Halo Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0269",
+      "text": "戀光之心｜Blûsh Halo Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0383",
+      "text": "戀光之心｜Blûsh Halo Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0393",
+      "text": "戀光之心｜Blûsh Halo Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0548",
+      "text": "戀光之心｜Blûsh Halo Promise"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "66872044",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/blush-halo-promise-dsdiamond",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "66872044",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/blush-halo-promise-dsdiamond",
+      "text": "以柔和綻放的粉色光芒為靈感，主鑽如心意般純粹動人，細緻排鑽環繞成柔光光暈，勾勒出溫潤而堅定的情感輪廓。雙色金屬交織出層次與深度，宛如愛在時光中緩緩沉澱，愈發清晰而珍貴。整體設計細膩優雅，如同將一份真摯心意化為永恆光芒，溫柔守護，歷久彌新。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於18k金白金材質的設計。\n\n 🔹 天然鑽款 ：1.03克拉 Faint Pink Si1等級\n\n 🔹 培育鑽款 ：1克拉 Fancy Vivid Pink\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "womens-diamond-rings",
+  "subcategories": [
+    "classic-womens-rings",
+    "pink-diamonds"
+  ],
+  "audience": "women",
+  "diamondType": "colored-diamond",
+  "tags": [
+    "colored-diamonds",
+    "classic-womens-rings",
+    "pink-diamonds",
+    "ring",
+    "women",
+    "colored-diamond",
+    "womens-diamond-rings"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "womens-diamond-rings",
+    "classic-womens-rings",
+    "pink-diamonds"
+  ],
+  "displayPrice": "NT$65,000 - NT$400,000",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "81191095",
+      "sku": "",
+      "name": "戀光之心｜Blûsh Halo Promise",
+      "price": 400000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    },
+    {
+      "variantId": "81191096",
+      "sku": "",
+      "name": "戀光之心｜Blûsh Halo Promise",
+      "price": 65000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 65000,
+  "priceMax": 400000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "66872044",
+  "pricingStandards": {
+    "source": "description",
+    "materialStatement": "此款價格基於18k金白金材質的設計。",
+    "naturalDiamond": "天然鑽款：1.03克拉 Faint Pink Si1等級",
+    "labDiamond": "培育鑽款：1克拉 Fancy Vivid Pink",
+    "notes": [
+      "配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。",
+      "如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "<p><strong>材質選定：</strong></p>\n\n<ul>\n\t<li>提供鉑金（PT950）、18K金（白K、黃K、玫瑰金）等材質選擇。</li>\n\t<li>可搭配天然鑽石或實驗室培育鑽石，皆附國際認證證書。</li>\n\t<li>材質經專業檢驗，適合長期配戴與紀念。</li>\n</ul>\n\n<p> </p>\n\n<p><strong>戒圍量測：</strong></p>\n\n<ul>\n\t<li>可至門市協助量測，或提供既有戒指對照參考。</li>\n\t<li>下單後將免費寄送專業戒圍量測器至您指定地址。</li>\n</ul>\n\n<p> </p>\n\n<p><strong>刻字服務：</strong></p>\n\n<ul>\n\t<li>提供免費內圈刻字服務，可刻英文、數字與常見符號（如 ∞、♥）。</li>\n\t<li>建議字數不超過12字元，實際長度視戒指寬度而定。</li>\n\t<li>若有特殊刻字需求，請於下單時備註或聯絡客服確認。</li>\n</ul>"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "<p>為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：</p>\n\n<ul>\n\t<li>\n<strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。</li>\n\t<li>\n<strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。</li>\n</ul>"
+    }
+  ]
+}

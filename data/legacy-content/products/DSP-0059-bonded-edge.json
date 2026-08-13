@@ -1,0 +1,71 @@
+{
+  "legacyProductId": "DSP-0059",
+  "legacyCyberbizId": "57339000",
+  "name": "相契之刻",
+  "englishName": "Bonded Edge",
+  "originalDisplayName": "相契之刻｜Bonded Edge",
+  "slug": "bonded-edge",
+  "legacyUrls": [],
+  "category": "結婚對戒",
+  "collection": "pair-ring",
+  "collections": [
+    "pair-ring"
+  ],
+  "productType": "對戒",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "相契之刻｜Bonded Edge 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "相契之刻｜Bonded Edge",
+  "seoDescription": "相契之刻｜Bonded Edge，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 相契之刻｜Bonded Edge",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0067",
+    "SRC-0074",
+    "SRC-0509",
+    "SRC-0516"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0067",
+      "text": "相契之刻｜Bonded Edge"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0074",
+      "text": "相契之刻｜Bonded Edge"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0509",
+      "text": "相契之刻｜Bonded Edge"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0516",
+      "text": "相契之刻｜Bonded Edge"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

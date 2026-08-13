@@ -1,0 +1,71 @@
+{
+  "legacyProductId": "DSP-0055",
+  "legacyCyberbizId": "57339024",
+  "name": "星願經典",
+  "englishName": "Brilliant Wish",
+  "originalDisplayName": "星願經典｜Brilliant Wish",
+  "slug": "brilliant-wish",
+  "legacyUrls": [],
+  "category": "項鍊",
+  "collection": "necklace",
+  "collections": [
+    "necklace"
+  ],
+  "productType": "項鍊",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "星願經典｜Brilliant Wish 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "星願經典｜Brilliant Wish",
+  "seoDescription": "星願經典｜Brilliant Wish，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 星願經典｜Brilliant Wish",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0044",
+    "SRC-0054",
+    "SRC-0486",
+    "SRC-0496"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0044",
+      "text": "星願經典｜Brilliant Wish"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0054",
+      "text": "星願經典｜Brilliant Wish"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0486",
+      "text": "星願經典｜Brilliant Wish"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0496",
+      "text": "星願經典｜Brilliant Wish"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

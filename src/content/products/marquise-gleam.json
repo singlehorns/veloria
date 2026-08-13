@@ -1,0 +1,202 @@
+{
+  "legacyProductId": "DSP-0025",
+  "legacyCyberbizId": "62421341",
+  "name": "光韻之矢",
+  "englishName": "Marquisé Gleam",
+  "originalDisplayName": "光韻之矢｜Marquisé Gleam",
+  "slug": "marquise-gleam",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/marquise-gleam-dsdiamond"
+  ],
+  "category": "女士鑽戒 | 經典女戒",
+  "collection": "ring-female | 經典女戒",
+  "collections": [
+    "ring-female",
+    "經典女戒"
+  ],
+  "productType": "ring",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "修長馬眼主鑽以六爪穩固托起，尖端與弧面交織出銳利卻優雅的光影。側邊開放式戒台讓亮度充分展開，細緻排鑽戒臂則延伸整體線條，使光芒更顯修長流暢，如一束指尖綻放的純粹光韻\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）材質的設計。\n\n 🔹 天然鑽款 ：10 克拉 D 色 SI1，3EX 等級 (另行詢價)\n\n 🔹 培育鑽款 ：10 克拉 D 色 VVS2，3EX 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "description": "修長馬眼主鑽以六爪穩固托起，尖端與弧面交織出銳利卻優雅的光影。側邊開放式戒台讓亮度充分展開，細緻排鑽戒臂則延伸整體線條，使光芒更顯修長流暢，如一束指尖綻放的純粹光韻\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）材質的設計。\n\n 🔹 天然鑽款 ：10 克拉 D 色 SI1，3EX 等級 (另行詢價)\n\n 🔹 培育鑽款 ：10 克拉 D 色 VVS2，3EX 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0025-marquise-gleam/localized/DSP-0025-gallery-02.jpeg",
+      "alt": "光韻之矢｜Marquisé Gleam 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0025-marquise-gleam/localized/DSP-0025-gallery-03.jpeg",
+      "alt": "光韻之矢｜Marquisé Gleam 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0025-marquise-gleam/localized/DSP-0025-gallery-04.jpeg",
+      "alt": "光韻之矢｜Marquisé Gleam 3",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "光韻之矢 Marquisé Gleam｜VELORIA台北店",
+  "seoDescription": "【提供實驗室培育鑽石及天然鑽石】修長馬眼主鑽以六爪穩固托起，尖端與弧面交織出銳利卻優雅的光影。側邊開放式戒台讓亮度充分展開，細緻排鑽戒臂則延伸整體線條，使光芒更顯修長流暢，如一束指尖綻放的純粹光韻",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/marquise-gleam-dsdiamond",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/marquise-gleam-dsdiamond",
+  "inquiryText": "我想諮詢 光韻之矢｜Marquisé Gleam",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery",
+  "mediaStatus": "localized-api-gallery",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0083",
+    "SRC-0093",
+    "SRC-0246",
+    "SRC-0256",
+    "SRC-0359",
+    "SRC-0408",
+    "SRC-0437",
+    "SRC-0525",
+    "SRC-0535",
+    "SRC-0627"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0083",
+      "text": "光韻之矢｜Marquisé Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0093",
+      "text": "光韻之矢｜Marquisé Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0246",
+      "text": "光韻之矢｜Marquisé Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0256",
+      "text": "光韻之矢｜Marquisé Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0359",
+      "text": "光韻之矢｜Marquisé Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0408",
+      "text": "光韻之矢｜Marquisé Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0437",
+      "text": "光韻之矢｜Marquisé Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0525",
+      "text": "光韻之矢｜Marquisé Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0535",
+      "text": "光韻之矢｜Marquisé Gleam"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0627",
+      "text": "光韻之矢｜Marquisé Gleam"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "62421341",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/marquise-gleam-dsdiamond",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "62421341",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/marquise-gleam-dsdiamond",
+      "text": "修長馬眼主鑽以六爪穩固托起，尖端與弧面交織出銳利卻優雅的光影。側邊開放式戒台讓亮度充分展開，細緻排鑽戒臂則延伸整體線條，使光芒更顯修長流暢，如一束指尖綻放的純粹光韻\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）材質的設計。\n\n 🔹 天然鑽款 ：10 克拉 D 色 SI1，3EX 等級 (另行詢價)\n\n 🔹 培育鑽款 ：10 克拉 D 色 VVS2，3EX 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "womens-diamond-rings",
+  "subcategories": [
+    "classic-womens-rings"
+  ],
+  "audience": "women",
+  "diamondType": "natural-diamond",
+  "tags": [
+    "womens-diamond-rings",
+    "classic-womens-rings",
+    "ring",
+    "women",
+    "natural-diamond"
+  ],
+  "legacyCategoryUrls": [
+    "/products/marquise-gleam-dsdiamond"
+  ],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "womens-diamond-rings",
+    "classic-womens-rings"
+  ],
+  "displayPrice": "NT$335,000",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "75844774",
+      "sku": "",
+      "name": "光韻之矢｜Marquisé Gleam",
+      "price": 335000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 335000,
+  "priceMax": 335000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "62421341",
+  "pricingStandards": {
+    "source": "description",
+    "materialStatement": "此款價格基於鉑金（PT950）材質的設計。",
+    "naturalDiamond": "天然鑽款：10 克拉 D 色 SI1，3EX 等級 (另行詢價)",
+    "labDiamond": "培育鑽款：10 克拉 D 色 VVS2，3EX 等級",
+    "notes": [
+      "配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。",
+      "如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "<p><strong>材質選定：</strong></p>\n\n<ul>\n\t<li>提供鉑金（PT950）、18K金（白K、黃K、玫瑰金）等材質選擇。</li>\n\t<li>可搭配天然鑽石或實驗室培育鑽石，皆附國際認證證書。</li>\n\t<li>材質經專業檢驗，適合長期配戴與紀念。</li>\n</ul>\n\n<p> </p>\n\n<p><strong>戒圍量測：</strong></p>\n\n<ul>\n\t<li>可至門市協助量測，或提供既有戒指對照參考。</li>\n\t<li>下單後將免費寄送專業戒圍量測器至您指定地址。</li>\n</ul>\n\n<p> </p>\n\n<p><strong>刻字服務：</strong></p>\n\n<ul>\n\t<li>提供免費內圈刻字服務，可刻英文、數字與常見符號（如 ∞、♥）。</li>\n\t<li>建議字數不超過12字元，實際長度視戒指寬度而定。</li>\n\t<li>若有特殊刻字需求，請於下單時備註或聯絡客服確認。</li>\n</ul>"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "<p>為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：</p>\n\n<ul>\n\t<li>\n<strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。</li>\n\t<li>\n<strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。</li>\n</ul>"
+    }
+  ]
+}

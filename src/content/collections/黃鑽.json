@@ -1,0 +1,24 @@
+{
+  "name": "黃鑽",
+  "slug": "黃鑽",
+  "englishName": "黃鑽",
+  "summary": "帝耀之環｜Sovéreign Glow 晨曜方華 Aurorà Cushion Gleam 暖曜心語｜Ambér Promise Glow 權耀之環｜Domînion Halo",
+  "description": "帝耀之環｜Sovéreign Glow 晨曜方華 Aurorà Cushion Gleam 暖曜心語｜Ambér Promise Glow 權耀之環｜Domînion Halo",
+  "heroImage": {
+    "src": "/assets/migrated/collections/yellow-diamond.jpeg",
+    "alt": "黃鑽"
+  },
+  "products": [
+    "sovereign-glow",
+    "aurora-cushion-gleam",
+    "amber-promise-glow",
+    "dominion-halo"
+  ],
+  "featured": false,
+  "seoTitle": "黃鑽 VELORIA",
+  "seoDescription": "帝耀之環｜Sovéreign Glow 晨曜方華 Aurorà Cushion Gleam 暖曜心語｜Ambér Promise Glow 權耀之環｜Domînion Halo",
+  "originalUrl": "https://www.dsdiamond.com.tw/collections/黃鑽",
+  "originalSource": "../dsdiamond_backup/brand-data/brand-routes.json",
+  "migrationStatus": "部分搬遷",
+  "migrationNotes": "由舊站 brand-routes 自動補回系列頁入口；產品、圖片與完整區塊仍需人工核對。 已連接可追蹤的舊站系列媒體；產品圖仍需逐筆確認。"
+}

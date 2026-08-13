@@ -1,0 +1,165 @@
+{
+  "legacyProductId": "DSP-0068",
+  "legacyCyberbizId": "57337025",
+  "name": "晨曦心語",
+  "englishName": "Whispér of Dawn",
+  "originalDisplayName": "晨曦心語｜Whispér of Dawn",
+  "slug": "whisper-of-dawn",
+  "legacyUrls": [],
+  "category": "戒指",
+  "collection": "求婚",
+  "collections": [
+    "求婚"
+  ],
+  "productType": "ring",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "三顆主副鑽巧妙排列，如晨曦初綻的光芒，微光中傳遞著愛的心語。戒身流線優雅，展現溫柔與堅定並存的美感，象徵每一次心動的悸動與對未來的無聲承諾。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）的設計。\n\n 🔹 天然鑽款 ：0.3 克拉 D 色 VVS2，3EX 等級\n\n 🔹 培育鑽款 ：0.3 克拉 D 色 VVS2，3EX 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "description": "三顆主副鑽巧妙排列，如晨曦初綻的光芒，微光中傳遞著愛的心語。戒身流線優雅，展現溫柔與堅定並存的美感，象徵每一次心動的悸動與對未來的無聲承諾。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）的設計。\n\n 🔹 天然鑽款 ：0.3 克拉 D 色 VVS2，3EX 等級\n\n 🔹 培育鑽款 ：0.3 克拉 D 色 VVS2，3EX 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0068-whisper-of-dawn/localized/DSP-0068-main-01.png",
+      "alt": "晨曦心語 1",
+      "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0068-whisper-of-dawn/localized/DSP-0068-gallery-02.png",
+      "alt": "晨曦心語 2",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0068-whisper-of-dawn/localized/DSP-0068-gallery-03.png",
+      "alt": "晨曦心語 3",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0068-whisper-of-dawn/localized/DSP-0068-gallery-04.png",
+      "alt": "晨曦心語 4",
+      "role": "gallery"
+    }
+  ],
+  "video": "",
+  "seoTitle": "晨曦心語｜Whispér of Dawn",
+  "seoDescription": "三顆主副鑽巧妙排列，如晨曦初綻的光芒，微光中傳遞著愛的心語。戒身流線優雅，展現溫柔與堅定並存的美感，象徵每一次心動的悸動與對未來的無聲承諾。          ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。          📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：                                                        💬 客服中心                   💎 訂價基準           此款價格基於鉑金（PT950）的設計。              🔹 天然鑽款：0.3 克拉 D 色 VVS2，3EX 等級      🔹 培育鑽款：0.3 克拉 D 色 VVS2，3EX 等級              配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。      如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9210",
+  "originalUrl": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9210",
+  "inquiryText": "我想諮詢 晨曦心語｜Whispér of Dawn",
+  "frameworkStatus": "complete",
+  "contentStatus": "complete",
+  "imageStatus": "localized-api-gallery",
+  "mediaStatus": "localized-api-gallery",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "product-detail-content-migrated",
+  "sourceIds": [
+    "SRC-0202",
+    "SRC-0610"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0202",
+      "text": "晨曦心語｜Whispér of Dawn"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0610",
+      "text": "晨曦心語｜Whispér of Dawn"
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "57337025",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9210",
+      "text": ""
+    },
+    {
+      "sourceType": "cyberbiz-product-page",
+      "sourceId": "57337025",
+      "sourceFile": "https://www.dsdiamond.com.tw/zh-TW/products/%E5%A5%B3%E6%88%9210",
+      "text": "三顆主副鑽巧妙排列，如晨曦初綻的光芒，微光中傳遞著愛的心語。戒身流線優雅，展現溫柔與堅定並存的美感，象徵每一次心動的悸動與對未來的無聲承諾。\n\n ⚠️ 本商品需依據您的需求確認鑽石規格、戒圍尺寸、貴金屬材質等細節。為確保服務品質與產品完整度，目前暫不開放線上購物車結帳。\n\n 📩 購買與諮詢請透過 LINE 或客服中心聯絡我們：\n\n 💬 客服中心\n\n 💎 訂價基準\n\n 此款價格基於鉑金（PT950）的設計。\n\n 🔹 天然鑽款 ：0.3 克拉 D 色 VVS2，3EX 等級\n\n 🔹 培育鑽款 ：0.3 克拉 D 色 VVS2，3EX 等級\n\n 配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。\n\n 如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。",
+  "primaryCategory": "womens-diamond-rings",
+  "subcategories": [
+    "engagement-rings",
+    "classic-womens-rings"
+  ],
+  "audience": "women",
+  "diamondType": "natural-diamond",
+  "tags": [
+    "womens-diamond-rings",
+    "engagement-rings",
+    "ring",
+    "women",
+    "natural-diamond",
+    "classic-womens-rings"
+  ],
+  "legacyCategoryUrls": [],
+  "taxonomyStatus": "confirmed",
+  "taxonomyNotes": "Assigned mechanically from legacy collection/category strings and product route evidence.",
+  "collectionSlugs": [
+    "engagement-rings",
+    "womens-diamond-rings",
+    "classic-womens-rings"
+  ],
+  "displayPrice": "NT$25,000 - NT$42,000",
+  "shippingDescription": "",
+  "variants": [
+    {
+      "variantId": "69245267",
+      "sku": "DSF0010",
+      "name": "晨曦心語｜Whispér of Dawn",
+      "price": 42000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "天然鑽石"
+    },
+    {
+      "variantId": "70035328",
+      "sku": "DSF0010",
+      "name": "晨曦心語｜Whispér of Dawn",
+      "price": 25000,
+      "compareAtPrice": null,
+      "currency": "TWD",
+      "inventoryStatus": "safety",
+      "optionName": "實驗室培育鑽石"
+    }
+  ],
+  "priceMin": 25000,
+  "priceMax": 42000,
+  "productPageSourceStatus": "live-product-page-fetched",
+  "liveProductImageFolderId": "57337025",
+  "pricingStandards": {
+    "source": "description",
+    "materialStatement": "此款價格基於鉑金（PT950）的設計。",
+    "naturalDiamond": "天然鑽款：0.3 克拉 D 色 VVS2，3EX 等級",
+    "labDiamond": "培育鑽款：0.3 克拉 D 色 VVS2，3EX 等級",
+    "notes": [
+      "配鑽將依主鑽類型一致搭配，天然配天然，培育配培育。",
+      "如有特殊規格、材質更換或其他客製需求，歡迎洽詢專人服務。"
+    ]
+  },
+  "productDetailSections": [
+    {
+      "title": "規格說明",
+      "settingName": "product_description_section_spec",
+      "html": "<p><strong>材質選定：</strong></p>\n\n<ul>\n\t<li>提供鉑金（PT950）、18K金（白K、黃K、玫瑰金）等材質選擇。</li>\n\t<li>可搭配天然鑽石或實驗室培育鑽石，皆附國際認證證書。</li>\n\t<li>材質經專業檢驗，適合長期配戴與紀念。</li>\n</ul>\n \n\n<p><strong>戒圍量測：</strong></p>\n\n<ul>\n\t<li>可至門市協助量測，或提供既有戒指對照參考。</li>\n\t<li>下單後將免費寄送專業戒圍量測器至您指定地址。</li>\n</ul>\n \n\n<p><strong>刻字服務：</strong></p>\n\n<ul>\n\t<li>提供免費內圈刻字服務，可刻英文、數字與常見符號（如 ∞、♥）。</li>\n\t<li>建議字數不超過12字元，實際長度視戒指寬度而定。</li>\n\t<li>若有特殊刻字需求，請於下單時備註或聯絡客服確認。</li>\n</ul>"
+    },
+    {
+      "title": "運送方式",
+      "settingName": "product_description_section_shipping",
+      "html": "<p>為確保您的鑽石安全送達，我們提供以下兩種運送方式，讓您自由選擇：</p>\n\n<ul>\n\t<li>\n<strong>到店自取：</strong>您可親自至門市取件，享受專人服務與現場確認商品。</li>\n\t<li>\n<strong>專人配送：</strong>由本公司業務專員安全送達，並事先與您確認時間，確保交件順利。</li>\n</ul>"
+    }
+  ]
+}

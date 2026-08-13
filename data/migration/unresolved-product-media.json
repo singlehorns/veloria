@@ -1,0 +1,872 @@
+[
+  {
+    "legacyProductId": "DSP-0003",
+    "productName": "心弦共鳴",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0003-echo-of-us"
+  },
+  {
+    "legacyProductId": "DSP-0004",
+    "productName": "心金不渝",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0004-golden-vow"
+  },
+  {
+    "legacyProductId": "DSP-0005",
+    "productName": "心映愛語",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0005-pink-whisper"
+  },
+  {
+    "legacyProductId": "DSP-0006",
+    "productName": "心悅之吻",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0006-blush-kiss"
+  },
+  {
+    "legacyProductId": "DSP-0007",
+    "productName": "心境如初",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0007-rose-embrace"
+  },
+  {
+    "legacyProductId": "DSP-0008",
+    "productName": "心語之戀",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0008-amour-de-c-ur"
+  },
+  {
+    "legacyProductId": "DSP-0009",
+    "productName": "心耀之環",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0009-brilliant-embrace"
+  },
+  {
+    "legacyProductId": "DSP-0010",
+    "productName": "心鑽交織",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0010-eternal-entwine"
+  },
+  {
+    "legacyProductId": "DSP-0011",
+    "productName": "心鑽綻放",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0011-blooming-heart"
+  },
+  {
+    "legacyProductId": "DSP-0013",
+    "productName": "日耀承諾",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0013-solar-vow"
+  },
+  {
+    "legacyProductId": "DSP-0014",
+    "productName": "半壁江山",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0014-destined-dominion"
+  },
+  {
+    "legacyProductId": "DSP-0015",
+    "productName": "永恆心語",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0015-eternal-whisper"
+  },
+  {
+    "legacyProductId": "DSP-0016",
+    "productName": "永恆序曲",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0016-timeless-prelude"
+  },
+  {
+    "legacyProductId": "DSP-0017",
+    "productName": "交心之結",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0017-unity-knot"
+  },
+  {
+    "legacyProductId": "DSP-0022",
+    "productName": "光華永恆",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0022-eternal-halo"
+  },
+  {
+    "legacyProductId": "DSP-0023",
+    "productName": "光璨雙影",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0023-luminous-duet"
+  },
+  {
+    "legacyProductId": "DSP-0029",
+    "productName": "弧界之心",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0029-arc-contour"
+  },
+  {
+    "legacyProductId": "DSP-0030",
+    "productName": "弧鑽序影",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0030-arc-diamond-sequence"
+  },
+  {
+    "legacyProductId": "DSP-0031",
+    "productName": "玫光心語",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0031-rose-heart-whisper"
+  },
+  {
+    "legacyProductId": "DSP-0032",
+    "productName": "花序微光",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0032-floral-constellation"
+  },
+  {
+    "legacyProductId": "DSP-0033",
+    "productName": "花冕之心",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0033-crowned-heart-grace"
+  },
+  {
+    "legacyProductId": "DSP-0034",
+    "productName": "金緻花語",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0034-golden-bloom"
+  },
+  {
+    "legacyProductId": "DSP-0035",
+    "productName": "金曜凝光",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0035-golden-halo-radiance"
+  },
+  {
+    "legacyProductId": "DSP-0036",
+    "productName": "金耀華章",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0036-golden-sonata"
+  },
+  {
+    "legacyProductId": "DSP-0037",
+    "productName": "金耀圓華",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0037-circle-of-radiance"
+  },
+  {
+    "legacyProductId": "DSP-0038",
+    "productName": "冠芒相守",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0038-crowned-promise"
+  },
+  {
+    "legacyProductId": "DSP-0039",
+    "productName": "契合之環",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0039-harmonic-loop"
+  },
+  {
+    "legacyProductId": "DSP-0040",
+    "productName": "帝后之鑽",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0040-majestic-regalia"
+  },
+  {
+    "legacyProductId": "DSP-0044",
+    "productName": "恆軸之戒",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0044-axis-of-steadfast"
+  },
+  {
+    "legacyProductId": "DSP-0045",
+    "productName": "恆穩之光",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0045-eterna-shine"
+  },
+  {
+    "legacyProductId": "DSP-0046",
+    "productName": "恆耀之鏈",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0046-eternal-sparkle"
+  },
+  {
+    "legacyProductId": "DSP-0047",
+    "productName": "星芒之約",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0047-stellar-promise"
+  },
+  {
+    "legacyProductId": "DSP-0048",
+    "productName": "星語之願",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0048-starlit-promise"
+  },
+  {
+    "legacyProductId": "DSP-0049",
+    "productName": "星語心願",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0049-stellar-promise"
+  },
+  {
+    "legacyProductId": "DSP-0050",
+    "productName": "星語名鍊",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0050-stellar-name"
+  },
+  {
+    "legacyProductId": "DSP-0051",
+    "productName": "星語誓約",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0051-celestial-vow"
+  },
+  {
+    "legacyProductId": "DSP-0052",
+    "productName": "星影之語",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0052-starlit-promise"
+  },
+  {
+    "legacyProductId": "DSP-0053",
+    "productName": "星環映粹",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0053-celestial-halo-radiance"
+  },
+  {
+    "legacyProductId": "DSP-0055",
+    "productName": "星願經典",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0055-brilliant-wish"
+  },
+  {
+    "legacyProductId": "DSP-0056",
+    "productName": "星瀾綻放",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0056-celestial-bloom"
+  },
+  {
+    "legacyProductId": "DSP-0057",
+    "productName": "星耀經典",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0057-stellar-studs"
+  },
+  {
+    "legacyProductId": "DSP-0058",
+    "productName": "流光心語",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0058-gleaming-vow"
+  },
+  {
+    "legacyProductId": "DSP-0059",
+    "productName": "相契之刻",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0059-bonded-edge"
+  },
+  {
+    "legacyProductId": "DSP-0060",
+    "productName": "海霧之願",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0060-azure-wish"
+  },
+  {
+    "legacyProductId": "DSP-0061",
+    "productName": "秘語心印",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0061-hidden-whisper"
+  },
+  {
+    "legacyProductId": "DSP-0062",
+    "productName": "粉芒之淚",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0062-blush-teardrop"
+  },
+  {
+    "legacyProductId": "DSP-0063",
+    "productName": "粉愛花冠",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0063-pink-crown-of-love"
+  },
+  {
+    "legacyProductId": "DSP-0065",
+    "productName": "晨曜方華",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0065-aurora-cushion-gleam"
+  },
+  {
+    "legacyProductId": "DSP-0066",
+    "productName": "晨曦之光",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0066-morning-glow"
+  },
+  {
+    "legacyProductId": "DSP-0067",
+    "productName": "晨曦之舞",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0067-akatsuki-dance"
+  },
+  {
+    "legacyProductId": "DSP-0068",
+    "productName": "晨曦心語",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0068-whisper-of-dawn"
+  },
+  {
+    "legacyProductId": "DSP-0069",
+    "productName": "晨曦蜜語",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0069-rose-whisper"
+  },
+  {
+    "legacyProductId": "DSP-0070",
+    "productName": "雫月之心",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0070-lune-drop"
+  },
+  {
+    "legacyProductId": "DSP-0072",
+    "productName": "湛藍晨曦",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0072-azure-aurora"
+  },
+  {
+    "legacyProductId": "DSP-0073",
+    "productName": "絢麗花語",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0073-blooming-grace"
+  },
+  {
+    "legacyProductId": "DSP-0074",
+    "productName": "黃K金轉運戒 ( 三排 )",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0074-黃k金轉運戒-三排"
+  },
+  {
+    "legacyProductId": "DSP-0075",
+    "productName": "黃K金轉運戒 ( 雙排 )",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0075-黃k金轉運戒-雙排"
+  },
+  {
+    "legacyProductId": "DSP-0076",
+    "productName": "黃K金轉運戒(單排)",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0076-黃k金轉運戒-單排"
+  },
+  {
+    "legacyProductId": "DSP-0077",
+    "productName": "暖曜心語",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0077-amber-promise-glow"
+  },
+  {
+    "legacyProductId": "DSP-0078",
+    "productName": "極光之環",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0078-aurora-hoops"
+  },
+  {
+    "legacyProductId": "DSP-0080",
+    "productName": "極簡星芒",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0080-minimal-radiance"
+  },
+  {
+    "legacyProductId": "DSP-0081",
+    "productName": "稜境之耀",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0081-edge-of-radiance"
+  },
+  {
+    "legacyProductId": "DSP-0082",
+    "productName": "鉑金轉運戒 ( 三排 )",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0082-鉑金轉運戒-三排"
+  },
+  {
+    "legacyProductId": "DSP-0083",
+    "productName": "鉑金轉運戒 ( 單排 )",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0083-鉑金轉運戒-單排"
+  },
+  {
+    "legacyProductId": "DSP-0084",
+    "productName": "鉑金轉運戒 ( 雙排 )",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0084-鉑金轉運戒-雙排"
+  },
+  {
+    "legacyProductId": "DSP-0085",
+    "productName": "夢境花綻",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0085-blossom-reverie"
+  },
+  {
+    "legacyProductId": "DSP-0086",
+    "productName": "緋曜格序",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0086-rose-architectural-halo"
+  },
+  {
+    "legacyProductId": "DSP-0087",
+    "productName": "緋露晨光",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0087-rose-dew-radiance"
+  },
+  {
+    "legacyProductId": "DSP-0088",
+    "productName": "銀耀之冠",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0088-crown-of-argent-radiance"
+  },
+  {
+    "legacyProductId": "DSP-0089",
+    "productName": "璀璨星語",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0089-sparkling-whisper"
+  },
+  {
+    "legacyProductId": "DSP-0090",
+    "productName": "蝶映粉光",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0090-blush-butterfly-radiance"
+  },
+  {
+    "legacyProductId": "DSP-0091",
+    "productName": "鋒耀之冠",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0091-dominion-crest"
+  },
+  {
+    "legacyProductId": "DSP-0092",
+    "productName": "凝光心羽",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0092-ethereal-heart-petals"
+  },
+  {
+    "legacyProductId": "DSP-0094",
+    "productName": "靜線之約",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0094-silent-line"
+  },
+  {
+    "legacyProductId": "DSP-0095",
+    "productName": "靜謐之心",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0095-silent-pink-heart"
+  },
+  {
+    "legacyProductId": "DSP-0096",
+    "productName": "曖曖之心",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0096-tender-glow"
+  },
+  {
+    "legacyProductId": "DSP-0097",
+    "productName": "璨淚光華",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0097-tear-of-brilliance"
+  },
+  {
+    "legacyProductId": "DSP-0098",
+    "productName": "曜映之環",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0098-radiant-bond"
+  },
+  {
+    "legacyProductId": "DSP-0100",
+    "productName": "曜域光序",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0100-radiant-domain-halo"
+  },
+  {
+    "legacyProductId": "DSP-0101",
+    "productName": "織夢華語",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0101-woven-dream"
+  },
+  {
+    "legacyProductId": "DSP-0103",
+    "productName": "藍戀花冠",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0103-blue-crown-of-love"
+  },
+  {
+    "legacyProductId": "DSP-0104",
+    "productName": "鎏光華紋",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0104-regal-radiance"
+  },
+  {
+    "legacyProductId": "DSP-0105",
+    "productName": "雙心守護",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0105-double-heart-embrace"
+  },
+  {
+    "legacyProductId": "DSP-0106",
+    "productName": "離心誓約",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0106-fine-jewelry-ring"
+  },
+  {
+    "legacyProductId": "DSP-0109",
+    "productName": "權耀之環",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0109-dominion-halo"
+  },
+  {
+    "legacyProductId": "DSP-0110",
+    "productName": "戀光之心",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0110-blush-halo-promise"
+  },
+  {
+    "legacyProductId": "DSP-0111",
+    "productName": "戀戀星語",
+    "legacyUrls": [],
+    "expectedImageCount": 0,
+    "downloadedImageCount": 0,
+    "failedDownloads": [],
+    "status": "缺少圖片",
+    "folder": "public/assets/migrated/products/DSP-0111-starlit-murmurs"
+  }
+]

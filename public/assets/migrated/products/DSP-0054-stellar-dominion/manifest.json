@@ -1,0 +1,85 @@
+{
+  "legacyProductId": "DSP-0054",
+  "productName": "星曜領主",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/男戒12-20250726122514"
+  ],
+  "expectedImageCount": 4,
+  "detectedReferences": [
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMTlfZWQxNmJlYTZhMzNmYzc3YTdhOWIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=2f2229d3fe72530e",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMTlfZWQxNmJlYTZhMzNmYzc3YTdhOWIucG5nIl1d.png?sha=2f2229d3fe72530e",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/57902803/1753504319_ed16bea6a33fc77a7a9b.png",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    },
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMTlfZDI5YWEzMDY5YWM2NjZmYmQ1NzIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=ded28d92b88a4b1a",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMTlfZDI5YWEzMDY5YWM2NjZmYmQ1NzIucG5nIl1d.png?sha=ded28d92b88a4b1a",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/57902803/1753504319_d29aa3069ac666fbd572.png",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    },
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMTlfN2VmOTkxOGMxOTA0ODU0MWNkOWYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=9c6f5a8b4851ccdf",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMTlfN2VmOTkxOGMxOTA0ODU0MWNkOWYucG5nIl1d.png?sha=9c6f5a8b4851ccdf",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/57902803/1753504319_7ef9918c19048541cd9f.png",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    },
+    {
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMjBfNmZhY2ExNjg3NWNlYzQzMjA1MzQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=10d1a8b8d0f4d5c4",
+      "originalCandidateUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMjBfNmZhY2ExNjg3NWNlYzQzMjA1MzQucG5nIl1d.png?sha=10d1a8b8d0f4d5c4",
+      "role": "gallery",
+      "evidence": "referenced-urls.csv decoded path: 33338/products/57902803/1753504320_6faca16875cec4320534.png",
+      "sourceFile": "../dsdiamond_backup/migration/referenced-urls.csv"
+    }
+  ],
+  "downloadedFiles": [
+    {
+      "file": "public/assets/migrated/products/DSP-0054-stellar-dominion/source/DSP-0054-main-01.png",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMTlfZWQxNmJlYTZhMzNmYzc3YTdhOWIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=2f2229d3fe72530e",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMTlfZWQxNmJlYTZhMzNmYzc3YTdhOWIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=2f2229d3fe72530e",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "1e3d69d3343edf0ef9665da03968dee2a27df50b97c0691c9ccb1778d183da8b",
+      "sizeBytes": 226777
+    },
+    {
+      "file": "public/assets/migrated/products/DSP-0054-stellar-dominion/source/DSP-0054-gallery-02.png",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMTlfZDI5YWEzMDY5YWM2NjZmYmQ1NzIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=ded28d92b88a4b1a",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMTlfZDI5YWEzMDY5YWM2NjZmYmQ1NzIucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=ded28d92b88a4b1a",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "d39de4d42128ee65024d591f9e4b00e5277bc93a4306a1c3ddcc81f1a8f9e315",
+      "sizeBytes": 133750
+    },
+    {
+      "file": "public/assets/migrated/products/DSP-0054-stellar-dominion/source/DSP-0054-gallery-03.png",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMTlfN2VmOTkxOGMxOTA0ODU0MWNkOWYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=9c6f5a8b4851ccdf",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMTlfN2VmOTkxOGMxOTA0ODU0MWNkOWYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=9c6f5a8b4851ccdf",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "f164b063c5d924a3d272976ee904880c7cc315f893d6db7f6febfd069b17b845",
+      "sizeBytes": 243204
+    },
+    {
+      "file": "public/assets/migrated/products/DSP-0054-stellar-dominion/source/DSP-0054-gallery-04.png",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMjBfNmZhY2ExNjg3NWNlYzQzMjA1MzQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=10d1a8b8d0f4d5c4",
+      "usedUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3OTAyODAzLzE3NTM1MDQzMjBfNmZhY2ExNjg3NWNlYzQzMjA1MzQucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=10d1a8b8d0f4d5c4",
+      "method": "http-download",
+      "sourcePath": "",
+      "sha256": "cce6b4eefafa30de4d98f86dbcb4c601650bfda59f0100284187165c847f79b1",
+      "sizeBytes": 157481
+    }
+  ],
+  "failedDownloads": [],
+  "duplicateFiles": [],
+  "unclassifiedFiles": [],
+  "status": "完整",
+  "notes": []
+}

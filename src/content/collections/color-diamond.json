@@ -1,0 +1,17 @@
+{
+  "name": "彩色鑽石專區",
+  "slug": "color-diamond",
+  "englishName": "Color Diamonds",
+  "summary": "以稀有色彩與珠寶設計，呈現比白鑽更個人化的收藏語言。",
+  "description": "彩色鑽石著重色彩飽和度、色調與設計搭配。VELORIA提供黃鑽、粉鑽、藍鑽等彩鑽諮詢。",
+  "heroImage": {
+    "src": "/assets/jewelry/celestial-bloom-ring.jpeg",
+    "alt": "彩色鑽石系列"
+  },
+  "products": [
+    "celestial-bloom"
+  ],
+  "featured": true,
+  "seoTitle": "彩色鑽石專區",
+  "seoDescription": "VELORIA彩鑽專區，提供彩色鑽石知識、珠寶設計與客製諮詢。"
+}

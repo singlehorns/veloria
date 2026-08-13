@@ -1,0 +1,9 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import FormalContentPage from '@components/legacy/FormalContentPage.astro';
+import page from '../../../data/formal-content/pages/terms.json';
+---
+
+<BaseLayout title={page.metaTitle} description={page.metaDescription} canonical={page.newUrl}>
+  <FormalContentPage page={page} />
+</BaseLayout>

@@ -1,0 +1,134 @@
+---
+interface Props {
+  product: any;
+  index?: number;
+}
+
+const { product, index = 0 } = Astro.props;
+const data = product.data ?? product;
+const image = data.images?.[0];
+const displayName = data.englishName && data.name && data.name !== data.englishName
+  ? `${data.name} | ${data.englishName}`
+  : data.englishName || data.name;
+const price = data.price || data.displayPrice || data.salePrice || '價格洽詢';
+const priceNumbers = Array.from(String(price).matchAll(/\d[\d,]*/g))
+  .map((match) => Number(match[0].replace(/,/g, '')))
+  .filter((value) => Number.isFinite(value) && value > 0);
+const priceMin = priceNumbers.length ? Math.min(...priceNumbers) : 0;
+const priceMax = priceNumbers.length ? Math.max(...priceNumbers) : priceMin;
+---
+
+<article
+  class="product-card"
+  data-product-card
+  data-index={index}
+  data-name={displayName}
+  data-price={priceMin}
+  data-price-min={priceMin}
+  data-price-max={priceMax}
+>
+  <a href={`/products/${data.slug}/`} aria-label={`查看 ${displayName}`}>
+    <div class="product-image">
+      {image ? (
+        <img src={image.src} alt={image.alt || displayName} loading="lazy" />
+      ) : (
+        <span>暫無圖片</span>
+      )}
+    </div>
+    <div class="product-info">
+      <h3>{displayName}</h3>
+      <p>{price}</p>
+    </div>
+  </a>
+</article>
+
+<style>
+  .product-card a {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .product-image {
+    display: grid;
+    place-items: center;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    background: #fbfaf8;
+    overflow: hidden;
+    isolation: isolate;
+  }
+
+  .product-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding: 12%;
+    mix-blend-mode: multiply;
+    filter: brightness(1.025) contrast(1.02) saturate(0.9);
+  }
+
+  .product-image span {
+    color: var(--color-muted);
+  }
+
+  .product-info {
+    display: grid;
+    gap: 0.65rem;
+    min-width: 0;
+  }
+
+  .product-info h3 {
+    margin: 0;
+    color: var(--color-ink);
+    font-family: var(--font-functional-sans);
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.45;
+    overflow-wrap: anywhere;
+  }
+
+  .product-info p {
+    margin: 0;
+    color: var(--color-ink-soft);
+  }
+
+  :global(.product-list.is-list) .product-card a {
+    grid-template-columns: 180px minmax(0, 1fr);
+    align-items: center;
+  }
+
+  :global(.product-list.is-list) .product-image {
+    aspect-ratio: 4 / 3;
+  }
+
+  :global(.product-list.is-list) .product-image img {
+    padding: 8%;
+  }
+
+  @media (max-width: 620px) {
+    .product-card a {
+      gap: 0.62rem;
+    }
+
+    .product-image img {
+      padding: 10%;
+    }
+
+    .product-info {
+      gap: 0.35rem;
+    }
+
+    .product-info h3 {
+      font-size: 0.84rem;
+      line-height: 1.35;
+    }
+
+    .product-info p {
+      font-size: 0.78rem;
+    }
+
+    :global(.product-list.is-list) .product-card a {
+      grid-template-columns: minmax(92px, 32vw) minmax(0, 1fr);
+    }
+  }
+</style>

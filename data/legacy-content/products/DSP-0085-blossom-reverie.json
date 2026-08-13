@@ -1,0 +1,92 @@
+{
+  "legacyProductId": "DSP-0085",
+  "legacyCyberbizId": "57337049",
+  "name": "夢境花綻",
+  "englishName": "Blossom Reverie",
+  "originalDisplayName": "夢境花綻｜Blossom Reverie",
+  "slug": "blossom-reverie",
+  "legacyUrls": [],
+  "category": "彩色鑽石專區 | 粉鑽",
+  "collection": "ring-female | 彩色鑽石專區 | 粉鑽 | 經典女戒",
+  "collections": [
+    "ring-female",
+    "彩色鑽石專區",
+    "粉鑽",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "夢境花綻｜Blossom Reverie 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "夢境花綻｜Blossom Reverie",
+  "seoDescription": "夢境花綻｜Blossom Reverie，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 夢境花綻｜Blossom Reverie",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0100",
+    "SRC-0145",
+    "SRC-0155",
+    "SRC-0213",
+    "SRC-0223",
+    "SRC-0263",
+    "SRC-0542"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0100",
+      "text": "夢境花綻｜Blossom Reverie"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0145",
+      "text": "夢境花綻｜Blossom Reverie"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0155",
+      "text": "夢境花綻｜Blossom Reverie"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0213",
+      "text": "夢境花綻｜Blossom Reverie"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0223",
+      "text": "夢境花綻｜Blossom Reverie"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0263",
+      "text": "夢境花綻｜Blossom Reverie"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0542",
+      "text": "夢境花綻｜Blossom Reverie"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

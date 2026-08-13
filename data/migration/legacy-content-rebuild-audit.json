@@ -1,0 +1,29 @@
+{
+  "legacyPageCount": 47,
+  "nonFunctionPageCount": 35,
+  "functionPageCount": 12,
+  "backedUpPageCount": 47,
+  "astroArchivePageCount": 47,
+  "contentBlockCount": 1739,
+  "pageImageReferenceCount": 508,
+  "productCount": 111,
+  "productDataFiles": 111,
+  "productFrameworkComplete": 111,
+  "productContentComplete": 0,
+  "productContentPartial": 2,
+  "productContentMissing": 109,
+  "productMediaComplete": 24,
+  "productMediaMissing": 87,
+  "connectedProductImages": 96,
+  "wrongOrPlaceholderImages": 0,
+  "productLegacyUrls": 24,
+  "referencedProductMediaUnassigned": 5,
+  "critical": [],
+  "major": [
+    "多數商品缺少原始介紹與規格；已建立框架與狀態，但不得標示 content-complete。",
+    "87 個商品沒有可確認產品圖片；已使用無圖片版型，不套用錯圖。"
+  ],
+  "minor": [
+    "舊站商品圖來源多為 CYBERBIZ 600x600 thumb URL，高解析原圖若 CDN 不公開需人工補齊。"
+  ]
+}

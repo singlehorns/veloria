@@ -1,0 +1,64 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import ProductCategorySidebar from '@components/products/ProductCategorySidebar.astro';
+import ProductGrid from '@components/products/ProductGrid.astro';
+import { primaryCategoryLabels } from '@data/productCategories';
+import { productCollectionOrder } from '@data/productCollectionOrder';
+import taxonomy from '../../../data/migration/product-taxonomy-master.json';
+
+export async function getStaticPaths() {
+  return taxonomy
+    .filter((item: any) => item.categoryType === 'primary-category')
+    .map((category: any) => ({ params: { category: category.slug }, props: { category } }));
+}
+
+const { category } = Astro.props;
+const products = await getCollection('products');
+const order = productCollectionOrder[category.slug as keyof typeof productCollectionOrder] ?? [];
+const orderIndex = new Map<string, number>(order.map((slug, index) => [slug, index]));
+const hasSyncedCollection = category.slug in productCollectionOrder;
+const filtered = products
+  .filter((product) =>
+    hasSyncedCollection
+      ? orderIndex.has(product.data.slug)
+      : product.data.primaryCategory === category.slug
+  )
+  .sort((a, b) => (orderIndex.get(a.data.slug) ?? 9999) - (orderIndex.get(b.data.slug) ?? 9999));
+const title = primaryCategoryLabels[category.slug] ?? category.name;
+---
+
+<BaseLayout title={title} description={category.seoDescription} image={category.heroImage} canonical={`/categories/${category.slug}/`}>
+  <section class="section catalog-section">
+    <div class="container category-layout">
+      <ProductCategorySidebar taxonomy={taxonomy} activeCategory={category.slug} />
+      <ProductGrid products={filtered} title={title} />
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .catalog-section {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .category-layout {
+    display: grid;
+    width: min(calc(100% - clamp(32px, 7vw, 128px)), 1120px);
+    grid-template-columns: 220px minmax(0, 1fr);
+    gap: var(--space-6);
+    align-items: start;
+  }
+
+  @media (max-width: 900px) {
+    .catalog-section {
+      padding-block: 1rem 2.6rem;
+    }
+
+    .category-layout {
+      width: min(calc(100% - 28px), 1120px);
+      grid-template-columns: 1fr;
+      gap: 1.05rem;
+    }
+  }
+</style>

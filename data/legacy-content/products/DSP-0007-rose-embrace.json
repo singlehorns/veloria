@@ -1,0 +1,71 @@
+{
+  "legacyProductId": "DSP-0007",
+  "legacyCyberbizId": "57339026",
+  "name": "心境如初",
+  "englishName": "Rose Embrace",
+  "originalDisplayName": "心境如初｜Rose Embrace",
+  "slug": "rose-embrace",
+  "legacyUrls": [],
+  "category": "項鍊",
+  "collection": "necklace",
+  "collections": [
+    "necklace"
+  ],
+  "productType": "項鍊",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "心境如初｜Rose Embrace 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "心境如初｜Rose Embrace",
+  "seoDescription": "心境如初｜Rose Embrace，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 心境如初｜Rose Embrace",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0038",
+    "SRC-0048",
+    "SRC-0480",
+    "SRC-0490"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0038",
+      "text": "心境如初｜Rose Embrace"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0048",
+      "text": "心境如初｜Rose Embrace"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0480",
+      "text": "心境如初｜Rose Embrace"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0490",
+      "text": "心境如初｜Rose Embrace"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

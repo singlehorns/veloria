@@ -1,0 +1,24 @@
+{
+  "name": "轉運男戒",
+  "slug": "轉運男戒",
+  "englishName": "轉運男戒",
+  "summary": "黃K金轉運戒 ( 三排 ) 鉑金轉運戒 ( 三排 ) 鉑金轉運戒 ( 雙排 ) 鉑金轉運戒 ( 單排 )",
+  "description": "黃K金轉運戒 ( 三排 ) 鉑金轉運戒 ( 三排 ) 鉑金轉運戒 ( 雙排 ) 鉑金轉運戒 ( 單排 )",
+  "heroImage": {
+    "src": "/assets/banners/atelier-service-banner.jpeg",
+    "alt": "轉運男戒"
+  },
+  "products": [
+    "yellow-gold-lucky-ring-triple",
+    "platinum-lucky-ring-triple",
+    "platinum-lucky-ring-double",
+    "platinum-lucky-ring-single"
+  ],
+  "featured": false,
+  "seoTitle": "轉運男戒 VELORIA",
+  "seoDescription": "黃K金轉運戒 ( 三排 ) 鉑金轉運戒 ( 三排 ) 鉑金轉運戒 ( 雙排 ) 鉑金轉運戒 ( 單排 )",
+  "originalUrl": "https://www.dsdiamond.com.tw/collections/轉運男戒",
+  "originalSource": "../dsdiamond_backup/brand-data/brand-routes.json",
+  "migrationStatus": "部分缺失",
+  "migrationNotes": "由舊站 brand-routes 自動補回系列頁入口；產品、圖片與完整區塊仍需人工核對。"
+}

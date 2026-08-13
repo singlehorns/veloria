@@ -1,0 +1,60 @@
+{
+  "legacyProductId": "DSP-0090",
+  "legacyCyberbizId": "59069317",
+  "name": "蝶映粉光",
+  "englishName": "Blush Butterfly Radiance",
+  "originalDisplayName": "蝶映粉光｜Blush Butterfly Radiance",
+  "slug": "blush-butterfly-radiance",
+  "legacyUrls": [],
+  "category": "戒指",
+  "collection": "彩色鑽石專區 | 粉鑽",
+  "collections": [
+    "彩色鑽石專區",
+    "粉鑽"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "蝶映粉光｜Blush Butterfly Radiance 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [],
+  "video": "",
+  "seoTitle": "蝶映粉光｜Blush Butterfly Radiance",
+  "seoDescription": "蝶映粉光｜Blush Butterfly Radiance，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "",
+  "originalUrl": "",
+  "inquiryText": "我想諮詢 蝶映粉光｜Blush Butterfly Radiance",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "missing",
+  "mediaStatus": "missing",
+  "routeStatus": "no-legacy-product-route",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0175",
+    "SRC-0236"
+  ],
+  "sourceFiles": [],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0175",
+      "text": "蝶映粉光｜Blush Butterfly Radiance"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0236",
+      "text": "蝶映粉光｜Blush Butterfly Radiance"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

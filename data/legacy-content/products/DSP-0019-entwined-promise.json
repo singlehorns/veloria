@@ -1,0 +1,170 @@
+{
+  "legacyProductId": "DSP-0019",
+  "legacyCyberbizId": "57337040",
+  "name": "交織之約",
+  "englishName": "Entwined Promise",
+  "originalDisplayName": "交織之約｜Entwined Promise",
+  "slug": "entwined-promise",
+  "legacyUrls": [
+    "https://www.dsdiamond.com.tw/products/女戒24"
+  ],
+  "category": "女士鑽戒 | 求婚戒指 | 經典女戒",
+  "collection": "ring-female | 求婚 | 經典女戒",
+  "collections": [
+    "ring-female",
+    "求婚",
+    "經典女戒"
+  ],
+  "productType": "戒指",
+  "variantType": "",
+  "parentProductId": "",
+  "shortDescription": "交織之約｜Entwined Promise 為舊 CYBERBIZ 網站中可確認的商品名稱。",
+  "description": "",
+  "material": "",
+  "mainStone": "",
+  "sideStone": "",
+  "diamondShape": "",
+  "shape": "",
+  "color": "",
+  "certificate": "",
+  "specifications": "",
+  "images": [
+    {
+      "src": "/assets/migrated/products/DSP-0019-entwined-promise/source/DSP-0019-main-01.png",
+      "alt": "交織之約｜Entwined Promise 1",
+      "role": "main",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDQwLzE3NTIwMzQ4NDJfYjNlMWI5ZmYwMDY5MDkyNGRhZjEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=80b7d283a94d4b8e",
+      "sourcePath": "",
+      "sha256": "47db42e25be570a5311eadd8e82546230c9737e654c07b35d162a0c4c63cbda7"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0019-entwined-promise/source/DSP-0019-gallery-02.png",
+      "alt": "交織之約｜Entwined Promise 2",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDQwLzE3NTIwMzQ4NDJfZjQwYTI2MDY1NzY2MTU5YmRjNjEucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=1de78cfd5246a5c4",
+      "sourcePath": "",
+      "sha256": "93d4f935dbcd771d0de093fe25216528f5947b8d29caf1518c336f78647c61d9"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0019-entwined-promise/source/DSP-0019-gallery-03.png",
+      "alt": "交織之約｜Entwined Promise 3",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDQwLzE3NTIwMzQ4NDJfN2E0NTg0ZjYxNDAzMDQ3YmM0NGUucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=16e4040703dedc41",
+      "sourcePath": "",
+      "sha256": "3753dcf07219a04f0636f6d5e497121e590e82143765c2144cea7e9d47437136"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0019-entwined-promise/source/DSP-0019-gallery-04.png",
+      "alt": "交織之約｜Entwined Promise 4",
+      "role": "gallery",
+      "originalUrl": "https://cdn-general.cybassets.com/media/W1siZiIsIjMzMzM4L3Byb2R1Y3RzLzU3MzM3MDQwLzE3NTIwMzQ4NDJfOTNmN2VmNTliNjk1NWNhYzAyMmYucG5nIl0sWyJwIiwidGh1bWIiLCI2MDB4NjAwIl1d.png?sha=c7402fa17cb45b12",
+      "sourcePath": "",
+      "sha256": "37a201d3a6b39ed2fb6798aa0cceb725948f47a46c5bdf3584f55917b5bd9a70"
+    }
+  ],
+  "video": "",
+  "seoTitle": "交織之約｜Entwined Promise",
+  "seoDescription": "交織之約｜Entwined Promise，來源為鑽之韻舊 CYBERBIZ 網站備份。",
+  "canonicalUrl": "https://www.dsdiamond.com.tw/products/女戒24",
+  "originalUrl": "https://www.dsdiamond.com.tw/products/女戒24",
+  "inquiryText": "我想諮詢 交織之約｜Entwined Promise",
+  "frameworkStatus": "complete",
+  "contentStatus": "missing",
+  "imageStatus": "complete",
+  "mediaStatus": "complete",
+  "routeStatus": "redirect-needed",
+  "overallStatus": "partial",
+  "migrationStatus": "framework-complete",
+  "sourceIds": [
+    "SRC-0079",
+    "SRC-0089",
+    "SRC-0178",
+    "SRC-0188",
+    "SRC-0242",
+    "SRC-0252",
+    "SRC-0355",
+    "SRC-0404",
+    "SRC-0433",
+    "SRC-0521",
+    "SRC-0531",
+    "SRC-0586",
+    "SRC-0596",
+    "SRC-0623"
+  ],
+  "sourceFiles": [
+    "../dsdiamond_backup/migration/referenced-urls.csv"
+  ],
+  "rawSources": [
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0079",
+      "text": "交織之約｜Entwined Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0089",
+      "text": "交織之約｜Entwined Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0178",
+      "text": "交織之約｜Entwined Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0188",
+      "text": "交織之約｜Entwined Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0242",
+      "text": "交織之約｜Entwined Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0252",
+      "text": "交織之約｜Entwined Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0355",
+      "text": "交織之約｜Entwined Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0404",
+      "text": "交織之約｜Entwined Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0433",
+      "text": "交織之約｜Entwined Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0521",
+      "text": "交織之約｜Entwined Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0531",
+      "text": "交織之約｜Entwined Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0586",
+      "text": "交織之約｜Entwined Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0596",
+      "text": "交織之約｜Entwined Promise"
+    },
+    {
+      "sourceType": "product-source-master",
+      "sourceId": "SRC-0623",
+      "text": "交織之約｜Entwined Promise"
+    }
+  ],
+  "migrationNotes": "舊列表 JSON 未提供完整介紹；需產品詳細頁補齊。"
+}

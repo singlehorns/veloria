@@ -1,0 +1,91 @@
+---
+interface Props {
+  eyebrow?: string;
+  title: string;
+  description: string;
+  image?: string;
+  imageAlt?: string;
+  primaryHref?: string;
+  primaryLabel?: string;
+  secondaryHref?: string;
+  secondaryLabel?: string;
+}
+const props = Astro.props;
+---
+
+<section class="page-hero">
+  {props.image && <img src={props.image} alt={props.imageAlt ?? ''} class="hero-image" />}
+  <div class="hero-overlay"></div>
+  <div class="container hero-content reveal">
+    {props.eyebrow && <p class="eyebrow">{props.eyebrow}</p>}
+    <h1>{props.title}</h1>
+    <p>{props.description}</p>
+    <div class="hero-actions">
+      {props.primaryHref && <a class="button" href={props.primaryHref}>{props.primaryLabel}</a>}
+      {props.secondaryHref && <a class="button secondary" href={props.secondaryHref}>{props.secondaryLabel}</a>}
+    </div>
+  </div>
+</section>
+
+<style>
+  .page-hero {
+    position: relative;
+    min-height: min(720px, calc(100vh - 76px));
+    display: grid;
+    align-items: end;
+    overflow: hidden;
+    background: var(--color-deep-blue);
+  }
+
+  .hero-image,
+  .hero-overlay {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .hero-image {
+    object-fit: cover;
+  }
+
+  .hero-overlay {
+    background: linear-gradient(90deg, rgba(12, 23, 36, 0.86), rgba(12, 23, 36, 0.46), rgba(12, 23, 36, 0.1));
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 1;
+    max-width: 760px;
+    padding: 7rem 0 5rem;
+    color: rgba(255, 255, 255, 0.82);
+  }
+
+  .hero-content h1 {
+    margin: 0.5rem 0 1rem;
+    color: white;
+  }
+
+  .hero-content p:not(.eyebrow) {
+    max-width: 650px;
+    font-size: 1.12rem;
+  }
+
+  .hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    margin-top: 1.8rem;
+  }
+
+  .hero-actions .secondary {
+    border-color: white;
+    color: white;
+  }
+
+  @media (max-width: 700px) {
+    .page-hero {
+      min-height: 620px;
+    }
+  }
+</style>
