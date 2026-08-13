@@ -427,7 +427,7 @@ const productDisplayPrice = (product: any) =>
 
     <div class="collection-stage">
       <div class="collection-container">
-        <div class="collection-carousel" data-carousel>
+        <div class="collection-carousel" data-carousel data-carousel-autoplay="4200">
           <div class="collection-track" data-carousel-track>
             {recommendationProducts.map((product: any, index) => (
               <a class:list={['collection-showcase-card recommendation-showcase-card', 'reveal', `line-${Math.min(index + 1, 4)}`]} href={productHref(product)} aria-label={`查看 ${productDisplayName(product, product.name)}`}>
@@ -1856,14 +1856,14 @@ const productDisplayPrice = (product: any) =>
   }
 
   .hero-news-strip {
-    --hero-news-left: clamp(52px, 3.4vw, 86px);
+    --hero-news-left: 0px;
 
     position: relative;
     z-index: 8;
     display: flex;
     justify-content: flex-start;
-    width: min(980px, calc(100% - var(--hero-news-left) - clamp(24px, 5vw, 96px)));
-    margin: clamp(-54px, -3.5vw, -36px) auto clamp(-24px, -1.8vw, -14px) var(--hero-news-left);
+    width: min(980px, 100%);
+    margin: clamp(-82px, -5.1vw, -58px) auto clamp(-24px, -1.8vw, -14px) var(--hero-news-left);
     pointer-events: none;
   }
 
@@ -1873,14 +1873,14 @@ const productDisplayPrice = (product: any) =>
     align-items: center;
     gap: clamp(1rem, 2vw, 2rem);
     width: min(100%, 980px);
-    border: 1px solid rgba(17, 17, 17, 0.07);
+    border: 0;
     padding: clamp(1.1rem, 2vw, 1.65rem) clamp(1.25rem, 3vw, 2.4rem);
     background: #fff;
     color: var(--color-ink);
     font: inherit;
     text-align: left;
     text-decoration: none;
-    box-shadow: 0 20px 54px rgba(12, 32, 48, 0.09);
+    box-shadow: none;
     cursor: pointer;
     pointer-events: auto;
     transition:
@@ -1890,8 +1890,8 @@ const productDisplayPrice = (product: any) =>
 
   .hero-news-card:hover,
   .hero-news-card:focus-visible {
-    transform: translateY(-2px);
-    box-shadow: 0 26px 62px rgba(12, 32, 48, 0.12);
+    transform: none;
+    box-shadow: none;
   }
 
   .hero-news-kicker {
@@ -3058,7 +3058,9 @@ const productDisplayPrice = (product: any) =>
     display: flex;
     width: fit-content;
     min-width: 210px;
-    margin: clamp(1.8rem, 3vw, 3.2rem) auto 0;
+    margin-top: clamp(1.8rem, 3vw, 3.2rem);
+    margin-right: auto;
+    margin-left: max(calc((100vw - 1260px) / 2), calc(clamp(116px, 17vw, 340px) / 2));
     justify-content: center;
   }
 
@@ -4586,8 +4588,8 @@ const productDisplayPrice = (product: any) =>
 
   @media (max-width: 760px) {
     .hero-news-strip {
-      width: min(100% - 32px, 520px);
-      margin: -34px auto -12px;
+      width: calc(100% - 68px);
+      margin: -54px 14px -12px 0;
     }
 
     .hero-news-card {
@@ -4776,6 +4778,10 @@ const productDisplayPrice = (product: any) =>
 
     .concept-photo {
       min-height: 0;
+    }
+
+    .concept-cta-below {
+      margin-left: max(24px, calc((100vw - 980px) / 2));
     }
 
     .story-grid,
@@ -5685,12 +5691,9 @@ const productDisplayPrice = (product: any) =>
     }
 
     .hero-news-strip {
-      --hero-news-left: max(
-        clamp(42px, 2.7vw, 69px),
-        calc((100% - 1660px) / 2 + clamp(34px, 2.7vw, 54px))
-      );
-      width: min(784px, calc(100% - var(--hero-news-left) - clamp(32px, 8vw, 128px)));
-      margin-top: clamp(-43px, -2.8vw, -29px);
+      --hero-news-left: 0px;
+      width: min(784px, 100%);
+      margin-top: clamp(-70px, -4.4vw, -50px);
     }
 
     .hero-news-card {
@@ -5934,10 +5937,8 @@ const productDisplayPrice = (product: any) =>
     }
 
     .concept-cta-below {
-      justify-self: end;
       margin-top: clamp(1.8rem, 3vw, 3.2rem);
-      margin-right: clamp(4.5rem, 11vw, 13rem);
-      margin-left: auto;
+      margin-right: auto;
     }
   }
 
@@ -5988,12 +5989,12 @@ const productDisplayPrice = (product: any) =>
     }
 
     .collection-scroll-ring {
-      top: clamp(2px, 2.8vw, 24px);
-      left: clamp(104px, 29vw, 188px);
+      top: clamp(-42px, -6vw, -18px);
+      left: clamp(88px, 23vw, 158px);
       right: auto;
       z-index: 2;
-      width: clamp(134px, 32vw, 196px);
-      height: clamp(94px, 23vw, 138px);
+      width: clamp(229px, 55vw, 328px);
+      height: clamp(161px, 39vw, 231px);
       opacity: calc(0.74 + (var(--scroll-progress) * 0.1));
       transform:
         translate3d(
@@ -6003,6 +6004,10 @@ const productDisplayPrice = (product: any) =>
         )
         rotate(calc(-7deg + (7deg * var(--scroll-progress))))
         scale(calc(0.92 + (0.06 * var(--scroll-progress))));
+    }
+
+    .collection-scroll-jewel {
+      right: -112px;
     }
 
     .collection-grid {
@@ -6099,11 +6104,15 @@ const productDisplayPrice = (product: any) =>
     }
 
     .collection-scroll-ring {
-      top: 6px;
-      left: 126px;
+      top: -32px;
+      left: 92px;
       right: auto;
-      width: 150px;
-      height: 106px;
+      width: 247px;
+      height: 174px;
+    }
+
+    .collection-scroll-jewel {
+      right: -132px;
     }
 
     .brand-marquee-svg {
