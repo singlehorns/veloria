@@ -26,9 +26,19 @@
   "specifications": "",
   "images": [
     {
-      "src": "/assets/migrated/products/DSP-0094-silent-line/localized/DSP-0094-gallery-03.jpeg",
-      "alt": "靜線之約｜Silént Line",
+      "src": "/assets/migrated/products/DSP-0094-silent-line/originals/silent-line-01.jpg",
+      "alt": "靜線之約｜Silént Line 平放視角",
       "role": "main"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0094-silent-line/originals/silent-line-02.jpg",
+      "alt": "靜線之約｜Silént Line 直立視角",
+      "role": "gallery"
+    },
+    {
+      "src": "/assets/migrated/products/DSP-0094-silent-line/originals/silent-line-03.jpg",
+      "alt": "靜線之約｜Silént Line 斜側視角",
+      "role": "gallery"
     }
   ],
   "video": "",
@@ -39,8 +49,8 @@
   "inquiryText": "我想諮詢 靜線之約｜Silént Line",
   "frameworkStatus": "complete",
   "contentStatus": "complete",
-  "imageStatus": "localized-api-gallery",
-  "mediaStatus": "localized-api-gallery",
+  "imageStatus": "verified-original-gallery",
+  "mediaStatus": "verified-original-gallery",
   "routeStatus": "no-legacy-product-route",
   "overallStatus": "partial",
   "migrationStatus": "product-detail-content-migrated",

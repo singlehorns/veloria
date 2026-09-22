@@ -36,12 +36,11 @@ for (const file of fs.readdirSync(productsDir).filter((item) => item.endsWith('.
 
   const before = data.images.length;
   const decodedImages = data.images.map((image, index) => ({ image, index, decoded: decodeMediaToken(image.src) }));
-  let sameProductImages = decodedImages.filter((item) => productFolderId(item.decoded) === String(data.legacyCyberbizId));
+  // Localized files and unknown URLs have no CYBERBIZ source identity. Do not
+  // collapse them under an empty key or remove them from a mixed gallery.
+  if (decodedImages.some((item) => !productFolderId(item.decoded))) continue;
 
-  if (!sameProductImages.length) {
-    const firstProductFolder = productFolderId(decodedImages[0]?.decoded);
-    sameProductImages = decodedImages.filter((item) => productFolderId(item.decoded) === firstProductFolder);
-  }
+  const sameProductImages = decodedImages.filter((item) => productFolderId(item.decoded) === String(data.legacyCyberbizId));
 
   if (!sameProductImages.length) continue;
 
