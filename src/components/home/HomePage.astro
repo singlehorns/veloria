@@ -1096,6 +1096,26 @@ const productDisplayPrice = (product: any) =>
     object-position: center;
   }
 
+  .hero-slide.is-active img {
+    animation: hero-banner-slow-zoom 12s ease-in-out both;
+    transform-origin: center center;
+  }
+
+  @keyframes hero-banner-slow-zoom {
+    from {
+      transform: scale(1);
+    }
+    to {
+      transform: scale(1.08);
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .hero-slide.is-active img {
+      animation: none;
+    }
+  }
+
   .hero-preview {
     position: absolute;
     z-index: 2;
