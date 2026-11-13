@@ -1,5 +1,7 @@
 import { defineConfig } from 'astro/config';
+import sitemap from '@astrojs/sitemap';
 import path from 'node:path';
+import { isSitemapPage } from './scripts/sitemap-filter.mjs';
 
 const extensionlessA11yDependencyResolver = {
   name: 'extensionless-a11y-dependency-resolver',
@@ -18,8 +20,13 @@ const extensionlessA11yDependencyResolver = {
 };
 
 export default defineConfig({
-  site: 'https://www.dsdiamond.com.tw',
+  site: 'https://www.veloria.com.tw/',
   output: 'static',
+  integrations: [
+    sitemap({
+      filter: (page) => isSitemapPage(page, new URL('./dist/', import.meta.url))
+    })
+  ],
   vite: {
     optimizeDeps: {
       noDiscovery: true,

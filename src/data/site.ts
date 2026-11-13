@@ -10,7 +10,7 @@ export const site = {
   name: 'VELORIA DIAMOND SYMPHONY',
   shortName: 'VELORIA',
   description: 'VELORIA提供天然鑽石與實驗室培育鑽石首飾，包含求婚鑽戒、結婚對戒、女士鑽戒、男士鑽戒、時尚珠寶、彩色鑽石與裸鑽選品。',
-  url: 'https://www.dsdiamond.com.tw',
+  url: 'https://www.veloria.com.tw/',
   lineUrl: 'https://line.me/R/ti/p/@252flmie/',
   instagramUrl: 'https://www.instagram.com/zuanzhiyun/',
   facebookUrl: 'https://www.facebook.com/profile.php?id=61565776509572',
